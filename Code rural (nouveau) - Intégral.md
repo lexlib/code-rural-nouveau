@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1992-07-07
+Version Consolidée au 1992-07-12
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L263-10)](#2)
