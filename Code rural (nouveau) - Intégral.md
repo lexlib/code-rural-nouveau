@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1985-03-25
+Version Consolidée au 1985-12-29
 ## Contenu: 
   - [Partie législative (art. L411-1 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-1 à L481-1)](#2)
@@ -50,7 +50,7 @@ Version Consolidée au 1985-03-25
     - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. L815-1 à L815-4)](#47)
       - [Titre Ier : Enseignement et formation professionnelle agricoles (art. L815-1 à L815-4)](#48)
         - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole publics. (art. L815-1 à L815-4)](#49)
-  - [Partie réglementaire (art. R*411-1 à R*831-15)](#50)
+  - [Partie réglementaire (art. R*411-1 à R832-19)](#50)
     - [Livre IV : Baux ruraux (art. R*411-1 à R464-1)](#51)
       - [Titre Ier : Statut du fermage et du métayage (art. R*411-1 à R417-3)](#52)
         - [Chapitre Ier : Régime de droit commun (art. R*411-1 à R411-19)](#53)
@@ -179,7 +179,7 @@ Version Consolidée au 1985-03-25
           - [Section 2 : Droit de préemption des collectivités locales. (art. R*562-3)](#176)
         - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique. (art. R*563-1 à R*563-2)](#177)
         - [Chapitre IV : Avantages divers et subventions. (art. R*564-1 à R*564-3)](#178)
-    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-38 à R*831-15)](#179)
+    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-38 à R832-19)](#179)
       - [Titre Ier : Enseignement et formation professionnelle agricoles (art. R*811-38 à R*816-4)](#180)
         - [Chapitre Ier : Dispositions relatives à l'enseignement et à la formation professionnelle agricoles publics (art. R*811-38 à R*811-45)](#181)
           - [Section 3 : Dispositions relatives aux établissements publics locaux d'enseignement et de formation professionnelle agricoles (art. R*811-38 à R*811-45)](#182)
@@ -237,11 +237,17 @@ Version Consolidée au 1985-03-25
           - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#234)
           - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#235)
         - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-4)](#236)
-      - [Titre III : Recherche agronomique (art. R831-1 à R*831-15)](#237)
+      - [Titre III : Recherche agronomique (art. R831-1 à R832-19)](#237)
         - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#238)
           - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#239)
           - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#240)
           - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#241)
+        - [Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts (art. R832-1 à R832-19)](#242)
+          - [Section 1 : Dispositions générales (art. R832-1 à R832-3)](#243)
+          - [Section 2 : Administration et direction du centre. (art. R*832-4 à R832-10)](#244)
+          - [Section 3 : Organisation du centre. (art. R832-11 à R832-14)](#245)
+          - [Section 4 : Conseil scientifique et technique et commissions spécialisées (art. R832-15 à R832-16)](#246)
+          - [Section 5 : Dispositions diverses (art. R832-17 à R832-19)](#247)
 # Partie législative<a id=1></a>
 
 ## Livre IV : Baux ruraux<a id=2></a>
@@ -23861,5 +23867,716 @@ _Cite_:
 _Modifié par_:
 
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+
+
+#### Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts<a id=242></a>
+
+##### Section 1 : Dispositions générales<a id=243></a>
+
+###### Article R832-1
+
+Le centre national du machinisme agricole, du génie rural, des eaux et des forêts (Cemagref) est un établissement public
+national à caractère scientifique et technologique, placé sous la tutelle conjointe du ministre chargé de la recherche et du
+ministre chargé de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+_Cité par_:
+
+  - Arrêté du 21 mars 2014 (V)
+  - Arrêté du 24 mars 2015 - art. (Ab)
+  - Arrêté du 8 janvier 2018 - art. Annexe 2 (V)
+
+
+###### Article R832-2
+
+Le centre a pour mission de : 
+
+1. Réaliser, promouvoir et valoriser tous travaux de recherche scientifique, technologique, d'appui technique, d'essai et de
+certification dans les domaines de l'aménagement de l'espace rural et des équipements liés à sa mise en valeur comme à celle
+de ses productions, et notamment en matière de : 
+
+a) Gestion des ressources en eau, hydrobiologie, amélioration de la qualité des eaux, hydraulique agricole et aquaculture ; 
+
+b) Gestion et protection des ressources naturelles renouvelables et de l'espace rural en particulier dans les zones de
+montagne et les zones défavorisées ; 
+
+c) Protection, aménagement et gestion de la forêt ; 
+
+d) Machinisme et équipements agricoles, forestiers et aquacoles ; 
+
+e) Stockage, conditionnement et biens d'équipements pour les industries agro-alimentaires ; 
+
+f) Production et utilisation rationnelle de l'énergie dans l'agriculture et les industries agro-alimentaires ; 
+
+2. Participer à l'élaboration de références technico-économiques et à l'appui technique dans le domaine des productions
+agricoles, dans le cadre d'une convention prévue à l'article R. 832-17 ; 
+
+3. Mettre en oeuvre une politique d'information scientifique et technique à l'intention des divers milieux socio-
+professionnels ; 
+
+4. Apporter son concours à la formation à la recherche et par la recherche ; 
+
+5. Participer à la promotion des techniques françaises dans les pays étrangers. 
+
+Ces missions s'exercent en particulier au profit des administrations, des organismes qui leur sont rattachés, des
+collectivités territoriales, des organisations professionnelles et des entreprises pour les aider dans leurs prises de
+décisions économiques et techniques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+_Cite_:
+
+  - Code rural - art. R832-17 (V)
+
+
+###### Article R832-3
+
+Pour l'accomplissement de ses missions, le centre, notamment :
+
+1. Crée et gère des unités de recherche, d'appui technique ou d'essais et des services ;
+
+2. Recrute des personnels de recherche et accueille des personnels extérieurs, notamment mis à sa disposition ;
+
+3. Prend en charge des missions ou des séjours de personnels, y compris les personnels pouvant être mis à disposition, en
+tous lieux où les appellent les activités de l'organisme ;
+
+4. Favorise et encourage le développement d'activités relevant de son domaine de compétence par l'attribution de moyens dans
+le cadre de contrats ;
+
+5. Assure l'élaboration et la diffusion de la documentation scientifique et technique et la publication de tous travaux et
+études se rapportant à ses activités et ne présentant pas de caractère de confidentialité ;
+
+6. Coordonne son activité avec celle des autres organismes de recherche. A ce titre, les activités du centre touchant au
+domaine de la forêt font l'objet d'une programmation scientifique concertée avec l'institut national de la recherche
+agronomique (INRA) ;
+
+7. Peut se voir confier des missions supplémentaires qui font l'objet de conventions particulières ;
+
+8. Peut créer des filiales, prendre des participations et collaborer, notamment dans le cadre de groupements d'intérêt
+public, de laboratoires associés ou de conventions, à des actions menées en commun avec d'autres organismes ou entreprises,
+des services de l'Etat ou des collectivités locales ;
+
+9. Peut conclure et mettre en oeuvre des contrats internationaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+_Cité par_:
+
+  - Code rural - art. R832-17 (V)
+
+
+##### Section 2 : Administration et direction du centre.<a id=244></a>
+
+###### Article R*832-4
+
+Le président du conseil d'administration du centre est nommé pour trois ans par arrêté conjoint du ministre chargé de la
+recherche et du ministre chargé de l'agriculture. Ses fonctions sont renouvelables.
+
+Outre son président, le conseil d'administration comprend :
+
+1. Huit membres de droit : deux représentants nommément désignés de chacun des ministres chargés de l'agriculture et de
+l'environnement, un représentant nommément désignés de chacun des ministres chargés du budget, de l'industrie, des industries
+agro-alimentaires et de la recherche ;
+
+2. Douze personnalités qualifiées nommées pour trois ans, renouvelables une fois, par arrêté du ministre chargé de la
+recherche et du ministre chargé de l'agriculture :
+
+a) Pour trois d'entre elles en raison de leur compétence scientifique et technique dont le président du conseil scientifique
+et technique ;
+
+b) Pour cinq d'entre elles parmi les représentants des secteurs de la production agricole, aquacole et forestière, des
+industries qui leur sont liées et de l'environnement ;
+
+c) Deux personnalités représentant les organisations professionnelles et syndicales des domaines de compétence du centre ;
+
+d) Deux membres de conseils élus des collectivités territoriales ;
+
+3. Trois représentants des personnels du centre, élus pour une durée de trois ans, renouvelable une fois.
+
+Les modalités d'élection sont fixées par arrêté conjoint du ministre chargé de la recherche et du ministre chargé de
+l'agriculture.
+
+Le directeur général, le secrétaire général, le directeur scientifique, le contrôleur financier et l'agent comptable
+assistent aux séances du conseil avec voix consultative.
+
+Le président peut également appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence
+utile.
+
+Les administrateurs décédés, démissionnaires ou qui n'exercent plus les fonctions au titre desquelles ils avaient été nommés
+ou élus doivent être remplacés. Dans ce cas le mandat des nouveaux membres expire à la date à laquelle aurait normalement
+pris fin celui de leur prédécesseur.
+
+Les fonctions de membre du conseil d'administration sont gratuites.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+
+###### Article R*832-6
+
+Le conseil d'administration délibère notamment sur :
+
+1. Les orientations, les programmes généraux et les mesures générales relatives à l'organisation et au fonctionnement du
+centre ;
+
+2. Le budget et ses modifications, le compte financier ;
+
+3. Le rapport annuel d'activité ;
+
+4. Les emprunts ;
+
+5. Les acquisitions, aliénations, échanges, locations, baux, constructions et grosses réparations d'immeubles ;
+
+6. Les contrats et marchés ;
+
+7. Les redevances et rémunérations de toute nature perçues par le centre ;
+
+8. Les dons et legs ;
+
+9. La création de filiales, les prises, cessions ou extensions de participations financières ;
+
+10. La participation du centre à des groupements d'intérêt public ;
+
+11. Les orientations générales en matière d'action sociale et de formation ;
+
+12. Les actions en justice, les transactions ainsi que le recours à l'arbitrage en cas de litiges nés de l'exécution de
+contrats de recherche passés avec des organismes étrangers.
+
+Le conseil d'administration se prononce en outre sur les questions qui lui sont soumises par son président, ou l'un des
+ministres représentés au conseil d'administration.
+
+En ce qui concerne les matières énumérées aux 5, 6, 7 et 12 ci-dessus, le conseil peut déléguer une partie de ses pouvoirs au
+directeur général. Celui-ci lui rend compte lors de sa plus prochaine séance des décisions qu'il a prises en vertu de cette
+délégation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+_Cité par_:
+
+  - Code rural - art. R832-15 (V)
+  - Code rural et de la pêche maritime - art. R832-7 (V)
+
+
+###### Article R*832-7
+
+Les délibérations du conseil d'administration sont exécutoires quinze jours après la réception du procès-verbal par le
+ministre chargé de la recherche et par le ministre chargé de l'agriculture à moins que ceux-ci n'y fassent opposition. En cas
+d'urgence, le ministre chargé de la recherche et le ministre chargé de l'agriculture peuvent conjointement autoriser
+l'exécution immédiate.
+
+Toutefois les délibérations portant sur le budget et ses modifications et le compte financier, les emprunts, les
+acquisitions, échanges et aliénations d'immeubles sont exécutoires, sauf opposition du ministre chargé de la recherche, du
+ministre chargé de l'agriculture ou du ministre chargé du budget, dans un délai d'un mois à compter de la réception du
+procès-verbal par chacun de ces ministres.
+
+Les délibérations portant sur les matières énumérées aux 9 et 10 de l'article R. 832-6 ci-dessus ainsi que les conventions
+d'une durée de cinq ans au moins, ne sont exécutoires qu'après approbation par arrêté conjoint du ministre chargé de la
+recherche, du ministre chargé de l'agriculture et du ministre chargé du budget, ainsi que, pour le 9, du ministre chargé des
+finances.
+
+Parmi les décisions modificatives du budget, sont seules soumises au conseil d'administration et à l'approbation des
+autorités de tutelle celles qui comportent soit une augmentation du montant total des dépenses inscrites au budget de
+l'établissement, soit des virements entre sections ou entre parties de section, soit des virements entre, d'une part, des
+crédits affectés aux gros équipements ou aux opérations immobilières et, d'autre part, des crédits affectés à des actions ou
+programmes financés par l'établissement.
+
+Toutes les autres décisions modificatives du budget sont prises par le directeur général en accord avec le contrôleur
+financier et portées à la connaissance du conseil d'administration lors de sa plus prochaine séance.
+
+La procédure prévue à l'alinéa précédent est applicable aux virements de crédits provenant de la réserve générale lorsque le
+montant des crédits ainsi virés n'excède pas, au cours d'un exercice budgétaire, 10 p. 100 de la dotation initiale de la
+partie de la deuxième ou troisième section bénéficiant du virement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R832-6
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. R832-6 (V)
+
+
+###### Article R*832-9
+
+Le directeur général assure la direction scientifique, technique, administrative et financière du centre.
+
+Responsable de la politique scientifique et technique du centre, il élabore les projets de programmes généraux de recherche,
+d'appui technique et d'essais avec le concours du conseil scientifique et technique.
+
+Il assiste le président dans la préparation des délibérations du conseil d'administration et assure leur exécution.
+
+Il est ordonnateur principal du budget du centre.
+
+Il gère le personnel du centre et nomme aux emplois dans le cadre des dispositions réglementaires.
+
+Il représente le centre en justice et dans tous les actes de la vie civile.
+
+Il peut déléguer sa signature.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+
+###### Article R832-5
+
+Le conseil d'administration se réunit au moins trois fois par an sur convocation de son président qui en fixe l'ordre du
+jour, après avis du directeur général.
+
+Il doit être convoqué à la demande de la majorité de ses membres ou de l'un des ministres représentés au conseil
+d'administration, ou à celle du directeur général du centre.
+
+Les délibérations du conseil d'administration ne sont valables que si la moitié au moins de ses membres est présente. Si ce
+quorum n'est pas atteint le conseil est à nouveau convoqué avec le même ordre du jour dans un délai maximum de trois
+semaines ; il délibère alors sans condition de quorum.
+
+Les délibérations du conseil d'administration sont prises à la majorité des membres présents ; en cas de partage des voix,
+celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+
+###### Article R832-8
+
+Le directeur général du centre, choisi parmi les personnalités du monde scientifique et technique, est nommé par décret pour
+trois ans, sur proposition du ministre chargé de la recherche et du ministre chargé de l'agriculture. Ses fonctions sont
+renouvelables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+_Abrogé par_:
+
+  - Décret n°2012-209 du 13 février 2012 - art. 12
+
+
+###### Article R832-10
+
+Le directeur général est assisté :
+
+a) D'un secrétaire général, pour la gestion administrative et financière du centre ;
+
+b) D'un ou plusieurs directeurs scientifiques ;
+
+c) De chefs de départements ;
+
+d) De directeurs de groupements.
+
+Le secrétaire général et le ou les directeurs scientifiques sont nommés par arrêté conjoint des ministres chargés de
+l'agriculture et de la recherche sur proposition du directeur général et après avis, en ce qui concerne les directeurs
+scientifiques, du conseil scientifique et technique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+
+##### Section 3 : Organisation du centre.<a id=245></a>
+
+###### Article R832-11
+
+Les divisions chargées des missions de recherche, d'appui technique et d'essais incombant au centre sont organisées en unités
+de recherche. Elles sont créées, modifiées ou supprimées par décision du directeur général après avis du conseil scientifique
+et technique.
+
+Les divisions relèvent, au plan scientifique et technique de départements et sont organisées, pour leur gestion
+administrative en groupements géographiques.
+
+Les divisions peuvent recevoir, sous forme de dotations globales, les crédits qui leur sont alloués au titre du
+fonctionnement, des missions, du petit et moyen équipement.
+
+Les chefs de divisions du centre sont nommés par décision du directeur général après avis du conseil scientifique et
+technique. La durée de leur mandat est au maximum de quatre ans, renouvelable deux fois en qualité de responsable de la même
+division.
+
+En outre, des unités de recherche relevant d'organismes extérieurs peuvent être associées au centre en vertu de conventions
+prévoyant l'affectation de personnels de recherche ainsi que l'attribution de moyens.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+
+###### Article R832-12
+
+Le directeur général peut créer des services spécialisés pour remplir des fonctions relevant des activités du centre ou des
+groupements. Les services sont rattachés soit à la direction générale soit à un groupement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+
+###### Article R832-13
+
+Les départements sont créés, modifiés ou supprimés par le directeur général après avis du conseil scientifique et technique
+et accord du conseil d'administration.
+
+Le directeur général précise leurs modalités de fonctionnement et nomme les chefs de départements après avis du conseil
+scientifique et technique. La durée de leur mandat est au maximum de quatre ans, renouvelable deux fois.
+
+Le chef de département est responsable sous l'autorité du directeur général, de l'élaboration, de l'animation et de la mise
+en oeuvre des programmes scientifiques et techniques de son département. Il peut proposer au directeur général toute
+création, modification ou suppression de divisions ou de services au sein de son département.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. R832-6 (V)
+
+
+###### Article R832-14
+
+Les groupements sont constitués par les divisions et les services d'une même unité géographique. Les groupements sont créés
+ou supprimés par décision du directeur général après accord du conseil d'administration. Les directeurs de groupements,
+nommés au maximum pour quatre ans renouvelables deux fois, assurent sous l'autorité du directeur général l'administration des
+groupements et sont les correspondants du centre avec les autorités et organisations régionales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. R832-6 (V)
+
+
+##### Section 4 : Conseil scientifique et technique et commissions spécialisées<a id=246></a>
+
+###### Article R832-15
+
+Le conseil scientifique et technique est l'instance de réflexion et de proposition du centre en matière de politique
+scientifique et technologique.
+
+Il donne son avis au directeur général sur les grandes orientations de la politique scientifique et technologique du centre,
+sur les programmes de recherche scientifique et technologique et sur les actions de valorisation, d'information et de
+formation. Il donne également son avis sur la création, la suppression ou la modification des départements et des divisions
+et sur les principes communs d'évaluation des travaux des divisions et des personnels du centre, ainsi que sur toute question
+qui lui est soumise par le directeur général.
+
+Le conseil scientifique et technique comprend, d'une part, des personnalités scientifiques et techniques extérieures au
+centre, éventuellement étrangères, appartenant à la communauté scientifique et aux secteurs économiques et sociaux concernés,
+d'autre part, des représentants élus du personnel.
+
+Il se réunit au moins deux fois par an sur convocation de son président ou à la demande écrite et motivée des deux tiers de
+ses membres. Le président fixe l'ordre du jour. Le mandat de ses membres est d'une durée de quatre ans, renouvelable deux
+fois.
+
+Un arrêté du ministre chargé de la recherche, du ministre chargé de l'agriculture et du ministre chargé de l'environnement
+fixe la composition et les modalités de désignation des membres du conseil scientifique et technique et de son président.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+_Cité par_:
+
+  - Arrêté du 12 juin 2012 - art. 4 (V)
+  - Arrêté du 12 juin 2012 - art. 6 (V)
+
+
+###### Article R832-16
+
+Des commissions spécialisées peuvent être créées par le directeur général après avis du conseil scientifique et technique et
+accord du conseil d'administration ; elles sont chargées, dans certains secteurs d'activité du centre :
+
+a) De proposer les orientations de la politique scientifique et technologique ;
+
+b) De donner un avis sur la programmation des activités du centre et les actions de valorisation, d'information et de
+formation ;
+
+c) De procéder à l'évaluation des programmes et des travaux menés par le centre et des résultats obtenus.
+
+Les membres des commissions spécialisées sont nommés par le directeur général après avis du conseil scientifique et technique
+et accord du conseil d'administration. Ces commissions comprennent des responsables scientifiques et techniques du centre,
+des personnalités scientifiques et techniques de la communauté scientifique et des secteurs économiques et sociaux concernés,
+extérieurs à l'établissement, et des représentants élus du personnel au conseil scientifique et technique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+_Cité par_:
+
+  - Arrêté du 12 juin 2012 - art. 2 (V)
+  - Code rural et de la pêche maritime - art. R832-6 (V)
+
+
+##### Section 5 : Dispositions diverses<a id=247></a>
+
+###### Article R832-17
+
+Les ressources du centre comprennent notamment des subventions de l'Etat et des ressources provenant des accords qu'il
+conclut avec des organismes publics ou privés, nationaux, étrangers ou internationaux. 
+
+Ces subventions proviennent en particulier du budget de l'Etat en distinguant celles destinées, d'une part, au financement
+des missions spécifiques aux établissements publics à caractère scientifique et technologique, d'autre part, au financement
+des essais, des certifications et d'activités d'appui technique ou de missions supplémentaires confiées au centre par
+conventions particulières conformément à l'alinéa 7 de l'article R. 832-3 ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+_Cite_:
+
+  - Code rural - art. R832-3 (V)
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. R832-2 (M)
+
+
+###### Article R832-18
+
+L'agent comptable du centre est nommé par arrêté conjoint du ministre chargé de la recherche, du ministre chargé de
+l'agriculture et du ministre chargé du budget. Des comptables secondaires peuvent être désignés par le directeur général
+aprés avis de l'agent comptable principal et avec l'agrément du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+
+###### Article R832-19
+
+Le centre est soumis au contrôle financier de l'Etat dans les conditions prévues par le décret du 25 octobre 1983 susvisé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-38 du 21 janvier 1981 - art. 2 (Ab) JORF 22 janvier 1981 en vigueur le 1er janvier 1981
+  - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
+
+_Cite_:
+
+  - Décret n°83-952 1983-10-25
 
 
