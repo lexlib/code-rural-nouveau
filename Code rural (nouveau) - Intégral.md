@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1986-10-19
+Version Consolidée au 1986-12-31
 ## Contenu: 
   - [Partie législative (art. L411-1 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-1 à L481-1)](#2)
@@ -161,7 +161,7 @@ Version Consolidée au 1986-10-19
         - [Chapitre V : Dispositions pénales. (art. R*535-1)](#158)
       - [Titre IV : Sociétés mixtes d'intérêt agricole. (art. R541-1)](#159)
       - [Titre V : Groupements de producteurs et comités économiques agricoles (art. R*551-1 à R*556-5)](#160)
-        - [Chapitre Ier : Groupements de producteurs. (art. R*551-1 à R*551-11)](#161)
+        - [Chapitre Ier : Groupements de producteurs. (art. R*551-1 à R*551-12)](#161)
         - [Chapitre II : Comités économiques agricoles. (art. R*552-1 à R*552-15)](#162)
         - [Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles (art. R*553-1 à R*553-17)](#163)
           - [Section 1 : Droits d'inscription et cotisations. (art. R*553-1 à R*553-9)](#164)
@@ -17771,6 +17771,39 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
+###### Article R*551-4
+
+L'autorité administrative mentionnée à l'article L. 551-1 est le ministre de l'agriculture.
+
+Après avis du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire mentionné aux articles
+L. 551-2 et L. 552-2, le ministre de l'agriculture se prononce sur la demande de reconnaissance. La reconnaissance vaut
+approbation des règles prévues à l'article L. 551-1 portées à la connaissance du ministre en application du 4° de l'article
+R. 551-2. Le ministre peut exclure de l'approbation certaines règles que le groupement prend l'engagement d'abroger ou de
+modifier dans un délai déterminé.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L551-1, L551-2, L552-2, R551-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
+
+_Nouveaux textes_:
+
+  - Code rural et de la pêche maritime - art. D551-4, v. 0.1 (M)
+
+
 ###### Article R*551-5
 
 L'arrêté de reconnaissance d'un groupement de producteurs agricoles est publié au Journal officiel, dans les recueils des
@@ -17862,6 +17895,34 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
+###### Article R*551-9
+
+Un groupement de producteurs reconnu ne peut édicter de nouvelles règles ou modifier des règles déjà approuvées qu'avec
+l'approbation explicite du ministre de l'agriculture après avis du conseil supérieur d'orientation et de coordination de
+l'économie agricole et alimentaire. La demande d'approbation est transmise par l'intermédiaire du préfet. Elle doit être
+présentée au plus tard six semaines avant la date prévue pour l'application de ces règles. Toutefois le ministre peut
+exceptionnellement, sur la demande du groupement, autoriser l'application de celles-ci aussitôt après la publication au siège
+de la chambre d'agriculture du texte approuvé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
+
+_Nouveaux textes_:
+
+  - Code rural et de la pêche maritime - art. D551-9, v. 0.1 (M)
+
+
 ###### Article R*551-10
 
 Conformément à leurs statuts, les groupements de producteurs organisent, dans les limites du secteur de produits pour lequel
@@ -17915,6 +17976,35 @@ _Créé par_:
 _Nouveaux textes_:
 
   - Code rural et de la pêche maritime - art. D551-11, v. 0.1 (M)
+
+
+###### Article R*551-12
+
+Le ministre de l'agriculture peut, à toute époque, après avoir recueilli les observations du groupement et pris l'avis du
+conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire, retirer son approbation à des
+règles en vigueur antérieurement approuvées. Il fixe la date de l'effet du retrait de l'approbation. Le groupement, s'il
+entend maintenir néanmoins ces règles, perd la qualité de groupement reconnu.
+
+L'arrêté par lequel l'approbation est retirée ainsi que, le cas échéant, la décision que le groupement pourrait prendre de
+maintenir néanmoins ces règles font l'objet des mesures de publicité prévues à l'article R. 551-5.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R551-5
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
 
 
 #### Chapitre II : Comités économiques agricoles.<a id=162></a>
@@ -18032,6 +18122,30 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
+###### Article R*552-4
+
+Après avis du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire, le ministre de
+l'agriculture, en application de l'article L. 552-2, se prononce sur la demande de l'agrément.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L552-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
+
+
 ###### Article R*552-5
 
 L'arrêté d'agrément d'un comité économique agricole est publié au Journal officiel, dans les recueils des actes
@@ -18106,6 +18220,32 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
+###### Article R*552-8
+
+La circonscription d'un comité économique agricole agréé ne peut être modifiée qu'avec l'approbation du ministre de
+l'agriculture qui se prononce après instruction de la demande par le préfet et avis du conseil supérieur d'orientation et de
+coordination de l'économie agricole et alimentaire. L'arrêté du ministre est publié conformément aux dispositions de
+l'article R. 552-5.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R552-5
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
+
+
 ###### Article R*552-9
 
 Les règles prévues à l'article L. 552-1 ne peuvent être édictées que par un vote de l'assemblée générale acquis à la majorité
@@ -18128,6 +18268,47 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+
+###### Article R*552-10
+
+Un comité économique agricole agréé ne peut édicter de nouvelles règles ou modifier des règles déjà approuvées qu'avec
+l'approbation explicite du ministre de l'agriculture, après avis du conseil supérieur d'orientation et de coordination de
+l'économie agricole et alimentaire.
+
+La demande d'approbation est transmise par l'intermédiaire du préfet. Elle doit avoir été présentée au plus tard six semaines
+avant la date prévue pour l'application de ces règles. Toutefois, le ministre peut exceptionnellement, sur la demande du
+comité, autoriser l'application de celles-ci aussitôt après la publication au siège de la chambre d'agriculture du texte
+approuvé.
+
+Exceptionnellement, le ministre de l'agriculture peut décider, sur proposition du conseil supérieur mentionné ci-dessus, que
+certaines dispositions des règles pourront être modifiées avec la seule autorisation du délégué prévu à l'article ci-dessous.
+
+L'agrément d'un comité vaut approbation des règles prévues à l'article L. 552-1 portées à la connaissance du ministre, en
+application du 8° de l'article R. 552-2. Le ministre peut exclure de l'approbation certaines règles que le comité prend
+l'engagement d'abroger ou de modifier dans un délai déterminé.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L552-1, R552-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
+
+_Cité par_:
+
+  - Code rural - art. D552-18 (VT)
 
 
 ###### Article R*552-11
@@ -18173,6 +18354,63 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
+###### Article R*552-13
+
+Le ministre de l'agriculture prononce, par arrêté motivé pris par application du deuxième alinéa de l'article L. 552-2, le
+retrait ou la suspension de l'agrément, après avoir mis à même le comité de présenter ses observations et après avis du
+conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire.
+
+Le retrait et la suspension font l'objet des mesures de publicité prévues à l'article R. 552-5 ; ils n'entraînent pas la
+caducité des règles édictées par le comité.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L552-2, R552-5
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
+
+
+###### Article R*552-14
+
+Le ministre de l'agriculture peut à toute époque, après avoir recueilli les observations du comité et pris l'avis du conseil
+supérieur d'orientation et de coordination de l'économie agricole et alimentaire, retirer son approbation à des règles en
+vigueur antérieurement approuvées. Il fixe la date d'effet du retrait de l'approbation. Le comité, s'il entend néanmoins
+maintenir ces règles, perd la qualité de comité agréé.
+
+L'arrêté par lequel l'approbation est retirée ainsi que, le cas échéant, la décision par laquelle le comité maintient en
+vigueur ces règles font l'objet de mesures de publicité prévues à l'article R. 552-5.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R552-5
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
+
+
 ###### Article R*552-15
 
 Les comités économiques agricoles peuvent se grouper pour un même secteur de produits en une fédération.
@@ -18214,6 +18452,42 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+
+###### Article R*553-2
+
+Les groupements de producteurs reconnus sont habilités à percevoir auprès de chacun de leurs membres un droit d'inscription
+dont le montant est fixé uniformément par producteur et des cotisations assises sur la valeur de la production commercialisée
+au titre de laquelle ils ont été reconnus.
+
+Le montant des droits d'inscription et le taux des cotisations ne peut excéder les maximums fixés par décision du ministre de
+l'agriculture, après avis du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire.
+
+Les valeurs servant d'assiette aux cotisations peuvent être déterminées forfaitairement compte tenu des cours relevés sur le
+marché.
+
+Les producteurs qui effectuent tout ou partie de leurs ventes sans recourir à l'intermédiaire des groupements et sans que la
+responsabilité de ceux-ci soit engagée sont, en vue de l'établissement des cotisations, tenus de déclarer, dans les
+conditions fixées par les règles édictées en application des articles L. 551-1 ou L. 552-1, la quantité et, le cas échéant,
+la qualité des produits ainsi commercialisés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
+
+_Cite_:
+
+  - Code rural L551-1, L552-1
 
 
 ###### Article R*553-3
