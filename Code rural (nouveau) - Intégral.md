@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1991-09-24
+Version Consolidée au 1992-01-04
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L263-10)](#2)
@@ -7299,7 +7299,11 @@ A l'exception des articles L. 232-2, L. 232-10, L. 232-11 et L. 232-12, les disp
 applicables aux piscicultures régulièrement installées et équipées de dispositifs permanents empêchant la libre circulation
 du poisson entre ces exploitations et les eaux avec lesquelles elles communiquent. On entend par pisciculture les
 exploitations d'élevage de poissons destinés à la consommation ou au repeuplement ou à des fins scientifiques ou
-expérimentales.
+expérimentales ou de valorisation touristique. Dans ce dernier cas et lorsqu'elles concernent des plans d'eau, les
+autorisations et concessions stipulent que la capture du poisson à l'aide de lignes dans ces plans d'eau est permise. Toute
+personne qui capture le poisson à l'aide de lignes dans ces plans d'eau doit avoir acquitté la taxe visée à l'article L.
+236-1, à moins d'en être exonérée dans les conditions fixées à l'article L. 236-2, d'être la personne physique propriétaire
+du plan d'eau ou de pratiquer ces captures dans des plans d'eau d'une surface inférieure à 10 000 mètres carrés.
 
 Peuvent seuls créer des piscicultures ceux qui disposent d'un plan d'eau établi en application des 1° et 2° de l'article L.
 231-7, ou qui ont obtenu, en application du présent article, soit une concession lorsque le droit de pêche appartient à
@@ -7312,28 +7316,15 @@ maximale de trente ans ; elles peuvent être renouvelées.
 
 Les formes et conditions des concessions et autorisations sont fixées par décret en Conseil d'Etat.
 
+Les enclos piscicoles créés sans autorisation avant le 1er janvier 1986 feront l'objet, à la demande de leur propriétaire,
+d'une procédure de régularisation par l'administration, dans des conditions fixées par décret. Les propriétaires devront
+déposer leur demande avant le 1er janvier 1994.
+
 Ceux qui auront créé des piscicultures sans concession ou sans autorisation seront punis d'une amende de 1 000 F à 15 000 F
 et condamnés à remettre les lieux en état, sous astreinte définie à l'article L. 238-7, sans préjudice de l'application des
 dispositions du présent titre.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code rural 432
-  - Code rural L931-6
-
-_Cite_:
-
-  - Code rural L231-7, L232-2, L232-10, L232-11, L232-12, L238-7
-
-_Créé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Codifié par_:
-
-  - Loi n°92-1283 1992-12-11
 
 _Cité par_:
 
@@ -7343,6 +7334,23 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code de l'environnement - art. L431-6 (M)
+
+_Anciens textes_:
+
+  - Code rural 432
+  - Code rural L931-6
+
+_Cite_:
+
+  - Code rural L232-2, L232-10, L232-11, L232-12, L236-1, L236-2, L231-7, L238-7
+
+_Modifié par_:
+
+  - Loi n°92-3 du 3 janvier 1992 - art. 41 () JORF 4 janvier 1992
+
+_Codifié par_:
+
+  - Loi n°92-1283 1992-12-11
 
 
 ###### Article L231-7
