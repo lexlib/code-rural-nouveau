@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1996-04-05
+Version Consolidée au 1996-04-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -621,584 +621,582 @@ Version Consolidée au 1996-04-05
             - [Sous-section 1 : Dispositions propres aux établissements fonctionnant sans autorisation ou déclaration. (art. R*213-44 à R*213-46)](#618)
             - [Sous-section 2 : Dispositions propres aux établissements fonctionnant en infraction aux dispositions qui leur sont imposées. (art. R*213-47 à R*213-48)](#619)
             - [Sous-section 3 : Dispositions communes. (art. R*213-49 à R*213-50)](#620)
-        - [Chapitre IV : Dispositions diverses relatives à la conservation de la flore (art. R214-4 à R214-14)](#621)
-          - [Section 1 : Conservatoires botaniques nationaux. (art. R214-4 à R214-14)](#622)
-        - [Chapitre V : Dispositions pénales (art. R*215-1 à R*215-3)](#623)
-          - [Section 1 : Peines (art. R*215-1 à R*215-3)](#624)
-            - [Sous-section 1 : Préservation du patrimoine biologique. (art. R*215-1 à R*215-2)](#625)
-            - [Sous-section 2 : Activités soumises à autorisation. (art. R*215-3)](#626)
-      - [Titre II : Chasse (art. R*221-1 à R*229-21)](#627)
-        - [Chapitre Ier : Organisation de la chasse (art. R*221-1 à R*221-39)](#628)
-          - [Section 1 : Conseil national de la chasse et de la faune sauvage. (art. R*221-1 à R*221-7)](#629)
-          - [Section 2 : Office national de la chasse (art. R*221-8 à R*221-23)](#630)
-            - [Sous-section 1 : Dispositions générales. (art. R*221-8 à R*221-9)](#631)
-            - [Sous-section 2 : Administration générale (art. R*221-10 à R*221-17)](#632)
-              - [Paragraphe 1 : Conseil d'administration. (art. R*221-10 à R*221-15)](#633)
-              - [Paragraphe 2 : Directeur. (art. R*221-16)](#634)
-              - [Paragraphe 3 : Personnels. (art. R*221-17)](#635)
-            - [Sous-section 3 : Dispositions financières. (art. R*221-18 à R*221-21)](#636)
-            - [Sous-section 4 : Contrôle. (art. R*221-22 à R*221-23)](#637)
-          - [Section 3 : Régions cynégétiques. (art. R*221-24 à R*221-26)](#638)
-          - [Section 4 : Conseil départemental de la chasse et de la faune sauvage. (art. R*221-27 à R*221-31)](#639)
-          - [Section 5 : Fédérations des chasseurs (art. R*221-32 à R*221-35)](#640)
-            - [Sous-section 1 : Dispositions générales. (art. R*221-32 à R*221-35)](#641)
-          - [Section 6 : Dispositions diverses. (art. R*221-39)](#642)
-        - [Chapitre II : Territoire de chasse (art. R*222-1 à R*222-97)](#643)
-          - [Section 1 : Associations communales et intercommunales de chasse agréées. (art. R*222-1 à R*222-81)](#644)
-            - [Sous-section 1 : Institution des associations communales de chasse agréées (art. R*222-5 à R*222-16)](#645)
-              - [Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées. (art. R*222-5 à R*222-11)](#646)
-              - [Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées dans certaines communes. (art. R*222-12 à R*222-16)](#647)
-            - [Sous-section 2 : Modalités de constitution de l'association communale de chasse agréée (art. R*222-17 à R*222-41)](#648)
-              - [Paragraphe 1 : Enquête. (art. R*222-17 à R*222-32)](#649)
-              - [Paragraphe 2 : Assemblée constitutive et agrément de l'association communale de chasse agréée. (art. R*222-33 à R*222-41)](#650)
-            - [Sous-section 3 : Territoire (art. R*222-42 à R*222-61)](#651)
-              - [Paragraphe 2 : Terrains faisant l'objet d'une opposition. (art. R*222-42 à R*222-46)](#652)
-              - [Paragraphe 3 : Apports. (art. R*222-47 à R*222-50)](#653)
-              - [Paragraphe 4 : Indemnisation des apports. (art. R*222-51 à R*222-53)](#654)
-              - [Paragraphe 5 : Modification du territoire de l'association. (art. R*222-54 à R*222-58)](#655)
-              - [Paragraphe 6 : Enclaves. (art. R*222-59 à R*222-61)](#656)
-            - [Sous-section 4 : Dispositions obligatoires des statuts des associations communales de chasse agréées. (art. R*222-62 à R*222-64)](#657)
-            - [Sous-section 5 : Réserves et garderie. (art. R*222-65 à R*222-69)](#658)
-            - [Sous-section 6 : Association intercommunale de chasse agréée. (art. R*222-70 à R*222-79)](#659)
-              - [Paragraphe 1 : Constitution des associations intercommunales de chasse agréées. (art. R*222-71 à R*222-74)](#660)
-              - [Paragraphe 2 : Dispositions obligatoires. (art. R*222-75 à R*222-78)](#661)
-              - [Paragraphe 3 : Réserves et garderie. (art. R*222-79)](#662)
-            - [Sous-section 7 : Dispositions diverses. (art. R*222-80 à R*222-81)](#663)
-          - [Section 2 : Réserves de chasse et de faune sauvage (art. R*222-82 à R*222-92)](#664)
-            - [Sous-section 1 : Institution des réserves de chasse et de faune sauvage. (art. R*222-82 à R*222-85)](#665)
-            - [Sous-section 2 : Fonctionnement des réserves de chasse et de faune sauvage. (art. R*222-86 à R*222-91)](#666)
-            - [Sous-section 3 : Réserves nationales. (art. R*222-92)](#667)
-          - [Section 3 : Chasse maritime. (art. R*222-93)](#668)
-          - [Section 4 : Exploitation de la chasse sur le domaine de l'Etat (art. R*222-94 à R*222-97)](#669)
-            - [Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat. (art. R*222-94)](#670)
-            - [Sous-section 2 : Exploitation de la chasse sur le domaine public fluvial. (art. R*222-95 à R*222-96)](#671)
-            - [Sous-section 3 : Exploitation de la chasse sur le domaine public maritime. (art. R*222-97)](#672)
-        - [Chapitre III : Permis de chasser. (art. R*223-2 à R*223-36)](#673)
-          - [Section 1 : Examen pour la délivrance du permis de chasser. (art. R*223-2 à R*223-8)](#674)
-          - [Section 2 : Délivrance, visa et validation du permis de chasser (art. R*223-9 à R*223-32)](#675)
-            - [Sous-section 1 : Délivrance. (art. R*223-9 à R*223-11)](#676)
-            - [Sous-section 2 : Visa. (art. R*223-12 à R*223-22)](#677)
-            - [Sous-section 3 : Validation. (art. R*223-23 à R*223-26)](#678)
-            - [Sous-section 4 : Dispositions propres à la région parisienne. (art. R*223-27 à R*223-29)](#679)
-            - [Sous-section 6 : Licences. (art. R*223-30 à R*223-31)](#680)
-            - [Sous-section 7 : Refus et exclusions. (art. R*223-32)](#681)
-          - [Section 3 : Redevances cynégétiques. (art. R*223-33 à R*223-35)](#682)
-          - [Section 4 : Dispositions diverses et d'application. (art. R*223-36)](#683)
-        - [Chapitre IV : Exercice de la chasse (art. R*224-1 à R*224-17)](#684)
-          - [Section 2 : Temps de chasse (art. R*224-1 à R*224-9)](#685)
-            - [Sous-section 1 : Chasse à courre, à cor et à cri. (art. R*224-1 à R*224-2)](#686)
-            - [Sous-section 2 : Chasse à tir et chasse au vol. (art. R*224-3 à R*224-6)](#687)
-            - [Sous-section 3 : Dispositions communes. (art. R*224-7 à R*224-9)](#688)
-          - [Section 3 : Modes et moyens de chasse. (art. R*224-10 à R*224-12)](#689)
-          - [Section 4 : Commercialisation et transport du gibier (art. R*224-13 à R224-16)](#690)
-            - [Sous-section 1 : Interdiction permanente. (art. R*224-13 à R224-16)](#691)
-          - [Section 5 : Dispositions spéciales à la chasse maritime. (art. R*224-17)](#692)
-        - [Chapitre V : Plan de chasse. (art. R*225-1 à R*225-14)](#693)
-        - [Chapitre VI : Indemnisation des dégâts de gibier (art. R*226-1 à R*226-29)](#694)
-          - [Section 1 : Indemnisation par l'Office national de la chasse des dégâts causés par les sangliers et les grands gibiers (art. R*226-1 à R*226-19)](#695)
-            - [Sous-section 1 : Compte d'indemnisation. (art. R*226-1 à R226-2)](#696)
-            - [Sous-section 2 : Conditions d'attribution de l'indemnisation pour dégâts de gibier (art. R*226-6 à R*226-19)](#697)
-              - [Paragraphe 1 : Commission nationale d'indemnisation. (art. R*226-6 à R*226-7)](#698)
-              - [Paragraphe 2 : Commission départementale d'indemnisation. (art. R*226-8 à R*226-11)](#699)
-              - [Paragraphe 3 : Demandes individuelles d'indemnisation. (art. R*226-12 à R*226-19)](#700)
-          - [Section 2 : Dispositions relatives à l'indemnisation judiciaire des dégâts causés aux récoltes. (art. R*226-20 à R*226-29)](#701)
-        - [Chapitre VII : Destruction des animaux nuisibles et louveterie (art. R*227-1 à R*227-26)](#702)
-          - [Section 1 : Mesures administratives (art. R*227-1 à R*227-4)](#703)
-            - [Sous-section 1 : Louveterie. (art. R*227-1 à R*227-3)](#704)
-            - [Sous-section 3 : Sécurité aérienne. (art. R*227-4)](#705)
-          - [Section 2 : Droits des particuliers (art. R*227-5 à R*227-26)](#706)
-            - [Sous-section 1 : Classement des animaux nuisibles. (art. R*227-5 à R*227-6)](#707)
-            - [Sous-section 2 : Exercice du droit de destruction. (art. R*227-7)](#708)
-            - [Sous-section 3 : Modalités de destruction. (art. R*227-8 à R*227-23)](#709)
-              - [Paragraphe 1 : Toxiques. (art. R*227-9)](#710)
-              - [Paragraphe 2 : Déterrage. (art. R*227-10 à R*227-11)](#711)
-              - [Paragraphe 3 : Piégeage. (art. R*227-12 à R*227-15)](#712)
-              - [Paragraphe 4 : Tir. (art. R*227-16 à R*227-22)](#713)
-              - [Paragraphe 5 : Utilisation des oiseaux de chasse au vol. (art. R*227-23)](#714)
-            - [Sous-section 4 : Transport, lâcher. (art. R*227-24 à R*227-26)](#715)
-        - [Chapitre VIII : Dispositions pénales (art. R*228-1 à R*228-20)](#716)
-          - [Section 1 : Peines (art. R*228-1 à R*228-17)](#717)
-            - [Sous-section 1 : Territoire. (art. R*228-1 à R*228-2)](#718)
-            - [Sous-section 2 : Permis de chasser. (art. R*228-3 à R*228-4)](#719)
-            - [Sous-section 3 : Exercice de la chasse (art. R*228-5 à R*228-14)](#720)
-              - [Paragraphe 1 : Protection du gibier. (art. R*228-5 à R*228-6)](#721)
-              - [Paragraphe 2 : Temps de chasse. (art. R*228-7)](#722)
-              - [Paragraphe 3 : Modes et moyens. (art. R*228-8)](#723)
-              - [Paragraphe 4 : Transport et commercialisation du gibier. (art. R*228-9 à R*228-14)](#724)
-            - [Sous-section 4 : Plan de chasse. (art. R*228-15 à R*228-16)](#725)
-            - [Sous-section 5 : Destruction des animaux nuisibles et louveterie. (art. R*228-17)](#726)
-          - [Section 2 : Circonstances aggravantes et récidive. (art. R*228-18 à R228-19)](#727)
-          - [Section 4 : Constatation et poursuites (art. R*228-20)](#728)
-            - [Sous-section 1 : Constatation des infractions. (art. R*228-20)](#729)
-        - [Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. R*229-1 à R*229-21)](#730)
-          - [Section 2 : Exercice de la chasse (art. R*229-2 à R*229-6)](#731)
-            - [Sous-section 1 : Temps de chasse. (art. R*229-2 à R*229-5)](#732)
-            - [Sous-section 2 : Modes et moyens de chasse. (art. R*229-6)](#733)
-          - [Section 3 : Plan de chasse. (art. R*229-7)](#734)
-          - [Section 4 : Indemnisation des dégâts de gibier (art. R*229-8 à R*229-17)](#735)
-            - [Sous-section 1 : Indemnisation des dégâts de gibier autre que le sanglier. (art. R*229-8 à R*229-14)](#736)
-            - [Sous-section 2 : Indemnisation des dégâts causés par les sangliers. (art. R*229-15 à R*229-16)](#737)
-            - [Sous-section 3 : Dispositions diverses. (art. R*229-17)](#738)
-          - [Section 5 : Pénalités (art. R*229-18 à R*229-21)](#739)
-            - [Sous-section 1 : Peines (art. R*229-18 à R*229-20)](#740)
-              - [Paragraphe 1 : Territoire. (art. R*229-18 à R*229-19)](#741)
-              - [Paragraphe 2 : Exercice de la chasse. (art. R*229-20)](#742)
-            - [Sous-section 2 : Récidive. (art. R*229-21)](#743)
-      - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. R*231-1 à R*238-6)](#744)
-        - [Chapitre Ier : Champ d'application (art. R*231-1 à R*231-44)](#745)
-          - [Section 1 : Dispositions générales. (art. R*231-1 à R*231-6)](#746)
-          - [Section 2 : Piscicultures (art. R*231-7 à R*231-44)](#747)
-            - [Sous-section 1 : Dispositions générales. (art. R*231-7 à R*231-10)](#748)
-            - [Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture. (art. R*231-11 à R*231-26)](#749)
-            - [Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture. (art. R*231-27 à R*231-34)](#750)
-            - [Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984. (art. R*231-35 à R*231-37)](#751)
-            - [Sous-section 5 : Dispositions diverses. (art. R*231-38 à R*231-44)](#752)
-        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. R*232-1 à R*232-2)](#753)
-          - [Section 2 : Protection de la faune piscicole et de son habitat. (art. R*232-1)](#754)
-          - [Section 4 : Contrôle des peuplements. (art. R*232-3 à R232-25)](#755)
-          - [Section 3 : Obligations relatives aux ouvrages. (art. R*232-2)](#756)
-        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. R233-1 à R233-15)](#757)
-          - [Section 1 : Orientations de bassin. (art. R233-1 à R233-15)](#758)
-        - [Chapitre IV : Organisation des pêcheurs (art. R*234-1 à R*234-43)](#759)
-          - [Section 1 : Conseil supérieur de la pêche (art. R*234-1 à R234-21)](#760)
-            - [Sous-section 1 : Dispositions générales. (art. R*234-1 à R*234-4)](#761)
-            - [Sous-section 2 : Administration du conseil supérieur de la pêche (art. R*234-5 à R*234-15)](#762)
-              - [Paragraphe 1 : Le conseil d'administration. (art. R*234-7 à R234-6)](#763)
-              - [Paragraphe 2 : Le directeur général. (art. R*234-12 à R*234-13)](#764)
-              - [Paragraphe 3 : Les gardes-pêche. (art. R*234-14 à R*234-15)](#765)
-            - [Sous-section 3 : Dispositions financières et comptables (art. R*234-16 à R234-21)](#766)
-              - [Paragraphe 1 : Organisation financière et comptable. (art. R*234-16 à R*234-20)](#767)
-              - [Paragraphe 2 : Contrôles. (art. R234-21)](#768)
-          - [Section 2 : Pêche de loisir. (art. R*234-22 à R*234-34)](#769)
-          - [Section 3 : Pêche professionnelle. (art. R*234-35 à R*234-43)](#770)
-        - [Chapitre V : Droit de pêche (art. R*235-1 à R*235-29)](#771)
-          - [Section 1 : Droit de pêche de l'Etat (art. R*235-2 à R*235-28)](#772)
-            - [Sous-section 1 : Conditions générales d'exploitation. (art. R*235-2 à R*235-13-1)](#773)
-            - [Sous-section 2 : Modalités de location des lots. (art. R*235-14 à R*235-21)](#774)
-            - [Sous-section 3 : Procédure d'adjudication publique. (art. R*235-22 à R*235-28)](#775)
-          - [Section 3 : Droit de passage. (art. R*235-29)](#776)
-        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R*236-2 à R*236-121)](#777)
-          - [Section 1 : Dispositions générales (art. R*236-2 à R*236-66)](#778)
-            - [Sous-section 1 : Temps et heures d'interdiction (art. R*236-6 à R236-20)](#779)
-              - [Paragraphe 1 : Temps d'interdiction. (art. R*236-6 à R*236-16)](#780)
-              - [Paragraphe 2 : Heures d'interdiction. (art. R*236-18 à R236-20)](#781)
-            - [Sous-section 2 : Taille minimale des poissons et des écrevisses. (art. R*236-23 à R*236-26)](#782)
-            - [Sous-section 3 : Nombre de captures autorisées, conditions de capture. (art. R*236-28 à R*236-29)](#783)
-            - [Sous-section 4 : Procédés et modes de pêche autorisés. (art. R*236-30 à R*236-39)](#784)
-            - [Sous-section 5 : Procédés et modes de pêche prohibés. (art. R*236-40 à R*236-50)](#785)
-            - [Sous-section 6 : Dispositions diverses. (art. R*236-51 à R*236-53)](#786)
-            - [Sous-section 7 : Dispositions pénales. (art. R*236-54 à R*236-61)](#787)
-            - [Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories. (art. R*236-62 à R*236-66)](#788)
-          - [Section 2 : Autorisations exceptionnelles (art. R*236-67 à R*236-83)](#789)
-            - [Sous-section 1 : Autorisations de capture et de transport du poisson destiné à la reproduction ou au repeuplement et autorisations de capture du poisson à des fins sanitaires ou en cas de déséquilibres biologiques et de transport de ce poisson. (art. R*236-67 à R*236-73)](#790)
-            - [Sous-section 2 : Autorisations de capture du poisson à des fins scientifiques et de transport de ce poisson. (art. R*236-74 à R*236-78)](#791)
-            - [Sous-section 3 : Dispositions communes. (art. R*236-79 à R*236-83)](#792)
-          - [Section 4 : Réserves et interdictions permanentes de pêche (art. R*236-84 à R*236-95)](#793)
-            - [Sous-section 1 : Dispositions générales. (art. R*236-84)](#794)
-            - [Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche. (art. R*236-85 à R*236-89)](#795)
-            - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche. (art. R*236-91 à R*236-92)](#796)
-            - [Sous-section 4 : Dispositions communes. (art. R*236-93 à R*236-95)](#797)
-          - [Section 5 : Commercialisation. (art. R*236-96 à R*236-97)](#798)
-          - [Section 6 : Dispositions particulières (art. R*236-98 à R*236-121)](#799)
-            - [Sous-section 1 : Dispositions communes. (art. R*236-98)](#800)
-            - [Sous-section 2 : Réglementation de la pêche dans les eaux françaises du lac Léman. (art. R*236-99 à R*236-121)](#801)
-              - [Paragraphe 1 : Temps et heures d'interdiction. (art. R*236-100 à R*236-102)](#802)
-              - [Paragraphe 2 : Tailles minimales des poissons. (art. R*236-103)](#803)
-              - [Paragraphe 3 : Nombre de captures autorisées, conditions de capture. (art. R*236-104 à R*236-105)](#804)
-              - [Paragraphe 4 : Filets, engins et moyens de pêche autorisés ou prohibés. (art. R*236-106 à R*236-112)](#805)
-              - [Paragraphe 5 : Zones de protection du poisson. (art. R*236-113 à R*236-116)](#806)
-              - [Paragraphe 6 : Dispositions pénales. (art. R*236-117)](#807)
-              - [Paragraphe 7 : Capture de géniteurs. (art. R*236-121)](#808)
-        - [Chapitre VII : Recherche et constatation des infractions (art. R*237-1 à R*237-7)](#809)
-          - [Section 1 : Agents compétents. (art. R*237-1 à R*237-3)](#810)
-          - [Section 3 : Recherche des infractions. (art. R*237-4 à R*237-5)](#811)
-          - [Section 4 : Saisies. (art. R*237-6 à R*237-7)](#812)
-        - [Chapitre VIII : Transaction, poursuites et règles d'application des peines (art. R*238-1 à R*238-6)](#813)
-          - [Section 1 : Transaction. (art. R*238-1 à R*238-4)](#814)
-          - [Section 2 : Poursuites pénales. (art. R*238-5 à R*238-6)](#815)
-      - [Titre IV : Espaces naturels (art. R*241-1 à R244-16)](#816)
-        - [Chapitre Ier : Parcs nationaux (art. R*241-1 à R*241-71)](#817)
-          - [Section 1 : Comité interministériel des parcs nationaux. (art. R*241-1 à R*241-2)](#818)
-          - [Section 2 : Création d'un parc national. (art. R*241-3 à R*241-14)](#819)
-          - [Section 3 : Aménagement et gestion des parcs nationaux (art. R*241-15 à R*241-48)](#820)
-            - [Sous-section 1 : Administration générale. (art. R*241-16 à R*241-27)](#821)
-              - [Paragraphe 1 : Conseil d'administration. (art. R*241-17 à R*241-24)](#822)
-              - [Paragraphe 2 : Directeur. (art. R*241-25 à R*241-26)](#823)
-              - [Paragraphe 3 : Personnels. (art. R*241-27)](#824)
-            - [Sous-section 2 : Ressources de l'établissement. (art. R*241-28)](#825)
-            - [Sous-section 3 : Programme d'aménagement du parc. (art. R*241-29)](#826)
-            - [Sous-section 4 : Gestion de certains biens des collectivités. (art. R*241-30 à R*241-34)](#827)
-            - [Sous-section 5 : Pouvoirs réglementaires du directeur. (art. R*241-35 à R*241-41)](#828)
-            - [Sous-section 6 : Consultation obligatoire de l'établissement. (art. R*241-42 à R*241-43)](#829)
-            - [Sous-section 7 : Contrôle. (art. R*241-44 à R*241-46)](#830)
-            - [Sous-section 8 : Contrôle de mesures susceptibles d'altérer le caractère du parc. (art. R*241-47 à R*241-48)](#831)
-          - [Section 4 : Mise en valeur des zones périphériques. (art. R*241-49 à R*241-51)](#832)
-          - [Section 5 : Réserves intégrales. (art. R*241-52 à R*241-55)](#833)
-          - [Section 6 : Indemnités. (art. R*241-56 à R*241-60)](#834)
-          - [Section 8 : Dispositions pénales (art. R*241-61 à R*241-71)](#835)
-            - [Sous-section 1 : Peines. (art. R*241-61 à R*241-70)](#836)
-            - [Sous-section 2 : Constatation et poursuites. (art. R*241-71)](#837)
-        - [Chapitre II : Réserves naturelles (art. R*242-1 à R*242-49)](#838)
-          - [Section 1 : Réserves naturelles établies par décret (art. R*242-1 à R*242-25)](#839)
-            - [Sous-section 1 : Classement (art. R*242-1 à R*242-18)](#840)
-              - [Paragraphe 1 : Dispositions générales. (art. R*242-1 à R*242-2)](#841)
-              - [Paragraphe 2 : Procédure comportant une enquête publique. (art. R*242-3 à R*242-9)](#842)
-              - [Paragraphe 3 : Procédure simplifiée. (art. R*242-10)](#843)
-              - [Paragraphe 4 : Décision de classement. (art. R*242-11 à R*242-17)](#844)
-              - [Paragraphe 5 : Modalités de gestion. (art. R*242-18)](#845)
-            - [Sous-section 2 : Modification de l'état ou de l'aspect d'une réserve naturelle. (art. R*242-19 à R*242-23)](#846)
-            - [Sous-section 3 : Modification des limites ou de la réglementation, déclassement. (art. R*242-24 à R*242-25)](#847)
-          - [Section 2 : Réserves naturelles volontaires (art. R*242-26 à R*242-35)](#848)
-            - [Sous-section 1 : Agrément. (art. R*242-26 à R*242-31)](#849)
-            - [Sous-section 2 : Modification, retrait, abrogation de l'agrément. (art. R*242-32 à R*242-35)](#850)
-          - [Section 3 : Dispositions communes (art. R*242-36 à R*242-37)](#851)
-            - [Sous-section 2 : Abords des réserves naturelles (art. R*242-36 à R*242-37)](#852)
-              - [Paragraphe 1 : Périmètres de protection. (art. R*242-36)](#853)
-              - [Paragraphe 2 : Zones de protection. (art. R*242-37)](#854)
-          - [Section 4 : Dispositions pénales (art. R*242-38 à R*242-49)](#855)
-            - [Sous-section 1 : Peines. (art. R*242-38 à R*242-49)](#856)
-        - [Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres (art. R*243-1 à R*243-33)](#857)
-          - [Section 1 : Dispositions générales. (art. R*243-1 à R*243-2)](#858)
-          - [Section 2 : Patrimoine du conservatoire (art. R*243-3 à R*243-9)](#859)
-            - [Sous-section 1 : Constitution, aliénation. (art. R*243-3 à R*243-7)](#860)
-            - [Sous-section 2 : Gestion. (art. R*243-8 à R*243-9)](#861)
-          - [Section 3 : Administration (art. R*243-10 à R*243-30)](#862)
-            - [Sous-section 1 : Conseil d'administration. (art. R*243-10 à R*243-21)](#863)
-            - [Sous-section 2 : Conseils de rivage. (art. R*243-22 à R*243-28)](#864)
-            - [Sous-section 3 : Directeur. (art. R*243-29)](#865)
-            - [Sous-section 4 : Personnels. (art. R*243-30)](#866)
-          - [Section 4 : Dispositions financières. (art. R*243-31 à R*243-33)](#867)
-        - [Chapitre IV : Parcs naturels régionaux (art. R244-1 à R244-16)](#868)
-          - [Section 1 : Principes généraux. (art. R244-1 à R244-3)](#869)
-          - [Section 2 : Classement. (art. R244-4 à R244-11)](#870)
-          - [Section 3 : Effets du classement. (art. R244-12 à R244-16)](#871)
-      - [Titre V : Dispositions communes à la protection de la nature (art. R*251-1 à R*252-20)](#872)
-        - [Chapitre Ier : Conseil national de la protection de la nature (art. R*251-1 à R*251-21)](#873)
-          - [Section 1 : Composition. (art. R*251-2 à R*251-6)](#874)
-          - [Section 2 : Fonctionnement. (art. R*251-7 à R*251-10-1)](#875)
-          - [Section 3 : Comité permanent. (art. R*251-11 à R*251-18)](#876)
-          - [Section 4 : Experts. (art. R*251-19 à R*251-20)](#877)
-          - [Section 5 : Secrétariat administratif. (art. R*251-21)](#878)
-        - [Chapitre II : Associations agréées pour la protection de l'environnement (art. R*252-1 à R*252-20)](#879)
-          - [Section 1 : Conditions d'obtention de l'agrément. (art. R*252-2 à R*252-3)](#880)
-          - [Section 2 : Procédure d'agrément (art. R*252-5 à R*252-18)](#881)
-            - [Sous-section 1 : Demande. (art. R*252-5 à R*252-9)](#882)
-            - [Sous-section 2 : Instruction de la demande. (art. R*252-10 à R*252-12)](#883)
-            - [Sous-section 3 : Décision. (art. R*252-13 à R*252-18)](#884)
-          - [Section 3 : Obligations de l'association agréée. (art. R*252-19 à R*252-20)](#885)
-      - [Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon, aux terres australes et antarctiques et à la collectivité territoriale de Mayotte (art. R261-1 à R*263-1)](#886)
-        - [Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R261-1 à R*261-6)](#887)
-          - [Section 1 : Territoire de chasse. (art. R261-2)](#888)
-          - [Section 2 : Temps de chasse. (art. R*261-3 à R*261-6)](#889)
-        - [Chapitre II : Dispositions particulières aux terres australes et antarctiques françaises. (art. R*262-1)](#890)
-        - [Chapitre III : Dispositions particulières à la collectivité territoriale de Mayotte (art. R*263-1)](#891)
-    - [Livre III : Exploitation agricole (art. R313-1 à R*361-52)](#892)
-      - [Titre Ier : Dispositions générales (art. R313-1 à R313-35)](#893)
-        - [Chapitre III : Instruments (art. R313-1 à R313-35)](#894)
-          - [Section 1 : Commission départementale d'orientation de l'agriculture. (art. R313-1 à R313-12)](#895)
-          - [Section 2 : Centre national pour l'aménagement des structures des exploitations agricoles (art. R313-13 à R313-35)](#896)
-            - [Sous-section 1 : Dispositions générales et mission du centre. (art. R313-13 à R313-16)](#897)
-            - [Sous-section 2 : Administration et Fonctionnement du centre (art. R313-17 à R313-27)](#898)
-              - [Paragraphe 1 : Conseil d'administration. (art. R313-18 à R313-24)](#899)
-              - [Paragraphe 2 : Directeur général. (art. R313-25 à R313-26)](#900)
-              - [Paragraphe 3 : Personnels. (art. R313-27)](#901)
-            - [Sous-section 3 : Régime financier et comptable. (art. R313-28 à R313-33)](#902)
-            - [Sous-section 4 : Contrôle. (art. R313-34 à R313-35)](#903)
-      - [Titre II : Différentes formes juridiques de l'exploitation agricole (art. R321-1 à R328-4)](#904)
-        - [Chapitre Ier : Exploitation familiale à responsabilité personnelle (art. R321-1 à R321-6)](#905)
-          - [Section 2 : Transmission de l'exploitation familiale. (art. R321-1 à R321-6)](#906)
-        - [Chapitre II : Groupements fonciers agricoles (art. R322-1 à R322-3)](#907)
-        - [Chapitre III : Groupements agricoles d'exploitation en commun (art. R*323-1 à R323-51)](#908)
-          - [Section 1 : Reconnaissance des groupements. (art. R*323-1 à R323-21)](#909)
-          - [Section 2 : Fonctionnement des groupements. (art. R*323-31 à R323-43)](#910)
-          - [Section 3 : Statut social et économique des groupements et de leurs membres. (art. R*323-45 à R323-49)](#911)
-          - [Section 4 : Sanctions. (art. R323-50 à R323-51)](#912)
-        - [Chapitre IV : Exploitation agricole à responsabilité limitée (art. R324-1 à R324-3)](#913)
-        - [Chapitre VI : Contrats d'intégration (art. R326-1 à R326-10)](#914)
-        - [Chapitre VIII : Dispositions particulières à certaines collectivités territoriales (art. R328-1 à R328-4)](#915)
-          - [Section 1 : Dispositions particulières aux départements d'outre-mer (art. R328-1 à R328-4)](#916)
-            - [Sous-section 1 : Statut des associés d'exploitation. (art. R328-1 à R328-2)](#917)
-            - [Sous-section 2 : Groupements fonciers agricoles. (art. R328-3 à R328-4)](#918)
-      - [Titre III : Politique d'installation et le contrôle des structures et de la production (art. R331-1 à R334-1)](#919)
-        - [Chapitre Ier : Contrôle des structures des exploitations agricoles (art. R331-1 à R331-4)](#920)
-        - [Chapitre II : Limitations au droit de produire (art. R332-1 à R332-41)](#921)
-          - [Section 1 : Retrait des terres arables (art. R332-1 à R332-13)](#922)
-            - [Sous-section 1 : Dispositions générales. (art. R332-1 à R332-3)](#923)
-            - [Sous-section 2 : Contrat de retrait. (art. R332-4 à R332-11)](#924)
-            - [Sous-section 3 : Dispositions diverses. (art. R332-12 à R332-13)](#925)
-          - [Section 2 : Extensification (art. R332-14 à R332-41)](#926)
-            - [Sous-section 1 : Extensification de la production dans le secteur du vin. (art. R332-14 à R332-22)](#927)
-            - [Sous-section 2 : Extensification de la production dans le secteur de la viande bovine. (art. R332-23 à R332-33)](#928)
-            - [Sous-section 3 : Extensification par un mode de production biologique. (art. R332-34 à R332-41)](#929)
-        - [Chapitre III : Exploitants agricoles étrangers (art. R333-1 à R333-10)](#930)
-          - [Section 1 : Dispositions générales (art. R333-1 à R333-6)](#931)
-          - [Section 2 : Dispositions particulières à certains ressortissants des Etats membres de la Communauté européenne (art. R333-7 à R333-10)](#932)
-        - [Chapitre IV : Dispositions spécifiques aux départements d'outre-mer. (art. R334-1)](#933)
-      - [Titre IV : Financement des exploitations agricoles (art. R341-1 à R348-6)](#934)
-        - [Chapitre Ier : Dispositions générales (art. R341-1 à R341-6)](#935)
-          - [Section 1 : Crédit à court terme des caisses de crédit agricole mutuel. (art. R341-1 à R341-2)](#936)
-          - [Section 2 : Crédit à moyen terme (art. R341-3 à R341-4)](#937)
-          - [Section 3 : Crédit à long terme (art. R341-5 à R341-6)](#938)
-        - [Chapitre III : Aides à l'installation et à la constitution de groupements ou sociétés (art. R343-1 à R343-33)](#939)
-          - [Section 1 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. R343-1 à R343-2)](#940)
-          - [Section 2 : Aides à l'installation des jeunes agriculteurs. (art. R343-3 à R343-19)](#941)
-            - [Sous-section 1 : Conditions d'octroi des aides. (art. R343-4 à R343-8)](#942)
-            - [Sous-section 2 : Dotation d'installation aux jeunes agriculteurs. (art. R343-9 à R343-12)](#943)
-            - [Sous-section 3 : Prêts à moyen terme spéciaux. (art. R343-13 à R343-16)](#944)
-            - [Sous-section 4 : Instruction des demandes. (art. R343-17 à R343-18)](#945)
-            - [Sous-section 5 : Bourse versée par l'Etat aux jeunes réalisant le stage prévu au 4° de l'article R. 343-4. (art. R343-19)](#946)
-          - [Section 3 : Autres formes d'aides à l'installation (art. R343-20 à R343-25)](#947)
-            - [Sous-section 1 : Prêts spéciaux aux migrants. (art. R343-20)](#948)
-            - [Sous-section 2 : Aides à l'installation comme chefs d'exploitations agricoles des travailleurs agricoles bénéficiaires de la promotion sociale. (art. R343-21 à R343-23)](#949)
-            - [Sous-section 3 : Utilisation de la prime et du pécule militaires à des fins d'installation. (art. R343-24 à R343-25)](#950)
-          - [Section 2 : Aides à la constitution de groupements et sociétés (art. R343-26)](#951)
-            - [Sous-section 1 : Prêts aux sociétés civiles d'exploitation rurale. (art. R343-26)](#952)
-          - [Section 4 : Aides à la constitution de groupements et sociétés (art. R343-27 à R343-33)](#953)
-            - [Sous-section 1 : Prêts aux sociétés civiles d'exploitation rurale. (art. R343-27 à R343-30)](#954)
-            - [Sous-section 2 : Prêts aux porteurs de parts de groupements fonciers agricoles. (art. R343-31 à R343-32)](#955)
-            - [Sous-section 3 : Aide au démarrage des groupements agricoles d'exploitation en commun, des coopératives d'utilisation en commun du matériel agricole, des groupements pastoraux et des associations foncières pastorales. (art. R343-33)](#956)
-        - [Chapitre IV : Aides à la modernisation (art. R344-1 à R344-30)](#957)
-          - [Section 1 : Régime d'aides en faveur des titulaires de plans d'amélioration matérielle de l'exploitation agricole (art. R344-2 à R344-22)](#958)
-            - [Sous-section 1 : Conditions générales d'obtention des aides. (art. R344-2 à R344-8)](#959)
-            - [Sous-section 2 : Aides liées aux plans d'amélioration matérielle de l'exploitation agricole. (art. R344-9 à R344-17)](#960)
-            - [Sous-section 3 : Procédure d'agrément des plans d'amélioration matérielle de l'exploitation agricole. (art. R344-18 à R344-22)](#961)
-          - [Section 2 : Aides aux investissements pour les exploitants ne présentant pas de plan d'amélioration matérielle de l'exploitation agricole. (art. R344-23 à R344-25)](#962)
-          - [Section 3 : Aides aux investissements destinés à la protection et à l'amélioration de l'environnement ou à l'amélioration des conditions d'hygiène des élevages. (art. R344-26 à R344-27)](#963)
-          - [Section 4 : Aides particulières à la modernisation. (art. R344-28 à R344-30)](#964)
-        - [Chapitre V : Aides à la réalisation d'opérations foncières (art. R345-1 à R345-11)](#965)
-          - [Section 1 : Prêts à la réalisation de certaines opérations foncières (art. R345-1 à R345-6)](#966)
-          - [Section 2 : Opérations groupées d'aménagement foncier (art. R345-7 à R345-11)](#967)
-        - [Chapitre VI : Aides à l'habitat rural (art. R*346-5 à R346-14)](#968)
-          - [Section 1 : Aides à la restauration de l'habitat rural (art. R*346-5 à R346-4)](#969)
-            - [Sous-section 2 : Construction des bâtiments des exploitations agricoles. (art. R*346-5 à R346-7)](#970)
-            - [Sous-section 3 : Desserte des exploitations dont l'habitat est amélioré. (art. R346-8 à R346-9)](#971)
-            - [Sous-section 1 : Travaux de restauration de l'habitat. (art. R*346-1 à R346-4)](#972)
-          - [Section 2 : Prêts pour l'amélioration de l'habitat rural (art. R*346-11 à R346-14)](#973)
-            - [Sous-section 1 : Prêts à long terme des caisses de crédit agricole mutuel pour l'amélioration de l'habitat rural. (art. R*346-11 à R346-10)](#974)
-            - [Sous-section 2 : Prêts bonifiés des caisses de crédit agricole mutuel en matière de logement. (art. R346-12 à R346-14)](#975)
-        - [Chapitre VII : Aides aux investissements de production (art. R*347-4 à R347-11)](#976)
-          - [Section 1 : Aides aux investissements d'élevage (art. R*347-4 à R347-7)](#977)
-          - [Section 2 : Prêts aux productions végétales spéciales (art. R*347-9 à R347-11)](#978)
-        - [Chapitre VIII : Dispositions spécifiques aux départements d'outre-mer. (art. R348-1 à R348-6)](#979)
-      - [Titre V : Exploitations agricoles en difficulté (art. R351-1 à R354-10)](#980)
-        - [Chapitre Ier : Règlement amiable, le redressement et la liquidation judiciaires de l'exploitation agricole (art. R351-1 à R351-8)](#981)
-          - [Section 1 : Règlement amiable. (art. R351-1 à R351-7)](#982)
-          - [Section 2 : Redressement et la liquidation judiciaires. (art. R351-8)](#983)
-        - [Chapitre II : Aides à la reconversion ou à la réinstallation (art. R*352-1 à R352-21)](#984)
-          - [Section 1 : Aides à certaines mutations d'exploitation. (art. R*352-1 à R352-14)](#985)
-          - [Section 2 : Aides à la réinsertion professionnelle. (art. R352-15 à R352-21)](#986)
-        - [Chapitre III : Cessation d'activité. (art. R353-1 à R353-12)](#987)
-        - [Chapitre IV : Aides à l'adaptation de l'exploitation (art. R354-1 à R354-10)](#988)
-          - [Section 1 : Conditions d'attribution de l'aide. (art. R354-1 à R354-5)](#989)
-          - [Section 2 : Montant et procédure d'octroi de l'aide. (art. R354-6 à R354-10)](#990)
-      - [Titre VI : Calamités agricoles (art. R*361-1 à R*361-52)](#991)
-        - [Chapitre Ier : Organisation générale du régime de garantie (art. R*361-1 à R*361-52)](#992)
-          - [Section 1 : Composition, mission et fonctionnement (art. R*361-1 à R361-17)](#993)
-            - [Sous-section 1 : Fonds national de garantie des calamités agricoles. (art. R*361-1 à R361-4)](#994)
-            - [Sous-section 2 : Commission nationale des calamités agricoles. (art. R*361-8 à R361-7)](#995)
-            - [Sous-section 3 : Comités départementaux d'expertise. (art. R*361-13 à R361-17)](#996)
-          - [Section 2 : Procédures (art. R361-20 à R361-35)](#997)
-            - [Sous-section 1 : Constatation des dommages. (art. R361-20 à R361-21)](#998)
-            - [Sous-section 2 : Constitution des dossiers de demande d'indemnisation. (art. R361-22 à R361-26)](#999)
-            - [Sous-section 3 : Evaluation des dommages. (art. R361-27 à R361-31)](#1000)
-            - [Sous-section 4 : Conditions d'indemnisation. (art. R361-32 à R361-35)](#1001)
-          - [Section 3 : Prêts aux victimes des calamités agricoles. (art. R361-36 à R361-50)](#1002)
-          - [Section 4 : Dispositions diverses. (art. R*361-51 à R*361-52)](#1003)
-    - [Livre IV : Baux ruraux (art. R*411-9-1 à R464-1)](#1004)
-      - [Titre Ier : Statut du fermage et du métayage (art. R*411-9-1 à R417-3)](#1005)
-        - [Chapitre Ier : Régime de droit commun (art. R*411-9-1 à R411-27)](#1006)
-          - [Section 1 : Etablissement du contrat, durée et prix du bail (art. R*411-9-1 à R411-9-11)](#1007)
-            - [Sous-section 3 : Prix du bail. (art. R*411-9-1 à R411-9-11)](#1008)
-          - [Section 8 : Droit de renouvellement et droit de reprise. (art. R411-10 à R411-13)](#1009)
-          - [Section 9 : Indemnité au preneur sortant. (art. R411-14 à R411-27)](#1010)
-        - [Chapitre IV : Commissions consultatives paritaires des baux ruraux (art. R*414-2 à R414-6)](#1011)
-          - [Section 1 : Commissions consultatives paritaires départementales des baux ruraux. (art. R*414-2 à R414-3)](#1012)
-          - [Section 2 : Commissions consultatives paritaires régionales des baux ruraux. (art. R414-5)](#1013)
-          - [Section 3 : Commission consultative paritaire nationale des baux ruraux. (art. R414-6)](#1014)
-        - [Chapitre V : Dispositions diverses et d'application. (art. R*415-1 à R415-9)](#1015)
-        - [Chapitre VI : Dispositions particulières au baux à long terme. (art. R416-1 à R416-3)](#1016)
-        - [Chapitre VII : Dispositions particulières au baux à colonat partiaire ou métayage (art. R417-1 à R417-3)](#1017)
-          - [Section 1 : Régime du bail. (art. R417-1)](#1018)
-          - [Section 2 : Conversion en baux à ferme. (art. R417-2 à R417-3)](#1019)
-      - [Titre III : Bail à domaine congéable (art. R431-1)](#1020)
-      - [Titre IV : Bail à complant (art. R441-1 à R441-3)](#1021)
-      - [Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer (art. R*461-1 à R464-1)](#1022)
-        - [Chapitre Ier : Régime de droit commun (art. R*461-1 à R461-15)](#1023)
-          - [Section 1 : Commission consultative des baux ruraux. (art. R*461-1 à R461-4)](#1024)
-          - [Section 2 : Conclusion, durée, prix du bail. (art. R461-5 à R461-7)](#1025)
-          - [Section 5 : Indemnité au preneur sortant. (art. R461-8 à R461-10)](#1026)
-          - [Section 6 : Droit de préemption. (art. R461-11 à R461-13)](#1027)
-          - [Section 7 : Dispositions diverses. (art. R461-14)](#1028)
-          - [Section 8 : Dispositions diverses. (art. R461-15)](#1029)
-        - [Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage (art. R462-1 à R462-18)](#1030)
-          - [Section 1 : Régime du bail. (art. R462-1 à R462-16)](#1031)
-          - [Section 2 : Conversion en baux à ferme. (art. R462-17)](#1032)
-          - [Section 3 : Dispositions diverses et d'application. (art. R462-18)](#1033)
-        - [Chapitre III : Dispositions particulières aux baux à long terme. (art. R463-1 à R463-3)](#1034)
-        - [Chapitre IV : Dispositions d'application. (art. R464-1)](#1035)
-    - [Livre V : Organismes professionnels agricoles (art. R*511-3 à R564-3)](#1036)
-      - [Titre Ier : Chambres d'agriculture (art. R*511-3 à R*514-7)](#1037)
-        - [Chapitre Ier : Chambres départementales (art. R*511-3 à R511-115)](#1038)
-          - [Section 1 : Institution et attributions. (art. R*511-3 à R511-5)](#1039)
-          - [Section 2 : Composition. (art. R*511-6 à R511-7)](#1040)
-          - [Section 3 : Elections (art. R*511-8 à R511-52)](#1041)
-            - [Sous-section 1 : Conditions requises pour être électeur (art. R*511-8 à R*511-11)](#1042)
-              - [Paragraphe 1 : Electeurs votant individuellement. (art. R*511-8 à R*511-9)](#1043)
-              - [Paragraphe 2 : Groupements électeurs. (art. R*511-10 à R*511-11)](#1044)
-            - [Sous-section 2 : Listes électorales (art. R*511-12 à R511-26)](#1045)
-              - [Paragraphe 1 : Electeurs votant individuellement. (art. R*511-12 à R511-25)](#1046)
-              - [Paragraphe 2 : Groupements électeurs. (art. R*511-27 à R511-26)](#1047)
-            - [Sous-section 3 : Eligibilité et candidatures. (art. R*511-30 à R511-34)](#1048)
-            - [Sous-section 4 : Propagande. (art. R*511-36 à R*511-42)](#1049)
-            - [Sous-section 5 : Mode de scrutin. (art. R*511-43)](#1050)
-            - [Sous-section 6 : Opérations de vote (art. R*511-44 à R*511-49)](#1051)
-              - [Paragraphe 1 : Date du scrutin. (art. R*511-44)](#1052)
-              - [Paragraphe 2 : Electeurs votant individuellement. (art. R*511-45 à R*511-47)](#1053)
-              - [Paragraphe 3 : Groupements électeurs. (art. R*511-48)](#1054)
-              - [Paragraphe 4 : Recensement des votes. (art. R*511-49)](#1055)
-            - [Sous-section 7 : Contentieux. (art. R*511-50)](#1056)
-            - [Sous-section 8 : Cessation de mandat. (art. R*511-51)](#1057)
-            - [Sous-section 9 : Elections partielles. (art. R*511-53 à R511-52)](#1058)
-          - [Section 4 : Fonctionnement. (art. R*511-54 à R511-70)](#1059)
-          - [Section 5 : Régime financier (art. R*511-71 à R511-96)](#1060)
-            - [Sous-section 1 : Opérations du budget général. (art. R*511-73 à R511-82)](#1061)
-            - [Sous-section 2 : Opérations des budgets spéciaux. (art. R511-86 à R511-90)](#1062)
-            - [Sous-section 3 : Opérations communes au budget général et aux budgets spéciaux. (art. R511-91 à R511-96)](#1063)
-          - [Section 6 : Chambre interdépartementale de l'Ile-de-France. (art. R511-97 à R511-100)](#1064)
-          - [Section 7 : Etablissements et services d'utilité agricole interchambres d'agriculture. (art. R511-102 à R511-110)](#1065)
-          - [Section 8 : Dispositions communes aux chambres départementales d'agriculture et aux établissements et services d'utilité agricole interchambres d'agriculture. (art. R511-111 à R511-112)](#1066)
-          - [Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer. (art. R*511-116 à R511-115)](#1067)
-        - [Chapitre II : Chambres régionales (art. R*512-3 à R512-11)](#1068)
-          - [Section 1 : Dispositions particulières aux chambres régionales d'agriculture. (art. R*512-3 à R512-8)](#1069)
-          - [Section 2 : Dispositions financières particulières relatives aux chambres régionales d'agriculture. (art. R512-9 à R512-11)](#1070)
-        - [Chapitre III : Assemblée permanente des chambres d'agriculture (art. R513-1 à R513-29)](#1071)
-          - [Section 1 : Organisation et fonctionnement. (art. R513-1 à R513-11)](#1072)
-          - [Section 2 : Comité permanent général, commissions et sections spécialisées. (art. R513-12 à R513-21)](#1073)
-          - [Section 3 : Régime financier. (art. R513-22 à R513-29)](#1074)
-        - [Chapitre IV : Dispositions financières communes (art. R*514-1 à R*514-7)](#1075)
-      - [Titre II : Sociétés coopératives agricoles (art. R*521-2 à R529-2)](#1076)
-        - [Chapitre Ier : Dispositions générales, constitution (art. R*521-2 à R521-15)](#1077)
-          - [Section 1 : Dispositions générales. (art. R*521-2 à R521-3)](#1078)
-          - [Section 2 : Constitution. (art. R*521-7 à R521-15)](#1079)
-        - [Chapitre II : Associés, tiers non coopérateurs (art. R522-1 à R522-9)](#1080)
-          - [Section 1 : Associés coopérateurs. (art. R522-1 à R522-8)](#1081)
-          - [Section 3 : Tiers non coopérateurs. (art. R522-9)](#1082)
-        - [Chapitre III : Capital social et dispositions financières (art. R*523-1 à R523-12)](#1083)
-          - [Section 1 : Capital social. (art. R*523-1 à R523-4)](#1084)
-          - [Section 3 : Prises de participation. (art. R523-8 à R523-11)](#1085)
-          - [Section 4 : Participation et intéressement. (art. R523-9 à R523-12)](#1086)
-        - [Chapitre IV : Administration (art. R*524-1 à R524-42)](#1087)
-          - [Section 1 : Conseil d'administration. (art. R*524-1 à R524-8)](#1088)
-          - [Section 2 : Commissariat aux comptes. (art. R*524-10 à R524-11)](#1089)
-          - [Section 3 : Assemblée générale. (art. R*524-13 à R524-21)](#1090)
-          - [Section 4 : Dispositions concernant les unions de coopératives. (art. R*524-25 à R524-24)](#1091)
-          - [Section 5 : Directoire et conseil de surveillance. (art. R*524-28 à R524-42)](#1092)
-        - [Chapitre V : Agrément, contrôle (art. R*525-1 à R525-17)](#1093)
-          - [Section 1 : Agrément. (art. R*525-1 à R525-12)](#1094)
-          - [Section 2 : Contrôle. (art. R*525-13 à R525-17)](#1095)
-        - [Chapitre VI : Dissolution, liquidation. (art. R*526-4 à R526-3)](#1096)
-        - [Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle (art. R527-1 à R527-12)](#1097)
-          - [Section 1 : Fédérations de coopératives (art. R527-1 à R527-12)](#1098)
-            - [Sous-section 1 : Dispositions générales. (art. R527-1 à R527-3)](#1099)
-            - [Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision. (art. R*527-4 à R527-11)](#1100)
-            - [Sous-section 3 : Dispositions particulières aux fédérations de coopératives agréées exerçant les fonctions de commissaire aux comptes. (art. R527-12)](#1101)
-        - [Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole (art. R*528-1 à R528-9)](#1102)
-          - [Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément. (art. R*528-1 à R*528-7)](#1103)
-          - [Section 2 : Commission départementale des structures agricoles. (art. R*528-8 à R528-9)](#1104)
-        - [Chapitre IX : Dispositions pénales, dispositions d'application. (art. R529-1 à R529-2)](#1105)
-      - [Titre III : Sociétés d'intérêt collectif agricole (art. R*531-2 à R535-1)](#1106)
-        - [Chapitre Ier : Constitution, agrément. (art. R*531-2 à R531-7)](#1107)
-        - [Chapitre II : Fonctionnement. (art. R532-1 à R532-6)](#1108)
-        - [Chapitre III : Dispositions financières. (art. R*533-2 à R533-3)](#1109)
-        - [Chapitre IV : Transformation, dissolution, liquidation. (art. R*534-2 à R534-4)](#1110)
-        - [Chapitre V : Dispositions pénales. (art. R535-1)](#1111)
-      - [Titre IV : Sociétés mixtes d'intérêt agricole (art. R541-1)](#1112)
-      - [Titre V : Groupements de producteurs et comités économiques agricoles (art. R*551-1 à R556-5)](#1113)
-        - [Chapitre Ier : Groupements de producteurs. (art. R*551-1 à R*551-12)](#1114)
-        - [Chapitre II : Comités économiques agricoles. (art. R*552-1 à R552-14)](#1115)
-        - [Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles (art. R*553-1 à R*553-17)](#1116)
-          - [Section 1 : Droits d'inscription et cotisations. (art. R*553-1 à R*553-9)](#1117)
-          - [Section 2 : Contrôle. (art. R*553-10 à R*553-16)](#1118)
-          - [Section 3 : Dispositions diverses. (art. R*553-17)](#1119)
-        - [Chapitre IV : Extension des règles édictées par les comités économiques agricoles (art. R*554-1 à R*554-29)](#1120)
-          - [Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole (art. R*554-1)](#1121)
-          - [Section 2 : Procédure d'extension des règles (art. R*554-2 à R*554-29)](#1122)
-            - [Sous-section 1 : Dispositions générales. (art. R*554-2 à R*554-6)](#1123)
-            - [Sous-section 2 : Procédure de consultation des producteurs (art. R*554-7 à R*554-29)](#1124)
-              - [Paragraphe 1 : Etablissement de la liste des producteurs. (art. R*554-7 à R*554-15)](#1125)
-              - [Paragraphe 2 : Modalités de la consultation des producteurs. (art. R*554-16 à R*554-28)](#1126)
-              - [Paragraphe 3 : Dispositions diverses. (art. R*554-29)](#1127)
-        - [Chapitre V : Dispositions particulières aux départements d'outre-mer. (art. R555-1 à R555-4)](#1128)
-        - [Chapitre VI : Pénalités (art. R556-1 à R556-5)](#1129)
-      - [Titre VI : Jardins familiaux (art. R562-1 à R564-3)](#1130)
-        - [Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux (art. R562-1 à R562-3)](#1131)
-          - [Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER). (art. R562-1)](#1132)
-          - [Section 2 : Droit de préemption des collectivités locales. (art. R562-2 à R562-3)](#1133)
-        - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique (art. R563-1 à R563-2)](#1134)
-        - [Chapitre IV : Avantages divers et subventions (art. R564-1 à R564-3)](#1135)
-    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-1 à R832-19)](#1136)
-      - [Titre Ier : Enseignement et formation professionnelle agricoles (art. R*811-1 à R*816-3)](#1137)
-        - [Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles (art. R*811-1 à R*811-12)](#1138)
-          - [Section 1 : Organisation générale (art. R*811-1 à R*811-12)](#1139)
-            - [Sous-section 1 : Principes de base. (art. R*811-1 à R*811-2)](#1140)
-            - [Sous-section 2 : Conseils et comités (art. R*811-3 à R*811-11)](#1141)
-              - [Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale. (art. R*811-3 à R*811-9)](#1142)
-              - [Paragraphe 2 : Comité de coordination. (art. R*811-10 à R*811-11)](#1143)
-            - [Sous-section 3 : Promotion sociale. (art. R*811-12)](#1144)
-        - [Chapitre II : Formations technologiques et professionnelles de cycle court (art. R*812-1 à R*812-6)](#1145)
-          - [Section 1 : Enseignement technologique de cycle court par voie scolaire. (art. R*812-1 à R*812-4)](#1146)
-          - [Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage. (art. R*812-5)](#1147)
-          - [Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue et des formations alternées. (art. R*812-6)](#1148)
-        - [Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles (art. R*813-1 à R*813-12)](#1149)
-          - [Section 1 : Enseignement technologique de cycle long. (art. R*813-1 à R*813-5)](#1150)
-          - [Section 2 : Formation des techniciens supérieurs agricoles. (art. R*813-6 à R*813-7)](#1151)
-          - [Section 3 : Dispositions communes. (art. R*813-8 à R*813-12)](#1152)
-        - [Chapitre IV : Enseignement supérieur (art. R*814-1 à R*814-61)](#1153)
-          - [Section 1 : Dispositions générales. (art. R*814-1 à R*814-4)](#1154)
-          - [Section 2 : Enseignement supérieur agricole (art. R*814-5 à R*814-27)](#1155)
-            - [Sous-section 1 : Formation des ingénieurs spécialisés en agriculture. (art. R*814-5)](#1156)
-            - [Sous-section 2 : Formation des spécialistes en horticulture. (art. R*814-6)](#1157)
-            - [Sous-section 3 : Formation des paysagistes DPLG. (art. R*814-7 à R*814-7-3)](#1158)
-            - [Sous-section 4 : Formation des ingénieurs des industries agricoles et alimentaires. (art. R*814-8 à R*814-9)](#1159)
-            - [Sous-section 5 : Formation des ingénieurs agronomes à vocation générale (art. R*814-10 à R*814-26)](#1160)
-              - [Paragraphe 1 : Dispositions générales. (art. R*814-10 à R*814-19)](#1161)
-              - [Paragraphe 2 : Dispositions particulières aux élèves étrangers. (art. R*814-20 à R*814-26)](#1162)
-            - [Sous-section 6 : Dispositions relatives à la délivrance des diplômes. (art. R*814-27)](#1163)
-          - [Section 3 : Enseignement supérieur vétérinaire (art. R*814-28 à R*814-43-1)](#1164)
-            - [Sous-section 1 : Dispositions générales. (art. R*814-28 à R*814-29)](#1165)
-            - [Sous-section 2 : Conditions d'admission des élèves. (art. R*814-30 à R*814-31)](#1166)
-            - [Sous-section 3 : Enseignement et recherche. (art. R*814-32 à R*814-36)](#1167)
-            - [Sous-section 4 : Administration. (art. R*814-37)](#1168)
-            - [Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire. (art. R*814-38 à R*814-43)](#1169)
-            - [Sous-section 6 : Conseil national de la spécialisation vétérinaire. (art. R*814-43-1)](#1170)
-          - [Section 4 : Enseignement de l'agronomie des régions chaudes (art. R*814-44 à R*814-61)](#1171)
-            - [Sous-section 1 : Dispositions générales. (art. R*814-44 à R*814-47)](#1172)
-            - [Sous-section 2 : Administration du centre. (art. R*814-48 à R*814-57)](#1173)
-            - [Sous-section 3 : Régime financier du centre. (art. R*814-58 à R*814-61)](#1174)
-        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#1175)
-          - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#1176)
-          - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#1177)
-        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-3)](#1178)
-      - [Titre II : Développement agricole (art. R*821-1 à R825-4)](#1179)
-        - [Chapitre Ier : Actions de développement agricole. (art. R*821-1 à R*821-4)](#1180)
-        - [Chapitre II : Convention avec l'association nationale pour le développement agricole. (art. R*822-1 à R*822-4)](#1181)
-        - [Chapitre III : Fonds national de développement agricole. (art. R*823-1 à R*823-19)](#1182)
-        - [Chapitre IV : Programmes départementaux, régionaux et national de développement agricole (art. R824-1 à R824-10)](#1183)
-          - [Section 1 : Programmes départementaux. (art. R824-1 à R824-4)](#1184)
-          - [Section 2 : Programmes régionaux. (art. R824-5 à R824-8)](#1185)
-          - [Section 3 : Programme national. (art. R824-9 à R824-10)](#1186)
-        - [Chapitre V : Conventions de développement. (art. R825-1 à R825-4)](#1187)
-      - [Titre III : Recherche agronomique (art. R831-1 à R832-19)](#1188)
-        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#1189)
-          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#1190)
-          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#1191)
-          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#1192)
-        - [Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts (art. R832-1 à R832-19)](#1193)
-          - [Section 1 : Dispositions générales (art. R832-1 à R832-3)](#1194)
-          - [Section 2 : Administration et direction du centre. (art. R*832-4 à R832-10)](#1195)
-          - [Section 3 : Organisation du centre. (art. R832-11 à R832-14)](#1196)
-          - [Section 4 : Conseil scientifique et technique et commissions spécialisées (art. R832-15 à R832-16)](#1197)
-          - [Section 5 : Dispositions diverses (art. R832-17 à R832-19)](#1198)
+        - [Chapitre V : Dispositions pénales (art. R*215-1 à R*215-3)](#621)
+          - [Section 1 : Peines (art. R*215-1 à R*215-3)](#622)
+            - [Sous-section 1 : Préservation du patrimoine biologique. (art. R*215-1 à R*215-2)](#623)
+            - [Sous-section 2 : Activités soumises à autorisation. (art. R*215-3)](#624)
+      - [Titre II : Chasse (art. R*221-1 à R*229-21)](#625)
+        - [Chapitre Ier : Organisation de la chasse (art. R*221-1 à R*221-39)](#626)
+          - [Section 1 : Conseil national de la chasse et de la faune sauvage. (art. R*221-1 à R*221-7)](#627)
+          - [Section 2 : Office national de la chasse (art. R*221-8 à R*221-23)](#628)
+            - [Sous-section 1 : Dispositions générales. (art. R*221-8 à R*221-9)](#629)
+            - [Sous-section 2 : Administration générale (art. R*221-10 à R*221-17)](#630)
+              - [Paragraphe 1 : Conseil d'administration. (art. R*221-10 à R*221-15)](#631)
+              - [Paragraphe 2 : Directeur. (art. R*221-16)](#632)
+              - [Paragraphe 3 : Personnels. (art. R*221-17)](#633)
+            - [Sous-section 3 : Dispositions financières. (art. R*221-18 à R*221-21)](#634)
+            - [Sous-section 4 : Contrôle. (art. R*221-22 à R*221-23)](#635)
+          - [Section 3 : Régions cynégétiques. (art. R*221-24 à R*221-26)](#636)
+          - [Section 4 : Conseil départemental de la chasse et de la faune sauvage. (art. R*221-27 à R*221-31)](#637)
+          - [Section 5 : Fédérations des chasseurs (art. R*221-32 à R*221-35)](#638)
+            - [Sous-section 1 : Dispositions générales. (art. R*221-32 à R*221-35)](#639)
+          - [Section 6 : Dispositions diverses. (art. R*221-39)](#640)
+        - [Chapitre II : Territoire de chasse (art. R*222-1 à R*222-97)](#641)
+          - [Section 1 : Associations communales et intercommunales de chasse agréées. (art. R*222-1 à R*222-81)](#642)
+            - [Sous-section 1 : Institution des associations communales de chasse agréées (art. R*222-5 à R*222-16)](#643)
+              - [Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées. (art. R*222-5 à R*222-11)](#644)
+              - [Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées dans certaines communes. (art. R*222-12 à R*222-16)](#645)
+            - [Sous-section 2 : Modalités de constitution de l'association communale de chasse agréée (art. R*222-17 à R*222-41)](#646)
+              - [Paragraphe 1 : Enquête. (art. R*222-17 à R*222-32)](#647)
+              - [Paragraphe 2 : Assemblée constitutive et agrément de l'association communale de chasse agréée. (art. R*222-33 à R*222-41)](#648)
+            - [Sous-section 3 : Territoire (art. R*222-42 à R*222-61)](#649)
+              - [Paragraphe 2 : Terrains faisant l'objet d'une opposition. (art. R*222-42 à R*222-46)](#650)
+              - [Paragraphe 3 : Apports. (art. R*222-47 à R*222-50)](#651)
+              - [Paragraphe 4 : Indemnisation des apports. (art. R*222-51 à R*222-53)](#652)
+              - [Paragraphe 5 : Modification du territoire de l'association. (art. R*222-54 à R*222-58)](#653)
+              - [Paragraphe 6 : Enclaves. (art. R*222-59 à R*222-61)](#654)
+            - [Sous-section 4 : Dispositions obligatoires des statuts des associations communales de chasse agréées. (art. R*222-62 à R*222-64)](#655)
+            - [Sous-section 5 : Réserves et garderie. (art. R*222-65 à R*222-69)](#656)
+            - [Sous-section 6 : Association intercommunale de chasse agréée. (art. R*222-70 à R*222-79)](#657)
+              - [Paragraphe 1 : Constitution des associations intercommunales de chasse agréées. (art. R*222-71 à R*222-74)](#658)
+              - [Paragraphe 2 : Dispositions obligatoires. (art. R*222-75 à R*222-78)](#659)
+              - [Paragraphe 3 : Réserves et garderie. (art. R*222-79)](#660)
+            - [Sous-section 7 : Dispositions diverses. (art. R*222-80 à R*222-81)](#661)
+          - [Section 2 : Réserves de chasse et de faune sauvage (art. R*222-82 à R*222-92)](#662)
+            - [Sous-section 1 : Institution des réserves de chasse et de faune sauvage. (art. R*222-82 à R*222-85)](#663)
+            - [Sous-section 2 : Fonctionnement des réserves de chasse et de faune sauvage. (art. R*222-86 à R*222-91)](#664)
+            - [Sous-section 3 : Réserves nationales. (art. R*222-92)](#665)
+          - [Section 3 : Chasse maritime. (art. R*222-93)](#666)
+          - [Section 4 : Exploitation de la chasse sur le domaine de l'Etat (art. R*222-94 à R*222-97)](#667)
+            - [Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat. (art. R*222-94)](#668)
+            - [Sous-section 2 : Exploitation de la chasse sur le domaine public fluvial. (art. R*222-95 à R*222-96)](#669)
+            - [Sous-section 3 : Exploitation de la chasse sur le domaine public maritime. (art. R*222-97)](#670)
+        - [Chapitre III : Permis de chasser. (art. R*223-2 à R*223-36)](#671)
+          - [Section 1 : Examen pour la délivrance du permis de chasser. (art. R*223-2 à R*223-8)](#672)
+          - [Section 2 : Délivrance, visa et validation du permis de chasser (art. R*223-9 à R*223-32)](#673)
+            - [Sous-section 1 : Délivrance. (art. R*223-9 à R*223-11)](#674)
+            - [Sous-section 2 : Visa. (art. R*223-12 à R*223-22)](#675)
+            - [Sous-section 3 : Validation. (art. R*223-23 à R*223-26)](#676)
+            - [Sous-section 4 : Dispositions propres à la région parisienne. (art. R*223-27 à R*223-29)](#677)
+            - [Sous-section 6 : Licences. (art. R*223-30 à R*223-31)](#678)
+            - [Sous-section 7 : Refus et exclusions. (art. R*223-32)](#679)
+          - [Section 3 : Redevances cynégétiques. (art. R*223-33 à R*223-35)](#680)
+          - [Section 4 : Dispositions diverses et d'application. (art. R*223-36)](#681)
+        - [Chapitre IV : Exercice de la chasse (art. R*224-1 à R*224-17)](#682)
+          - [Section 2 : Temps de chasse (art. R*224-1 à R*224-9)](#683)
+            - [Sous-section 1 : Chasse à courre, à cor et à cri. (art. R*224-1 à R*224-2)](#684)
+            - [Sous-section 2 : Chasse à tir et chasse au vol. (art. R*224-3 à R*224-6)](#685)
+            - [Sous-section 3 : Dispositions communes. (art. R*224-7 à R*224-9)](#686)
+          - [Section 3 : Modes et moyens de chasse. (art. R*224-10 à R*224-12)](#687)
+          - [Section 4 : Commercialisation et transport du gibier (art. R*224-13 à R224-16)](#688)
+            - [Sous-section 1 : Interdiction permanente. (art. R*224-13 à R224-16)](#689)
+          - [Section 5 : Dispositions spéciales à la chasse maritime. (art. R*224-17)](#690)
+        - [Chapitre V : Plan de chasse. (art. R*225-1 à R*225-14)](#691)
+        - [Chapitre VI : Indemnisation des dégâts de gibier (art. R*226-1 à R*226-29)](#692)
+          - [Section 1 : Indemnisation par l'Office national de la chasse des dégâts causés par les sangliers et les grands gibiers (art. R*226-1 à R*226-19)](#693)
+            - [Sous-section 1 : Compte d'indemnisation. (art. R*226-1 à R226-2)](#694)
+            - [Sous-section 2 : Conditions d'attribution de l'indemnisation pour dégâts de gibier (art. R*226-6 à R*226-19)](#695)
+              - [Paragraphe 1 : Commission nationale d'indemnisation. (art. R*226-6 à R*226-7)](#696)
+              - [Paragraphe 2 : Commission départementale d'indemnisation. (art. R*226-8 à R*226-11)](#697)
+              - [Paragraphe 3 : Demandes individuelles d'indemnisation. (art. R*226-12 à R*226-19)](#698)
+          - [Section 2 : Dispositions relatives à l'indemnisation judiciaire des dégâts causés aux récoltes. (art. R*226-20 à R*226-29)](#699)
+        - [Chapitre VII : Destruction des animaux nuisibles et louveterie (art. R*227-1 à R*227-26)](#700)
+          - [Section 1 : Mesures administratives (art. R*227-1 à R*227-4)](#701)
+            - [Sous-section 1 : Louveterie. (art. R*227-1 à R*227-3)](#702)
+            - [Sous-section 3 : Sécurité aérienne. (art. R*227-4)](#703)
+          - [Section 2 : Droits des particuliers (art. R*227-5 à R*227-26)](#704)
+            - [Sous-section 1 : Classement des animaux nuisibles. (art. R*227-5 à R*227-6)](#705)
+            - [Sous-section 2 : Exercice du droit de destruction. (art. R*227-7)](#706)
+            - [Sous-section 3 : Modalités de destruction. (art. R*227-8 à R*227-23)](#707)
+              - [Paragraphe 1 : Toxiques. (art. R*227-9)](#708)
+              - [Paragraphe 2 : Déterrage. (art. R*227-10 à R*227-11)](#709)
+              - [Paragraphe 3 : Piégeage. (art. R*227-12 à R*227-15)](#710)
+              - [Paragraphe 4 : Tir. (art. R*227-16 à R*227-22)](#711)
+              - [Paragraphe 5 : Utilisation des oiseaux de chasse au vol. (art. R*227-23)](#712)
+            - [Sous-section 4 : Transport, lâcher. (art. R*227-24 à R*227-26)](#713)
+        - [Chapitre VIII : Dispositions pénales (art. R*228-1 à R*228-20)](#714)
+          - [Section 1 : Peines (art. R*228-1 à R*228-17)](#715)
+            - [Sous-section 1 : Territoire. (art. R*228-1 à R*228-2)](#716)
+            - [Sous-section 2 : Permis de chasser. (art. R*228-3 à R*228-4)](#717)
+            - [Sous-section 3 : Exercice de la chasse (art. R*228-5 à R*228-14)](#718)
+              - [Paragraphe 1 : Protection du gibier. (art. R*228-5 à R*228-6)](#719)
+              - [Paragraphe 2 : Temps de chasse. (art. R*228-7)](#720)
+              - [Paragraphe 3 : Modes et moyens. (art. R*228-8)](#721)
+              - [Paragraphe 4 : Transport et commercialisation du gibier. (art. R*228-9 à R*228-14)](#722)
+            - [Sous-section 4 : Plan de chasse. (art. R*228-15 à R*228-16)](#723)
+            - [Sous-section 5 : Destruction des animaux nuisibles et louveterie. (art. R*228-17)](#724)
+          - [Section 2 : Circonstances aggravantes et récidive. (art. R*228-18 à R228-19)](#725)
+          - [Section 4 : Constatation et poursuites (art. R*228-20)](#726)
+            - [Sous-section 1 : Constatation des infractions. (art. R*228-20)](#727)
+        - [Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. R*229-1 à R*229-21)](#728)
+          - [Section 2 : Exercice de la chasse (art. R*229-2 à R*229-6)](#729)
+            - [Sous-section 1 : Temps de chasse. (art. R*229-2 à R*229-5)](#730)
+            - [Sous-section 2 : Modes et moyens de chasse. (art. R*229-6)](#731)
+          - [Section 3 : Plan de chasse. (art. R*229-7)](#732)
+          - [Section 4 : Indemnisation des dégâts de gibier (art. R*229-8 à R*229-17)](#733)
+            - [Sous-section 1 : Indemnisation des dégâts de gibier autre que le sanglier. (art. R*229-8 à R*229-14)](#734)
+            - [Sous-section 2 : Indemnisation des dégâts causés par les sangliers. (art. R*229-15 à R*229-16)](#735)
+            - [Sous-section 3 : Dispositions diverses. (art. R*229-17)](#736)
+          - [Section 5 : Pénalités (art. R*229-18 à R*229-21)](#737)
+            - [Sous-section 1 : Peines (art. R*229-18 à R*229-20)](#738)
+              - [Paragraphe 1 : Territoire. (art. R*229-18 à R*229-19)](#739)
+              - [Paragraphe 2 : Exercice de la chasse. (art. R*229-20)](#740)
+            - [Sous-section 2 : Récidive. (art. R*229-21)](#741)
+      - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. R*231-1 à R*238-6)](#742)
+        - [Chapitre Ier : Champ d'application (art. R*231-1 à R*231-44)](#743)
+          - [Section 1 : Dispositions générales. (art. R*231-1 à R*231-6)](#744)
+          - [Section 2 : Piscicultures (art. R*231-7 à R*231-44)](#745)
+            - [Sous-section 1 : Dispositions générales. (art. R*231-7 à R*231-10)](#746)
+            - [Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture. (art. R*231-11 à R*231-26)](#747)
+            - [Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture. (art. R*231-27 à R*231-34)](#748)
+            - [Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984. (art. R*231-35 à R*231-37)](#749)
+            - [Sous-section 5 : Dispositions diverses. (art. R*231-38 à R*231-44)](#750)
+        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. R*232-1 à R*232-2)](#751)
+          - [Section 2 : Protection de la faune piscicole et de son habitat. (art. R*232-1)](#752)
+          - [Section 4 : Contrôle des peuplements. (art. R*232-3 à R232-25)](#753)
+          - [Section 3 : Obligations relatives aux ouvrages. (art. R*232-2)](#754)
+        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. R233-1 à R233-15)](#755)
+          - [Section 1 : Orientations de bassin. (art. R233-1 à R233-15)](#756)
+        - [Chapitre IV : Organisation des pêcheurs (art. R*234-1 à R*234-43)](#757)
+          - [Section 1 : Conseil supérieur de la pêche (art. R*234-1 à R234-21)](#758)
+            - [Sous-section 1 : Dispositions générales. (art. R*234-1 à R*234-4)](#759)
+            - [Sous-section 2 : Administration du conseil supérieur de la pêche (art. R*234-5 à R*234-15)](#760)
+              - [Paragraphe 1 : Le conseil d'administration. (art. R*234-7 à R234-6)](#761)
+              - [Paragraphe 2 : Le directeur général. (art. R*234-12 à R*234-13)](#762)
+              - [Paragraphe 3 : Les gardes-pêche. (art. R*234-14 à R*234-15)](#763)
+            - [Sous-section 3 : Dispositions financières et comptables (art. R*234-16 à R234-21)](#764)
+              - [Paragraphe 1 : Organisation financière et comptable. (art. R*234-16 à R*234-20)](#765)
+              - [Paragraphe 2 : Contrôles. (art. R234-21)](#766)
+          - [Section 2 : Pêche de loisir. (art. R*234-22 à R*234-34)](#767)
+          - [Section 3 : Pêche professionnelle. (art. R*234-35 à R*234-43)](#768)
+        - [Chapitre V : Droit de pêche (art. R*235-1 à R*235-29)](#769)
+          - [Section 1 : Droit de pêche de l'Etat (art. R*235-2 à R*235-28)](#770)
+            - [Sous-section 1 : Conditions générales d'exploitation. (art. R*235-2 à R*235-13-1)](#771)
+            - [Sous-section 2 : Modalités de location des lots. (art. R*235-14 à R*235-21)](#772)
+            - [Sous-section 3 : Procédure d'adjudication publique. (art. R*235-22 à R*235-28)](#773)
+          - [Section 3 : Droit de passage. (art. R*235-29)](#774)
+        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R*236-2 à R*236-121)](#775)
+          - [Section 1 : Dispositions générales (art. R*236-2 à R*236-66)](#776)
+            - [Sous-section 1 : Temps et heures d'interdiction (art. R*236-6 à R236-20)](#777)
+              - [Paragraphe 1 : Temps d'interdiction. (art. R*236-6 à R*236-16)](#778)
+              - [Paragraphe 2 : Heures d'interdiction. (art. R*236-18 à R236-20)](#779)
+            - [Sous-section 2 : Taille minimale des poissons et des écrevisses. (art. R*236-23 à R*236-26)](#780)
+            - [Sous-section 3 : Nombre de captures autorisées, conditions de capture. (art. R*236-28 à R*236-29)](#781)
+            - [Sous-section 4 : Procédés et modes de pêche autorisés. (art. R*236-30 à R*236-39)](#782)
+            - [Sous-section 5 : Procédés et modes de pêche prohibés. (art. R*236-40 à R*236-50)](#783)
+            - [Sous-section 6 : Dispositions diverses. (art. R*236-51 à R*236-53)](#784)
+            - [Sous-section 7 : Dispositions pénales. (art. R*236-54 à R*236-61)](#785)
+            - [Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories. (art. R*236-62 à R*236-66)](#786)
+          - [Section 2 : Autorisations exceptionnelles (art. R*236-67 à R*236-83)](#787)
+            - [Sous-section 1 : Autorisations de capture et de transport du poisson destiné à la reproduction ou au repeuplement et autorisations de capture du poisson à des fins sanitaires ou en cas de déséquilibres biologiques et de transport de ce poisson. (art. R*236-67 à R*236-73)](#788)
+            - [Sous-section 2 : Autorisations de capture du poisson à des fins scientifiques et de transport de ce poisson. (art. R*236-74 à R*236-78)](#789)
+            - [Sous-section 3 : Dispositions communes. (art. R*236-79 à R*236-83)](#790)
+          - [Section 4 : Réserves et interdictions permanentes de pêche (art. R*236-84 à R*236-95)](#791)
+            - [Sous-section 1 : Dispositions générales. (art. R*236-84)](#792)
+            - [Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche. (art. R*236-85 à R*236-89)](#793)
+            - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche. (art. R*236-91 à R*236-92)](#794)
+            - [Sous-section 4 : Dispositions communes. (art. R*236-93 à R*236-95)](#795)
+          - [Section 5 : Commercialisation. (art. R*236-96 à R*236-97)](#796)
+          - [Section 6 : Dispositions particulières (art. R*236-98 à R*236-121)](#797)
+            - [Sous-section 1 : Dispositions communes. (art. R*236-98)](#798)
+            - [Sous-section 2 : Réglementation de la pêche dans les eaux françaises du lac Léman. (art. R*236-99 à R*236-121)](#799)
+              - [Paragraphe 1 : Temps et heures d'interdiction. (art. R*236-100 à R*236-102)](#800)
+              - [Paragraphe 2 : Tailles minimales des poissons. (art. R*236-103)](#801)
+              - [Paragraphe 3 : Nombre de captures autorisées, conditions de capture. (art. R*236-104 à R*236-105)](#802)
+              - [Paragraphe 4 : Filets, engins et moyens de pêche autorisés ou prohibés. (art. R*236-106 à R*236-112)](#803)
+              - [Paragraphe 5 : Zones de protection du poisson. (art. R*236-113 à R*236-116)](#804)
+              - [Paragraphe 6 : Dispositions pénales. (art. R*236-117)](#805)
+              - [Paragraphe 7 : Capture de géniteurs. (art. R*236-121)](#806)
+        - [Chapitre VII : Recherche et constatation des infractions (art. R*237-1 à R*237-7)](#807)
+          - [Section 1 : Agents compétents. (art. R*237-1 à R*237-3)](#808)
+          - [Section 3 : Recherche des infractions. (art. R*237-4 à R*237-5)](#809)
+          - [Section 4 : Saisies. (art. R*237-6 à R*237-7)](#810)
+        - [Chapitre VIII : Transaction, poursuites et règles d'application des peines (art. R*238-1 à R*238-6)](#811)
+          - [Section 1 : Transaction. (art. R*238-1 à R*238-4)](#812)
+          - [Section 2 : Poursuites pénales. (art. R*238-5 à R*238-6)](#813)
+      - [Titre IV : Espaces naturels (art. R*241-1 à R244-16)](#814)
+        - [Chapitre Ier : Parcs nationaux (art. R*241-1 à R*241-71)](#815)
+          - [Section 1 : Comité interministériel des parcs nationaux. (art. R*241-1 à R*241-2)](#816)
+          - [Section 2 : Création d'un parc national. (art. R*241-3 à R*241-14)](#817)
+          - [Section 3 : Aménagement et gestion des parcs nationaux (art. R*241-15 à R*241-48)](#818)
+            - [Sous-section 1 : Administration générale. (art. R*241-16 à R*241-27)](#819)
+              - [Paragraphe 1 : Conseil d'administration. (art. R*241-17 à R*241-24)](#820)
+              - [Paragraphe 2 : Directeur. (art. R*241-25 à R*241-26)](#821)
+              - [Paragraphe 3 : Personnels. (art. R*241-27)](#822)
+            - [Sous-section 2 : Ressources de l'établissement. (art. R*241-28)](#823)
+            - [Sous-section 3 : Programme d'aménagement du parc. (art. R*241-29)](#824)
+            - [Sous-section 4 : Gestion de certains biens des collectivités. (art. R*241-30 à R*241-34)](#825)
+            - [Sous-section 5 : Pouvoirs réglementaires du directeur. (art. R*241-35 à R*241-41)](#826)
+            - [Sous-section 6 : Consultation obligatoire de l'établissement. (art. R*241-42 à R*241-43)](#827)
+            - [Sous-section 7 : Contrôle. (art. R*241-44 à R*241-46)](#828)
+            - [Sous-section 8 : Contrôle de mesures susceptibles d'altérer le caractère du parc. (art. R*241-47 à R*241-48)](#829)
+          - [Section 4 : Mise en valeur des zones périphériques. (art. R*241-49 à R*241-51)](#830)
+          - [Section 5 : Réserves intégrales. (art. R*241-52 à R*241-55)](#831)
+          - [Section 6 : Indemnités. (art. R*241-56 à R*241-60)](#832)
+          - [Section 8 : Dispositions pénales (art. R*241-61 à R*241-71)](#833)
+            - [Sous-section 1 : Peines. (art. R*241-61 à R*241-70)](#834)
+            - [Sous-section 2 : Constatation et poursuites. (art. R*241-71)](#835)
+        - [Chapitre II : Réserves naturelles (art. R*242-1 à R*242-49)](#836)
+          - [Section 1 : Réserves naturelles établies par décret (art. R*242-1 à R*242-25)](#837)
+            - [Sous-section 1 : Classement (art. R*242-1 à R*242-18)](#838)
+              - [Paragraphe 1 : Dispositions générales. (art. R*242-1 à R*242-2)](#839)
+              - [Paragraphe 2 : Procédure comportant une enquête publique. (art. R*242-3 à R*242-9)](#840)
+              - [Paragraphe 3 : Procédure simplifiée. (art. R*242-10)](#841)
+              - [Paragraphe 4 : Décision de classement. (art. R*242-11 à R*242-17)](#842)
+              - [Paragraphe 5 : Modalités de gestion. (art. R*242-18)](#843)
+            - [Sous-section 2 : Modification de l'état ou de l'aspect d'une réserve naturelle. (art. R*242-19 à R*242-23)](#844)
+            - [Sous-section 3 : Modification des limites ou de la réglementation, déclassement. (art. R*242-24 à R*242-25)](#845)
+          - [Section 2 : Réserves naturelles volontaires (art. R*242-26 à R*242-35)](#846)
+            - [Sous-section 1 : Agrément. (art. R*242-26 à R*242-31)](#847)
+            - [Sous-section 2 : Modification, retrait, abrogation de l'agrément. (art. R*242-32 à R*242-35)](#848)
+          - [Section 3 : Dispositions communes (art. R*242-36 à R*242-37)](#849)
+            - [Sous-section 2 : Abords des réserves naturelles (art. R*242-36 à R*242-37)](#850)
+              - [Paragraphe 1 : Périmètres de protection. (art. R*242-36)](#851)
+              - [Paragraphe 2 : Zones de protection. (art. R*242-37)](#852)
+          - [Section 4 : Dispositions pénales (art. R*242-38 à R*242-49)](#853)
+            - [Sous-section 1 : Peines. (art. R*242-38 à R*242-49)](#854)
+        - [Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres (art. R*243-1 à R*243-33)](#855)
+          - [Section 1 : Dispositions générales. (art. R*243-1 à R*243-2)](#856)
+          - [Section 2 : Patrimoine du conservatoire (art. R*243-3 à R*243-9)](#857)
+            - [Sous-section 1 : Constitution, aliénation. (art. R*243-3 à R*243-7)](#858)
+            - [Sous-section 2 : Gestion. (art. R*243-8 à R*243-9)](#859)
+          - [Section 3 : Administration (art. R*243-10 à R*243-30)](#860)
+            - [Sous-section 1 : Conseil d'administration. (art. R*243-10 à R*243-21)](#861)
+            - [Sous-section 2 : Conseils de rivage. (art. R*243-22 à R*243-28)](#862)
+            - [Sous-section 3 : Directeur. (art. R*243-29)](#863)
+            - [Sous-section 4 : Personnels. (art. R*243-30)](#864)
+          - [Section 4 : Dispositions financières. (art. R*243-31 à R*243-33)](#865)
+        - [Chapitre IV : Parcs naturels régionaux (art. R244-1 à R244-16)](#866)
+          - [Section 1 : Principes généraux. (art. R244-1 à R244-3)](#867)
+          - [Section 2 : Classement. (art. R244-4 à R244-11)](#868)
+          - [Section 3 : Effets du classement. (art. R244-12 à R244-16)](#869)
+      - [Titre V : Dispositions communes à la protection de la nature (art. R*251-1 à R*252-20)](#870)
+        - [Chapitre Ier : Conseil national de la protection de la nature (art. R*251-1 à R*251-21)](#871)
+          - [Section 1 : Composition. (art. R*251-2 à R*251-6)](#872)
+          - [Section 2 : Fonctionnement. (art. R*251-7 à R*251-10-1)](#873)
+          - [Section 3 : Comité permanent. (art. R*251-11 à R*251-18)](#874)
+          - [Section 4 : Experts. (art. R*251-19 à R*251-20)](#875)
+          - [Section 5 : Secrétariat administratif. (art. R*251-21)](#876)
+        - [Chapitre II : Associations agréées pour la protection de l'environnement (art. R*252-1 à R*252-20)](#877)
+          - [Section 1 : Conditions d'obtention de l'agrément. (art. R*252-2 à R*252-3)](#878)
+          - [Section 2 : Procédure d'agrément (art. R*252-5 à R*252-18)](#879)
+            - [Sous-section 1 : Demande. (art. R*252-5 à R*252-9)](#880)
+            - [Sous-section 2 : Instruction de la demande. (art. R*252-10 à R*252-12)](#881)
+            - [Sous-section 3 : Décision. (art. R*252-13 à R*252-18)](#882)
+          - [Section 3 : Obligations de l'association agréée. (art. R*252-19 à R*252-20)](#883)
+      - [Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon, aux terres australes et antarctiques et à la collectivité territoriale de Mayotte (art. R261-1 à R*263-1)](#884)
+        - [Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R261-1 à R*261-6)](#885)
+          - [Section 1 : Territoire de chasse. (art. R261-2)](#886)
+          - [Section 2 : Temps de chasse. (art. R*261-3 à R*261-6)](#887)
+        - [Chapitre II : Dispositions particulières aux terres australes et antarctiques françaises. (art. R*262-1)](#888)
+        - [Chapitre III : Dispositions particulières à la collectivité territoriale de Mayotte (art. R*263-1)](#889)
+    - [Livre III : Exploitation agricole (art. R313-1 à R*361-52)](#890)
+      - [Titre Ier : Dispositions générales (art. R313-1 à R313-35)](#891)
+        - [Chapitre III : Instruments (art. R313-1 à R313-35)](#892)
+          - [Section 1 : Commission départementale d'orientation de l'agriculture. (art. R313-1 à R313-12)](#893)
+          - [Section 2 : Centre national pour l'aménagement des structures des exploitations agricoles (art. R313-13 à R313-35)](#894)
+            - [Sous-section 1 : Dispositions générales et mission du centre. (art. R313-13 à R313-16)](#895)
+            - [Sous-section 2 : Administration et Fonctionnement du centre (art. R313-17 à R313-27)](#896)
+              - [Paragraphe 1 : Conseil d'administration. (art. R313-18 à R313-24)](#897)
+              - [Paragraphe 2 : Directeur général. (art. R313-25 à R313-26)](#898)
+              - [Paragraphe 3 : Personnels. (art. R313-27)](#899)
+            - [Sous-section 3 : Régime financier et comptable. (art. R313-28 à R313-33)](#900)
+            - [Sous-section 4 : Contrôle. (art. R313-34 à R313-35)](#901)
+      - [Titre II : Différentes formes juridiques de l'exploitation agricole (art. R321-1 à R328-4)](#902)
+        - [Chapitre Ier : Exploitation familiale à responsabilité personnelle (art. R321-1 à R321-6)](#903)
+          - [Section 2 : Transmission de l'exploitation familiale. (art. R321-1 à R321-6)](#904)
+        - [Chapitre II : Groupements fonciers agricoles (art. R322-1 à R322-3)](#905)
+        - [Chapitre III : Groupements agricoles d'exploitation en commun (art. R*323-1 à R323-51)](#906)
+          - [Section 1 : Reconnaissance des groupements. (art. R*323-1 à R323-21)](#907)
+          - [Section 2 : Fonctionnement des groupements. (art. R*323-31 à R323-43)](#908)
+          - [Section 3 : Statut social et économique des groupements et de leurs membres. (art. R*323-45 à R323-49)](#909)
+          - [Section 4 : Sanctions. (art. R323-50 à R323-51)](#910)
+        - [Chapitre IV : Exploitation agricole à responsabilité limitée (art. R324-1 à R324-3)](#911)
+        - [Chapitre VI : Contrats d'intégration (art. R326-1 à R326-10)](#912)
+        - [Chapitre VIII : Dispositions particulières à certaines collectivités territoriales (art. R328-1 à R328-4)](#913)
+          - [Section 1 : Dispositions particulières aux départements d'outre-mer (art. R328-1 à R328-4)](#914)
+            - [Sous-section 1 : Statut des associés d'exploitation. (art. R328-1 à R328-2)](#915)
+            - [Sous-section 2 : Groupements fonciers agricoles. (art. R328-3 à R328-4)](#916)
+      - [Titre III : Politique d'installation et le contrôle des structures et de la production (art. R331-1 à R334-1)](#917)
+        - [Chapitre Ier : Contrôle des structures des exploitations agricoles (art. R331-1 à R331-4)](#918)
+        - [Chapitre II : Limitations au droit de produire (art. R332-1 à R332-41)](#919)
+          - [Section 1 : Retrait des terres arables (art. R332-1 à R332-13)](#920)
+            - [Sous-section 1 : Dispositions générales. (art. R332-1 à R332-3)](#921)
+            - [Sous-section 2 : Contrat de retrait. (art. R332-4 à R332-11)](#922)
+            - [Sous-section 3 : Dispositions diverses. (art. R332-12 à R332-13)](#923)
+          - [Section 2 : Extensification (art. R332-14 à R332-41)](#924)
+            - [Sous-section 1 : Extensification de la production dans le secteur du vin. (art. R332-14 à R332-22)](#925)
+            - [Sous-section 2 : Extensification de la production dans le secteur de la viande bovine. (art. R332-23 à R332-33)](#926)
+            - [Sous-section 3 : Extensification par un mode de production biologique. (art. R332-34 à R332-41)](#927)
+        - [Chapitre III : Exploitants agricoles étrangers (art. R333-1 à R333-10)](#928)
+          - [Section 1 : Dispositions générales (art. R333-1 à R333-6)](#929)
+          - [Section 2 : Dispositions particulières à certains ressortissants des Etats membres de la Communauté européenne (art. R333-7 à R333-10)](#930)
+        - [Chapitre IV : Dispositions spécifiques aux départements d'outre-mer. (art. R334-1)](#931)
+      - [Titre IV : Financement des exploitations agricoles (art. R341-1 à R348-6)](#932)
+        - [Chapitre Ier : Dispositions générales (art. R341-1 à R341-6)](#933)
+          - [Section 1 : Crédit à court terme des caisses de crédit agricole mutuel. (art. R341-1 à R341-2)](#934)
+          - [Section 2 : Crédit à moyen terme (art. R341-3 à R341-4)](#935)
+          - [Section 3 : Crédit à long terme (art. R341-5 à R341-6)](#936)
+        - [Chapitre III : Aides à l'installation et à la constitution de groupements ou sociétés (art. R343-1 à R343-33)](#937)
+          - [Section 1 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux. (art. R343-1 à R343-2)](#938)
+          - [Section 2 : Aides à l'installation des jeunes agriculteurs. (art. R343-3 à R343-19)](#939)
+            - [Sous-section 1 : Conditions d'octroi des aides. (art. R343-4 à R343-8)](#940)
+            - [Sous-section 2 : Dotation d'installation aux jeunes agriculteurs. (art. R343-9 à R343-12)](#941)
+            - [Sous-section 3 : Prêts à moyen terme spéciaux. (art. R343-13 à R343-16)](#942)
+            - [Sous-section 4 : Instruction des demandes. (art. R343-17 à R343-18)](#943)
+            - [Sous-section 5 : Bourse versée par l'Etat aux jeunes réalisant le stage prévu au 4° de l'article R. 343-4. (art. R343-19)](#944)
+          - [Section 3 : Autres formes d'aides à l'installation (art. R343-20 à R343-25)](#945)
+            - [Sous-section 1 : Prêts spéciaux aux migrants. (art. R343-20)](#946)
+            - [Sous-section 2 : Aides à l'installation comme chefs d'exploitations agricoles des travailleurs agricoles bénéficiaires de la promotion sociale. (art. R343-21 à R343-23)](#947)
+            - [Sous-section 3 : Utilisation de la prime et du pécule militaires à des fins d'installation. (art. R343-24 à R343-25)](#948)
+          - [Section 2 : Aides à la constitution de groupements et sociétés (art. R343-26)](#949)
+            - [Sous-section 1 : Prêts aux sociétés civiles d'exploitation rurale. (art. R343-26)](#950)
+          - [Section 4 : Aides à la constitution de groupements et sociétés (art. R343-27 à R343-33)](#951)
+            - [Sous-section 1 : Prêts aux sociétés civiles d'exploitation rurale. (art. R343-27 à R343-30)](#952)
+            - [Sous-section 2 : Prêts aux porteurs de parts de groupements fonciers agricoles. (art. R343-31 à R343-32)](#953)
+            - [Sous-section 3 : Aide au démarrage des groupements agricoles d'exploitation en commun, des coopératives d'utilisation en commun du matériel agricole, des groupements pastoraux et des associations foncières pastorales. (art. R343-33)](#954)
+        - [Chapitre IV : Aides à la modernisation (art. R344-1 à R344-30)](#955)
+          - [Section 1 : Régime d'aides en faveur des titulaires de plans d'amélioration matérielle de l'exploitation agricole (art. R344-2 à R344-22)](#956)
+            - [Sous-section 1 : Conditions générales d'obtention des aides. (art. R344-2 à R344-8)](#957)
+            - [Sous-section 2 : Aides liées aux plans d'amélioration matérielle de l'exploitation agricole. (art. R344-9 à R344-17)](#958)
+            - [Sous-section 3 : Procédure d'agrément des plans d'amélioration matérielle de l'exploitation agricole. (art. R344-18 à R344-22)](#959)
+          - [Section 2 : Aides aux investissements pour les exploitants ne présentant pas de plan d'amélioration matérielle de l'exploitation agricole. (art. R344-23 à R344-25)](#960)
+          - [Section 3 : Aides aux investissements destinés à la protection et à l'amélioration de l'environnement ou à l'amélioration des conditions d'hygiène des élevages. (art. R344-26 à R344-27)](#961)
+          - [Section 4 : Aides particulières à la modernisation. (art. R344-28 à R344-30)](#962)
+        - [Chapitre V : Aides à la réalisation d'opérations foncières (art. R345-1 à R345-11)](#963)
+          - [Section 1 : Prêts à la réalisation de certaines opérations foncières (art. R345-1 à R345-6)](#964)
+          - [Section 2 : Opérations groupées d'aménagement foncier (art. R345-7 à R345-11)](#965)
+        - [Chapitre VI : Aides à l'habitat rural (art. R*346-5 à R346-14)](#966)
+          - [Section 1 : Aides à la restauration de l'habitat rural (art. R*346-5 à R346-4)](#967)
+            - [Sous-section 2 : Construction des bâtiments des exploitations agricoles. (art. R*346-5 à R346-7)](#968)
+            - [Sous-section 3 : Desserte des exploitations dont l'habitat est amélioré. (art. R346-8 à R346-9)](#969)
+            - [Sous-section 1 : Travaux de restauration de l'habitat. (art. R*346-1 à R346-4)](#970)
+          - [Section 2 : Prêts pour l'amélioration de l'habitat rural (art. R*346-11 à R346-14)](#971)
+            - [Sous-section 1 : Prêts à long terme des caisses de crédit agricole mutuel pour l'amélioration de l'habitat rural. (art. R*346-11 à R346-10)](#972)
+            - [Sous-section 2 : Prêts bonifiés des caisses de crédit agricole mutuel en matière de logement. (art. R346-12 à R346-14)](#973)
+        - [Chapitre VII : Aides aux investissements de production (art. R*347-4 à R347-11)](#974)
+          - [Section 1 : Aides aux investissements d'élevage (art. R*347-4 à R347-7)](#975)
+          - [Section 2 : Prêts aux productions végétales spéciales (art. R*347-9 à R347-11)](#976)
+        - [Chapitre VIII : Dispositions spécifiques aux départements d'outre-mer. (art. R348-1 à R348-6)](#977)
+      - [Titre V : Exploitations agricoles en difficulté (art. R351-1 à R354-10)](#978)
+        - [Chapitre Ier : Règlement amiable, le redressement et la liquidation judiciaires de l'exploitation agricole (art. R351-1 à R351-8)](#979)
+          - [Section 1 : Règlement amiable. (art. R351-1 à R351-7)](#980)
+          - [Section 2 : Redressement et la liquidation judiciaires. (art. R351-8)](#981)
+        - [Chapitre II : Aides à la reconversion ou à la réinstallation (art. R*352-1 à R352-21)](#982)
+          - [Section 1 : Aides à certaines mutations d'exploitation. (art. R*352-1 à R352-14)](#983)
+          - [Section 2 : Aides à la réinsertion professionnelle. (art. R352-15 à R352-21)](#984)
+        - [Chapitre III : Cessation d'activité. (art. R353-1 à R353-12)](#985)
+        - [Chapitre IV : Aides à l'adaptation de l'exploitation (art. R354-1 à R354-10)](#986)
+          - [Section 1 : Conditions d'attribution de l'aide. (art. R354-1 à R354-5)](#987)
+          - [Section 2 : Montant et procédure d'octroi de l'aide. (art. R354-6 à R354-10)](#988)
+      - [Titre VI : Calamités agricoles (art. R*361-1 à R*361-52)](#989)
+        - [Chapitre Ier : Organisation générale du régime de garantie (art. R*361-1 à R*361-52)](#990)
+          - [Section 1 : Composition, mission et fonctionnement (art. R*361-1 à R361-17)](#991)
+            - [Sous-section 1 : Fonds national de garantie des calamités agricoles. (art. R*361-1 à R361-4)](#992)
+            - [Sous-section 2 : Commission nationale des calamités agricoles. (art. R*361-8 à R361-7)](#993)
+            - [Sous-section 3 : Comités départementaux d'expertise. (art. R*361-13 à R361-17)](#994)
+          - [Section 2 : Procédures (art. R361-20 à R361-35)](#995)
+            - [Sous-section 1 : Constatation des dommages. (art. R361-20 à R361-21)](#996)
+            - [Sous-section 2 : Constitution des dossiers de demande d'indemnisation. (art. R361-22 à R361-26)](#997)
+            - [Sous-section 3 : Evaluation des dommages. (art. R361-27 à R361-31)](#998)
+            - [Sous-section 4 : Conditions d'indemnisation. (art. R361-32 à R361-35)](#999)
+          - [Section 3 : Prêts aux victimes des calamités agricoles. (art. R361-36 à R361-50)](#1000)
+          - [Section 4 : Dispositions diverses. (art. R*361-51 à R*361-52)](#1001)
+    - [Livre IV : Baux ruraux (art. R*411-9-1 à R464-1)](#1002)
+      - [Titre Ier : Statut du fermage et du métayage (art. R*411-9-1 à R417-3)](#1003)
+        - [Chapitre Ier : Régime de droit commun (art. R*411-9-1 à R411-27)](#1004)
+          - [Section 1 : Etablissement du contrat, durée et prix du bail (art. R*411-9-1 à R411-9-11)](#1005)
+            - [Sous-section 3 : Prix du bail. (art. R*411-9-1 à R411-9-11)](#1006)
+          - [Section 8 : Droit de renouvellement et droit de reprise. (art. R411-10 à R411-13)](#1007)
+          - [Section 9 : Indemnité au preneur sortant. (art. R411-14 à R411-27)](#1008)
+        - [Chapitre IV : Commissions consultatives paritaires des baux ruraux (art. R*414-2 à R414-6)](#1009)
+          - [Section 1 : Commissions consultatives paritaires départementales des baux ruraux. (art. R*414-2 à R414-3)](#1010)
+          - [Section 2 : Commissions consultatives paritaires régionales des baux ruraux. (art. R414-5)](#1011)
+          - [Section 3 : Commission consultative paritaire nationale des baux ruraux. (art. R414-6)](#1012)
+        - [Chapitre V : Dispositions diverses et d'application. (art. R*415-1 à R415-9)](#1013)
+        - [Chapitre VI : Dispositions particulières au baux à long terme. (art. R416-1 à R416-3)](#1014)
+        - [Chapitre VII : Dispositions particulières au baux à colonat partiaire ou métayage (art. R417-1 à R417-3)](#1015)
+          - [Section 1 : Régime du bail. (art. R417-1)](#1016)
+          - [Section 2 : Conversion en baux à ferme. (art. R417-2 à R417-3)](#1017)
+      - [Titre III : Bail à domaine congéable (art. R431-1)](#1018)
+      - [Titre IV : Bail à complant (art. R441-1 à R441-3)](#1019)
+      - [Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer (art. R*461-1 à R464-1)](#1020)
+        - [Chapitre Ier : Régime de droit commun (art. R*461-1 à R461-15)](#1021)
+          - [Section 1 : Commission consultative des baux ruraux. (art. R*461-1 à R461-4)](#1022)
+          - [Section 2 : Conclusion, durée, prix du bail. (art. R461-5 à R461-7)](#1023)
+          - [Section 5 : Indemnité au preneur sortant. (art. R461-8 à R461-10)](#1024)
+          - [Section 6 : Droit de préemption. (art. R461-11 à R461-13)](#1025)
+          - [Section 7 : Dispositions diverses. (art. R461-14)](#1026)
+          - [Section 8 : Dispositions diverses. (art. R461-15)](#1027)
+        - [Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage (art. R462-1 à R462-18)](#1028)
+          - [Section 1 : Régime du bail. (art. R462-1 à R462-16)](#1029)
+          - [Section 2 : Conversion en baux à ferme. (art. R462-17)](#1030)
+          - [Section 3 : Dispositions diverses et d'application. (art. R462-18)](#1031)
+        - [Chapitre III : Dispositions particulières aux baux à long terme. (art. R463-1 à R463-3)](#1032)
+        - [Chapitre IV : Dispositions d'application. (art. R464-1)](#1033)
+    - [Livre V : Organismes professionnels agricoles (art. R*511-3 à R564-3)](#1034)
+      - [Titre Ier : Chambres d'agriculture (art. R*511-3 à R*514-7)](#1035)
+        - [Chapitre Ier : Chambres départementales (art. R*511-3 à R511-115)](#1036)
+          - [Section 1 : Institution et attributions. (art. R*511-3 à R511-5)](#1037)
+          - [Section 2 : Composition. (art. R*511-6 à R511-7)](#1038)
+          - [Section 3 : Elections (art. R*511-8 à R511-52)](#1039)
+            - [Sous-section 1 : Conditions requises pour être électeur (art. R*511-8 à R*511-11)](#1040)
+              - [Paragraphe 1 : Electeurs votant individuellement. (art. R*511-8 à R*511-9)](#1041)
+              - [Paragraphe 2 : Groupements électeurs. (art. R*511-10 à R*511-11)](#1042)
+            - [Sous-section 2 : Listes électorales (art. R*511-12 à R511-26)](#1043)
+              - [Paragraphe 1 : Electeurs votant individuellement. (art. R*511-12 à R511-25)](#1044)
+              - [Paragraphe 2 : Groupements électeurs. (art. R*511-27 à R511-26)](#1045)
+            - [Sous-section 3 : Eligibilité et candidatures. (art. R*511-30 à R511-34)](#1046)
+            - [Sous-section 4 : Propagande. (art. R*511-36 à R*511-42)](#1047)
+            - [Sous-section 5 : Mode de scrutin. (art. R*511-43)](#1048)
+            - [Sous-section 6 : Opérations de vote (art. R*511-44 à R*511-49)](#1049)
+              - [Paragraphe 1 : Date du scrutin. (art. R*511-44)](#1050)
+              - [Paragraphe 2 : Electeurs votant individuellement. (art. R*511-45 à R*511-47)](#1051)
+              - [Paragraphe 3 : Groupements électeurs. (art. R*511-48)](#1052)
+              - [Paragraphe 4 : Recensement des votes. (art. R*511-49)](#1053)
+            - [Sous-section 7 : Contentieux. (art. R*511-50)](#1054)
+            - [Sous-section 8 : Cessation de mandat. (art. R*511-51)](#1055)
+            - [Sous-section 9 : Elections partielles. (art. R*511-53 à R511-52)](#1056)
+          - [Section 4 : Fonctionnement. (art. R*511-54 à R511-70)](#1057)
+          - [Section 5 : Régime financier (art. R*511-71 à R511-96)](#1058)
+            - [Sous-section 1 : Opérations du budget général. (art. R*511-73 à R511-82)](#1059)
+            - [Sous-section 2 : Opérations des budgets spéciaux. (art. R511-86 à R511-90)](#1060)
+            - [Sous-section 3 : Opérations communes au budget général et aux budgets spéciaux. (art. R511-91 à R511-96)](#1061)
+          - [Section 6 : Chambre interdépartementale de l'Ile-de-France. (art. R511-97 à R511-100)](#1062)
+          - [Section 7 : Etablissements et services d'utilité agricole interchambres d'agriculture. (art. R511-102 à R511-110)](#1063)
+          - [Section 8 : Dispositions communes aux chambres départementales d'agriculture et aux établissements et services d'utilité agricole interchambres d'agriculture. (art. R511-111 à R511-112)](#1064)
+          - [Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer. (art. R*511-116 à R511-115)](#1065)
+        - [Chapitre II : Chambres régionales (art. R*512-3 à R512-11)](#1066)
+          - [Section 1 : Dispositions particulières aux chambres régionales d'agriculture. (art. R*512-3 à R512-8)](#1067)
+          - [Section 2 : Dispositions financières particulières relatives aux chambres régionales d'agriculture. (art. R512-9 à R512-11)](#1068)
+        - [Chapitre III : Assemblée permanente des chambres d'agriculture (art. R513-1 à R513-29)](#1069)
+          - [Section 1 : Organisation et fonctionnement. (art. R513-1 à R513-11)](#1070)
+          - [Section 2 : Comité permanent général, commissions et sections spécialisées. (art. R513-12 à R513-21)](#1071)
+          - [Section 3 : Régime financier. (art. R513-22 à R513-29)](#1072)
+        - [Chapitre IV : Dispositions financières communes (art. R*514-1 à R*514-7)](#1073)
+      - [Titre II : Sociétés coopératives agricoles (art. R*521-2 à R529-2)](#1074)
+        - [Chapitre Ier : Dispositions générales, constitution (art. R*521-2 à R521-15)](#1075)
+          - [Section 1 : Dispositions générales. (art. R*521-2 à R521-3)](#1076)
+          - [Section 2 : Constitution. (art. R*521-7 à R521-15)](#1077)
+        - [Chapitre II : Associés, tiers non coopérateurs (art. R522-1 à R522-9)](#1078)
+          - [Section 1 : Associés coopérateurs. (art. R522-1 à R522-8)](#1079)
+          - [Section 3 : Tiers non coopérateurs. (art. R522-9)](#1080)
+        - [Chapitre III : Capital social et dispositions financières (art. R*523-1 à R523-12)](#1081)
+          - [Section 1 : Capital social. (art. R*523-1 à R523-4)](#1082)
+          - [Section 3 : Prises de participation. (art. R523-8 à R523-11)](#1083)
+          - [Section 4 : Participation et intéressement. (art. R523-9 à R523-12)](#1084)
+        - [Chapitre IV : Administration (art. R*524-1 à R524-42)](#1085)
+          - [Section 1 : Conseil d'administration. (art. R*524-1 à R524-8)](#1086)
+          - [Section 2 : Commissariat aux comptes. (art. R*524-10 à R524-11)](#1087)
+          - [Section 3 : Assemblée générale. (art. R*524-13 à R524-21)](#1088)
+          - [Section 4 : Dispositions concernant les unions de coopératives. (art. R*524-25 à R524-24)](#1089)
+          - [Section 5 : Directoire et conseil de surveillance. (art. R*524-28 à R524-42)](#1090)
+        - [Chapitre V : Agrément, contrôle (art. R*525-1 à R525-17)](#1091)
+          - [Section 1 : Agrément. (art. R*525-1 à R525-12)](#1092)
+          - [Section 2 : Contrôle. (art. R*525-13 à R525-17)](#1093)
+        - [Chapitre VI : Dissolution, liquidation. (art. R*526-4 à R526-3)](#1094)
+        - [Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle (art. R527-1 à R527-12)](#1095)
+          - [Section 1 : Fédérations de coopératives (art. R527-1 à R527-12)](#1096)
+            - [Sous-section 1 : Dispositions générales. (art. R527-1 à R527-3)](#1097)
+            - [Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision. (art. R*527-4 à R527-11)](#1098)
+            - [Sous-section 3 : Dispositions particulières aux fédérations de coopératives agréées exerçant les fonctions de commissaire aux comptes. (art. R527-12)](#1099)
+        - [Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole (art. R*528-1 à R528-9)](#1100)
+          - [Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément. (art. R*528-1 à R*528-7)](#1101)
+          - [Section 2 : Commission départementale des structures agricoles. (art. R*528-8 à R528-9)](#1102)
+        - [Chapitre IX : Dispositions pénales, dispositions d'application. (art. R529-1 à R529-2)](#1103)
+      - [Titre III : Sociétés d'intérêt collectif agricole (art. R*531-2 à R535-1)](#1104)
+        - [Chapitre Ier : Constitution, agrément. (art. R*531-2 à R531-7)](#1105)
+        - [Chapitre II : Fonctionnement. (art. R532-1 à R532-6)](#1106)
+        - [Chapitre III : Dispositions financières. (art. R*533-2 à R533-3)](#1107)
+        - [Chapitre IV : Transformation, dissolution, liquidation. (art. R*534-2 à R534-4)](#1108)
+        - [Chapitre V : Dispositions pénales. (art. R535-1)](#1109)
+      - [Titre IV : Sociétés mixtes d'intérêt agricole (art. R541-1)](#1110)
+      - [Titre V : Groupements de producteurs et comités économiques agricoles (art. R*551-1 à R556-5)](#1111)
+        - [Chapitre Ier : Groupements de producteurs. (art. R*551-1 à R*551-12)](#1112)
+        - [Chapitre II : Comités économiques agricoles. (art. R*552-1 à R552-14)](#1113)
+        - [Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles (art. R*553-1 à R*553-17)](#1114)
+          - [Section 1 : Droits d'inscription et cotisations. (art. R*553-1 à R*553-9)](#1115)
+          - [Section 2 : Contrôle. (art. R*553-10 à R*553-16)](#1116)
+          - [Section 3 : Dispositions diverses. (art. R*553-17)](#1117)
+        - [Chapitre IV : Extension des règles édictées par les comités économiques agricoles (art. R*554-1 à R*554-29)](#1118)
+          - [Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole (art. R*554-1)](#1119)
+          - [Section 2 : Procédure d'extension des règles (art. R*554-2 à R*554-29)](#1120)
+            - [Sous-section 1 : Dispositions générales. (art. R*554-2 à R*554-6)](#1121)
+            - [Sous-section 2 : Procédure de consultation des producteurs (art. R*554-7 à R*554-29)](#1122)
+              - [Paragraphe 1 : Etablissement de la liste des producteurs. (art. R*554-7 à R*554-15)](#1123)
+              - [Paragraphe 2 : Modalités de la consultation des producteurs. (art. R*554-16 à R*554-28)](#1124)
+              - [Paragraphe 3 : Dispositions diverses. (art. R*554-29)](#1125)
+        - [Chapitre V : Dispositions particulières aux départements d'outre-mer. (art. R555-1 à R555-4)](#1126)
+        - [Chapitre VI : Pénalités (art. R556-1 à R556-5)](#1127)
+      - [Titre VI : Jardins familiaux (art. R562-1 à R564-3)](#1128)
+        - [Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux (art. R562-1 à R562-3)](#1129)
+          - [Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER). (art. R562-1)](#1130)
+          - [Section 2 : Droit de préemption des collectivités locales. (art. R562-2 à R562-3)](#1131)
+        - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique (art. R563-1 à R563-2)](#1132)
+        - [Chapitre IV : Avantages divers et subventions (art. R564-1 à R564-3)](#1133)
+    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-1 à R832-19)](#1134)
+      - [Titre Ier : Enseignement et formation professionnelle agricoles (art. R*811-1 à R*816-3)](#1135)
+        - [Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles (art. R*811-1 à R*811-12)](#1136)
+          - [Section 1 : Organisation générale (art. R*811-1 à R*811-12)](#1137)
+            - [Sous-section 1 : Principes de base. (art. R*811-1 à R*811-2)](#1138)
+            - [Sous-section 2 : Conseils et comités (art. R*811-3 à R*811-11)](#1139)
+              - [Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale. (art. R*811-3 à R*811-9)](#1140)
+              - [Paragraphe 2 : Comité de coordination. (art. R*811-10 à R*811-11)](#1141)
+            - [Sous-section 3 : Promotion sociale. (art. R*811-12)](#1142)
+        - [Chapitre II : Formations technologiques et professionnelles de cycle court (art. R*812-1 à R*812-6)](#1143)
+          - [Section 1 : Enseignement technologique de cycle court par voie scolaire. (art. R*812-1 à R*812-4)](#1144)
+          - [Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage. (art. R*812-5)](#1145)
+          - [Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue et des formations alternées. (art. R*812-6)](#1146)
+        - [Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles (art. R*813-1 à R*813-12)](#1147)
+          - [Section 1 : Enseignement technologique de cycle long. (art. R*813-1 à R*813-5)](#1148)
+          - [Section 2 : Formation des techniciens supérieurs agricoles. (art. R*813-6 à R*813-7)](#1149)
+          - [Section 3 : Dispositions communes. (art. R*813-8 à R*813-12)](#1150)
+        - [Chapitre IV : Enseignement supérieur (art. R*814-1 à R*814-61)](#1151)
+          - [Section 1 : Dispositions générales. (art. R*814-1 à R*814-4)](#1152)
+          - [Section 2 : Enseignement supérieur agricole (art. R*814-5 à R*814-27)](#1153)
+            - [Sous-section 1 : Formation des ingénieurs spécialisés en agriculture. (art. R*814-5)](#1154)
+            - [Sous-section 2 : Formation des spécialistes en horticulture. (art. R*814-6)](#1155)
+            - [Sous-section 3 : Formation des paysagistes DPLG. (art. R*814-7 à R*814-7-3)](#1156)
+            - [Sous-section 4 : Formation des ingénieurs des industries agricoles et alimentaires. (art. R*814-8 à R*814-9)](#1157)
+            - [Sous-section 5 : Formation des ingénieurs agronomes à vocation générale (art. R*814-10 à R*814-26)](#1158)
+              - [Paragraphe 1 : Dispositions générales. (art. R*814-10 à R*814-19)](#1159)
+              - [Paragraphe 2 : Dispositions particulières aux élèves étrangers. (art. R*814-20 à R*814-26)](#1160)
+            - [Sous-section 6 : Dispositions relatives à la délivrance des diplômes. (art. R*814-27)](#1161)
+          - [Section 3 : Enseignement supérieur vétérinaire (art. R*814-28 à R*814-43-1)](#1162)
+            - [Sous-section 1 : Dispositions générales. (art. R*814-28 à R*814-29)](#1163)
+            - [Sous-section 2 : Conditions d'admission des élèves. (art. R*814-30 à R*814-31)](#1164)
+            - [Sous-section 3 : Enseignement et recherche. (art. R*814-32 à R*814-36)](#1165)
+            - [Sous-section 4 : Administration. (art. R*814-37)](#1166)
+            - [Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire. (art. R*814-38 à R*814-43)](#1167)
+            - [Sous-section 6 : Conseil national de la spécialisation vétérinaire. (art. R*814-43-1)](#1168)
+          - [Section 4 : Enseignement de l'agronomie des régions chaudes (art. R*814-44 à R*814-61)](#1169)
+            - [Sous-section 1 : Dispositions générales. (art. R*814-44 à R*814-47)](#1170)
+            - [Sous-section 2 : Administration du centre. (art. R*814-48 à R*814-57)](#1171)
+            - [Sous-section 3 : Régime financier du centre. (art. R*814-58 à R*814-61)](#1172)
+        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#1173)
+          - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#1174)
+          - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#1175)
+        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-3)](#1176)
+      - [Titre II : Développement agricole (art. R*821-1 à R825-4)](#1177)
+        - [Chapitre Ier : Actions de développement agricole. (art. R*821-1 à R*821-4)](#1178)
+        - [Chapitre II : Convention avec l'association nationale pour le développement agricole. (art. R*822-1 à R*822-4)](#1179)
+        - [Chapitre III : Fonds national de développement agricole. (art. R*823-1 à R*823-19)](#1180)
+        - [Chapitre IV : Programmes départementaux, régionaux et national de développement agricole (art. R824-1 à R824-10)](#1181)
+          - [Section 1 : Programmes départementaux. (art. R824-1 à R824-4)](#1182)
+          - [Section 2 : Programmes régionaux. (art. R824-5 à R824-8)](#1183)
+          - [Section 3 : Programme national. (art. R824-9 à R824-10)](#1184)
+        - [Chapitre V : Conventions de développement. (art. R825-1 à R825-4)](#1185)
+      - [Titre III : Recherche agronomique (art. R831-1 à R832-19)](#1186)
+        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#1187)
+          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#1188)
+          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#1189)
+          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#1190)
+        - [Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts (art. R832-1 à R832-19)](#1191)
+          - [Section 1 : Dispositions générales (art. R832-1 à R832-3)](#1192)
+          - [Section 2 : Administration et direction du centre. (art. R*832-4 à R832-10)](#1193)
+          - [Section 3 : Organisation du centre. (art. R832-11 à R832-14)](#1194)
+          - [Section 4 : Conseil scientifique et technique et commissions spécialisées (art. R832-15 à R832-16)](#1195)
+          - [Section 5 : Dispositions diverses (art. R832-17 à R832-19)](#1196)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Aménagement et équipement de l'espace rural<a id=2></a>
@@ -2855,11 +2853,12 @@ _Modifié par_:
 
 ###### Article L121-24
 
-Des parcelles, incluses dans le périmètre d'un aménagement foncier visé aux 1°, 2°, 5° ou 6° de l'article L. 121-1, d'une
-superficie inférieure à un seuil fixé par la commission départementale d'aménagement foncier par nature de culture dans la
-limite d'un hectare, d'une valeur inférieure au montant fixé à l'article 704 du code général des impôts et ne faisant pas
-partie des catégories d'immeubles visés aux articles L. 123-2 et L. 123-3, peuvent faire l'objet d'une cession à titre
-onéreux dans les conditions ci-après définies.
+Lorsqu'un propriétaire ne possède, au sein du périmètre d'un aménagement foncier visé aux 1°, 2°, 5° ou 6° de l'article L.
+121-1, qu'une parcelle ou un ensemble de parcelles de même nature de culture d'une superficie totale inférieure à un seuil
+fixé par la commission départementale d'aménagement foncier dans la limite d'un hectare et demi et d'une valeur inférieure à
+1,5 fois le montant fixé à l'article 704 du code général des impôts et que cette parcelle ou cet ensemble de parcelles ne
+fait pas partie des catégories d'immeubles visées aux articles L. 123-2 et L. 123-3, ce propriétaire peut vendre cette
+parcelle ou cet ensemble de parcelles dans les conditions définies ci-après.
 
 Le projet de cession, passé par acte sous seing privé, est adressé pour autorisation à la commission communale ou
 intercommunale qui s'assure que la mutation envisagée n'est pas de nature à entraver la réalisation de l'aménagement foncier.
@@ -2883,7 +2882,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°95-95 du 1 février 1995 - art. 56 () JORF 2 février 1995
+  - Loi n°96-314 du 12 avril 1996 - art. 67 () JORF 13 avril 1996
 
 _Cité par_:
 
@@ -60739,95 +60738,11 @@ _Créé par_:
   - Décret n°94-198 du 8 mars 1994 - art. 4 () JORF 9 mars 1994
 
 
-#### Chapitre IV : Dispositions diverses relatives à la conservation de la flore<a id=621></a>
+#### Chapitre V : Dispositions pénales<a id=621></a>
 
-##### Section 1 : Conservatoires botaniques nationaux.<a id=622></a>
+##### Section 1 : Peines<a id=622></a>
 
-###### Article R214-4
-
-La commission des conservatoires botaniques nationaux est composée, sous la présidence du ministre chargé de la protection de
-la nature ou de son représentant, de :
-
-1° Quatre membres de droit :
-
-a) Le directeur du bureau des ressources génétiques, ou son représentant ;
-
-b) Le directeur général du Centre national de la recherche scientifique, ou son représentant ;
-
-c) Le directeur général de l'Institut national de la recherche agronomique, ou son représentant ;
-
-d) Le directeur du Muséum national d'histoire naturelle, ou son représentant.
-
-2° Huit membres nommés, pour une durée de quatre ans renouvelable, par le ministre chargé de la protection de la nature :
-
-a) Un représentant de l'Association française pour la conservation des espèces végétales, proposé par cette association ;
-
-b) Un représentant de la Société botanique de France, proposé par cette association ;
-
-c) Un représentant de la Fédération française des sociétés de protection de la nature, proposé par cette association ;
-
-d) Un représentant de l'Association des responsables techniques de jardins botaniques, proposé par cette association ;
-
-e) Un membre du Conseil national de la protection de la nature, proposé par cette instance ;
-
-f) Trois personnalités scientifiques.
-
-Un membre nommé peut être remplacé, en tant que de besoin, par un suppléant si celui-ci a été nommé en même temps que lui sur
-proposition de l'organisme qu'il représente.
-
-En cas de partage égal des voix, le président de la commission a voix prépondérante.
-
-Toute personnalité ou tout représentant d'organisme qualifié peut être appelé, en tant que de besoin, à assister aux séances
-de la commission à titre consultatif.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°88-352 du 12 avril 1988 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-
-###### Article R214-14
-
-L'usage de la marque collective mentionnée à l'article R. 214-2 déposée au nom de l'Etat par le ministre chargé de la
-protection de la nature, ne peut être confié qu'à un établissement agréé en tant que conservatoire botanique national.
-
-Les modalités de cet usage sont fixées par le règlement joint au dépôt de marque.
-
-Le retrait de l'agrément emporte interdiction pour l'établissement d'utiliser la marque déposée.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R214-2
-
-_Anciens textes_:
-
-  - Décret n°88-352 du 12 avril 1988 - art. 14 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-
-#### Chapitre V : Dispositions pénales<a id=623></a>
-
-##### Section 1 : Peines<a id=624></a>
-
-##### Sous-section 1 : Préservation du patrimoine biologique.<a id=625></a>
+##### Sous-section 1 : Préservation du patrimoine biologique.<a id=623></a>
 
 ###### Article R*215-1
 
@@ -60902,7 +60817,7 @@ _Nouveaux textes_:
   - Code de l'environnement R215-2
 
 
-##### Sous-section 2 : Activités soumises à autorisation.<a id=626></a>
+##### Sous-section 2 : Activités soumises à autorisation.<a id=624></a>
 
 ###### Article R*215-3
 
@@ -60937,11 +60852,11 @@ _Nouveaux textes_:
   - Code de l'environnement R215-3
 
 
-### Titre II : Chasse<a id=627></a>
+### Titre II : Chasse<a id=625></a>
 
-#### Chapitre Ier : Organisation de la chasse<a id=628></a>
+#### Chapitre Ier : Organisation de la chasse<a id=626></a>
 
-##### Section 1 : Conseil national de la chasse et de la faune sauvage.<a id=629></a>
+##### Section 1 : Conseil national de la chasse et de la faune sauvage.<a id=627></a>
 
 ###### Article R*221-1
 
@@ -61184,9 +61099,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*221-7 (Ab)
 
 
-##### Section 2 : Office national de la chasse<a id=630></a>
+##### Section 2 : Office national de la chasse<a id=628></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=631></a>
+##### Sous-section 1 : Dispositions générales.<a id=629></a>
 
 ###### Article R*221-8
 
@@ -61249,9 +61164,9 @@ _Cité par_:
   - Arrêté du 21 janvier 2009 - art. 3 (V)
 
 
-##### Sous-section 2 : Administration générale<a id=632></a>
+##### Sous-section 2 : Administration générale<a id=630></a>
 
-##### Paragraphe 1 : Conseil d'administration.<a id=633></a>
+##### Paragraphe 1 : Conseil d'administration.<a id=631></a>
 
 ###### Article R*221-10
 
@@ -61466,7 +61381,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 2 : Directeur.<a id=634></a>
+##### Paragraphe 2 : Directeur.<a id=632></a>
 
 ###### Article R*221-16
 
@@ -61505,7 +61420,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 3 : Personnels.<a id=635></a>
+##### Paragraphe 3 : Personnels.<a id=633></a>
 
 ###### Article R*221-17
 
@@ -61533,7 +61448,7 @@ _Cité par_:
   - Arrêté du 28 octobre 2009 (V)
 
 
-##### Sous-section 3 : Dispositions financières.<a id=636></a>
+##### Sous-section 3 : Dispositions financières.<a id=634></a>
 
 ###### Article R*221-18
 
@@ -61645,7 +61560,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 4 : Contrôle.<a id=637></a>
+##### Sous-section 4 : Contrôle.<a id=635></a>
 
 ###### Article R*221-22
 
@@ -61719,7 +61634,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 3 : Régions cynégétiques.<a id=638></a>
+##### Section 3 : Régions cynégétiques.<a id=636></a>
 
 ###### Article R*221-24
 
@@ -61786,7 +61701,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 4 : Conseil départemental de la chasse et de la faune sauvage.<a id=639></a>
+##### Section 4 : Conseil départemental de la chasse et de la faune sauvage.<a id=637></a>
 
 ###### Article R*221-27
 
@@ -61926,9 +61841,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 5 : Fédérations des chasseurs<a id=640></a>
+##### Section 5 : Fédérations des chasseurs<a id=638></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=641></a>
+##### Sous-section 1 : Dispositions générales.<a id=639></a>
 
 ###### Article R*221-32
 
@@ -62038,7 +61953,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 6 : Dispositions diverses.<a id=642></a>
+##### Section 6 : Dispositions diverses.<a id=640></a>
 
 ###### Article R*221-39
 
@@ -62059,9 +61974,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-#### Chapitre II : Territoire de chasse<a id=643></a>
+#### Chapitre II : Territoire de chasse<a id=641></a>
 
-##### Section 1 : Associations communales et intercommunales de chasse agréées.<a id=644></a>
+##### Section 1 : Associations communales et intercommunales de chasse agréées.<a id=642></a>
 
 ###### Article R*222-1
 
@@ -62182,9 +62097,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 1 : Institution des associations communales de chasse agréées<a id=645></a>
+##### Sous-section 1 : Institution des associations communales de chasse agréées<a id=643></a>
 
-##### Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées.<a id=646></a>
+##### Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées.<a id=644></a>
 
 ###### Article R*222-5
 
@@ -62410,7 +62325,7 @@ _Cité par_:
   - Arrêté du 4 novembre 2010 - art. 1 (V)
 
 
-##### Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées dans certaines communes.<a id=647></a>
+##### Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées dans certaines communes.<a id=645></a>
 
 ###### Article R*222-12
 
@@ -62549,9 +62464,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 2 : Modalités de constitution de l'association communale de chasse agréée<a id=648></a>
+##### Sous-section 2 : Modalités de constitution de l'association communale de chasse agréée<a id=646></a>
 
-##### Paragraphe 1 : Enquête.<a id=649></a>
+##### Paragraphe 1 : Enquête.<a id=647></a>
 
 ###### Article R*222-17
 
@@ -63071,7 +62986,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*222-32 (Ab)
 
 
-##### Paragraphe 2 : Assemblée constitutive et agrément de l'association communale de chasse agréée.<a id=650></a>
+##### Paragraphe 2 : Assemblée constitutive et agrément de l'association communale de chasse agréée.<a id=648></a>
 
 ###### Article R*222-33
 
@@ -63358,9 +63273,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 3 : Territoire<a id=651></a>
+##### Sous-section 3 : Territoire<a id=649></a>
 
-##### Paragraphe 2 : Terrains faisant l'objet d'une opposition.<a id=652></a>
+##### Paragraphe 2 : Terrains faisant l'objet d'une opposition.<a id=650></a>
 
 ###### Article R*222-42
 
@@ -63493,7 +63408,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 3 : Apports.<a id=653></a>
+##### Paragraphe 3 : Apports.<a id=651></a>
 
 ###### Article R*222-47
 
@@ -63613,7 +63528,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 4 : Indemnisation des apports.<a id=654></a>
+##### Paragraphe 4 : Indemnisation des apports.<a id=652></a>
 
 ###### Article R*222-51
 
@@ -63703,7 +63618,7 @@ _Nouveaux textes_:
   - Code de l'environnement R222-53
 
 
-##### Paragraphe 5 : Modification du territoire de l'association.<a id=655></a>
+##### Paragraphe 5 : Modification du territoire de l'association.<a id=653></a>
 
 ###### Article R*222-54
 
@@ -63878,7 +63793,7 @@ _Cite_:
   - Code rural R222-54 à R222-57, R222-47 à R222-50
 
 
-##### Paragraphe 6 : Enclaves.<a id=656></a>
+##### Paragraphe 6 : Enclaves.<a id=654></a>
 
 ###### Article R*222-59
 
@@ -63984,7 +63899,7 @@ _Nouveaux textes_:
   - Code de l'environnement R222-61
 
 
-##### Sous-section 4 : Dispositions obligatoires des statuts des associations communales de chasse agréées.<a id=657></a>
+##### Sous-section 4 : Dispositions obligatoires des statuts des associations communales de chasse agréées.<a id=655></a>
 
 ###### Article R*222-62
 
@@ -64186,7 +64101,7 @@ _Nouveaux textes_:
   - Code de l'environnement R222-64
 
 
-##### Sous-section 5 : Réserves et garderie.<a id=658></a>
+##### Sous-section 5 : Réserves et garderie.<a id=656></a>
 
 ###### Article R*222-65
 
@@ -64326,7 +64241,7 @@ _Abrogé par_:
   - Décret n°2002-705 du 30 avril 2002 - art. 2 () JORF 3 mai 2002
 
 
-##### Sous-section 6 : Association intercommunale de chasse agréée.<a id=659></a>
+##### Sous-section 6 : Association intercommunale de chasse agréée.<a id=657></a>
 
 ###### Article R*222-70
 
@@ -64353,7 +64268,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 1 : Constitution des associations intercommunales de chasse agréées.<a id=660></a>
+##### Paragraphe 1 : Constitution des associations intercommunales de chasse agréées.<a id=658></a>
 
 ###### Article R*222-71
 
@@ -64502,7 +64417,7 @@ _Nouveaux textes_:
   - Code de l'environnement R222-74
 
 
-##### Paragraphe 2 : Dispositions obligatoires.<a id=661></a>
+##### Paragraphe 2 : Dispositions obligatoires.<a id=659></a>
 
 ###### Article R*222-75
 
@@ -64677,7 +64592,7 @@ _Nouveaux textes_:
   - Code de l'environnement R222-78
 
 
-##### Paragraphe 3 : Réserves et garderie.<a id=662></a>
+##### Paragraphe 3 : Réserves et garderie.<a id=660></a>
 
 ###### Article R*222-79
 
@@ -64711,7 +64626,7 @@ _Abrogé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Sous-section 7 : Dispositions diverses.<a id=663></a>
+##### Sous-section 7 : Dispositions diverses.<a id=661></a>
 
 ###### Article R*222-80
 
@@ -64767,9 +64682,9 @@ _Nouveaux textes_:
   - Code de l'environnement R222-81
 
 
-##### Section 2 : Réserves de chasse et de faune sauvage<a id=664></a>
+##### Section 2 : Réserves de chasse et de faune sauvage<a id=662></a>
 
-##### Sous-section 1 : Institution des réserves de chasse et de faune sauvage.<a id=665></a>
+##### Sous-section 1 : Institution des réserves de chasse et de faune sauvage.<a id=663></a>
 
 ###### Article R*222-82
 
@@ -64904,7 +64819,7 @@ _Cite_:
   - Code forestier - art. L121-2 (V)
 
 
-##### Sous-section 2 : Fonctionnement des réserves de chasse et de faune sauvage.<a id=666></a>
+##### Sous-section 2 : Fonctionnement des réserves de chasse et de faune sauvage.<a id=664></a>
 
 ###### Article R*222-86
 
@@ -65068,7 +64983,7 @@ _Nouveaux textes_:
   - Code de l'environnement R222-91
 
 
-##### Sous-section 3 : Réserves nationales.<a id=667></a>
+##### Sous-section 3 : Réserves nationales.<a id=665></a>
 
 ###### Article R*222-92
 
@@ -65110,7 +65025,7 @@ _Créé par_:
   - Décret n°91-971 du 23 septembre 1991 - art. 2 () JORF 24 septembre 1991
 
 
-##### Section 3 : Chasse maritime.<a id=668></a>
+##### Section 3 : Chasse maritime.<a id=666></a>
 
 ###### Article R*222-93
 
@@ -65144,9 +65059,9 @@ _Abrogé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Section 4 : Exploitation de la chasse sur le domaine de l'Etat<a id=669></a>
+##### Section 4 : Exploitation de la chasse sur le domaine de l'Etat<a id=667></a>
 
-##### Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat.<a id=670></a>
+##### Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat.<a id=668></a>
 
 ###### Article R*222-94
 
@@ -65182,7 +65097,7 @@ _Anciens textes_:
   - Code rural R222-84
 
 
-##### Sous-section 2 : Exploitation de la chasse sur le domaine public fluvial.<a id=671></a>
+##### Sous-section 2 : Exploitation de la chasse sur le domaine public fluvial.<a id=669></a>
 
 ###### Article R*222-95
 
@@ -65248,7 +65163,7 @@ _Nouveaux textes_:
   - Code de l'environnement R222-96
 
 
-##### Sous-section 3 : Exploitation de la chasse sur le domaine public maritime.<a id=672></a>
+##### Sous-section 3 : Exploitation de la chasse sur le domaine public maritime.<a id=670></a>
 
 ###### Article R*222-97
 
@@ -65281,9 +65196,9 @@ _Nouveaux textes_:
   - Code de l'environnement R222-97
 
 
-#### Chapitre III : Permis de chasser.<a id=673></a>
+#### Chapitre III : Permis de chasser.<a id=671></a>
 
-##### Section 1 : Examen pour la délivrance du permis de chasser.<a id=674></a>
+##### Section 1 : Examen pour la délivrance du permis de chasser.<a id=672></a>
 
 ###### Article R*223-2
 
@@ -65454,9 +65369,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 2 : Délivrance, visa et validation du permis de chasser<a id=675></a>
+##### Section 2 : Délivrance, visa et validation du permis de chasser<a id=673></a>
 
-##### Sous-section 1 : Délivrance.<a id=676></a>
+##### Sous-section 1 : Délivrance.<a id=674></a>
 
 ###### Article R*223-9
 
@@ -65635,7 +65550,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 2 : Visa.<a id=677></a>
+##### Sous-section 2 : Visa.<a id=675></a>
 
 ###### Article R*223-12
 
@@ -65919,7 +65834,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 3 : Validation.<a id=678></a>
+##### Sous-section 3 : Validation.<a id=676></a>
 
 ###### Article R*223-23
 
@@ -66042,7 +65957,7 @@ _Cité par_:
   - Code rural - art. R223-30 (V)
 
 
-##### Sous-section 4 : Dispositions propres à la région parisienne.<a id=679></a>
+##### Sous-section 4 : Dispositions propres à la région parisienne.<a id=677></a>
 
 ###### Article R*223-27
 
@@ -66117,7 +66032,7 @@ _Abrogé par_:
   - Décret n°2001-551 du 27 juin 2001 - art. 4 () JORF 28 juin 2001
 
 
-##### Sous-section 6 : Licences.<a id=680></a>
+##### Sous-section 6 : Licences.<a id=678></a>
 
 ###### Article R*223-30
 
@@ -66169,7 +66084,7 @@ _Modifié par_:
   - Décret n°95-1221 du 14 novembre 1995 - art. 1 () JORF 17 novembre 1995
 
 
-##### Sous-section 7 : Refus et exclusions.<a id=681></a>
+##### Sous-section 7 : Refus et exclusions.<a id=679></a>
 
 ###### Article R*223-32
 
@@ -66209,7 +66124,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 3 : Redevances cynégétiques.<a id=682></a>
+##### Section 3 : Redevances cynégétiques.<a id=680></a>
 
 ###### Article R*223-33
 
@@ -66272,7 +66187,7 @@ _Cite_:
   - Code rural R223-33
 
 
-##### Section 4 : Dispositions diverses et d'application.<a id=683></a>
+##### Section 4 : Dispositions diverses et d'application.<a id=681></a>
 
 ###### Article R*223-36
 
@@ -66293,11 +66208,11 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
 
 
-#### Chapitre IV : Exercice de la chasse<a id=684></a>
+#### Chapitre IV : Exercice de la chasse<a id=682></a>
 
-##### Section 2 : Temps de chasse<a id=685></a>
+##### Section 2 : Temps de chasse<a id=683></a>
 
-##### Sous-section 1 : Chasse à courre, à cor et à cri.<a id=686></a>
+##### Sous-section 1 : Chasse à courre, à cor et à cri.<a id=684></a>
 
 ###### Article R*224-1
 
@@ -66357,7 +66272,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*224-2 (M)
 
 
-##### Sous-section 2 : Chasse à tir et chasse au vol.<a id=687></a>
+##### Sous-section 2 : Chasse à tir et chasse au vol.<a id=685></a>
 
 ###### Article R*224-3
 
@@ -66558,7 +66473,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 3 : Dispositions communes.<a id=688></a>
+##### Sous-section 3 : Dispositions communes.<a id=686></a>
 
 ###### Article R*224-7
 
@@ -66674,7 +66589,7 @@ _Anciens textes_:
   - Code rural 373 al. 6, al. 7
 
 
-##### Section 3 : Modes et moyens de chasse.<a id=689></a>
+##### Section 3 : Modes et moyens de chasse.<a id=687></a>
 
 ###### Article R*224-10
 
@@ -66752,9 +66667,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*224-12 (Ab)
 
 
-##### Section 4 : Commercialisation et transport du gibier<a id=690></a>
+##### Section 4 : Commercialisation et transport du gibier<a id=688></a>
 
-##### Sous-section 1 : Interdiction permanente.<a id=691></a>
+##### Sous-section 1 : Interdiction permanente.<a id=689></a>
 
 ###### Article R*224-13
 
@@ -66892,7 +66807,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 5 : Dispositions spéciales à la chasse maritime.<a id=692></a>
+##### Section 5 : Dispositions spéciales à la chasse maritime.<a id=690></a>
 
 ###### Article R*224-17
 
@@ -66927,7 +66842,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*224-17 (Ab)
 
 
-#### Chapitre V : Plan de chasse.<a id=693></a>
+#### Chapitre V : Plan de chasse.<a id=691></a>
 
 ###### Article R*225-1
 
@@ -67314,11 +67229,11 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-#### Chapitre VI : Indemnisation des dégâts de gibier<a id=694></a>
+#### Chapitre VI : Indemnisation des dégâts de gibier<a id=692></a>
 
-##### Section 1 : Indemnisation par l'Office national de la chasse des dégâts causés par les sangliers et les grands gibiers<a id=695></a>
+##### Section 1 : Indemnisation par l'Office national de la chasse des dégâts causés par les sangliers et les grands gibiers<a id=693></a>
 
-##### Sous-section 1 : Compte d'indemnisation.<a id=696></a>
+##### Sous-section 1 : Compte d'indemnisation.<a id=694></a>
 
 ###### Article R*226-1
 
@@ -67452,9 +67367,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R228-12 (V)
 
 
-##### Sous-section 2 : Conditions d'attribution de l'indemnisation pour dégâts de gibier<a id=697></a>
+##### Sous-section 2 : Conditions d'attribution de l'indemnisation pour dégâts de gibier<a id=695></a>
 
-##### Paragraphe 1 : Commission nationale d'indemnisation.<a id=698></a>
+##### Paragraphe 1 : Commission nationale d'indemnisation.<a id=696></a>
 
 ###### Article R*226-6
 
@@ -67524,7 +67439,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 2 : Commission départementale d'indemnisation.<a id=699></a>
+##### Paragraphe 2 : Commission départementale d'indemnisation.<a id=697></a>
 
 ###### Article R*226-8
 
@@ -67649,7 +67564,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 3 : Demandes individuelles d'indemnisation.<a id=700></a>
+##### Paragraphe 3 : Demandes individuelles d'indemnisation.<a id=698></a>
 
 ###### Article R*226-12
 
@@ -67894,7 +67809,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 2 : Dispositions relatives à l'indemnisation judiciaire des dégâts causés aux récoltes.<a id=701></a>
+##### Section 2 : Dispositions relatives à l'indemnisation judiciaire des dégâts causés aux récoltes.<a id=699></a>
 
 ###### Article R*226-20
 
@@ -68181,11 +68096,11 @@ _Cite_:
   - Nouveau code de procédure civile 517 à 522
 
 
-#### Chapitre VII : Destruction des animaux nuisibles et louveterie<a id=702></a>
+#### Chapitre VII : Destruction des animaux nuisibles et louveterie<a id=700></a>
 
-##### Section 1 : Mesures administratives<a id=703></a>
+##### Section 1 : Mesures administratives<a id=701></a>
 
-##### Sous-section 1 : Louveterie.<a id=704></a>
+##### Sous-section 1 : Louveterie.<a id=702></a>
 
 ###### Article R*227-1
 
@@ -68292,7 +68207,7 @@ _Nouveaux textes_:
   - Code de l'environnement R227-3
 
 
-##### Sous-section 3 : Sécurité aérienne.<a id=705></a>
+##### Sous-section 3 : Sécurité aérienne.<a id=703></a>
 
 ###### Article R*227-4
 
@@ -68318,9 +68233,9 @@ _Nouveaux textes_:
   - Code de l'environnement R227-4
 
 
-##### Section 2 : Droits des particuliers<a id=706></a>
+##### Section 2 : Droits des particuliers<a id=704></a>
 
-##### Sous-section 1 : Classement des animaux nuisibles.<a id=707></a>
+##### Sous-section 1 : Classement des animaux nuisibles.<a id=705></a>
 
 ###### Article R*227-5
 
@@ -68388,7 +68303,7 @@ _Nouveaux textes_:
   - Code de l'environnement R227-6
 
 
-##### Sous-section 2 : Exercice du droit de destruction.<a id=708></a>
+##### Sous-section 2 : Exercice du droit de destruction.<a id=706></a>
 
 ###### Article R*227-7
 
@@ -68420,7 +68335,7 @@ _Nouveaux textes_:
   - Code de l'environnement R227-7
 
 
-##### Sous-section 3 : Modalités de destruction.<a id=709></a>
+##### Sous-section 3 : Modalités de destruction.<a id=707></a>
 
 ###### Article R*227-8
 
@@ -68449,7 +68364,7 @@ _Nouveaux textes_:
   - Code de l'environnement R227-8
 
 
-##### Paragraphe 1 : Toxiques.<a id=710></a>
+##### Paragraphe 1 : Toxiques.<a id=708></a>
 
 ###### Article R*227-9
 
@@ -68480,7 +68395,7 @@ _Nouveaux textes_:
   - Code de l'environnement R227-9
 
 
-##### Paragraphe 2 : Déterrage.<a id=711></a>
+##### Paragraphe 2 : Déterrage.<a id=709></a>
 
 ###### Article R*227-10
 
@@ -68531,7 +68446,7 @@ _Nouveaux textes_:
   - Code de l'environnement R227-11
 
 
-##### Paragraphe 3 : Piégeage.<a id=712></a>
+##### Paragraphe 3 : Piégeage.<a id=710></a>
 
 ###### Article R*227-12
 
@@ -68657,7 +68572,7 @@ _Nouveaux textes_:
   - Code de l'environnement R227-15
 
 
-##### Paragraphe 4 : Tir.<a id=713></a>
+##### Paragraphe 4 : Tir.<a id=711></a>
 
 ###### Article R*227-16
 
@@ -68877,7 +68792,7 @@ _Abrogé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Paragraphe 5 : Utilisation des oiseaux de chasse au vol.<a id=714></a>
+##### Paragraphe 5 : Utilisation des oiseaux de chasse au vol.<a id=712></a>
 
 ###### Article R*227-23
 
@@ -68910,7 +68825,7 @@ _Nouveaux textes_:
   - Code de l'environnement R227-23
 
 
-##### Sous-section 4 : Transport, lâcher.<a id=715></a>
+##### Sous-section 4 : Transport, lâcher.<a id=713></a>
 
 ###### Article R*227-24
 
@@ -69003,11 +68918,11 @@ _Nouveaux textes_:
   - Code de l'environnement R227-26
 
 
-#### Chapitre VIII : Dispositions pénales<a id=716></a>
+#### Chapitre VIII : Dispositions pénales<a id=714></a>
 
-##### Section 1 : Peines<a id=717></a>
+##### Section 1 : Peines<a id=715></a>
 
-##### Sous-section 1 : Territoire.<a id=718></a>
+##### Sous-section 1 : Territoire.<a id=716></a>
 
 ###### Article R*228-1
 
@@ -69080,7 +68995,7 @@ _Nouveaux textes_:
   - Code de l'environnement R228-2
 
 
-##### Sous-section 2 : Permis de chasser.<a id=719></a>
+##### Sous-section 2 : Permis de chasser.<a id=717></a>
 
 ###### Article R*228-3
 
@@ -69149,9 +69064,9 @@ _Abrogé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Sous-section 3 : Exercice de la chasse<a id=720></a>
+##### Sous-section 3 : Exercice de la chasse<a id=718></a>
 
-##### Paragraphe 1 : Protection du gibier.<a id=721></a>
+##### Paragraphe 1 : Protection du gibier.<a id=719></a>
 
 ###### Article R*228-5
 
@@ -69226,7 +69141,7 @@ _Nouveaux textes_:
   - Code de l'environnement R228-6
 
 
-##### Paragraphe 2 : Temps de chasse.<a id=722></a>
+##### Paragraphe 2 : Temps de chasse.<a id=720></a>
 
 ###### Article R*228-7
 
@@ -69260,7 +69175,7 @@ _Nouveaux textes_:
   - Code de l'environnement R228-7
 
 
-##### Paragraphe 3 : Modes et moyens.<a id=723></a>
+##### Paragraphe 3 : Modes et moyens.<a id=721></a>
 
 ###### Article R*228-8
 
@@ -69294,7 +69209,7 @@ _Nouveaux textes_:
   - Code de l'environnement R228-8
 
 
-##### Paragraphe 4 : Transport et commercialisation du gibier.<a id=724></a>
+##### Paragraphe 4 : Transport et commercialisation du gibier.<a id=722></a>
 
 ###### Article R*228-9
 
@@ -69481,7 +69396,7 @@ _Nouveaux textes_:
   - Code de l'environnement R228-14
 
 
-##### Sous-section 4 : Plan de chasse.<a id=725></a>
+##### Sous-section 4 : Plan de chasse.<a id=723></a>
 
 ###### Article R*228-15
 
@@ -69531,7 +69446,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
 
 
-##### Sous-section 5 : Destruction des animaux nuisibles et louveterie.<a id=726></a>
+##### Sous-section 5 : Destruction des animaux nuisibles et louveterie.<a id=724></a>
 
 ###### Article R*228-17
 
@@ -69561,7 +69476,7 @@ _Nouveaux textes_:
   - Code de l'environnement R228-17
 
 
-##### Section 2 : Circonstances aggravantes et récidive.<a id=727></a>
+##### Section 2 : Circonstances aggravantes et récidive.<a id=725></a>
 
 ###### Article R*228-18
 
@@ -69632,9 +69547,9 @@ _Nouveaux textes_:
   - Code de l'environnement R228-19
 
 
-##### Section 4 : Constatation et poursuites<a id=728></a>
+##### Section 4 : Constatation et poursuites<a id=726></a>
 
-##### Sous-section 1 : Constatation des infractions.<a id=729></a>
+##### Sous-section 1 : Constatation des infractions.<a id=727></a>
 
 ###### Article R*228-20
 
@@ -69655,7 +69570,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
 
 
-#### Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=730></a>
+#### Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=728></a>
 
 ###### Article R*229-1
 
@@ -69693,9 +69608,9 @@ _Cite_:
   - Code rural R222-1 à R222-81, R224-4, R224-8, R224-11, R225-10, R222-1 R226-3 à R226-29, R228-1 et R228-8
 
 
-##### Section 2 : Exercice de la chasse<a id=731></a>
+##### Section 2 : Exercice de la chasse<a id=729></a>
 
-##### Sous-section 1 : Temps de chasse.<a id=732></a>
+##### Sous-section 1 : Temps de chasse.<a id=730></a>
 
 ###### Article R*229-2
 
@@ -69816,7 +69731,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*229-5 (Ab)
 
 
-##### Sous-section 2 : Modes et moyens de chasse.<a id=733></a>
+##### Sous-section 2 : Modes et moyens de chasse.<a id=731></a>
 
 ###### Article R*229-6
 
@@ -69850,7 +69765,7 @@ _Abrogé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Section 3 : Plan de chasse.<a id=734></a>
+##### Section 3 : Plan de chasse.<a id=732></a>
 
 ###### Article R*229-7
 
@@ -69880,9 +69795,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*229-7 (Ab)
 
 
-##### Section 4 : Indemnisation des dégâts de gibier<a id=735></a>
+##### Section 4 : Indemnisation des dégâts de gibier<a id=733></a>
 
-##### Sous-section 1 : Indemnisation des dégâts de gibier autre que le sanglier.<a id=736></a>
+##### Sous-section 1 : Indemnisation des dégâts de gibier autre que le sanglier.<a id=734></a>
 
 ###### Article R*229-8
 
@@ -70114,7 +70029,7 @@ _Anciens textes_:
   - Loi locale 1899-04-17 art. 25
 
 
-##### Sous-section 2 : Indemnisation des dégâts causés par les sangliers.<a id=737></a>
+##### Sous-section 2 : Indemnisation des dégâts causés par les sangliers.<a id=735></a>
 
 ###### Article R*229-15
 
@@ -70186,7 +70101,7 @@ _Anciens textes_:
   - Loi n°1925-07-29 art. 6
 
 
-##### Sous-section 3 : Dispositions diverses.<a id=738></a>
+##### Sous-section 3 : Dispositions diverses.<a id=736></a>
 
 ###### Article R*229-17
 
@@ -70221,11 +70136,11 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*229-17 (Ab)
 
 
-##### Section 5 : Pénalités<a id=739></a>
+##### Section 5 : Pénalités<a id=737></a>
 
-##### Sous-section 1 : Peines<a id=740></a>
+##### Sous-section 1 : Peines<a id=738></a>
 
-##### Paragraphe 1 : Territoire.<a id=741></a>
+##### Paragraphe 1 : Territoire.<a id=739></a>
 
 ###### Article R*229-18
 
@@ -70285,7 +70200,7 @@ _Anciens textes_:
   - Loi locale 1883-05-07 art. 14 al. 1
 
 
-##### Paragraphe 2 : Exercice de la chasse.<a id=742></a>
+##### Paragraphe 2 : Exercice de la chasse.<a id=740></a>
 
 ###### Article R*229-20
 
@@ -70319,7 +70234,7 @@ _Anciens textes_:
   - Loi locale 1883-05-07 art. 12 al. 1
 
 
-##### Sous-section 2 : Récidive.<a id=743></a>
+##### Sous-section 2 : Récidive.<a id=741></a>
 
 ###### Article R*229-21
 
@@ -70353,11 +70268,11 @@ _Anciens textes_:
   - Loi locale 1883-05-07 art. 16 al. 1
 
 
-### Titre III : Pêche en eau douce et gestion des ressources piscicoles<a id=744></a>
+### Titre III : Pêche en eau douce et gestion des ressources piscicoles<a id=742></a>
 
-#### Chapitre Ier : Champ d'application<a id=745></a>
+#### Chapitre Ier : Champ d'application<a id=743></a>
 
-##### Section 1 : Dispositions générales.<a id=746></a>
+##### Section 1 : Dispositions générales.<a id=744></a>
 
 ###### Article R*231-1
 
@@ -70582,9 +70497,9 @@ _Nouveaux textes_:
   - Code de l'environnement R231-6
 
 
-##### Section 2 : Piscicultures<a id=747></a>
+##### Section 2 : Piscicultures<a id=745></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=748></a>
+##### Sous-section 1 : Dispositions générales.<a id=746></a>
 
 ###### Article R*231-7
 
@@ -70722,7 +70637,7 @@ _Nouveaux textes_:
   - Code de l'environnement R231-10
 
 
-##### Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture.<a id=749></a>
+##### Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture.<a id=747></a>
 
 ###### Article R*231-11
 
@@ -71334,7 +71249,7 @@ _Nouveaux textes_:
   - Code de l'environnement R231-26
 
 
-##### Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture.<a id=750></a>
+##### Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture.<a id=748></a>
 
 ###### Article R*231-27
 
@@ -71617,7 +71532,7 @@ _Cite_:
   - Code rural R231-23 à R231-26
 
 
-##### Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984.<a id=751></a>
+##### Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984.<a id=749></a>
 
 ###### Article R*231-35
 
@@ -71744,7 +71659,7 @@ _Nouveaux textes_:
   - Code de l'environnement R231-37
 
 
-##### Sous-section 5 : Dispositions diverses.<a id=752></a>
+##### Sous-section 5 : Dispositions diverses.<a id=750></a>
 
 ###### Article R*231-38
 
@@ -71989,9 +71904,9 @@ _Nouveaux textes_:
   - Code de l'environnement R231-44
 
 
-#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=753></a>
+#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=751></a>
 
-##### Section 2 : Protection de la faune piscicole et de son habitat.<a id=754></a>
+##### Section 2 : Protection de la faune piscicole et de son habitat.<a id=752></a>
 
 ###### Article R*232-1
 
@@ -72025,7 +71940,7 @@ _Nouveaux textes_:
   - Code de l'environnement R232-1
 
 
-##### Section 4 : Contrôle des peuplements.<a id=755></a>
+##### Section 4 : Contrôle des peuplements.<a id=753></a>
 
 ###### Article R*232-3
 
@@ -72749,7 +72664,7 @@ _Créé par_:
   - Décret n°95-40 du 6 janvier 1995 - art. 2 () JORF 13 janvier 1995
 
 
-##### Section 3 : Obligations relatives aux ouvrages.<a id=756></a>
+##### Section 3 : Obligations relatives aux ouvrages.<a id=754></a>
 
 ###### Article R*232-2
 
@@ -72781,9 +72696,9 @@ _Nouveaux textes_:
   - Code de l'environnement R232-2
 
 
-#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=757></a>
+#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=755></a>
 
-##### Section 1 : Orientations de bassin.<a id=758></a>
+##### Section 1 : Orientations de bassin.<a id=756></a>
 
 ###### Article R233-1
 
@@ -73220,11 +73135,11 @@ _Abrogé par_:
   - Décret n°96-563 du 18 juin 1996 - art. 1 () JORF 25 juin 1996
 
 
-#### Chapitre IV : Organisation des pêcheurs<a id=759></a>
+#### Chapitre IV : Organisation des pêcheurs<a id=757></a>
 
-##### Section 1 : Conseil supérieur de la pêche<a id=760></a>
+##### Section 1 : Conseil supérieur de la pêche<a id=758></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=761></a>
+##### Sous-section 1 : Dispositions générales.<a id=759></a>
 
 ###### Article R*234-1
 
@@ -73392,7 +73307,7 @@ _Nouveaux textes_:
   - Code de l'environnement R234-4
 
 
-##### Sous-section 2 : Administration du conseil supérieur de la pêche<a id=762></a>
+##### Sous-section 2 : Administration du conseil supérieur de la pêche<a id=760></a>
 
 ###### Article R*234-5
 
@@ -73425,7 +73340,7 @@ _Nouveaux textes_:
   - Code de l'environnement R234-5
 
 
-##### Paragraphe 1 : Le conseil d'administration.<a id=763></a>
+##### Paragraphe 1 : Le conseil d'administration.<a id=761></a>
 
 ###### Article R*234-7
 
@@ -73732,7 +73647,7 @@ _Nouveaux textes_:
   - Code de l'environnement R234-6
 
 
-##### Paragraphe 2 : Le directeur général.<a id=764></a>
+##### Paragraphe 2 : Le directeur général.<a id=762></a>
 
 ###### Article R*234-12
 
@@ -73800,7 +73715,7 @@ _Nouveaux textes_:
   - Code de l'environnement R234-13
 
 
-##### Paragraphe 3 : Les gardes-pêche.<a id=765></a>
+##### Paragraphe 3 : Les gardes-pêche.<a id=763></a>
 
 ###### Article R*234-14
 
@@ -73863,9 +73778,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 3 : Dispositions financières et comptables<a id=766></a>
+##### Sous-section 3 : Dispositions financières et comptables<a id=764></a>
 
-##### Paragraphe 1 : Organisation financière et comptable.<a id=767></a>
+##### Paragraphe 1 : Organisation financière et comptable.<a id=765></a>
 
 ###### Article R*234-16
 
@@ -74047,7 +73962,7 @@ _Nouveaux textes_:
   - Code de l'environnement R234-20
 
 
-##### Paragraphe 2 : Contrôles.<a id=768></a>
+##### Paragraphe 2 : Contrôles.<a id=766></a>
 
 ###### Article R234-21
 
@@ -74083,7 +73998,7 @@ _Cite_:
   - Décret n°1935-10-25
 
 
-##### Section 2 : Pêche de loisir.<a id=769></a>
+##### Section 2 : Pêche de loisir.<a id=767></a>
 
 ###### Article R*234-22
 
@@ -74518,7 +74433,7 @@ _Cite_:
   - Code rural L234-4
 
 
-##### Section 3 : Pêche professionnelle.<a id=770></a>
+##### Section 3 : Pêche professionnelle.<a id=768></a>
 
 ###### Article R*234-35
 
@@ -74808,7 +74723,7 @@ _Nouveaux textes_:
   - Code de l'environnement R234-43
 
 
-#### Chapitre V : Droit de pêche<a id=771></a>
+#### Chapitre V : Droit de pêche<a id=769></a>
 
 ###### Article R*235-1
 
@@ -74838,9 +74753,9 @@ _Nouveaux textes_:
   - Code de l'environnement R235-1
 
 
-##### Section 1 : Droit de pêche de l'Etat<a id=772></a>
+##### Section 1 : Droit de pêche de l'Etat<a id=770></a>
 
-##### Sous-section 1 : Conditions générales d'exploitation.<a id=773></a>
+##### Sous-section 1 : Conditions générales d'exploitation.<a id=771></a>
 
 ###### Article R*235-2
 
@@ -75371,7 +75286,7 @@ _Nouveaux textes_:
   - Code de l'environnement R235-13-1
 
 
-##### Sous-section 2 : Modalités de location des lots.<a id=774></a>
+##### Sous-section 2 : Modalités de location des lots.<a id=772></a>
 
 ###### Article R*235-14
 
@@ -75716,7 +75631,7 @@ _Cite_:
   - Code rural L237-1
 
 
-##### Sous-section 3 : Procédure d'adjudication publique.<a id=775></a>
+##### Sous-section 3 : Procédure d'adjudication publique.<a id=773></a>
 
 ###### Article R*235-22
 
@@ -75945,7 +75860,7 @@ _Nouveaux textes_:
   - Code de l'environnement R235-28
 
 
-##### Section 3 : Droit de passage.<a id=776></a>
+##### Section 3 : Droit de passage.<a id=774></a>
 
 ###### Article R*235-29
 
@@ -75972,9 +75887,9 @@ _Modifié par_:
   - Loi n°92-1336 du 16 décembre 1992 - art. 327 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
-#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=777></a>
+#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=775></a>
 
-##### Section 1 : Dispositions générales<a id=778></a>
+##### Section 1 : Dispositions générales<a id=776></a>
 
 ###### Article R*236-2
 
@@ -76084,9 +75999,9 @@ _Nouveaux textes_:
   - Code de l'environnement R236-5
 
 
-##### Sous-section 1 : Temps et heures d'interdiction<a id=779></a>
+##### Sous-section 1 : Temps et heures d'interdiction<a id=777></a>
 
-##### Paragraphe 1 : Temps d'interdiction.<a id=780></a>
+##### Paragraphe 1 : Temps d'interdiction.<a id=778></a>
 
 ###### Article R*236-6
 
@@ -76228,7 +76143,7 @@ _Cite_:
   - Code rural L232-9
 
 
-##### Paragraphe 2 : Heures d'interdiction.<a id=781></a>
+##### Paragraphe 2 : Heures d'interdiction.<a id=779></a>
 
 ###### Article R*236-18
 
@@ -76387,7 +76302,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-20
 
 
-##### Sous-section 2 : Taille minimale des poissons et des écrevisses.<a id=782></a>
+##### Sous-section 2 : Taille minimale des poissons et des écrevisses.<a id=780></a>
 
 ###### Article R*236-23
 
@@ -76504,7 +76419,7 @@ _Cite_:
   - Code rural R236-23
 
 
-##### Sous-section 3 : Nombre de captures autorisées, conditions de capture.<a id=783></a>
+##### Sous-section 3 : Nombre de captures autorisées, conditions de capture.<a id=781></a>
 
 ###### Article R*236-28
 
@@ -76542,7 +76457,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 4 : Procédés et modes de pêche autorisés.<a id=784></a>
+##### Sous-section 4 : Procédés et modes de pêche autorisés.<a id=782></a>
 
 ###### Article R*236-30
 
@@ -76830,7 +76745,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-39
 
 
-##### Sous-section 5 : Procédés et modes de pêche prohibés.<a id=785></a>
+##### Sous-section 5 : Procédés et modes de pêche prohibés.<a id=783></a>
 
 ###### Article R*236-40
 
@@ -77068,7 +76983,7 @@ _Abrogé par_:
   - Décret n°2002-965 du 2 juillet 2002 - art. 14 (V) JORF 9 juillet 2002
 
 
-##### Sous-section 6 : Dispositions diverses.<a id=786></a>
+##### Sous-section 6 : Dispositions diverses.<a id=784></a>
 
 ###### Article R*236-51
 
@@ -77146,7 +77061,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-53
 
 
-##### Sous-section 7 : Dispositions pénales.<a id=787></a>
+##### Sous-section 7 : Dispositions pénales.<a id=785></a>
 
 ###### Article R*236-54
 
@@ -77284,7 +77199,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-61
 
 
-##### Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories.<a id=788></a>
+##### Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories.<a id=786></a>
 
 ###### Article R*236-62
 
@@ -77436,9 +77351,9 @@ _Abrogé par_:
   - Décret n°97-482 du 9 mai 1997 - art. 2 (V) JORF 16 mai 1997
 
 
-##### Section 2 : Autorisations exceptionnelles<a id=789></a>
+##### Section 2 : Autorisations exceptionnelles<a id=787></a>
 
-##### Sous-section 1 : Autorisations de capture et de transport du poisson destiné à la reproduction ou au repeuplement et autorisations de capture du poisson à des fins sanitaires ou en cas de déséquilibres biologiques et de transport de ce poisson.<a id=790></a>
+##### Sous-section 1 : Autorisations de capture et de transport du poisson destiné à la reproduction ou au repeuplement et autorisations de capture du poisson à des fins sanitaires ou en cas de déséquilibres biologiques et de transport de ce poisson.<a id=788></a>
 
 ###### Article R*236-67
 
@@ -77662,7 +77577,7 @@ _Abrogé par_:
   - Décret n°97-787 du 31 juillet 1997 - art. 3 (V) JORF 13 août 1997
 
 
-##### Sous-section 2 : Autorisations de capture du poisson à des fins scientifiques et de transport de ce poisson.<a id=791></a>
+##### Sous-section 2 : Autorisations de capture du poisson à des fins scientifiques et de transport de ce poisson.<a id=789></a>
 
 ###### Article R*236-74
 
@@ -77822,7 +77737,7 @@ _Abrogé par_:
   - Décret n°97-787 du 31 juillet 1997 - art. 3 (V) JORF 13 août 1997
 
 
-##### Sous-section 3 : Dispositions communes.<a id=792></a>
+##### Sous-section 3 : Dispositions communes.<a id=790></a>
 
 ###### Article R*236-79
 
@@ -77962,9 +77877,9 @@ _Abrogé par_:
   - Décret n°97-787 du 31 juillet 1997 - art. 3 (V) JORF 13 août 1997
 
 
-##### Section 4 : Réserves et interdictions permanentes de pêche<a id=793></a>
+##### Section 4 : Réserves et interdictions permanentes de pêche<a id=791></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=794></a>
+##### Sous-section 1 : Dispositions générales.<a id=792></a>
 
 ###### Article R*236-84
 
@@ -78000,7 +77915,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-84
 
 
-##### Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche.<a id=795></a>
+##### Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche.<a id=793></a>
 
 ###### Article R*236-85
 
@@ -78137,7 +78052,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-89
 
 
-##### Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche.<a id=796></a>
+##### Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche.<a id=794></a>
 
 ###### Article R*236-91
 
@@ -78196,7 +78111,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-92
 
 
-##### Sous-section 4 : Dispositions communes.<a id=797></a>
+##### Sous-section 4 : Dispositions communes.<a id=795></a>
 
 ###### Article R*236-93
 
@@ -78296,7 +78211,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-95
 
 
-##### Section 5 : Commercialisation.<a id=798></a>
+##### Section 5 : Commercialisation.<a id=796></a>
 
 ###### Article R*236-96
 
@@ -78359,9 +78274,9 @@ _Nouveaux textes_:
   - Code de l'environnement R236-97
 
 
-##### Section 6 : Dispositions particulières<a id=799></a>
+##### Section 6 : Dispositions particulières<a id=797></a>
 
-##### Sous-section 1 : Dispositions communes.<a id=800></a>
+##### Sous-section 1 : Dispositions communes.<a id=798></a>
 
 ###### Article R*236-98
 
@@ -78395,7 +78310,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-98
 
 
-##### Sous-section 2 : Réglementation de la pêche dans les eaux françaises du lac Léman.<a id=801></a>
+##### Sous-section 2 : Réglementation de la pêche dans les eaux françaises du lac Léman.<a id=799></a>
 
 ###### Article R*236-99
 
@@ -78424,7 +78339,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-99
 
 
-##### Paragraphe 1 : Temps et heures d'interdiction.<a id=802></a>
+##### Paragraphe 1 : Temps et heures d'interdiction.<a id=800></a>
 
 ###### Article R*236-100
 
@@ -78542,7 +78457,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-102
 
 
-##### Paragraphe 2 : Tailles minimales des poissons.<a id=803></a>
+##### Paragraphe 2 : Tailles minimales des poissons.<a id=801></a>
 
 ###### Article R*236-103
 
@@ -78573,7 +78488,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 3 : Nombre de captures autorisées, conditions de capture.<a id=804></a>
+##### Paragraphe 3 : Nombre de captures autorisées, conditions de capture.<a id=802></a>
 
 ###### Article R*236-104
 
@@ -78631,7 +78546,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-105
 
 
-##### Paragraphe 4 : Filets, engins et moyens de pêche autorisés ou prohibés.<a id=805></a>
+##### Paragraphe 4 : Filets, engins et moyens de pêche autorisés ou prohibés.<a id=803></a>
 
 ###### Article R*236-106
 
@@ -78853,7 +78768,7 @@ _Modifié par_:
   - Décret n°90-1217 du 31 décembre 1990 - art. 7 () JORF 1er janvier 1991
 
 
-##### Paragraphe 5 : Zones de protection du poisson.<a id=806></a>
+##### Paragraphe 5 : Zones de protection du poisson.<a id=804></a>
 
 ###### Article R*236-113
 
@@ -78964,7 +78879,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-116
 
 
-##### Paragraphe 6 : Dispositions pénales.<a id=807></a>
+##### Paragraphe 6 : Dispositions pénales.<a id=805></a>
 
 ###### Article R*236-117
 
@@ -79018,7 +78933,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-117
 
 
-##### Paragraphe 7 : Capture de géniteurs.<a id=808></a>
+##### Paragraphe 7 : Capture de géniteurs.<a id=806></a>
 
 ###### Article R*236-121
 
@@ -79053,9 +78968,9 @@ _Nouveaux textes_:
   - Code de l'environnement R236-121
 
 
-#### Chapitre VII : Recherche et constatation des infractions<a id=809></a>
+#### Chapitre VII : Recherche et constatation des infractions<a id=807></a>
 
-##### Section 1 : Agents compétents.<a id=810></a>
+##### Section 1 : Agents compétents.<a id=808></a>
 
 ###### Article R*237-1
 
@@ -79160,7 +79075,7 @@ _Nouveaux textes_:
   - Code de l'environnement R237-3
 
 
-##### Section 3 : Recherche des infractions.<a id=811></a>
+##### Section 3 : Recherche des infractions.<a id=809></a>
 
 ###### Article R*237-4
 
@@ -79229,7 +79144,7 @@ _Cite_:
   - Code rural L237-1
 
 
-##### Section 4 : Saisies.<a id=812></a>
+##### Section 4 : Saisies.<a id=810></a>
 
 ###### Article R*237-6
 
@@ -79300,9 +79215,9 @@ _Nouveaux textes_:
   - Code de l'environnement R237-7
 
 
-#### Chapitre VIII : Transaction, poursuites et règles d'application des peines<a id=813></a>
+#### Chapitre VIII : Transaction, poursuites et règles d'application des peines<a id=811></a>
 
-##### Section 1 : Transaction.<a id=814></a>
+##### Section 1 : Transaction.<a id=812></a>
 
 ###### Article R*238-1
 
@@ -79435,7 +79350,7 @@ _Nouveaux textes_:
   - Code de l'environnement R238-4
 
 
-##### Section 2 : Poursuites pénales.<a id=815></a>
+##### Section 2 : Poursuites pénales.<a id=813></a>
 
 ###### Article R*238-5
 
@@ -79519,11 +79434,11 @@ _Nouveaux textes_:
   - Code de l'environnement R238-6
 
 
-### Titre IV : Espaces naturels<a id=816></a>
+### Titre IV : Espaces naturels<a id=814></a>
 
-#### Chapitre Ier : Parcs nationaux<a id=817></a>
+#### Chapitre Ier : Parcs nationaux<a id=815></a>
 
-##### Section 1 : Comité interministériel des parcs nationaux.<a id=818></a>
+##### Section 1 : Comité interministériel des parcs nationaux.<a id=816></a>
 
 ###### Article R*241-1
 
@@ -79594,7 +79509,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-2
 
 
-##### Section 2 : Création d'un parc national.<a id=819></a>
+##### Section 2 : Création d'un parc national.<a id=817></a>
 
 ###### Article R*241-3
 
@@ -80000,7 +79915,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-14
 
 
-##### Section 3 : Aménagement et gestion des parcs nationaux<a id=820></a>
+##### Section 3 : Aménagement et gestion des parcs nationaux<a id=818></a>
 
 ###### Article R*241-15
 
@@ -80030,7 +79945,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-15
 
 
-##### Sous-section 1 : Administration générale.<a id=821></a>
+##### Sous-section 1 : Administration générale.<a id=819></a>
 
 ###### Article R*241-16
 
@@ -80064,7 +79979,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-16
 
 
-##### Paragraphe 1 : Conseil d'administration.<a id=822></a>
+##### Paragraphe 1 : Conseil d'administration.<a id=820></a>
 
 ###### Article R*241-17
 
@@ -80313,7 +80228,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-24
 
 
-##### Paragraphe 2 : Directeur.<a id=823></a>
+##### Paragraphe 2 : Directeur.<a id=821></a>
 
 ###### Article R*241-25
 
@@ -80378,7 +80293,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-26
 
 
-##### Paragraphe 3 : Personnels.<a id=824></a>
+##### Paragraphe 3 : Personnels.<a id=822></a>
 
 ###### Article R*241-27
 
@@ -80405,7 +80320,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 2 : Ressources de l'établissement.<a id=825></a>
+##### Sous-section 2 : Ressources de l'établissement.<a id=823></a>
 
 ###### Article R*241-28
 
@@ -80458,7 +80373,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-28
 
 
-##### Sous-section 3 : Programme d'aménagement du parc.<a id=826></a>
+##### Sous-section 3 : Programme d'aménagement du parc.<a id=824></a>
 
 ###### Article R*241-29
 
@@ -80494,7 +80409,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-29
 
 
-##### Sous-section 4 : Gestion de certains biens des collectivités.<a id=827></a>
+##### Sous-section 4 : Gestion de certains biens des collectivités.<a id=825></a>
 
 ###### Article R*241-30
 
@@ -80681,7 +80596,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-34
 
 
-##### Sous-section 5 : Pouvoirs réglementaires du directeur.<a id=828></a>
+##### Sous-section 5 : Pouvoirs réglementaires du directeur.<a id=826></a>
 
 ###### Article R*241-35
 
@@ -80919,7 +80834,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-41
 
 
-##### Sous-section 6 : Consultation obligatoire de l'établissement.<a id=829></a>
+##### Sous-section 6 : Consultation obligatoire de l'établissement.<a id=827></a>
 
 ###### Article R*241-42
 
@@ -80987,7 +80902,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-43
 
 
-##### Sous-section 7 : Contrôle.<a id=830></a>
+##### Sous-section 7 : Contrôle.<a id=828></a>
 
 ###### Article R*241-44
 
@@ -81083,7 +80998,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-46
 
 
-##### Sous-section 8 : Contrôle de mesures susceptibles d'altérer le caractère du parc.<a id=831></a>
+##### Sous-section 8 : Contrôle de mesures susceptibles d'altérer le caractère du parc.<a id=829></a>
 
 ###### Article R*241-47
 
@@ -81150,7 +81065,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-48
 
 
-##### Section 4 : Mise en valeur des zones périphériques.<a id=832></a>
+##### Section 4 : Mise en valeur des zones périphériques.<a id=830></a>
 
 ###### Article R*241-49
 
@@ -81250,7 +81165,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-51
 
 
-##### Section 5 : Réserves intégrales.<a id=833></a>
+##### Section 5 : Réserves intégrales.<a id=831></a>
 
 ###### Article R*241-52
 
@@ -81401,7 +81316,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-55
 
 
-##### Section 6 : Indemnités.<a id=834></a>
+##### Section 6 : Indemnités.<a id=832></a>
 
 ###### Article R*241-56
 
@@ -81601,9 +81516,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique L13-5 à L13-9, L13-12, L13-14 à L13-25, L14-3, L15-3, L16-3, R13-22 à R13-53, L13-17, R13-43 à R13-46
 
 
-##### Section 8 : Dispositions pénales<a id=835></a>
+##### Section 8 : Dispositions pénales<a id=833></a>
 
-##### Sous-section 1 : Peines.<a id=836></a>
+##### Sous-section 1 : Peines.<a id=834></a>
 
 ###### Article R*241-61
 
@@ -81986,7 +81901,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-70
 
 
-##### Sous-section 2 : Constatation et poursuites.<a id=837></a>
+##### Sous-section 2 : Constatation et poursuites.<a id=835></a>
 
 ###### Article R*241-71
 
@@ -82016,13 +81931,13 @@ _Nouveaux textes_:
   - Code de l'environnement R241-71
 
 
-#### Chapitre II : Réserves naturelles<a id=838></a>
+#### Chapitre II : Réserves naturelles<a id=836></a>
 
-##### Section 1 : Réserves naturelles établies par décret<a id=839></a>
+##### Section 1 : Réserves naturelles établies par décret<a id=837></a>
 
-##### Sous-section 1 : Classement<a id=840></a>
+##### Sous-section 1 : Classement<a id=838></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=841></a>
+##### Paragraphe 1 : Dispositions générales.<a id=839></a>
 
 ###### Article R*242-1
 
@@ -82098,7 +82013,7 @@ _Nouveaux textes_:
   - Code de l'environnement R242-2
 
 
-##### Paragraphe 2 : Procédure comportant une enquête publique.<a id=842></a>
+##### Paragraphe 2 : Procédure comportant une enquête publique.<a id=840></a>
 
 ###### Article R*242-3
 
@@ -82331,7 +82246,7 @@ _Nouveaux textes_:
   - Code de l'environnement R242-9
 
 
-##### Paragraphe 3 : Procédure simplifiée.<a id=843></a>
+##### Paragraphe 3 : Procédure simplifiée.<a id=841></a>
 
 ###### Article R*242-10
 
@@ -82382,7 +82297,7 @@ _Cite_:
   - Code rural R242-2
 
 
-##### Paragraphe 4 : Décision de classement.<a id=844></a>
+##### Paragraphe 4 : Décision de classement.<a id=842></a>
 
 ###### Article R*242-11
 
@@ -82646,7 +82561,7 @@ _Nouveaux textes_:
   - Code de l'environnement R242-17
 
 
-##### Paragraphe 5 : Modalités de gestion.<a id=845></a>
+##### Paragraphe 5 : Modalités de gestion.<a id=843></a>
 
 ###### Article R*242-18
 
@@ -82688,7 +82603,7 @@ _Cite_:
   - Loi n°1901-07-01
 
 
-##### Sous-section 2 : Modification de l'état ou de l'aspect d'une réserve naturelle.<a id=846></a>
+##### Sous-section 2 : Modification de l'état ou de l'aspect d'une réserve naturelle.<a id=844></a>
 
 ###### Article R*242-19
 
@@ -82867,7 +82782,7 @@ _Nouveaux textes_:
   - Code de l'environnement R242-23
 
 
-##### Sous-section 3 : Modification des limites ou de la réglementation, déclassement.<a id=847></a>
+##### Sous-section 3 : Modification des limites ou de la réglementation, déclassement.<a id=845></a>
 
 ###### Article R*242-24
 
@@ -82934,9 +82849,9 @@ _Nouveaux textes_:
   - Code de l'environnement R242-25
 
 
-##### Section 2 : Réserves naturelles volontaires<a id=848></a>
+##### Section 2 : Réserves naturelles volontaires<a id=846></a>
 
-##### Sous-section 1 : Agrément.<a id=849></a>
+##### Sous-section 1 : Agrément.<a id=847></a>
 
 ###### Article R*242-26
 
@@ -83177,7 +83092,7 @@ _Nouveaux textes_:
   - Code de l'environnement R242-31
 
 
-##### Sous-section 2 : Modification, retrait, abrogation de l'agrément.<a id=850></a>
+##### Sous-section 2 : Modification, retrait, abrogation de l'agrément.<a id=848></a>
 
 ###### Article R*242-32
 
@@ -83328,11 +83243,11 @@ _Nouveaux textes_:
   - Code de l'environnement R242-35
 
 
-##### Section 3 : Dispositions communes<a id=851></a>
+##### Section 3 : Dispositions communes<a id=849></a>
 
-##### Sous-section 2 : Abords des réserves naturelles<a id=852></a>
+##### Sous-section 2 : Abords des réserves naturelles<a id=850></a>
 
-##### Paragraphe 1 : Périmètres de protection.<a id=853></a>
+##### Paragraphe 1 : Périmètres de protection.<a id=851></a>
 
 ###### Article R*242-36
 
@@ -83366,7 +83281,7 @@ _Cite_:
   - Code rural L242-15
 
 
-##### Paragraphe 2 : Zones de protection.<a id=854></a>
+##### Paragraphe 2 : Zones de protection.<a id=852></a>
 
 ###### Article R*242-37
 
@@ -83396,9 +83311,9 @@ _Nouveaux textes_:
   - Code de l'environnement R242-37
 
 
-##### Section 4 : Dispositions pénales<a id=855></a>
+##### Section 4 : Dispositions pénales<a id=853></a>
 
-##### Sous-section 1 : Peines.<a id=856></a>
+##### Sous-section 1 : Peines.<a id=854></a>
 
 ###### Article R*242-38
 
@@ -83820,9 +83735,9 @@ _Nouveaux textes_:
   - Code de l'environnement R242-49
 
 
-#### Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres<a id=857></a>
+#### Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres<a id=855></a>
 
-##### Section 1 : Dispositions générales.<a id=858></a>
+##### Section 1 : Dispositions générales.<a id=856></a>
 
 ###### Article R*243-1
 
@@ -83885,9 +83800,9 @@ _Nouveaux textes_:
   - Code de l'environnement R243-2
 
 
-##### Section 2 : Patrimoine du conservatoire<a id=859></a>
+##### Section 2 : Patrimoine du conservatoire<a id=857></a>
 
-##### Sous-section 1 : Constitution, aliénation.<a id=860></a>
+##### Sous-section 1 : Constitution, aliénation.<a id=858></a>
 
 ###### Article R*243-3
 
@@ -84042,7 +83957,7 @@ _Nouveaux textes_:
   - Code de l'environnement R243-7
 
 
-##### Sous-section 2 : Gestion.<a id=861></a>
+##### Sous-section 2 : Gestion.<a id=859></a>
 
 ###### Article R*243-8
 
@@ -84110,9 +84025,9 @@ _Nouveaux textes_:
   - Code de l'environnement R243-9
 
 
-##### Section 3 : Administration<a id=862></a>
+##### Section 3 : Administration<a id=860></a>
 
-##### Sous-section 1 : Conseil d'administration.<a id=863></a>
+##### Sous-section 1 : Conseil d'administration.<a id=861></a>
 
 ###### Article R*243-10
 
@@ -84529,7 +84444,7 @@ _Nouveaux textes_:
   - Code de l'environnement R243-21
 
 
-##### Sous-section 2 : Conseils de rivage.<a id=864></a>
+##### Sous-section 2 : Conseils de rivage.<a id=862></a>
 
 ###### Article R*243-22
 
@@ -84724,7 +84639,7 @@ _Nouveaux textes_:
   - Code de l'environnement R243-28
 
 
-##### Sous-section 3 : Directeur.<a id=865></a>
+##### Sous-section 3 : Directeur.<a id=863></a>
 
 ###### Article R*243-29
 
@@ -84772,7 +84687,7 @@ _Nouveaux textes_:
   - Code de l'environnement R243-29
 
 
-##### Sous-section 4 : Personnels.<a id=866></a>
+##### Sous-section 4 : Personnels.<a id=864></a>
 
 ###### Article R*243-30
 
@@ -84802,7 +84717,7 @@ _Nouveaux textes_:
   - Code de l'environnement R243-30
 
 
-##### Section 4 : Dispositions financières.<a id=867></a>
+##### Section 4 : Dispositions financières.<a id=865></a>
 
 ###### Article R*243-31
 
@@ -84920,9 +84835,9 @@ _Nouveaux textes_:
   - Code de l'environnement R243-33
 
 
-#### Chapitre IV : Parcs naturels régionaux<a id=868></a>
+#### Chapitre IV : Parcs naturels régionaux<a id=866></a>
 
-##### Section 1 : Principes généraux.<a id=869></a>
+##### Section 1 : Principes généraux.<a id=867></a>
 
 ###### Article R244-1
 
@@ -85045,7 +84960,7 @@ _Cite_:
   - Code rural R244-14
 
 
-##### Section 2 : Classement.<a id=870></a>
+##### Section 2 : Classement.<a id=868></a>
 
 ###### Article R244-4
 
@@ -85274,7 +85189,7 @@ _Nouveaux textes_:
   - Code de l'environnement R244-11
 
 
-##### Section 3 : Effets du classement.<a id=871></a>
+##### Section 3 : Effets du classement.<a id=869></a>
 
 ###### Article R244-12
 
@@ -85434,9 +85349,9 @@ _Nouveaux textes_:
   - Code de l'environnement R244-16
 
 
-### Titre V : Dispositions communes à la protection de la nature<a id=872></a>
+### Titre V : Dispositions communes à la protection de la nature<a id=870></a>
 
-#### Chapitre Ier : Conseil national de la protection de la nature<a id=873></a>
+#### Chapitre Ier : Conseil national de la protection de la nature<a id=871></a>
 
 ###### Article R*251-1
 
@@ -85468,7 +85383,7 @@ _Abrogé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Section 1 : Composition.<a id=874></a>
+##### Section 1 : Composition.<a id=872></a>
 
 ###### Article R*251-2
 
@@ -85649,7 +85564,7 @@ _Nouveaux textes_:
   - Code de l'environnement R251-6
 
 
-##### Section 2 : Fonctionnement.<a id=875></a>
+##### Section 2 : Fonctionnement.<a id=873></a>
 
 ###### Article R*251-7
 
@@ -85797,7 +85712,7 @@ _Nouveaux textes_:
   - Code de l'environnement R251-10-1
 
 
-##### Section 3 : Comité permanent.<a id=876></a>
+##### Section 3 : Comité permanent.<a id=874></a>
 
 ###### Article R*251-11
 
@@ -86022,7 +85937,7 @@ _Nouveaux textes_:
   - Code de l'environnement R251-18
 
 
-##### Section 4 : Experts.<a id=877></a>
+##### Section 4 : Experts.<a id=875></a>
 
 ###### Article R*251-19
 
@@ -86079,7 +85994,7 @@ _Abrogé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Section 5 : Secrétariat administratif.<a id=878></a>
+##### Section 5 : Secrétariat administratif.<a id=876></a>
 
 ###### Article R*251-21
 
@@ -86105,7 +86020,7 @@ _Nouveaux textes_:
   - Code de l'environnement R251-21
 
 
-#### Chapitre II : Associations agréées pour la protection de l'environnement<a id=879></a>
+#### Chapitre II : Associations agréées pour la protection de l'environnement<a id=877></a>
 
 ###### Article R*252-1
 
@@ -86139,7 +86054,7 @@ _Nouveaux textes_:
   - Code de l'environnement R252-1
 
 
-##### Section 1 : Conditions d'obtention de l'agrément.<a id=880></a>
+##### Section 1 : Conditions d'obtention de l'agrément.<a id=878></a>
 
 ###### Article R*252-2
 
@@ -86210,9 +86125,9 @@ _Nouveaux textes_:
   - Code de l'environnement R252-3
 
 
-##### Section 2 : Procédure d'agrément<a id=881></a>
+##### Section 2 : Procédure d'agrément<a id=879></a>
 
-##### Sous-section 1 : Demande.<a id=882></a>
+##### Sous-section 1 : Demande.<a id=880></a>
 
 ###### Article R*252-5
 
@@ -86371,7 +86286,7 @@ _Nouveaux textes_:
   - Code de l'environnement R252-9
 
 
-##### Sous-section 2 : Instruction de la demande.<a id=883></a>
+##### Sous-section 2 : Instruction de la demande.<a id=881></a>
 
 ###### Article R*252-10
 
@@ -86461,7 +86376,7 @@ _Nouveaux textes_:
   - Code de l'environnement R252-12
 
 
-##### Sous-section 3 : Décision.<a id=884></a>
+##### Sous-section 3 : Décision.<a id=882></a>
 
 ###### Article R*252-13
 
@@ -86607,7 +86522,7 @@ _Nouveaux textes_:
   - Code de l'environnement R252-18
 
 
-##### Section 3 : Obligations de l'association agréée.<a id=885></a>
+##### Section 3 : Obligations de l'association agréée.<a id=883></a>
 
 ###### Article R*252-19
 
@@ -86675,9 +86590,9 @@ _Nouveaux textes_:
   - Code de l'environnement R252-20
 
 
-### Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon, aux terres australes et antarctiques et à la collectivité territoriale de Mayotte<a id=886></a>
+### Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon, aux terres australes et antarctiques et à la collectivité territoriale de Mayotte<a id=884></a>
 
-#### Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=887></a>
+#### Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=885></a>
 
 ###### Article R261-1
 
@@ -86698,7 +86613,7 @@ _Modifié par_:
   - Décret n°95-372 du 5 avril 1995 - art. 1 () JORF 11 avril 1995
 
 
-##### Section 1 : Territoire de chasse.<a id=888></a>
+##### Section 1 : Territoire de chasse.<a id=886></a>
 
 ###### Article R261-2
 
@@ -86721,7 +86636,7 @@ _Modifié par_:
   - Décret n°95-372 du 5 avril 1995 - art. 1 () JORF 11 avril 1995
 
 
-##### Section 2 : Temps de chasse.<a id=889></a>
+##### Section 2 : Temps de chasse.<a id=887></a>
 
 ###### Article R*261-3
 
@@ -86916,7 +86831,7 @@ _Modifié par_:
   - Décret n°95-372 du 5 avril 1995 - art. 1 () JORF 11 avril 1995
 
 
-#### Chapitre II : Dispositions particulières aux terres australes et antarctiques françaises.<a id=890></a>
+#### Chapitre II : Dispositions particulières aux terres australes et antarctiques françaises.<a id=888></a>
 
 ###### Article R*262-1
 
@@ -86934,7 +86849,7 @@ _Modifié par_:
   - Décret n°95-372 du 5 avril 1995 - art. 1 () JORF 11 avril 1995
 
 
-#### Chapitre III : Dispositions particulières à la collectivité territoriale de Mayotte<a id=891></a>
+#### Chapitre III : Dispositions particulières à la collectivité territoriale de Mayotte<a id=889></a>
 
 ###### Article R*263-1
 
@@ -86951,13 +86866,13 @@ _Créé par_:
   - Décret n°95-372 du 5 avril 1995 - art. 2 () JORF 11 avril 1995
 
 
-## Livre III : Exploitation agricole<a id=892></a>
+## Livre III : Exploitation agricole<a id=890></a>
 
-### Titre Ier : Dispositions générales<a id=893></a>
+### Titre Ier : Dispositions générales<a id=891></a>
 
-#### Chapitre III : Instruments<a id=894></a>
+#### Chapitre III : Instruments<a id=892></a>
 
-##### Section 1 : Commission départementale d'orientation de l'agriculture.<a id=895></a>
+##### Section 1 : Commission départementale d'orientation de l'agriculture.<a id=893></a>
 
 ###### Article R313-1
 
@@ -87426,9 +87341,9 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Section 2 : Centre national pour l'aménagement des structures des exploitations agricoles<a id=896></a>
+##### Section 2 : Centre national pour l'aménagement des structures des exploitations agricoles<a id=894></a>
 
-##### Sous-section 1 : Dispositions générales et mission du centre.<a id=897></a>
+##### Sous-section 1 : Dispositions générales et mission du centre.<a id=895></a>
 
 ###### Article R313-13
 
@@ -87575,7 +87490,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Sous-section 2 : Administration et Fonctionnement du centre<a id=898></a>
+##### Sous-section 2 : Administration et Fonctionnement du centre<a id=896></a>
 
 ###### Article R313-17
 
@@ -87604,7 +87519,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R313-19 (T)
 
 
-##### Paragraphe 1 : Conseil d'administration.<a id=899></a>
+##### Paragraphe 1 : Conseil d'administration.<a id=897></a>
 
 ###### Article R313-18
 
@@ -87886,7 +87801,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Paragraphe 2 : Directeur général.<a id=900></a>
+##### Paragraphe 2 : Directeur général.<a id=898></a>
 
 ###### Article R313-25
 
@@ -87948,7 +87863,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Paragraphe 3 : Personnels.<a id=901></a>
+##### Paragraphe 3 : Personnels.<a id=899></a>
 
 ###### Article R313-27
 
@@ -87979,7 +87894,7 @@ _Anciens textes_:
   - Décret n°66-957 1996-12-22 art. 10 al. 1
 
 
-##### Sous-section 3 : Régime financier et comptable.<a id=902></a>
+##### Sous-section 3 : Régime financier et comptable.<a id=900></a>
 
 ###### Article R313-28
 
@@ -88167,7 +88082,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Sous-section 4 : Contrôle.<a id=903></a>
+##### Sous-section 4 : Contrôle.<a id=901></a>
 
 ###### Article R313-34
 
@@ -88238,11 +88153,11 @@ _Anciens textes_:
   - Décret n°99-957 1966-12-22 art. 18
 
 
-### Titre II : Différentes formes juridiques de l'exploitation agricole<a id=904></a>
+### Titre II : Différentes formes juridiques de l'exploitation agricole<a id=902></a>
 
-#### Chapitre Ier : Exploitation familiale à responsabilité personnelle<a id=905></a>
+#### Chapitre Ier : Exploitation familiale à responsabilité personnelle<a id=903></a>
 
-##### Section 2 : Transmission de l'exploitation familiale.<a id=906></a>
+##### Section 2 : Transmission de l'exploitation familiale.<a id=904></a>
 
 ###### Article R321-1
 
@@ -88423,7 +88338,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-#### Chapitre II : Groupements fonciers agricoles<a id=907></a>
+#### Chapitre II : Groupements fonciers agricoles<a id=905></a>
 
 ###### Article R322-1
 
@@ -88496,9 +88411,9 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-#### Chapitre III : Groupements agricoles d'exploitation en commun<a id=908></a>
+#### Chapitre III : Groupements agricoles d'exploitation en commun<a id=906></a>
 
-##### Section 1 : Reconnaissance des groupements.<a id=909></a>
+##### Section 1 : Reconnaissance des groupements.<a id=907></a>
 
 ###### Article R*323-1
 
@@ -89225,7 +89140,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Section 2 : Fonctionnement des groupements.<a id=910></a>
+##### Section 2 : Fonctionnement des groupements.<a id=908></a>
 
 ###### Article R*323-31
 
@@ -89849,7 +89764,7 @@ _Cite_:
   - Code rural - art. L323-7 (V)
 
 
-##### Section 3 : Statut social et économique des groupements et de leurs membres.<a id=911></a>
+##### Section 3 : Statut social et économique des groupements et de leurs membres.<a id=909></a>
 
 ###### Article R*323-45
 
@@ -90000,7 +89915,7 @@ _Abrogé par_:
   - Décret n°2015-215 du 25 février 2015 - art. 4
 
 
-##### Section 4 : Sanctions.<a id=912></a>
+##### Section 4 : Sanctions.<a id=910></a>
 
 ###### Article R323-50
 
@@ -90054,7 +89969,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-#### Chapitre IV : Exploitation agricole à responsabilité limitée<a id=913></a>
+#### Chapitre IV : Exploitation agricole à responsabilité limitée<a id=911></a>
 
 ###### Article R324-1
 
@@ -90138,7 +90053,7 @@ _Cite_:
   - Code rural - art. L324-7 (V)
 
 
-#### Chapitre VI : Contrats d'intégration<a id=914></a>
+#### Chapitre VI : Contrats d'intégration<a id=912></a>
 
 ###### Article R326-1
 
@@ -90382,11 +90297,11 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-#### Chapitre VIII : Dispositions particulières à certaines collectivités territoriales<a id=915></a>
+#### Chapitre VIII : Dispositions particulières à certaines collectivités territoriales<a id=913></a>
 
-##### Section 1 : Dispositions particulières aux départements d'outre-mer<a id=916></a>
+##### Section 1 : Dispositions particulières aux départements d'outre-mer<a id=914></a>
 
-##### Sous-section 1 : Statut des associés d'exploitation.<a id=917></a>
+##### Sous-section 1 : Statut des associés d'exploitation.<a id=915></a>
 
 ###### Article R328-1
 
@@ -90453,7 +90368,7 @@ _Nouveaux textes_:
   - Code rural et de la pêche maritime - art. R371-2 (Ab)
 
 
-##### Sous-section 2 : Groupements fonciers agricoles.<a id=918></a>
+##### Sous-section 2 : Groupements fonciers agricoles.<a id=916></a>
 
 ###### Article R328-3
 
@@ -90532,9 +90447,9 @@ _Nouveaux textes_:
   - Code rural et de la pêche maritime - art. R371-4 (Ab)
 
 
-### Titre III : Politique d'installation et le contrôle des structures et de la production<a id=919></a>
+### Titre III : Politique d'installation et le contrôle des structures et de la production<a id=917></a>
 
-#### Chapitre Ier : Contrôle des structures des exploitations agricoles<a id=920></a>
+#### Chapitre Ier : Contrôle des structures des exploitations agricoles<a id=918></a>
 
 ###### Article R331-1
 
@@ -90703,11 +90618,11 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D331-4-1 (V)
 
 
-#### Chapitre II : Limitations au droit de produire<a id=921></a>
+#### Chapitre II : Limitations au droit de produire<a id=919></a>
 
-##### Section 1 : Retrait des terres arables<a id=922></a>
+##### Section 1 : Retrait des terres arables<a id=920></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=923></a>
+##### Sous-section 1 : Dispositions générales.<a id=921></a>
 
 ###### Article R332-1
 
@@ -90786,7 +90701,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Sous-section 2 : Contrat de retrait.<a id=924></a>
+##### Sous-section 2 : Contrat de retrait.<a id=922></a>
 
 ###### Article R332-4
 
@@ -91028,7 +90943,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Sous-section 3 : Dispositions diverses.<a id=925></a>
+##### Sous-section 3 : Dispositions diverses.<a id=923></a>
 
 ###### Article R332-12
 
@@ -91082,9 +90997,9 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Section 2 : Extensification<a id=926></a>
+##### Section 2 : Extensification<a id=924></a>
 
-##### Sous-section 1 : Extensification de la production dans le secteur du vin.<a id=927></a>
+##### Sous-section 1 : Extensification de la production dans le secteur du vin.<a id=925></a>
 
 ###### Article R332-14
 
@@ -91330,7 +91245,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Sous-section 2 : Extensification de la production dans le secteur de la viande bovine.<a id=928></a>
+##### Sous-section 2 : Extensification de la production dans le secteur de la viande bovine.<a id=926></a>
 
 ###### Article R332-23
 
@@ -91637,7 +91552,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Sous-section 3 : Extensification par un mode de production biologique.<a id=929></a>
+##### Sous-section 3 : Extensification par un mode de production biologique.<a id=927></a>
 
 ###### Article R332-34
 
@@ -91866,9 +91781,9 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-#### Chapitre III : Exploitants agricoles étrangers<a id=930></a>
+#### Chapitre III : Exploitants agricoles étrangers<a id=928></a>
 
-##### Section 1 : Dispositions générales<a id=931></a>
+##### Section 1 : Dispositions générales<a id=929></a>
 
 ###### Article R333-1
 
@@ -92019,7 +91934,7 @@ _Cite_:
   - Code rural - art. R333-1 (V)
 
 
-##### Section 2 : Dispositions particulières à certains ressortissants des Etats membres de la Communauté européenne<a id=932></a>
+##### Section 2 : Dispositions particulières à certains ressortissants des Etats membres de la Communauté européenne<a id=930></a>
 
 ###### Article R333-7
 
@@ -92182,7 +92097,7 @@ _Cite_:
   - Code rural - art. R333-9 (V)
 
 
-#### Chapitre IV : Dispositions spécifiques aux départements d'outre-mer.<a id=933></a>
+#### Chapitre IV : Dispositions spécifiques aux départements d'outre-mer.<a id=931></a>
 
 ###### Article R334-1
 
@@ -92233,11 +92148,11 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-### Titre IV : Financement des exploitations agricoles<a id=934></a>
+### Titre IV : Financement des exploitations agricoles<a id=932></a>
 
-#### Chapitre Ier : Dispositions générales<a id=935></a>
+#### Chapitre Ier : Dispositions générales<a id=933></a>
 
-##### Section 1 : Crédit à court terme des caisses de crédit agricole mutuel.<a id=936></a>
+##### Section 1 : Crédit à court terme des caisses de crédit agricole mutuel.<a id=934></a>
 
 ###### Article R341-1
 
@@ -92294,7 +92209,7 @@ _Abrogé par_:
   - Décret n°97-108 du 3 février 1997 - art. 2 (V) JORF 8 février 1997
 
 
-##### Section 2 : Crédit à moyen terme<a id=937></a>
+##### Section 2 : Crédit à moyen terme<a id=935></a>
 
 ###### Article R341-3
 
@@ -92390,7 +92305,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Section 3 : Crédit à long terme<a id=938></a>
+##### Section 3 : Crédit à long terme<a id=936></a>
 
 ###### Article R341-5
 
@@ -92468,9 +92383,9 @@ _Transféré par_:
   - Décret n°2007-1261 du 21 août 2007 - art. 4 (V) JORF 24 août 2007
 
 
-#### Chapitre III : Aides à l'installation et à la constitution de groupements ou sociétés<a id=939></a>
+#### Chapitre III : Aides à l'installation et à la constitution de groupements ou sociétés<a id=937></a>
 
-##### Section 1 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=940></a>
+##### Section 1 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.<a id=938></a>
 
 ###### Article R343-1
 
@@ -92552,7 +92467,7 @@ _Abrogé par_:
   - Décret n°2004-1308 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### Section 2 : Aides à l'installation des jeunes agriculteurs.<a id=941></a>
+##### Section 2 : Aides à l'installation des jeunes agriculteurs.<a id=939></a>
 
 ###### Article R343-3
 
@@ -92610,7 +92525,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R665-3 (Ab)
 
 
-##### Sous-section 1 : Conditions d'octroi des aides.<a id=942></a>
+##### Sous-section 1 : Conditions d'octroi des aides.<a id=940></a>
 
 ###### Article R343-4
 
@@ -92924,7 +92839,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Sous-section 2 : Dotation d'installation aux jeunes agriculteurs.<a id=943></a>
+##### Sous-section 2 : Dotation d'installation aux jeunes agriculteurs.<a id=941></a>
 
 ###### Article R343-9
 
@@ -93077,7 +92992,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Sous-section 3 : Prêts à moyen terme spéciaux.<a id=944></a>
+##### Sous-section 3 : Prêts à moyen terme spéciaux.<a id=942></a>
 
 ###### Article R343-13
 
@@ -93231,7 +93146,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Sous-section 4 : Instruction des demandes.<a id=945></a>
+##### Sous-section 4 : Instruction des demandes.<a id=943></a>
 
 ###### Article R343-17
 
@@ -93323,7 +93238,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Sous-section 5 : Bourse versée par l'Etat aux jeunes réalisant le stage prévu au 4° de l'article R. 343-4.<a id=946></a>
+##### Sous-section 5 : Bourse versée par l'Etat aux jeunes réalisant le stage prévu au 4° de l'article R. 343-4.<a id=944></a>
 
 ###### Article R343-19
 
@@ -93400,9 +93315,9 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Section 3 : Autres formes d'aides à l'installation<a id=947></a>
+##### Section 3 : Autres formes d'aides à l'installation<a id=945></a>
 
-##### Sous-section 1 : Prêts spéciaux aux migrants.<a id=948></a>
+##### Sous-section 1 : Prêts spéciaux aux migrants.<a id=946></a>
 
 ###### Article R343-20
 
@@ -93433,7 +93348,7 @@ _Abrogé par_:
   - Décret n°2004-1308 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### Sous-section 2 : Aides à l'installation comme chefs d'exploitations agricoles des travailleurs agricoles bénéficiaires de la promotion sociale.<a id=949></a>
+##### Sous-section 2 : Aides à l'installation comme chefs d'exploitations agricoles des travailleurs agricoles bénéficiaires de la promotion sociale.<a id=947></a>
 
 ###### Article R343-21
 
@@ -93558,7 +93473,7 @@ _Abrogé par_:
   - Décret n°2004-1308 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### Sous-section 3 : Utilisation de la prime et du pécule militaires à des fins d'installation.<a id=950></a>
+##### Sous-section 3 : Utilisation de la prime et du pécule militaires à des fins d'installation.<a id=948></a>
 
 ###### Article R343-24
 
@@ -93612,9 +93527,9 @@ _Abrogé par_:
   - Décret n°2004-1308 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
 
 
-##### Section 2 : Aides à la constitution de groupements et sociétés<a id=951></a>
+##### Section 2 : Aides à la constitution de groupements et sociétés<a id=949></a>
 
-##### Sous-section 1 : Prêts aux sociétés civiles d'exploitation rurale.<a id=952></a>
+##### Sous-section 1 : Prêts aux sociétés civiles d'exploitation rurale.<a id=950></a>
 
 ###### Article R343-26
 
@@ -93647,9 +93562,9 @@ _Cite_:
   - Code rural 658
 
 
-##### Section 4 : Aides à la constitution de groupements et sociétés<a id=953></a>
+##### Section 4 : Aides à la constitution de groupements et sociétés<a id=951></a>
 
-##### Sous-section 1 : Prêts aux sociétés civiles d'exploitation rurale.<a id=954></a>
+##### Sous-section 1 : Prêts aux sociétés civiles d'exploitation rurale.<a id=952></a>
 
 ###### Article R343-27
 
@@ -93776,7 +93691,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D371-8 (Ab)
 
 
-##### Sous-section 2 : Prêts aux porteurs de parts de groupements fonciers agricoles.<a id=955></a>
+##### Sous-section 2 : Prêts aux porteurs de parts de groupements fonciers agricoles.<a id=953></a>
 
 ###### Article R343-31
 
@@ -93824,7 +93739,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Sous-section 3 : Aide au démarrage des groupements agricoles d'exploitation en commun, des coopératives d'utilisation en commun du matériel agricole, des groupements pastoraux et des associations foncières pastorales.<a id=956></a>
+##### Sous-section 3 : Aide au démarrage des groupements agricoles d'exploitation en commun, des coopératives d'utilisation en commun du matériel agricole, des groupements pastoraux et des associations foncières pastorales.<a id=954></a>
 
 ###### Article R343-33
 
@@ -93851,7 +93766,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-#### Chapitre IV : Aides à la modernisation<a id=957></a>
+#### Chapitre IV : Aides à la modernisation<a id=955></a>
 
 ###### Article R344-1
 
@@ -93884,9 +93799,9 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Section 1 : Régime d'aides en faveur des titulaires de plans d'amélioration matérielle de l'exploitation agricole<a id=958></a>
+##### Section 1 : Régime d'aides en faveur des titulaires de plans d'amélioration matérielle de l'exploitation agricole<a id=956></a>
 
-##### Sous-section 1 : Conditions générales d'obtention des aides.<a id=959></a>
+##### Sous-section 1 : Conditions générales d'obtention des aides.<a id=957></a>
 
 ###### Article R344-2
 
@@ -94181,7 +94096,7 @@ _Abrogé par_:
   - Décret n°97-196 du 27 février 1997 - art. 2 (V) JORF 6 mars 1997
 
 
-##### Sous-section 2 : Aides liées aux plans d'amélioration matérielle de l'exploitation agricole.<a id=960></a>
+##### Sous-section 2 : Aides liées aux plans d'amélioration matérielle de l'exploitation agricole.<a id=958></a>
 
 ###### Article R344-9
 
@@ -94481,7 +94396,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Sous-section 3 : Procédure d'agrément des plans d'amélioration matérielle de l'exploitation agricole.<a id=961></a>
+##### Sous-section 3 : Procédure d'agrément des plans d'amélioration matérielle de l'exploitation agricole.<a id=959></a>
 
 ###### Article R344-18
 
@@ -94635,7 +94550,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Section 2 : Aides aux investissements pour les exploitants ne présentant pas de plan d'amélioration matérielle de l'exploitation agricole.<a id=962></a>
+##### Section 2 : Aides aux investissements pour les exploitants ne présentant pas de plan d'amélioration matérielle de l'exploitation agricole.<a id=960></a>
 
 ###### Article R344-23
 
@@ -94726,7 +94641,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Section 3 : Aides aux investissements destinés à la protection et à l'amélioration de l'environnement ou à l'amélioration des conditions d'hygiène des élevages.<a id=963></a>
+##### Section 3 : Aides aux investissements destinés à la protection et à l'amélioration de l'environnement ou à l'amélioration des conditions d'hygiène des élevages.<a id=961></a>
 
 ###### Article R344-26
 
@@ -94786,7 +94701,7 @@ _Abrogé par_:
   - Décret n°2004-1283 du 26 novembre 2004 - art. 1 () JORF 27 novembre 2004
 
 
-##### Section 4 : Aides particulières à la modernisation.<a id=964></a>
+##### Section 4 : Aides particulières à la modernisation.<a id=962></a>
 
 ###### Article R344-28
 
@@ -94905,9 +94820,9 @@ _Abrogé par_:
   - Décret n°97-118 du 10 février 1997 - art. 2 (V) JORF 11 février 1997
 
 
-#### Chapitre V : Aides à la réalisation d'opérations foncières<a id=965></a>
+#### Chapitre V : Aides à la réalisation d'opérations foncières<a id=963></a>
 
-##### Section 1 : Prêts à la réalisation de certaines opérations foncières<a id=966></a>
+##### Section 1 : Prêts à la réalisation de certaines opérations foncières<a id=964></a>
 
 ###### Article R345-1
 
@@ -95114,7 +95029,7 @@ _Transféré par_:
   - Décret n°2007-1261 du 21 août 2007 - art. 4 (V) JORF 24 août 2007
 
 
-##### Section 2 : Opérations groupées d'aménagement foncier<a id=967></a>
+##### Section 2 : Opérations groupées d'aménagement foncier<a id=965></a>
 
 ###### Article R345-7
 
@@ -95277,11 +95192,11 @@ _Transféré par_:
   - Décret n°2007-1261 du 21 août 2007 - art. 4 (V) JORF 24 août 2007
 
 
-#### Chapitre VI : Aides à l'habitat rural<a id=968></a>
+#### Chapitre VI : Aides à l'habitat rural<a id=966></a>
 
-##### Section 1 : Aides à la restauration de l'habitat rural<a id=969></a>
+##### Section 1 : Aides à la restauration de l'habitat rural<a id=967></a>
 
-##### Sous-section 2 : Construction des bâtiments des exploitations agricoles.<a id=970></a>
+##### Sous-section 2 : Construction des bâtiments des exploitations agricoles.<a id=968></a>
 
 ###### Article R*346-5
 
@@ -95372,7 +95287,7 @@ _Transféré par_:
   - Décret n°2007-1261 du 21 août 2007 - art. 4 (V) JORF 24 août 2007
 
 
-##### Sous-section 3 : Desserte des exploitations dont l'habitat est amélioré.<a id=971></a>
+##### Sous-section 3 : Desserte des exploitations dont l'habitat est amélioré.<a id=969></a>
 
 ###### Article R346-8
 
@@ -95441,7 +95356,7 @@ _Transféré par_:
   - Décret n°2007-1261 du 21 août 2007 - art. 4 (V) JORF 24 août 2007
 
 
-##### Sous-section 1 : Travaux de restauration de l'habitat.<a id=972></a>
+##### Sous-section 1 : Travaux de restauration de l'habitat.<a id=970></a>
 
 ###### Article R*346-1
 
@@ -95573,9 +95488,9 @@ _Transféré par_:
   - Décret n°2007-1261 du 21 août 2007 - art. 4 (V) JORF 24 août 2007
 
 
-##### Section 2 : Prêts pour l'amélioration de l'habitat rural<a id=973></a>
+##### Section 2 : Prêts pour l'amélioration de l'habitat rural<a id=971></a>
 
-##### Sous-section 1 : Prêts à long terme des caisses de crédit agricole mutuel pour l'amélioration de l'habitat rural.<a id=974></a>
+##### Sous-section 1 : Prêts à long terme des caisses de crédit agricole mutuel pour l'amélioration de l'habitat rural.<a id=972></a>
 
 ###### Article R*346-11
 
@@ -95640,7 +95555,7 @@ _Transféré par_:
   - Décret n°2007-1261 du 21 août 2007 - art. 4 (V) JORF 24 août 2007
 
 
-##### Sous-section 2 : Prêts bonifiés des caisses de crédit agricole mutuel en matière de logement.<a id=975></a>
+##### Sous-section 2 : Prêts bonifiés des caisses de crédit agricole mutuel en matière de logement.<a id=973></a>
 
 ###### Article R346-12
 
@@ -95740,9 +95655,9 @@ _Transféré par_:
   - Décret n°2007-1261 du 21 août 2007 - art. 4 (V) JORF 24 août 2007
 
 
-#### Chapitre VII : Aides aux investissements de production<a id=976></a>
+#### Chapitre VII : Aides aux investissements de production<a id=974></a>
 
-##### Section 1 : Aides aux investissements d'élevage<a id=977></a>
+##### Section 1 : Aides aux investissements d'élevage<a id=975></a>
 
 ###### Article R*347-4
 
@@ -96011,7 +95926,7 @@ _Transféré par_:
   - Décret n°2007-1261 du 21 août 2007 - art. 4 (V) JORF 24 août 2007
 
 
-##### Section 2 : Prêts aux productions végétales spéciales<a id=978></a>
+##### Section 2 : Prêts aux productions végétales spéciales<a id=976></a>
 
 ###### Article R*347-9
 
@@ -96161,7 +96076,7 @@ _Transféré par_:
   - Décret n°2007-1261 du 21 août 2007 - art. 4 (V) JORF 24 août 2007
 
 
-#### Chapitre VIII : Dispositions spécifiques aux départements d'outre-mer.<a id=979></a>
+#### Chapitre VIII : Dispositions spécifiques aux départements d'outre-mer.<a id=977></a>
 
 ###### Article R348-1
 
@@ -96512,11 +96427,11 @@ _Transféré par_:
   - Décret n°2007-1261 du 21 août 2007 - art. 4 (V) JORF 24 août 2007
 
 
-### Titre V : Exploitations agricoles en difficulté<a id=980></a>
+### Titre V : Exploitations agricoles en difficulté<a id=978></a>
 
-#### Chapitre Ier : Règlement amiable, le redressement et la liquidation judiciaires de l'exploitation agricole<a id=981></a>
+#### Chapitre Ier : Règlement amiable, le redressement et la liquidation judiciaires de l'exploitation agricole<a id=979></a>
 
-##### Section 1 : Règlement amiable.<a id=982></a>
+##### Section 1 : Règlement amiable.<a id=980></a>
 
 ###### Article R351-1
 
@@ -96755,7 +96670,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Section 2 : Redressement et la liquidation judiciaires.<a id=983></a>
+##### Section 2 : Redressement et la liquidation judiciaires.<a id=981></a>
 
 ###### Article R351-8
 
@@ -96781,9 +96696,9 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-#### Chapitre II : Aides à la reconversion ou à la réinstallation<a id=984></a>
+#### Chapitre II : Aides à la reconversion ou à la réinstallation<a id=982></a>
 
-##### Section 1 : Aides à certaines mutations d'exploitation.<a id=985></a>
+##### Section 1 : Aides à certaines mutations d'exploitation.<a id=983></a>
 
 ###### Article R*352-1
 
@@ -97291,7 +97206,7 @@ _Cite_:
   - Code rural - art. R352-4 (V)
 
 
-##### Section 2 : Aides à la réinsertion professionnelle.<a id=986></a>
+##### Section 2 : Aides à la réinsertion professionnelle.<a id=984></a>
 
 ###### Article R352-15
 
@@ -97514,7 +97429,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-#### Chapitre III : Cessation d'activité.<a id=987></a>
+#### Chapitre III : Cessation d'activité.<a id=985></a>
 
 ###### Article R353-1
 
@@ -97939,9 +97854,9 @@ _Abrogé par_:
   - Décret n°2005-368 2005-04-19 art. 3 JORF 22 avril 2005
 
 
-#### Chapitre IV : Aides à l'adaptation de l'exploitation<a id=988></a>
+#### Chapitre IV : Aides à l'adaptation de l'exploitation<a id=986></a>
 
-##### Section 1 : Conditions d'attribution de l'aide.<a id=989></a>
+##### Section 1 : Conditions d'attribution de l'aide.<a id=987></a>
 
 ###### Article R354-1
 
@@ -98143,7 +98058,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Section 2 : Montant et procédure d'octroi de l'aide.<a id=990></a>
+##### Section 2 : Montant et procédure d'octroi de l'aide.<a id=988></a>
 
 ###### Article R354-6
 
@@ -98290,13 +98205,13 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-### Titre VI : Calamités agricoles<a id=991></a>
+### Titre VI : Calamités agricoles<a id=989></a>
 
-#### Chapitre Ier : Organisation générale du régime de garantie<a id=992></a>
+#### Chapitre Ier : Organisation générale du régime de garantie<a id=990></a>
 
-##### Section 1 : Composition, mission et fonctionnement<a id=993></a>
+##### Section 1 : Composition, mission et fonctionnement<a id=991></a>
 
-##### Sous-section 1 : Fonds national de garantie des calamités agricoles.<a id=994></a>
+##### Sous-section 1 : Fonds national de garantie des calamités agricoles.<a id=992></a>
 
 ###### Article R*361-1
 
@@ -98533,7 +98448,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Sous-section 2 : Commission nationale des calamités agricoles.<a id=995></a>
+##### Sous-section 2 : Commission nationale des calamités agricoles.<a id=993></a>
 
 ###### Article R*361-8
 
@@ -98775,7 +98690,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Sous-section 3 : Comités départementaux d'expertise.<a id=996></a>
+##### Sous-section 3 : Comités départementaux d'expertise.<a id=994></a>
 
 ###### Article R*361-13
 
@@ -99059,9 +98974,9 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Section 2 : Procédures<a id=997></a>
+##### Section 2 : Procédures<a id=995></a>
 
-##### Sous-section 1 : Constatation des dommages.<a id=998></a>
+##### Sous-section 1 : Constatation des dommages.<a id=996></a>
 
 ###### Article R361-20
 
@@ -99152,7 +99067,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D361-15 (M)
 
 
-##### Sous-section 2 : Constitution des dossiers de demande d'indemnisation.<a id=999></a>
+##### Sous-section 2 : Constitution des dossiers de demande d'indemnisation.<a id=997></a>
 
 ###### Article R361-22
 
@@ -99346,7 +99261,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Sous-section 3 : Evaluation des dommages.<a id=1000></a>
+##### Sous-section 3 : Evaluation des dommages.<a id=998></a>
 
 ###### Article R361-27
 
@@ -99556,7 +99471,7 @@ _Abrogé par_:
   - Décret n°2007-592 du 24 avril 2007 - art. 2 () JORF 26 avril 2007
 
 
-##### Sous-section 4 : Conditions d'indemnisation.<a id=1001></a>
+##### Sous-section 4 : Conditions d'indemnisation.<a id=999></a>
 
 ###### Article R361-32
 
@@ -99703,7 +99618,7 @@ _Créé par_:
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
 
 
-##### Section 3 : Prêts aux victimes des calamités agricoles.<a id=1002></a>
+##### Section 3 : Prêts aux victimes des calamités agricoles.<a id=1000></a>
 
 ###### Article R361-36
 
@@ -100151,7 +100066,7 @@ _Abrogé par_:
   - Décret n°2007-592 du 24 avril 2007 - art. 2 () JORF 26 avril 2007
 
 
-##### Section 4 : Dispositions diverses.<a id=1003></a>
+##### Section 4 : Dispositions diverses.<a id=1001></a>
 
 ###### Article R*361-51
 
@@ -100222,15 +100137,15 @@ _Transféré par_:
   - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
 
 
-## Livre IV : Baux ruraux<a id=1004></a>
+## Livre IV : Baux ruraux<a id=1002></a>
 
-### Titre Ier : Statut du fermage et du métayage<a id=1005></a>
+### Titre Ier : Statut du fermage et du métayage<a id=1003></a>
 
-#### Chapitre Ier : Régime de droit commun<a id=1006></a>
+#### Chapitre Ier : Régime de droit commun<a id=1004></a>
 
-##### Section 1 : Etablissement du contrat, durée et prix du bail<a id=1007></a>
+##### Section 1 : Etablissement du contrat, durée et prix du bail<a id=1005></a>
 
-##### Sous-section 3 : Prix du bail.<a id=1008></a>
+##### Sous-section 3 : Prix du bail.<a id=1006></a>
 
 ###### Article R*411-9-1
 
@@ -100689,7 +100604,7 @@ _Cite_:
   - Code rural - art. R411-9-9 (V)
 
 
-##### Section 8 : Droit de renouvellement et droit de reprise.<a id=1009></a>
+##### Section 8 : Droit de renouvellement et droit de reprise.<a id=1007></a>
 
 ###### Article R411-10
 
@@ -100756,7 +100671,7 @@ _Abrogé par_:
   - Décret n°2017-1771 du 27 décembre 2017 - art. 9
 
 
-##### Section 9 : Indemnité au preneur sortant.<a id=1010></a>
+##### Section 9 : Indemnité au preneur sortant.<a id=1008></a>
 
 ###### Article R411-14
 
@@ -101112,9 +101027,9 @@ _Créé par_:
   - Décret n°86-881 1986-07-28 art. 1 JORF 30 juillet 1986
 
 
-#### Chapitre IV : Commissions consultatives paritaires des baux ruraux<a id=1011></a>
+#### Chapitre IV : Commissions consultatives paritaires des baux ruraux<a id=1009></a>
 
-##### Section 1 : Commissions consultatives paritaires départementales des baux ruraux.<a id=1012></a>
+##### Section 1 : Commissions consultatives paritaires départementales des baux ruraux.<a id=1010></a>
 
 ###### Article R*414-2
 
@@ -101268,7 +101183,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R414-4-1 (V)
 
 
-##### Section 2 : Commissions consultatives paritaires régionales des baux ruraux.<a id=1013></a>
+##### Section 2 : Commissions consultatives paritaires régionales des baux ruraux.<a id=1011></a>
 
 ###### Article R414-5
 
@@ -101338,7 +101253,7 @@ _Modifié par_:
   - Décret n°90-187 du 28 février 1990 - art. 6 () JORF 1er mars 1990
 
 
-##### Section 3 : Commission consultative paritaire nationale des baux ruraux.<a id=1014></a>
+##### Section 3 : Commission consultative paritaire nationale des baux ruraux.<a id=1012></a>
 
 ###### Article R414-6
 
@@ -101415,7 +101330,7 @@ _Modifié par_:
   - Décret n°90-187 du 28 février 1990 - art. 6 () JORF 1er mars 1990
 
 
-#### Chapitre V : Dispositions diverses et d'application.<a id=1015></a>
+#### Chapitre V : Dispositions diverses et d'application.<a id=1013></a>
 
 ###### Article R*415-1
 
@@ -101584,7 +101499,7 @@ _Abrogé par_:
   - Décret n°2017-1771 du 27 décembre 2017 - art. 9
 
 
-#### Chapitre VI : Dispositions particulières au baux à long terme.<a id=1016></a>
+#### Chapitre VI : Dispositions particulières au baux à long terme.<a id=1014></a>
 
 ###### Article R416-1
 
@@ -101639,9 +101554,9 @@ _Cite_:
   - Code rural - art. L416-5
 
 
-#### Chapitre VII : Dispositions particulières au baux à colonat partiaire ou métayage<a id=1017></a>
+#### Chapitre VII : Dispositions particulières au baux à colonat partiaire ou métayage<a id=1015></a>
 
-##### Section 1 : Régime du bail.<a id=1018></a>
+##### Section 1 : Régime du bail.<a id=1016></a>
 
 ###### Article R417-1
 
@@ -101658,7 +101573,7 @@ _Cite_:
   - Code rural - art. L417-2 (V)
 
 
-##### Section 2 : Conversion en baux à ferme.<a id=1019></a>
+##### Section 2 : Conversion en baux à ferme.<a id=1017></a>
 
 ###### Article R417-2
 
@@ -101690,7 +101605,7 @@ _Cite_:
   - Code rural - art. L411-12 (V)
 
 
-### Titre III : Bail à domaine congéable<a id=1020></a>
+### Titre III : Bail à domaine congéable<a id=1018></a>
 
 ###### Article R431-1
 
@@ -101709,7 +101624,7 @@ _Cite_:
   - Code rural - art. L431-14 (V)
 
 
-### Titre IV : Bail à complant<a id=1021></a>
+### Titre IV : Bail à complant<a id=1019></a>
 
 ###### Article R441-1
 
@@ -101758,11 +101673,11 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-### Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer<a id=1022></a>
+### Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer<a id=1020></a>
 
-#### Chapitre Ier : Régime de droit commun<a id=1023></a>
+#### Chapitre Ier : Régime de droit commun<a id=1021></a>
 
-##### Section 1 : Commission consultative des baux ruraux.<a id=1024></a>
+##### Section 1 : Commission consultative des baux ruraux.<a id=1022></a>
 
 ###### Article R*461-1
 
@@ -101876,7 +101791,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-##### Section 2 : Conclusion, durée, prix du bail.<a id=1025></a>
+##### Section 2 : Conclusion, durée, prix du bail.<a id=1023></a>
 
 ###### Article R461-5
 
@@ -101932,7 +101847,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-##### Section 5 : Indemnité au preneur sortant.<a id=1026></a>
+##### Section 5 : Indemnité au preneur sortant.<a id=1024></a>
 
 ###### Article R461-8
 
@@ -101991,7 +101906,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-##### Section 6 : Droit de préemption.<a id=1027></a>
+##### Section 6 : Droit de préemption.<a id=1025></a>
 
 ###### Article R461-11
 
@@ -102051,7 +101966,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-##### Section 7 : Dispositions diverses.<a id=1028></a>
+##### Section 7 : Dispositions diverses.<a id=1026></a>
 
 ###### Article R461-14
 
@@ -102065,7 +101980,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-##### Section 8 : Dispositions diverses.<a id=1029></a>
+##### Section 8 : Dispositions diverses.<a id=1027></a>
 
 ###### Article R461-15
 
@@ -102082,9 +101997,9 @@ _Abrogé par_:
   - Décret n°2013-754 du 14 août 2013 - art. 11
 
 
-#### Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage<a id=1030></a>
+#### Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage<a id=1028></a>
 
-##### Section 1 : Régime du bail.<a id=1031></a>
+##### Section 1 : Régime du bail.<a id=1029></a>
 
 ###### Article R462-1
 
@@ -102462,7 +102377,7 @@ _Abrogé par_:
   - Décret n°2016-781 du 10 juin 2016 - art. 5
 
 
-##### Section 2 : Conversion en baux à ferme.<a id=1032></a>
+##### Section 2 : Conversion en baux à ferme.<a id=1030></a>
 
 ###### Article R462-17
 
@@ -102484,7 +102399,7 @@ _Abrogé par_:
   - Décret n°2016-781 du 10 juin 2016 - art. 5
 
 
-##### Section 3 : Dispositions diverses et d'application.<a id=1033></a>
+##### Section 3 : Dispositions diverses et d'application.<a id=1031></a>
 
 ###### Article R462-18
 
@@ -102497,7 +102412,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-#### Chapitre III : Dispositions particulières aux baux à long terme.<a id=1034></a>
+#### Chapitre III : Dispositions particulières aux baux à long terme.<a id=1032></a>
 
 ###### Article R463-1
 
@@ -102588,7 +102503,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R463-2 (Ab)
 
 
-#### Chapitre IV : Dispositions d'application.<a id=1035></a>
+#### Chapitre IV : Dispositions d'application.<a id=1033></a>
 
 ###### Article R464-1
 
@@ -102607,13 +102522,13 @@ _Abrogé par_:
   - Décret n°2016-781 du 10 juin 2016 - art. 5
 
 
-## Livre V : Organismes professionnels agricoles<a id=1036></a>
+## Livre V : Organismes professionnels agricoles<a id=1034></a>
 
-### Titre Ier : Chambres d'agriculture<a id=1037></a>
+### Titre Ier : Chambres d'agriculture<a id=1035></a>
 
-#### Chapitre Ier : Chambres départementales<a id=1038></a>
+#### Chapitre Ier : Chambres départementales<a id=1036></a>
 
-##### Section 1 : Institution et attributions.<a id=1039></a>
+##### Section 1 : Institution et attributions.<a id=1037></a>
 
 ###### Article R*511-3
 
@@ -102756,7 +102671,7 @@ _Abrogé par_:
   - Décret n°2007-345 du 14 mars 2007 - art. 8 () JORF 16 mars 2007
 
 
-##### Section 2 : Composition.<a id=1040></a>
+##### Section 2 : Composition.<a id=1038></a>
 
 ###### Article R*511-6
 
@@ -102889,11 +102804,11 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D512-5 (V)
 
 
-##### Section 3 : Elections<a id=1041></a>
+##### Section 3 : Elections<a id=1039></a>
 
-##### Sous-section 1 : Conditions requises pour être électeur<a id=1042></a>
+##### Sous-section 1 : Conditions requises pour être électeur<a id=1040></a>
 
-##### Paragraphe 1 : Electeurs votant individuellement.<a id=1043></a>
+##### Paragraphe 1 : Electeurs votant individuellement.<a id=1041></a>
 
 ###### Article R*511-8
 
@@ -103036,7 +102951,7 @@ _Cite_:
   - Code forestier - art. R221-7 (M)
 
 
-##### Paragraphe 2 : Groupements électeurs.<a id=1044></a>
+##### Paragraphe 2 : Groupements électeurs.<a id=1042></a>
 
 ###### Article R*511-10
 
@@ -103125,9 +103040,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R571-10 (Ab)
 
 
-##### Sous-section 2 : Listes électorales<a id=1045></a>
+##### Sous-section 2 : Listes électorales<a id=1043></a>
 
-##### Paragraphe 1 : Electeurs votant individuellement.<a id=1046></a>
+##### Paragraphe 1 : Electeurs votant individuellement.<a id=1044></a>
 
 ###### Article R*511-12
 
@@ -103544,7 +103459,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R511-22 (V)
 
 
-##### Paragraphe 2 : Groupements électeurs.<a id=1047></a>
+##### Paragraphe 2 : Groupements électeurs.<a id=1045></a>
 
 ###### Article R*511-27
 
@@ -103669,7 +103584,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Sous-section 3 : Eligibilité et candidatures.<a id=1048></a>
+##### Sous-section 3 : Eligibilité et candidatures.<a id=1046></a>
 
 ###### Article R*511-30
 
@@ -103831,7 +103746,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Sous-section 4 : Propagande.<a id=1049></a>
+##### Sous-section 4 : Propagande.<a id=1047></a>
 
 ###### Article R*511-36
 
@@ -104045,7 +103960,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R511-41 (V)
 
 
-##### Sous-section 5 : Mode de scrutin.<a id=1050></a>
+##### Sous-section 5 : Mode de scrutin.<a id=1048></a>
 
 ###### Article R*511-43
 
@@ -104103,9 +104018,9 @@ _Cite_:
   - Code rural R511-6
 
 
-##### Sous-section 6 : Opérations de vote<a id=1051></a>
+##### Sous-section 6 : Opérations de vote<a id=1049></a>
 
-##### Paragraphe 1 : Date du scrutin.<a id=1052></a>
+##### Paragraphe 1 : Date du scrutin.<a id=1050></a>
 
 ###### Article R*511-44
 
@@ -104132,7 +104047,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R511-36 (V)
 
 
-##### Paragraphe 2 : Electeurs votant individuellement.<a id=1053></a>
+##### Paragraphe 2 : Electeurs votant individuellement.<a id=1051></a>
 
 ###### Article R*511-45
 
@@ -104226,7 +104141,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D571-2 (M)
 
 
-##### Paragraphe 3 : Groupements électeurs.<a id=1054></a>
+##### Paragraphe 3 : Groupements électeurs.<a id=1052></a>
 
 ###### Article R*511-48
 
@@ -104269,7 +104184,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R511-38 (V)
 
 
-##### Paragraphe 4 : Recensement des votes.<a id=1055></a>
+##### Paragraphe 4 : Recensement des votes.<a id=1053></a>
 
 ###### Article R*511-49
 
@@ -104295,7 +104210,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Sous-section 7 : Contentieux.<a id=1056></a>
+##### Sous-section 7 : Contentieux.<a id=1054></a>
 
 ###### Article R*511-50
 
@@ -104323,7 +104238,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Sous-section 8 : Cessation de mandat.<a id=1057></a>
+##### Sous-section 8 : Cessation de mandat.<a id=1055></a>
 
 ###### Article R*511-51
 
@@ -104368,7 +104283,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D513-10 (V)
 
 
-##### Sous-section 9 : Elections partielles.<a id=1058></a>
+##### Sous-section 9 : Elections partielles.<a id=1056></a>
 
 ###### Article R*511-53
 
@@ -104460,7 +104375,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 4 : Fonctionnement.<a id=1059></a>
+##### Section 4 : Fonctionnement.<a id=1057></a>
 
 ###### Article R*511-54
 
@@ -104874,7 +104789,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 5 : Régime financier<a id=1060></a>
+##### Section 5 : Régime financier<a id=1058></a>
 
 ###### Article R*511-71
 
@@ -104899,7 +104814,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D513-22 (V)
 
 
-##### Sous-section 1 : Opérations du budget général.<a id=1061></a>
+##### Sous-section 1 : Opérations du budget général.<a id=1059></a>
 
 ###### Article R*511-73
 
@@ -105318,7 +105233,7 @@ _Cité par_:
   - Décret n°2010-1629 du 23 décembre 2010 - art. 8 (VT)
 
 
-##### Sous-section 2 : Opérations des budgets spéciaux.<a id=1062></a>
+##### Sous-section 2 : Opérations des budgets spéciaux.<a id=1060></a>
 
 ###### Article R511-86
 
@@ -105474,7 +105389,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Sous-section 3 : Opérations communes au budget général et aux budgets spéciaux.<a id=1063></a>
+##### Sous-section 3 : Opérations communes au budget général et aux budgets spéciaux.<a id=1061></a>
 
 ###### Article R511-91
 
@@ -105618,7 +105533,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 6 : Chambre interdépartementale de l'Ile-de-France.<a id=1064></a>
+##### Section 6 : Chambre interdépartementale de l'Ile-de-France.<a id=1062></a>
 
 ###### Article R511-97
 
@@ -105711,7 +105626,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 7 : Etablissements et services d'utilité agricole interchambres d'agriculture.<a id=1065></a>
+##### Section 7 : Etablissements et services d'utilité agricole interchambres d'agriculture.<a id=1063></a>
 
 ###### Article R511-102
 
@@ -106022,7 +105937,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 8 : Dispositions communes aux chambres départementales d'agriculture et aux établissements et services d'utilité agricole interchambres d'agriculture.<a id=1066></a>
+##### Section 8 : Dispositions communes aux chambres départementales d'agriculture et aux établissements et services d'utilité agricole interchambres d'agriculture.<a id=1064></a>
 
 ###### Article R511-111
 
@@ -106083,7 +105998,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer.<a id=1067></a>
+##### Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer.<a id=1065></a>
 
 ###### Article R*511-116
 
@@ -106208,9 +106123,9 @@ _Transféré par_:
   - Décret n°2007-345 du 14 mars 2007 - art. 2 () JORF 16 mars 2007
 
 
-#### Chapitre II : Chambres régionales<a id=1068></a>
+#### Chapitre II : Chambres régionales<a id=1066></a>
 
-##### Section 1 : Dispositions particulières aux chambres régionales d'agriculture.<a id=1069></a>
+##### Section 1 : Dispositions particulières aux chambres régionales d'agriculture.<a id=1067></a>
 
 ###### Article R*512-3
 
@@ -106462,7 +106377,7 @@ _Nouveaux textes_:
   - Code rural et de la pêche maritime - art. D512-8 (M)
 
 
-##### Section 2 : Dispositions financières particulières relatives aux chambres régionales d'agriculture.<a id=1070></a>
+##### Section 2 : Dispositions financières particulières relatives aux chambres régionales d'agriculture.<a id=1068></a>
 
 ###### Article R512-9
 
@@ -106569,9 +106484,9 @@ _Nouveaux textes_:
   - Code rural et de la pêche maritime - art. D512-11 (M)
 
 
-#### Chapitre III : Assemblée permanente des chambres d'agriculture<a id=1071></a>
+#### Chapitre III : Assemblée permanente des chambres d'agriculture<a id=1069></a>
 
-##### Section 1 : Organisation et fonctionnement.<a id=1072></a>
+##### Section 1 : Organisation et fonctionnement.<a id=1070></a>
 
 ###### Article R513-1
 
@@ -106844,7 +106759,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 2 : Comité permanent général, commissions et sections spécialisées.<a id=1073></a>
+##### Section 2 : Comité permanent général, commissions et sections spécialisées.<a id=1071></a>
 
 ###### Article R513-12
 
@@ -107107,7 +107022,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 3 : Régime financier.<a id=1074></a>
+##### Section 3 : Régime financier.<a id=1072></a>
 
 ###### Article R513-22
 
@@ -107299,7 +107214,7 @@ _Créé par_:
   - Décret n°95-274 du 9 mars 1995 - art. 9 () JORF 11 mars 1995
 
 
-#### Chapitre IV : Dispositions financières communes<a id=1075></a>
+#### Chapitre IV : Dispositions financières communes<a id=1073></a>
 
 ###### Article R*514-1
 
@@ -107486,11 +107401,11 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-### Titre II : Sociétés coopératives agricoles<a id=1076></a>
+### Titre II : Sociétés coopératives agricoles<a id=1074></a>
 
-#### Chapitre Ier : Dispositions générales, constitution<a id=1077></a>
+#### Chapitre Ier : Dispositions générales, constitution<a id=1075></a>
 
-##### Section 1 : Dispositions générales.<a id=1078></a>
+##### Section 1 : Dispositions générales.<a id=1076></a>
 
 ###### Article R*521-2
 
@@ -107627,7 +107542,7 @@ _Cité par_:
   - Code rural - art. R582-6 (V)
 
 
-##### Section 2 : Constitution.<a id=1079></a>
+##### Section 2 : Constitution.<a id=1077></a>
 
 ###### Article R*521-7
 
@@ -107964,9 +107879,9 @@ _Abrogé par_:
   - Décret n°2008-375 du 17 avril 2008 - art. 1
 
 
-#### Chapitre II : Associés, tiers non coopérateurs<a id=1080></a>
+#### Chapitre II : Associés, tiers non coopérateurs<a id=1078></a>
 
-##### Section 1 : Associés coopérateurs.<a id=1081></a>
+##### Section 1 : Associés coopérateurs.<a id=1079></a>
 
 ###### Article R522-1
 
@@ -108217,7 +108132,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R631-10 (V)
 
 
-##### Section 3 : Tiers non coopérateurs.<a id=1082></a>
+##### Section 3 : Tiers non coopérateurs.<a id=1080></a>
 
 ###### Article R522-9
 
@@ -108246,9 +108161,9 @@ _Cité par_:
   - Code rural - art. R582-15 (V)
 
 
-#### Chapitre III : Capital social et dispositions financières<a id=1083></a>
+#### Chapitre III : Capital social et dispositions financières<a id=1081></a>
 
-##### Section 1 : Capital social.<a id=1084></a>
+##### Section 1 : Capital social.<a id=1082></a>
 
 ###### Article R*523-1
 
@@ -108433,7 +108348,7 @@ _Cité par_:
   - Code rural - art. R523-1-1 (V)
 
 
-##### Section 3 : Prises de participation.<a id=1085></a>
+##### Section 3 : Prises de participation.<a id=1083></a>
 
 ###### Article R523-8
 
@@ -108548,7 +108463,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 4 : Participation et intéressement.<a id=1086></a>
+##### Section 4 : Participation et intéressement.<a id=1084></a>
 
 ###### Article R523-9
 
@@ -108631,9 +108546,9 @@ _Transféré par_:
   - Décret n°2007-1218 du 10 août 2007 - art. 3 () JORF 14 août 2007
 
 
-#### Chapitre IV : Administration<a id=1087></a>
+#### Chapitre IV : Administration<a id=1085></a>
 
-##### Section 1 : Conseil d'administration.<a id=1088></a>
+##### Section 1 : Conseil d'administration.<a id=1086></a>
 
 ###### Article R*524-1
 
@@ -108899,7 +108814,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 2 : Commissariat aux comptes.<a id=1089></a>
+##### Section 2 : Commissariat aux comptes.<a id=1087></a>
 
 ###### Article R*524-10
 
@@ -108985,7 +108900,7 @@ _Abrogé par_:
   - Décret n°2007-1218 du 10 août 2007 - art. 4 () JORF 14 août 2007
 
 
-##### Section 3 : Assemblée générale.<a id=1090></a>
+##### Section 3 : Assemblée générale.<a id=1088></a>
 
 ###### Article R*524-13
 
@@ -109337,7 +109252,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 4 : Dispositions concernant les unions de coopératives.<a id=1091></a>
+##### Section 4 : Dispositions concernant les unions de coopératives.<a id=1089></a>
 
 ###### Article R*524-25
 
@@ -109418,7 +109333,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 5 : Directoire et conseil de surveillance.<a id=1092></a>
+##### Section 5 : Directoire et conseil de surveillance.<a id=1090></a>
 
 ###### Article R*524-28
 
@@ -109847,9 +109762,9 @@ _Transféré par_:
   - Décret n°2007-1218 du 10 août 2007 - art. 4 () JORF 14 août 2007
 
 
-#### Chapitre V : Agrément, contrôle<a id=1093></a>
+#### Chapitre V : Agrément, contrôle<a id=1091></a>
 
-##### Section 1 : Agrément.<a id=1094></a>
+##### Section 1 : Agrément.<a id=1092></a>
 
 ###### Article R*525-1
 
@@ -110197,7 +110112,7 @@ _Abrogé par_:
   - Décret n°2006-1528 du 5 décembre 2006 - art. 1 () JORF 6 décembre 2006 en vigueur le 1er janvier 2007
 
 
-##### Section 2 : Contrôle.<a id=1095></a>
+##### Section 2 : Contrôle.<a id=1093></a>
 
 ###### Article R*525-13
 
@@ -110327,7 +110242,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre VI : Dissolution, liquidation.<a id=1096></a>
+#### Chapitre VI : Dissolution, liquidation.<a id=1094></a>
 
 ###### Article R*526-4
 
@@ -110429,11 +110344,11 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R523-5 (VD)
 
 
-#### Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle<a id=1097></a>
+#### Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle<a id=1095></a>
 
-##### Section 1 : Fédérations de coopératives<a id=1098></a>
+##### Section 1 : Fédérations de coopératives<a id=1096></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=1099></a>
+##### Sous-section 1 : Dispositions générales.<a id=1097></a>
 
 ###### Article R527-1
 
@@ -110520,7 +110435,7 @@ _Cite_:
   - Loi n°1901-07-01
 
 
-##### Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision.<a id=1100></a>
+##### Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision.<a id=1098></a>
 
 ###### Article R*527-4
 
@@ -110741,7 +110656,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Sous-section 3 : Dispositions particulières aux fédérations de coopératives agréées exerçant les fonctions de commissaire aux comptes.<a id=1101></a>
+##### Sous-section 3 : Dispositions particulières aux fédérations de coopératives agréées exerçant les fonctions de commissaire aux comptes.<a id=1099></a>
 
 ###### Article R527-12
 
@@ -110775,9 +110690,9 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole<a id=1102></a>
+#### Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole<a id=1100></a>
 
-##### Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément.<a id=1103></a>
+##### Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément.<a id=1101></a>
 
 ###### Article R*528-1
 
@@ -111011,7 +110926,7 @@ _Modifié par_:
   - Décret n°92-1363 du 24 décembre 1992 - art. 8 () JORF 30 décembre 1992
 
 
-##### Section 2 : Commission départementale des structures agricoles.<a id=1104></a>
+##### Section 2 : Commission départementale des structures agricoles.<a id=1102></a>
 
 ###### Article R*528-8
 
@@ -111100,7 +111015,7 @@ _Abrogé par_:
   - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
 
 
-#### Chapitre IX : Dispositions pénales, dispositions d'application.<a id=1105></a>
+#### Chapitre IX : Dispositions pénales, dispositions d'application.<a id=1103></a>
 
 ###### Article R529-1
 
@@ -111153,9 +111068,9 @@ _Cite_:
   - Code rural - art. R529-1 (V)
 
 
-### Titre III : Sociétés d'intérêt collectif agricole<a id=1106></a>
+### Titre III : Sociétés d'intérêt collectif agricole<a id=1104></a>
 
-#### Chapitre Ier : Constitution, agrément.<a id=1107></a>
+#### Chapitre Ier : Constitution, agrément.<a id=1105></a>
 
 ###### Article R*531-2
 
@@ -111578,7 +111493,7 @@ _Cité par_:
   - Code rural - art. R583-13 (V)
 
 
-#### Chapitre II : Fonctionnement.<a id=1108></a>
+#### Chapitre II : Fonctionnement.<a id=1106></a>
 
 ###### Article R532-1
 
@@ -111737,7 +111652,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R572-6 (V)
 
 
-#### Chapitre III : Dispositions financières.<a id=1109></a>
+#### Chapitre III : Dispositions financières.<a id=1107></a>
 
 ###### Article R*533-2
 
@@ -111811,7 +111726,7 @@ _Cité par_:
   - Code rural - art. R583-20 (V)
 
 
-#### Chapitre IV : Transformation, dissolution, liquidation.<a id=1110></a>
+#### Chapitre IV : Transformation, dissolution, liquidation.<a id=1108></a>
 
 ###### Article R*534-2
 
@@ -111897,7 +111812,7 @@ _Cité par_:
   - Code rural - art. R583-23 (V)
 
 
-#### Chapitre V : Dispositions pénales.<a id=1111></a>
+#### Chapitre V : Dispositions pénales.<a id=1109></a>
 
 ###### Article R535-1
 
@@ -111921,7 +111836,7 @@ _Cite_:
   - Code rural - art. R531-4 (V)
 
 
-### Titre IV : Sociétés mixtes d'intérêt agricole<a id=1112></a>
+### Titre IV : Sociétés mixtes d'intérêt agricole<a id=1110></a>
 
 ###### Article R541-1
 
@@ -111967,9 +111882,9 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-### Titre V : Groupements de producteurs et comités économiques agricoles<a id=1113></a>
+### Titre V : Groupements de producteurs et comités économiques agricoles<a id=1111></a>
 
-#### Chapitre Ier : Groupements de producteurs.<a id=1114></a>
+#### Chapitre Ier : Groupements de producteurs.<a id=1112></a>
 
 ###### Article R*551-1
 
@@ -112332,7 +112247,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre II : Comités économiques agricoles.<a id=1115></a>
+#### Chapitre II : Comités économiques agricoles.<a id=1113></a>
 
 ###### Article R*552-1
 
@@ -112771,9 +112686,9 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles<a id=1116></a>
+#### Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles<a id=1114></a>
 
-##### Section 1 : Droits d'inscription et cotisations.<a id=1117></a>
+##### Section 1 : Droits d'inscription et cotisations.<a id=1115></a>
 
 ###### Article R*553-1
 
@@ -112983,7 +112898,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 2 : Contrôle.<a id=1118></a>
+##### Section 2 : Contrôle.<a id=1116></a>
 
 ###### Article R*553-10
 
@@ -113163,7 +113078,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R556-3 (Ab)
 
 
-##### Section 3 : Dispositions diverses.<a id=1119></a>
+##### Section 3 : Dispositions diverses.<a id=1117></a>
 
 ###### Article R*553-17
 
@@ -113187,9 +113102,9 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre IV : Extension des règles édictées par les comités économiques agricoles<a id=1120></a>
+#### Chapitre IV : Extension des règles édictées par les comités économiques agricoles<a id=1118></a>
 
-##### Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole<a id=1121></a>
+##### Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole<a id=1119></a>
 
 ###### Article R*554-1
 
@@ -113235,9 +113150,9 @@ _Transféré par_:
   - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
 
 
-##### Section 2 : Procédure d'extension des règles<a id=1122></a>
+##### Section 2 : Procédure d'extension des règles<a id=1120></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=1123></a>
+##### Sous-section 1 : Dispositions générales.<a id=1121></a>
 
 ###### Article R*554-2
 
@@ -113413,9 +113328,9 @@ _Transféré par_:
   - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
 
 
-##### Sous-section 2 : Procédure de consultation des producteurs<a id=1124></a>
+##### Sous-section 2 : Procédure de consultation des producteurs<a id=1122></a>
 
-##### Paragraphe 1 : Etablissement de la liste des producteurs.<a id=1125></a>
+##### Paragraphe 1 : Etablissement de la liste des producteurs.<a id=1123></a>
 
 ###### Article R*554-7
 
@@ -113736,7 +113651,7 @@ _Transféré par_:
   - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
 
 
-##### Paragraphe 2 : Modalités de la consultation des producteurs.<a id=1126></a>
+##### Paragraphe 2 : Modalités de la consultation des producteurs.<a id=1124></a>
 
 ###### Article R*554-16
 
@@ -114284,7 +114199,7 @@ _Transféré par_:
   - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
 
 
-##### Paragraphe 3 : Dispositions diverses.<a id=1127></a>
+##### Paragraphe 3 : Dispositions diverses.<a id=1125></a>
 
 ###### Article R*554-29
 
@@ -114319,7 +114234,7 @@ _Transféré par_:
   - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
 
 
-#### Chapitre V : Dispositions particulières aux départements d'outre-mer.<a id=1128></a>
+#### Chapitre V : Dispositions particulières aux départements d'outre-mer.<a id=1126></a>
 
 ###### Article R555-1
 
@@ -114421,7 +114336,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre VI : Pénalités<a id=1129></a>
+#### Chapitre VI : Pénalités<a id=1127></a>
 
 ###### Article R556-1
 
@@ -114555,11 +114470,11 @@ _Modifié par_:
   - Loi n°92-1336 du 16 décembre 1992 - art. 327 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
-### Titre VI : Jardins familiaux<a id=1130></a>
+### Titre VI : Jardins familiaux<a id=1128></a>
 
-#### Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux<a id=1131></a>
+#### Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux<a id=1129></a>
 
-##### Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER).<a id=1132></a>
+##### Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER).<a id=1130></a>
 
 ###### Article R562-1
 
@@ -114596,7 +114511,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D572-10 (V)
 
 
-##### Section 2 : Droit de préemption des collectivités locales.<a id=1133></a>
+##### Section 2 : Droit de préemption des collectivités locales.<a id=1131></a>
 
 ###### Article R562-2
 
@@ -114664,7 +114579,7 @@ _Cite_:
   - Code rural - art. R562-2 (V)
 
 
-#### Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique<a id=1134></a>
+#### Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique<a id=1132></a>
 
 ###### Article R563-1
 
@@ -114714,7 +114629,7 @@ _Cite_:
   - Code rural - art. L563-1 (V)
 
 
-#### Chapitre IV : Avantages divers et subventions<a id=1135></a>
+#### Chapitre IV : Avantages divers et subventions<a id=1133></a>
 
 ###### Article R564-1
 
@@ -114803,15 +114718,15 @@ _Cite_:
   - Code rural - art. R563-1 (V)
 
 
-## Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique<a id=1136></a>
+## Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique<a id=1134></a>
 
-### Titre Ier : Enseignement et formation professionnelle agricoles<a id=1137></a>
+### Titre Ier : Enseignement et formation professionnelle agricoles<a id=1135></a>
 
-#### Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles<a id=1138></a>
+#### Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles<a id=1136></a>
 
-##### Section 1 : Organisation générale<a id=1139></a>
+##### Section 1 : Organisation générale<a id=1137></a>
 
-##### Sous-section 1 : Principes de base.<a id=1140></a>
+##### Sous-section 1 : Principes de base.<a id=1138></a>
 
 ###### Article R*811-1
 
@@ -114874,9 +114789,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Conseils et comités<a id=1141></a>
+##### Sous-section 2 : Conseils et comités<a id=1139></a>
 
-##### Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale.<a id=1142></a>
+##### Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale.<a id=1140></a>
 
 ###### Article R*811-3
 
@@ -115340,7 +115255,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Paragraphe 2 : Comité de coordination.<a id=1143></a>
+##### Paragraphe 2 : Comité de coordination.<a id=1141></a>
 
 ###### Article R*811-10
 
@@ -115462,7 +115377,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R811-24 (V)
 
 
-##### Sous-section 3 : Promotion sociale.<a id=1144></a>
+##### Sous-section 3 : Promotion sociale.<a id=1142></a>
 
 ###### Article R*811-12
 
@@ -115513,9 +115428,9 @@ _Nouveaux textes_:
   - Code rural R811-3
 
 
-#### Chapitre II : Formations technologiques et professionnelles de cycle court<a id=1145></a>
+#### Chapitre II : Formations technologiques et professionnelles de cycle court<a id=1143></a>
 
-##### Section 1 : Enseignement technologique de cycle court par voie scolaire.<a id=1146></a>
+##### Section 1 : Enseignement technologique de cycle court par voie scolaire.<a id=1144></a>
 
 ###### Article R*812-1
 
@@ -115665,7 +115580,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage.<a id=1147></a>
+##### Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage.<a id=1145></a>
 
 ###### Article R*812-5
 
@@ -115696,7 +115611,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue et des formations alternées.<a id=1148></a>
+##### Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue et des formations alternées.<a id=1146></a>
 
 ###### Article R*812-6
 
@@ -115736,9 +115651,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R812-16 (V)
 
 
-#### Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles<a id=1149></a>
+#### Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles<a id=1147></a>
 
-##### Section 1 : Enseignement technologique de cycle long.<a id=1150></a>
+##### Section 1 : Enseignement technologique de cycle long.<a id=1148></a>
 
 ###### Article R*813-1
 
@@ -115897,7 +115812,7 @@ _Cité par_:
   - Code rural - art. R813-61 (V)
 
 
-##### Section 2 : Formation des techniciens supérieurs agricoles.<a id=1151></a>
+##### Section 2 : Formation des techniciens supérieurs agricoles.<a id=1149></a>
 
 ###### Article R*813-6
 
@@ -115971,7 +115886,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 3 : Dispositions communes.<a id=1152></a>
+##### Section 3 : Dispositions communes.<a id=1150></a>
 
 ###### Article R*813-8
 
@@ -116115,9 +116030,9 @@ _Cité par_:
   - Code rural - art. R813-57 (V)
 
 
-#### Chapitre IV : Enseignement supérieur<a id=1153></a>
+#### Chapitre IV : Enseignement supérieur<a id=1151></a>
 
-##### Section 1 : Dispositions générales.<a id=1154></a>
+##### Section 1 : Dispositions générales.<a id=1152></a>
 
 ###### Article R*814-1
 
@@ -116246,9 +116161,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Enseignement supérieur agricole<a id=1155></a>
+##### Section 2 : Enseignement supérieur agricole<a id=1153></a>
 
-##### Sous-section 1 : Formation des ingénieurs spécialisés en agriculture.<a id=1156></a>
+##### Sous-section 1 : Formation des ingénieurs spécialisés en agriculture.<a id=1154></a>
 
 ###### Article R*814-5
 
@@ -116289,7 +116204,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Formation des spécialistes en horticulture.<a id=1157></a>
+##### Sous-section 2 : Formation des spécialistes en horticulture.<a id=1155></a>
 
 ###### Article R*814-6
 
@@ -116323,7 +116238,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 3 : Formation des paysagistes DPLG.<a id=1158></a>
+##### Sous-section 3 : Formation des paysagistes DPLG.<a id=1156></a>
 
 ###### Article R*814-7
 
@@ -116467,7 +116382,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 4 : Formation des ingénieurs des industries agricoles et alimentaires.<a id=1159></a>
+##### Sous-section 4 : Formation des ingénieurs des industries agricoles et alimentaires.<a id=1157></a>
 
 ###### Article R*814-8
 
@@ -116528,9 +116443,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 5 : Formation des ingénieurs agronomes à vocation générale<a id=1160></a>
+##### Sous-section 5 : Formation des ingénieurs agronomes à vocation générale<a id=1158></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=1161></a>
+##### Paragraphe 1 : Dispositions générales.<a id=1159></a>
 
 ###### Article R*814-10
 
@@ -116930,7 +116845,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Paragraphe 2 : Dispositions particulières aux élèves étrangers.<a id=1162></a>
+##### Paragraphe 2 : Dispositions particulières aux élèves étrangers.<a id=1160></a>
 
 ###### Article R*814-20
 
@@ -117141,7 +117056,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 6 : Dispositions relatives à la délivrance des diplômes.<a id=1163></a>
+##### Sous-section 6 : Dispositions relatives à la délivrance des diplômes.<a id=1161></a>
 
 ###### Article R*814-27
 
@@ -117177,9 +117092,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 3 : Enseignement supérieur vétérinaire<a id=1164></a>
+##### Section 3 : Enseignement supérieur vétérinaire<a id=1162></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=1165></a>
+##### Sous-section 1 : Dispositions générales.<a id=1163></a>
 
 ###### Article R*814-28
 
@@ -117239,7 +117154,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Conditions d'admission des élèves.<a id=1166></a>
+##### Sous-section 2 : Conditions d'admission des élèves.<a id=1164></a>
 
 ###### Article R*814-30
 
@@ -117313,7 +117228,7 @@ _Cite_:
   - Code rural R814-30, R814-43
 
 
-##### Sous-section 3 : Enseignement et recherche.<a id=1167></a>
+##### Sous-section 3 : Enseignement et recherche.<a id=1165></a>
 
 ###### Article R*814-32
 
@@ -117501,7 +117416,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 4 : Administration.<a id=1168></a>
+##### Sous-section 4 : Administration.<a id=1166></a>
 
 ###### Article R*814-37
 
@@ -117530,7 +117445,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire.<a id=1169></a>
+##### Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire.<a id=1167></a>
 
 ###### Article R*814-38
 
@@ -117762,7 +117677,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 6 : Conseil national de la spécialisation vétérinaire.<a id=1170></a>
+##### Sous-section 6 : Conseil national de la spécialisation vétérinaire.<a id=1168></a>
 
 ###### Article R*814-43-1
 
@@ -117815,9 +117730,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 4 : Enseignement de l'agronomie des régions chaudes<a id=1171></a>
+##### Section 4 : Enseignement de l'agronomie des régions chaudes<a id=1169></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=1172></a>
+##### Sous-section 1 : Dispositions générales.<a id=1170></a>
 
 ###### Article R*814-44
 
@@ -117954,7 +117869,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Administration du centre.<a id=1173></a>
+##### Sous-section 2 : Administration du centre.<a id=1171></a>
 
 ###### Article R*814-48
 
@@ -118334,7 +118249,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 3 : Régime financier du centre.<a id=1174></a>
+##### Sous-section 3 : Régime financier du centre.<a id=1172></a>
 
 ###### Article R*814-58
 
@@ -118457,9 +118372,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public<a id=1175></a>
+#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public<a id=1173></a>
 
-##### Section 1 : Dispositions communes.<a id=1176></a>
+##### Section 1 : Dispositions communes.<a id=1174></a>
 
 ###### Article R*815-1
 
@@ -118537,7 +118452,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Dispositions relatives aux établissements d'enseignement technologique.<a id=1177></a>
+##### Section 2 : Dispositions relatives aux établissements d'enseignement technologique.<a id=1175></a>
 
 ###### Article R*815-4
 
@@ -118562,7 +118477,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-#### Chapitre VI : Dispositions relatives aux examens et concours publics.<a id=1178></a>
+#### Chapitre VI : Dispositions relatives aux examens et concours publics.<a id=1176></a>
 
 ###### Article R*816-1
 
@@ -118681,9 +118596,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-### Titre II : Développement agricole<a id=1179></a>
+### Titre II : Développement agricole<a id=1177></a>
 
-#### Chapitre Ier : Actions de développement agricole.<a id=1180></a>
+#### Chapitre Ier : Actions de développement agricole.<a id=1178></a>
 
 ###### Article R*821-1
 
@@ -118788,7 +118703,7 @@ _Modifié par_:
   - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
 
 
-#### Chapitre II : Convention avec l'association nationale pour le développement agricole.<a id=1181></a>
+#### Chapitre II : Convention avec l'association nationale pour le développement agricole.<a id=1179></a>
 
 ###### Article R*822-1
 
@@ -118904,7 +118819,7 @@ _Modifié par_:
   - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
 
 
-#### Chapitre III : Fonds national de développement agricole.<a id=1182></a>
+#### Chapitre III : Fonds national de développement agricole.<a id=1180></a>
 
 ###### Article R*823-1
 
@@ -119401,9 +119316,9 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-#### Chapitre IV : Programmes départementaux, régionaux et national de développement agricole<a id=1183></a>
+#### Chapitre IV : Programmes départementaux, régionaux et national de développement agricole<a id=1181></a>
 
-##### Section 1 : Programmes départementaux.<a id=1184></a>
+##### Section 1 : Programmes départementaux.<a id=1182></a>
 
 ###### Article R824-1
 
@@ -119551,7 +119466,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-##### Section 2 : Programmes régionaux.<a id=1185></a>
+##### Section 2 : Programmes régionaux.<a id=1183></a>
 
 ###### Article R824-5
 
@@ -119702,7 +119617,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-##### Section 3 : Programme national.<a id=1186></a>
+##### Section 3 : Programme national.<a id=1184></a>
 
 ###### Article R824-9
 
@@ -119756,7 +119671,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-#### Chapitre V : Conventions de développement.<a id=1187></a>
+#### Chapitre V : Conventions de développement.<a id=1185></a>
 
 ###### Article R825-1
 
@@ -119878,11 +119793,11 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-### Titre III : Recherche agronomique<a id=1188></a>
+### Titre III : Recherche agronomique<a id=1186></a>
 
-#### Chapitre Ier : Institut national de la recherche agronomique<a id=1189></a>
+#### Chapitre Ier : Institut national de la recherche agronomique<a id=1187></a>
 
-##### Section 1 : Dispositions générales.<a id=1190></a>
+##### Section 1 : Dispositions générales.<a id=1188></a>
 
 ###### Article R831-1
 
@@ -119984,7 +119899,7 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=1191></a>
+##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=1189></a>
 
 ###### Article R*831-3
 
@@ -120370,7 +120285,7 @@ _Modifié par_:
   - Décret n°90-648 du 13 juillet 1990 - art. 1 () JORF 24 juillet 1990
 
 
-##### Section 3 : Dispositions diverses.<a id=1192></a>
+##### Section 3 : Dispositions diverses.<a id=1190></a>
 
 ###### Article R*831-14
 
@@ -120415,9 +120330,9 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-#### Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts<a id=1193></a>
+#### Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts<a id=1191></a>
 
-##### Section 1 : Dispositions générales<a id=1194></a>
+##### Section 1 : Dispositions générales<a id=1192></a>
 
 ###### Article R832-1
 
@@ -120551,7 +120466,7 @@ _Cité par_:
   - Code rural - art. R832-17 (V)
 
 
-##### Section 2 : Administration et direction du centre.<a id=1195></a>
+##### Section 2 : Administration et direction du centre.<a id=1193></a>
 
 ###### Article R*832-4
 
@@ -120844,7 +120759,7 @@ _Modifié par_:
   - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
 
 
-##### Section 3 : Organisation du centre.<a id=1196></a>
+##### Section 3 : Organisation du centre.<a id=1194></a>
 
 ###### Article R832-11
 
@@ -120961,7 +120876,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R832-6 (V)
 
 
-##### Section 4 : Conseil scientifique et technique et commissions spécialisées<a id=1197></a>
+##### Section 4 : Conseil scientifique et technique et commissions spécialisées<a id=1195></a>
 
 ###### Article R832-15
 
@@ -121044,7 +120959,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R832-6 (V)
 
 
-##### Section 5 : Dispositions diverses<a id=1198></a>
+##### Section 5 : Dispositions diverses<a id=1196></a>
 
 ###### Article R832-17
 
