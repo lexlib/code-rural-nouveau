@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1994-08-10
+Version Consolidée au 1994-08-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -946,7 +946,7 @@ Version Consolidée au 1994-08-10
             - [Sous-section 9 : Elections partielles. (art. R*511-53 à R511-52)](#943)
           - [Section 4 : Fonctionnement. (art. R*511-54 à R511-70)](#944)
           - [Section 5 : Régime financier (art. R*511-71 à R511-96)](#945)
-            - [Sous-section 1 : Opérations du budget général. (art. R*511-72 à R511-82)](#946)
+            - [Sous-section 1 : Opérations du budget général. (art. R*511-73 à R511-82)](#946)
             - [Sous-section 2 : Opérations des budgets spéciaux. (art. R511-86 à R511-90)](#947)
             - [Sous-section 3 : Opérations communes au budget général et aux budgets spéciaux. (art. R511-91 à R511-96)](#948)
           - [Section 6 : Chambre interdépartementale de l'Ile-de-France. (art. R511-97 à R511-100)](#949)
@@ -90296,92 +90296,6 @@ _Cité par_:
 
 ##### Sous-section 1 : Opérations du budget général.<a id=946></a>
 
-###### Article R*511-72
-
-Le budget des chambres d'agriculture comprend :
-
-- des recettes et dépenses de fonctionnement ;
-
-- des recettes et dépenses en capital.
-
-Les recettes et dépenses de fonctionnement comprennent notamment :
-
-Recettes :
-
-1° Le produit de la taxe perçue au bénéfice de la chambre d'agriculture ;
-
-2° Les revenus et intérêts des biens, fonds et valeurs leur appartenant ;
-
-3° Les taxes, droits ou primes en rémunération des services qu'elles rendent ;
-
-4° Les subventions des départements, des communes, des personnes ou associations privées ;
-
-5° Les subventions de l'Etat ;
-
-6° Les recettes accidentelles ou exceptionnelles ;
-
-7° Toutes autres ressources de caractère annuel et permanent.
-
-Dépenses :
-
-1° Les frais d'administration (personnel, matériel, impôts, missions, inspections, etc.) ;
-
-2° Les cotisations obligatoires (assemblée permanente des chambres d'agriculture, fonds national de péréquation et d'action
-professionnelle des chambres d'agriculture, chambre régionale, établissements ou services d'utilité agricole à compétence
-interdépartementale, centre régional de la propriété forestière, etc.) ;
-
-3° Les subventions, allocations, encouragements à diverses collectivités, oeuvres ou institutions s'occupant d'agriculture ;
-
-4° Les intérêts des emprunts ;
-
-5° Les dépenses accidentelles ou exceptionnelles.
-
-Les recettes et dépenses en capital comprennent notamment :
-
-Recettes :
-
-1° Le produit de l'aliénation des immobilisations et valeurs ;
-
-2° Les subventions d'équipement ;
-
-3° Le produit des emprunts qu'elles sont autorisées à contracter par arrêté du commissaire de la République. Toutefois,
-lorsque l'annuité de remboursement de l'emprunt pour lequel l'autorisation est demandée par une chambre d'agriculture,
-cumulée avec celle des emprunts antérieurement contractés par elle, est supérieure à 10 p. 100 du montant de la taxe pour
-frais de chambre d'agriculture, perçue à son profit au titre de l'exercice en cours, l'autorisation est donnée par arrêté du
-ministre de l'agriculture. L'arrêté du commissaire de la République ou du ministre de l'agriculture doit intervenir dans les
-deux mois à compter de la date de réception de l'accord de l'organisme prêteur. A défaut de publication d'un arrêté dans ce
-délai, de demande de modification ou de production de documents supplémentaires par le commissaire de la République ou le
-ministre de l'agriculture, la délibération de la chambre est exécutoire ;
-
-4° Le produit du remboursement des prêts et avances ;
-
-5° Le montant des dons et legs.
-
-Dépenses :
-
-1° Les acquisitions d'immobilisations ou de valeurs ;
-
-2° Les travaux neufs et les grosses réparations ;
-
-3° Le remboursement en capital des emprunts ;
-
-4° Les prêts et avances.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
-
-_Cité par_:
-
-  - Code rural - art. R571-30 (V)
-
-
 ###### Article R*511-73
 
 La période complémentaire de l'exercice pour les budgets des chambres d'agriculture est de deux mois.
@@ -90482,6 +90396,88 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R511-72
+
+Le budget des chambres d'agriculture comprend :
+
+- des recettes et dépenses de fonctionnement ;
+
+- des recettes et dépenses en capital.
+
+Les recettes et dépenses de fonctionnement comprennent notamment :
+
+Recettes :
+
+1° Le produit de la taxe perçue au bénéfice de la chambre d'agriculture ;
+
+2° Les revenus et intérêts des biens, fonds et valeurs leur appartenant ;
+
+3° Les taxes, droits ou primes en rémunération des services qu'elles rendent ;
+
+4° Les subventions des départements, des communes, des personnes ou associations privées ;
+
+5° Les subventions de l'Etat ;
+
+6° Les recettes accidentelles ou exceptionnelles ;
+
+7° Toutes autres ressources de caractère annuel et permanent.
+
+Dépenses :
+
+1° Les frais d'administration (personnel, matériel, impôts, missions, inspections, etc.) ;
+
+2° Les cotisations obligatoires (assemblée permanente des chambres d'agriculture, fonds national de péréquation et d'action
+professionnelle des chambres d'agriculture, chambre régionale, établissements ou services d'utilité agricole à compétence
+interdépartementale, centre régional de la propriété forestière, etc.) ;
+
+3° Les subventions, allocations, encouragements à diverses collectivités, oeuvres ou institutions s'occupant d'agriculture ;
+
+4° Les intérêts des emprunts ;
+
+5° Les dépenses accidentelles ou exceptionnelles.
+
+Les recettes et dépenses en capital comprennent notamment :
+
+Recettes :
+
+1° Le produit de l'aliénation des immobilisations et valeurs ;
+
+2° Les subventions d'équipement ;
+
+3° Le produit des emprunts qu'elles sont autorisées à contracter par arrêté du préfet. Cet arrêté doit intervenir dans les
+deux mois à compter de la date de réception, par le préfet, de l'accord pour l'octroi d'un prêt à la chambre d'agriculture
+formulé par l'organisme prêteur. A défaut de publication d'un arrêté dans ce délai, d'une demande de modification du projet
+ou de production de documents supplémentaires par le préfet, la délibération de la chambre est exécutoire.
+
+4° Le produit du remboursement des prêts et avances ;
+
+5° Le montant des dons et legs.
+
+Dépenses :
+
+1° Les acquisitions d'immobilisations ou de valeurs ;
+
+2° Les travaux neufs et les grosses réparations ;
+
+3° Le remboursement en capital des emprunts ;
+
+4° Les prêts et avances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°94-711 du 12 août 1994 - art. 1 () JORF 20 août 1994
+
+_Cité par_:
+
+  - Code rural - art. R571-30 (V)
 
 
 ###### Article R511-74
@@ -91321,15 +91317,11 @@ En recettes :
 
 2° Les subventions d'équipement ;
 
-3° Le produit des emprunts que les établissements et services sont autorisés à contracter par arrêté du commissaire de la
-République. Toutefois, lorsque l'annuité de remboursement de l'emprunt pour lequel l'autorisation est demandée par un
-établissement ou un service, cumulé avec celle des emprunts antérieurement contractés par lui, est supérieure à 20 p. 100 du
-montant global de la participation annuelle des chambres d'agriculture, destinée à assurer le fonctionnement de
-l'établissement ou du service pour l'exercice en cours, l'autorisation est donnée par arrêté du ministre de l'agriculture.
-L'arrêté du commissaire de la République ou du ministre de l'agriculture doit intervenir dans les deux mois à compter de la
-date de réception de l'accord de l'organisme prêteur. A défaut de publication d'un arrêté dans ce délai, de demande de
-modification ou de production de documents supplémentaires par le commissaire de la République ou le ministre de
-l'agriculture, la délibération de la chambre est exécutoire.
+3° Le produit des emprunts que les établissements et services sont autorisés à contracter par arrêté du préfet de la région
+du siège desdits établissements ou services. Cet arrêté doit intervenir dans les deux mois à compter de la date de réception,
+par le préfet, de l'accord pour l'octroi d'un prêt à l'établissement ou au service formulé par l'organisme prêteur. A défaut
+de publication d'un arrêté dans ce délai, d'une demande de modification du projet ou de production de documents
+supplémentaires par le préfet, la délibération du comité de direction interchambres d'agriculture est exécutoire.
 
 En dépenses :
 
@@ -91347,7 +91339,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°94-711 du 12 août 1994 - art. 2 () JORF 20 août 1994
+
+_Abrogé par_:
+
+  - Décret n°2007-345 du 14 mars 2007 - art. 2 () JORF 16 mars 2007
 
 _Cité par_:
 
@@ -91941,14 +91937,11 @@ En recettes :
 
 2° Les subventions d'équipement ;
 
-3° Le produit des emprunts que les chambres régionales d'agriculture sont autorisées à contracter par arrêté du ministre de
-l'agriculture. Lorsque les annuités de l'emprunt pour lequel l'autorisation est demandée, cumulées avec celles des emprunts
-antérieurement contractés, sont inférieures à 20 p. 100 du montant des cotisations des chambres départementales du ressort de
-la chambre régionale destinées à assurer le fonctionnement de celle-ci pour l'exercice en cours, l'autorisation est donnée
-par le commissaire de la République. L'arrêté du commissaire de la République de région ou du ministre de l'agriculture doit
-intervenir dans les deux mois à compter de la date de réception de l'accord de l'organisme prêteur. A défaut de publication
-d'un arrêté dans ce délai ou de demande de modification ou de production de documents supplémentaires par le commissaire de
-la République ou le ministre de l'agriculture, la délibération est exécutoire.
+3° Le produit des emprunts que les chambres régionales d'agriculture sont autorisées à contracter par arrêté du préfet de la
+région où elles ont leur siège. Cet arrêté doit intervenir dans les deux mois à compter de la date de réception, par le
+préfet, de l'accord pour l'octroi d'un prêt à la chambre d'agriculture formulé par l'organisme prêteur. A défaut de
+publication d'un arrêté dans ce délai, d'une demande de modification du projet ou de production de documents supplémentaires
+par le préfet, la délibération de la chambre est exécutoire.
 
 En dépenses :
 
@@ -91966,7 +91959,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°94-711 du 12 août 1994 - art. 3 () JORF 20 août 1994
 
 _Nouveaux textes_:
 
