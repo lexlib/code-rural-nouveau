@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1996-04-13
+Version Consolidée au 1996-05-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -467,8 +467,8 @@ Version Consolidée au 1996-04-13
               - [Paragraphe 2 : L'office d'équipement hydraulique de Corse. (art. R*112-40 à R112-50)](#464)
           - [Section 4 :  Fonds de gestion de l'espace rural. (art. R112-51 à R112-54)](#465)
           - [Section 5 : Disposition particulière aux régions de Guadeloupe, de Guyane, de Martinique et de la Réunion. (art. R112-56)](#466)
-        - [Chapitre III : Agriculture de montagne et de certaines zones défavorisées (art. R*113-4 à R113-30)](#467)
-          - [Section 2 : Mise en valeur pastorale. (art. R*113-4 à R113-12)](#468)
+        - [Chapitre III : Agriculture de montagne et de certaines zones défavorisées (art. R113-1 à R113-30)](#467)
+          - [Section 2 : Mise en valeur pastorale. (art. R113-1 à R113-12)](#468)
           - [Section 3 : Compensation des handicaps naturels (art. R113-13 à R113-30)](#469)
             - [Sous-section 1 : Critères de délimitation des zones agricoles défavorisées. (art. R113-13 à R113-17)](#470)
             - [Sous-section 2 : Aides compensatoires des handicaps naturels permanents. (art. R*113-23 à R113-28)](#471)
@@ -1100,9 +1100,9 @@ Version Consolidée au 1996-04-13
             - [Sous-section 1 : Dispositions générales. (art. R527-1 à R527-3)](#1097)
             - [Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision. (art. R*527-4 à R527-11)](#1098)
             - [Sous-section 3 : Dispositions particulières aux fédérations de coopératives agréées exerçant les fonctions de commissaire aux comptes. (art. R527-12)](#1099)
-        - [Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole (art. R*528-1 à R528-9)](#1100)
+        - [Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole (art. R*528-1 à R528-8)](#1100)
           - [Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément. (art. R*528-1 à R*528-7)](#1101)
-          - [Section 2 : Commission départementale des structures agricoles. (art. R*528-8 à R528-9)](#1102)
+          - [Section 2 : Commission départementale des structures agricoles. (art. R528-8)](#1102)
         - [Chapitre IX : Dispositions pénales, dispositions d'application. (art. R529-1 à R529-2)](#1103)
       - [Titre III : Sociétés d'intérêt collectif agricole (art. R*531-2 à R535-1)](#1104)
         - [Chapitre Ier : Constitution, agrément. (art. R*531-2 à R531-7)](#1105)
@@ -44233,146 +44233,6 @@ _Abrogé par_:
 
 ##### Section 2 : Mise en valeur pastorale.<a id=468></a>
 
-###### Article R*113-4
-
-L'agrément est donné aux groupements par le préfet, après avis de la commission départementale des structures agricoles.
-
-Dans les départements comportant des régions d'économie montagnarde à prédominance pastorale et pour l'application des
-articles L. 113-2 à L. 113-5, sont appelées à délibérer les personnes suivantes qui doivent y exercer leur activité ou y
-posséder leur propriété :
-
-Deux fonctionnaires nommés par le préfet ;
-
-Une personne qualifiée en matière d'économie montagnarde ;
-
-Deux conseillers généraux élus par le conseil général ;
-
-Deux maires de communes rurales désignés par l'association départementale des maires ou, à défaut, élus par les maires du
-département ;
-
-Un notaire présenté par la chambre des notaires ;
-
-Deux propriétaires de terres pastorales dont un exploitant et un non-exploitant ;
-
-Deux agriculteurs exploitants de terres pastorales dont un au moins ne doit pas être propriétaire ;
-
-Un représentant de la propriété forestière non soumise au régime forestier ;
-
-Un représentant de la propriété forestière soumise au régime forestier.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L113-2 à L113-5
-
-_Anciens textes_:
-
-  - Décret n°73-27 1973-01-04 art. 4 al. 1
-
-_Codifié par_:
-
-  - Décret n°92-1290 1992-12-11
-
-_Créé par_:
-
-  - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
-
-
-###### Article R*113-5
-
-La demande d'agrément est présentée au préfet du département où le groupement se propose d'exploiter la superficie pastorale
-la plus importante. Elle est accompagnée, en quatre exemplaires au moins :
-
-1° Des statuts ;
-
-2° Du règlement intérieur ;
-
-3° De la liste nominative des associés, toutes indications nécessaires étant fournies sur la possibilité pour chacun d'eux de
-faire légalement partie du groupement et sur l'importance de sa participation dans le groupement ;
-
-4° De la liste des communes où le groupement se propose d'exercer son activité.
-
-Lorsque le groupement exerce également son activité dans un autre département, le préfet consulte le préfet de ce département
-qui recueille, en tant que de besoin, l'avis de la commission départementale des structures agricoles qu'il préside.
-
-Il doit être justifié par le groupement, avant l'octroi de l'agrément, de l'accomplissement des formalités auxquelles il est
-tenu en vertu de l'article 188-2 du code rural.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 188-2
-
-_Anciens textes_:
-
-  - Décret n°73-27 1973-01-04 art. 5
-
-_Codifié par_:
-
-  - Décret n°92-1290 1992-12-11
-
-_Créé par_:
-
-  - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
-
-
-###### Article R*113-8
-
-L'agrément peut être retiré par le préfet lorsque l'activité du groupement n'est pas conforme aux conditions qui ont été
-mises à son octroi ou aux dispositions législatives et réglementaires relatives aux groupements pastoraux ou que le
-groupement doit observer.
-
-Le retrait de l'agrément doit être motivé et ne peut intervenir qu'après une mise en demeure, assortie d'un délai, restée
-vaine, de régulariser la situation et sur avis de la commission départementale des structures agricoles.
-
-Il est notifié avec demande d'avis de réception.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-27 1973-01-04 art. 8
-
-_Codifié par_:
-
-  - Décret n°92-1290 1992-12-11
-
-_Créé par_:
-
-  - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
-
-
-###### Article R*113-9
-
-Dans les départements d'outre-mer, les interventions de la commission des structures sont remplacées par celles des
-commissaires de l'aménagement foncier.
-
-Dans ces départements, comme dans la métropole, des subventions peuvent être accordées aux groupements pastoraux dans le cas
-de mise en valeur des pâturages prévu aux articles L. 423-1, R. 423-1 et R. 423-3 du code forestier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-27 1973-01-04 art. 9
-
-_Codifié par_:
-
-  - Décret n°92-1290 1992-12-11
-
-_Créé par_:
-
-  - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
-
-_Cite_:
-
-  - Code forestier - art. L423-1 (M)
-  - Code forestier - art. R423-1 (M)
-  - Code forestier - art. R423-3 (M)
-
-
 ###### Article R113-1
 
 Sont considérés comme agriculteurs pour l'application de l'article L. 113-3 et, par suite, peuvent constituer des groupements
@@ -44458,6 +44318,88 @@ _Créé par_:
   - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
 
 
+###### Article R113-4
+
+L'agrément est donné aux groupements par le préfet, après avis de la commission départementale d'orientation de
+l'agriculture.
+
+Dans les départements comportant des régions d'économie montagnarde à prédominance pastorale et pour l'application des
+articles L. 113-2 à L. 113-5, sont appelées à délibérer les personnes suivantes qui doivent y exercer leur activité ou y
+posséder leur propriété :
+
+Deux fonctionnaires nommés par le préfet ;
+
+Une personne qualifiée en matière d'économie montagnarde ;
+
+Deux conseillers généraux élus par le conseil général ;
+
+Deux maires de communes rurales désignés par l'association départementale des maires ou, à défaut, élus par les maires du
+département ;
+
+Un notaire présenté par la chambre des notaires ;
+
+Deux propriétaires de terres pastorales dont un exploitant et un non-exploitant ;
+
+Deux agriculteurs exploitants de terres pastorales dont un au moins ne doit pas être propriétaire ;
+
+Un représentant de la propriété forestière non soumise au régime forestier ;
+
+Un représentant de la propriété forestière soumise au régime forestier.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L113-2 à L113-5
+
+_Codifié par_:
+
+  - Décret n°92-1290 1992-12-11
+
+_Modifié par_:
+
+  - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
+
+
+###### Article R113-5
+
+La demande d'agrément est présentée au préfet du département où le groupement se propose d'exploiter la superficie pastorale
+la plus importante. Elle est accompagnée, en quatre exemplaires au moins : 
+
+1° Des statuts ; 
+
+2° Du règlement intérieur ; 
+
+3° De la liste nominative des associés, toutes indications nécessaires étant fournies sur la possibilité pour chacun d'eux de
+faire légalement partie du groupement et sur l'importance de sa participation dans le groupement ; 
+
+4° De la liste des communes où le groupement se propose d'exercer son activité. 
+
+Lorsque le groupement exerce également son activité dans un autre département, le préfet consulte le préfet de ce département
+qui recueille, en tant que de besoin, l'avis de la commission départementale d'orientation de l'agriculture qu'il préside. 
+
+Il doit être justifié par le groupement, avant l'octroi de l'agrément, de l'accomplissement des formalités auxquelles il est
+tenu en vertu de l'article L331-2 du code rural.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°92-1290 1992-12-11
+
+_Modifié par_:
+
+  - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
+
+_Cite_:
+
+  - Code rural - art. L331-2 (V)
+
+
 ###### Article R113-6
 
 L'agrément ne peut être accordé pour une durée inférieure à neuf ans. 
@@ -44516,6 +44458,53 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
+
+
+###### Article R113-8
+
+L'agrément peut être retiré par le préfet lorsque l'activité du groupement n'est pas conforme aux conditions qui ont été
+mises à son octroi ou aux dispositions législatives et réglementaires relatives aux groupements pastoraux ou que le
+groupement doit observer.
+
+Le retrait de l'agrément doit être motivé et ne peut intervenir qu'après une mise en demeure, assortie d'un délai, restée
+vaine, de régulariser la situation et sur avis de la commission départementale d'orientation de l'agriculture.
+
+Il est notifié avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°92-1290 1992-12-11
+
+_Modifié par_:
+
+  - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
+
+
+###### Article R113-9
+
+Dans les départements d'outre-mer, les interventions de la commission départementale d'orientation de l'agriculture sont
+remplacées par celles des commissaires de l'aménagement foncier.
+
+Dans ces départements, comme dans la métropole, des subventions peuvent être accordées aux groupements pastoraux dans le cas
+de mise en valeur des pâturages prévu aux articles L. 423-1, R. 423-1 et R. 423-3 du code forestier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°92-1290 1992-12-11
+
+_Modifié par_:
+
+  - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
+
+_Cite_:
+
+  - Code forestier - art. L423-1 (M)
+  - Code forestier - art. R423-1 (M)
+  - Code forestier - art. R423-3 (M)
 
 
 ###### Article R113-10
@@ -52765,35 +52754,6 @@ _Créé par_:
   - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
 
 
-###### Article R*136-5
-
-En application de l'article L. 136-2, l'association assure la gestion des fonds compris dans son périmètre dans le cadre des
-mandats qui lui sont confiés.
-
-Elle ne peut cependant procéder à une exploitation directe qu'à titre exceptionnel pour une durée maximale de trois ans et
-s'il s'agit d'un fonds qui n'a fait l'objet d'aucune proposition de location, y compris de la part de la société
-d'aménagement foncier et d'établissement rural, depuis six mois au moins. Cette période de trois ans peut être prolongée par
-le préfet après avis de la commission départementale des structures.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L136-2
-
-_Anciens textes_:
-
-  - Décret n°91-994 du 27 septembre 1991 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°92-1290 1992-12-11
-
-_Créé par_:
-
-  - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
-
-
 ###### Article R*136-8
 
 La demande de distraction d'une terre incluse dans le périmètre de l'association est adressée au préfet par le propriétaire
@@ -52982,6 +52942,43 @@ _Créé par_:
 _Nouveaux textes_:
 
   - Code rural et de la pêche maritime - art. R136-3 (V)
+
+
+###### Article R136-5
+
+En application de l'article L. 136-2, l'association assure la gestion des fonds compris dans son périmètre dans le cadre des
+mandats qui lui sont confiés. 
+
+Elle ne peut cependant procéder à une exploitation directe qu'à titre exceptionnel pour une durée maximale de trois ans et
+s'il s'agit d'un fonds qui n'a fait l'objet d'aucune proposition de location, y compris de la part de la société
+d'aménagement foncier et d'établissement rural, depuis six mois au moins. Cette période de trois ans peut être prolongée par
+le préfet après avis de la commission départementale d'orientation de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-994 du 27 septembre 1991 - art. 5 (Ab)
+
+_Codifié par_:
+
+  - Décret n°92-1290 1992-12-11
+
+_Modifié par_:
+
+  - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-1246 du 7 août 2017 - art. 4
+
+_Cite_:
+
+  - Code rural - art. L136-2 (V)
+
+_Nouveaux textes_:
+
+  - Code rural et de la pêche maritime - art. R136-4 (V)
 
 
 ###### Article R136-6
@@ -53206,7 +53203,7 @@ _Modifié par_:
 
 L'agrément des sociétés d'aménagement foncier et d'établissement rural prévu à l'article L. 141-6 est accordé par arrêté
 conjoint du ministre de l'agriculture et du ministre chargé des finances, après consultation des chambres d'agriculture des
-départements intéressés et avis des commissions départementales des structures agricoles concernées.
+départements intéressés et avis des commissions départementales d'orientation de l'agriculture concernées.
 
 L'agrément peut être donné pour un temps limité.
 
@@ -53215,17 +53212,13 @@ notamment les opérations auxquelles elles sont tenues de procéder et celles qu
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°61-610 du 14 juin 1961 - art. 1 (M)
-
 _Codifié par_:
 
   - Décret n°92-1290 1992-12-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
+  - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
 
 _Cité par_:
 
@@ -53797,11 +53790,11 @@ visés à l'article 2 de la loi n° 76-629 du 10 juillet 1976 relative à la pro
 d'aménagement foncier et d'établissement rural estime qu'un projet d'aménagement ou d'urbanisme entrant dans le champ
 d'application de cet article est susceptible de compromettre la structure des exploitations agricoles, elle peut demander au
 préfet du département concerné de proposer la liste des communes constituant le périmètre mentionné au 3° de l'article L.
-142-5. Le préfet constitue cette liste après avis de la chambre d'agriculture et de la commission départementale des
-structures en tenant compte notamment de l'importance et de la localisation de l'ouvrage, du nombre et des caractéristiques
-des exploitations dont la structure est susceptible d'être compromise et de la situation du marché foncier du secteur
-considéré. Au vu de ces propositions, les ministres chargés de l'agriculture, de l'économie et des finances arrêtent le
-périmètre.
+142-5. Le préfet constitue cette liste après avis de la chambre d'agriculture et de la commission départementale
+d'orientation de l'agriculture en tenant compte notamment de l'importance et de la localisation de l'ouvrage, du nombre et
+des caractéristiques des exploitations dont la structure est susceptible d'être compromise et de la situation du marché
+foncier du secteur considéré. Au vu de ces propositions, les ministres chargés de l'agriculture, de l'économie et des
+finances arrêtent le périmètre.
 
 **Liens relatifs à cet article**
 
@@ -53810,17 +53803,13 @@ _Cite_:
   - Code rural L141-1 à L141-5, L142-5
   - Loi n°76-629 du 10 juillet 1976 - art. 2 (M)
 
-_Anciens textes_:
-
-  - Décret n°61-610 du 14 juin 1961 - art. 3 (M)
-
 _Codifié par_:
 
   - Décret n°92-1290 1992-12-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
+  - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
 
 _Cité par_:
 
@@ -88651,6 +88640,61 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R373-2 (M)
 
 
+###### Article R*323-2
+
+Le comité départemental d'agrément des groupements agricoles d'exploitation en commun comprend, sous la présidence du préfet,
+suppléé le cas échéant par le secrétaire général de la préfecture dans les conditions du droit commun :
+
+1° Le directeur départemental de l'agriculture et de la forêt, vice-président ;
+
+2° Le directeur ou l'inspecteur du travail et de la protection sociale agricoles ou, dans les départements d'outre-mer,
+l'inspecteur du travail chargé de l'application des lois du travail en agriculture ;
+
+3° Un notaire présenté par la chambre des notaires ;
+
+4° Deux exploitants agricoles désignés sur proposition des représentants des organisations syndicales d'exploitants agricoles
+membres de la commission départementale d'orientation de l'agriculture ;
+
+5° Un représentant du directeur général des impôts ;
+
+6° Un agriculteur, représentatif des agriculteurs travaillant en commun, désigné sur proposition de l'organisation la plus
+représentative de ces agriculteurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°96-205 1996-03-15
+
+_Modifié par_:
+
+  - Décret n°96-373 du 2 mai 1996 - art. 2 () JORF 4 mai 1996
+
+
+###### Article R*323-3
+
+Les membres du comité, autres que les fonctionnaires, sont nommés par le préfet. Ceux qui sont désignés en raison de leurs
+fonctions peuvent se faire suppléer ; les autres sont suppléés par des suppléants désignés dans les mêmes conditions qu'eux-
+mêmes. Le préfet fait assurer le secrétariat du comité par la direction départementale de l'agriculture et de la forêt.
+
+Au cas de partage des voix, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°96-205 1996-03-15
+
+_Modifié par_:
+
+  - Décret n°96-373 du 2 mai 1996 - art. 2 () JORF 4 mai 1996
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. R373-1 (M)
+  - Code rural et de la pêche maritime - art. R373-3 (M)
+
+
 ###### Article R*323-5
 
 Le Comité national d'agrément comprend :
@@ -88897,70 +88941,6 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
-
-
-###### Article R323-2
-
-Le comité départemental d'agrément des groupements agricoles d'exploitation en commun comprend, sous la présidence du préfet,
-suppléé le cas échéant par le secrétaire général de la préfecture dans les conditions du droit commun :
-
-1° Le directeur départemental de l'agriculture et de la forêt, vice-président ;
-
-2° Le directeur ou l'inspecteur du travail et de la protection sociale agricoles ou, dans les départements d'outre-mer,
-l'inspecteur du travail chargé de l'application des lois du travail en agriculture ;
-
-3° Le notaire membre de la commission départementale des structures agricoles ;
-
-4° Deux agriculteurs désignés sur proposition des agriculteurs membres de cette commission ;
-
-5° Un représentant du directeur général des impôts ;
-
-6° Un agriculteur, représentatif des agriculteurs travaillant en commun, désigné sur proposition de l'organisation la plus
-représentative de ces agriculteurs.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°64-1193 1964-12-03 art. 2 al. 1
-
-_Codifié par_:
-
-  - Décret n°96-205 1996-03-15
-
-_Créé par_:
-
-  - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
-
-
-###### Article R323-3
-
-Le comité constitue une sous-commission de la commission départementale des structures agricoles.
-
-Les membres du comité, autres que les fonctionnaires, sont nommés par le préfet. Ceux qui sont désignés en raison de leurs
-fonctions peuvent se faire suppléer ; les autres sont suppléés par des suppléants désignés dans les mêmes conditions qu'eux-
-mêmes. Le préfet fait assurer le secrétariat du comité par la direction départementale de l'agriculture et de la forêt.
-
-Au cas de partage des voix, la voix du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°64-1193 1964-12-03 art. 2 al. 2, al. 3, al. 4
-
-_Codifié par_:
-
-  - Décret n°96-205 1996-03-15
-
-_Créé par_:
-
-  - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. R373-1 (M)
-  - Code rural et de la pêche maritime - art. R373-3 (M)
 
 
 ###### Article R323-4
@@ -92695,8 +92675,8 @@ sont soumis au régime d'aides à l'installation régi par le décret n° 81-246
 voir opposer les dispositions de l'article 8 (3°) dudit décret fixant une limite à la superficie de l'exploitation si le
 dépassement de la surface maximum prévue à cet article n'a pas pour effet de porter le revenu disponible par unité de travail
 agricole familial au-delà de la limite maximum fixée au 1° de l'article R. 343-12 ; le préfet prend la décision, après avis
-de la commission mixte départementale, sur la base d'une étude faisant ressortir la situation économique et financière du
-bénéficiaire suite à l'augmentation de la surface.
+de la commission départementale d'orientation de l'agriculture , sur la base d'une étude faisant ressortir la situation
+économique et financière du bénéficiaire suite à l'augmentation de la surface.
 
 Les prêts à moyen terme spéciaux réservés aux jeunes agriculteurs nés avant le 1er janvier 1967 et ayant déposé une demande
 avant le 1er juillet 1989 peuvent continuer à être accordés selon les conditions spécifiques prévues à l'article 4 du décret
@@ -92706,22 +92686,16 @@ du 17 mars 1981.
 
 _Cite_:
 
-  - Code rural R343-9, R343-7, R343-12
   - Décret n°81-246 1981-03-17 art. 4, art. 8
-
-_Anciens textes_:
-
-  - Décret n°88-176 1988-02-23 art. 1, art. 21, art. 22 al. 2
-  - Décret n°88-176 du 23 février 1988 - art. 1 (M)
-  - Décret n°88-176 du 23 février 1988 - art. 21 (M)
+  - Code rural R343-9, R343-7, R343-12
 
 _Codifié par_:
 
   - Décret n°96-205 1996-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
+  - Décret n°96-373 du 2 mai 1996 - art. 4 () JORF 4 mai 1996
 
 _Cité par_:
 
@@ -92790,7 +92764,8 @@ b) S'engager à suivre une formation complémentaire en vue d'acquérir un dipl�
 délai qui ne peut excéder la durée de l'étude prévisionnelle d'installation présentée à l'appui de sa demande conformément à
 l'article R. 343-5.
 
-L'avis de la commission mixte départementale porte en particulier sur les justifications présentées à l'appui de la demande.
+L'avis de la commission départementale d'orientation de l'agriculture porte en particulier sur les justifications présentées
+à l'appui de la demande.
 
 La moitié de la dotation d'installation mentionnée à l'article R. 343-9 est réservée. Cette part conditionnelle est libérée
 par le préfet lorsque le candidat justifie qu'il remplit les conditions de capacité professionnelle prévues au 4° ci-dessus ;
@@ -92802,18 +92777,13 @@ dessus, le préfet peut autoriser la réalisation de nouveaux prêts dans la lim
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°88-176 1988-02-23 art. 2 al. 2, art. 23 al. 2, al. 3, art. 23-1
-  - Décret n°88-176 du 23 février 1988 - art. 23-1 (Ab)
-
 _Codifié par_:
 
   - Décret n°96-205 1996-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
+  - Décret n°96-373 du 2 mai 1996 - art. 4 () JORF 4 mai 1996
 
 _Cité par_:
 
@@ -92842,7 +92812,7 @@ relatif au contrôle des structures des exploitations agricoles ;
 équivalant au moins à une unité de travail agricole familial (UTAF) déterminée selon les modalités du règlement (CEE) n°
 449-82 du 15 février 1982 portant organisation d'une enquête sur la structure des exploitations agricoles pour 1983 et
 disposant, dans le cas d'une production hors-sol, d'une assise foncière minimale déterminée par le préfet après avis de la
-commission mixte départementale définie à l'article R. 344-19.
+commission départementale d'orientation de l'agriculture définie à l'article R. 313-1.
 
 L'exploitation doit être gérée distinctement de tout autre, sous réserve des dispositions propres aux sociétés, et comporter
 ses propres bâtiments d'exploitation et des moyens de production suffisants ;
@@ -92906,27 +92876,23 @@ réglementation relative à la protection de l'environnement.
 
 **Liens relatifs à cet article**
 
+_Cité par_:
+
+  - Arrêté du 17 juin 2009 - art. 2 (V)
+
 _Cite_:
 
-  - Décret n°64-112 1964-02-06
   - CGI 298 bis
-  - Code rural R344-19, R344-6
-
-_Anciens textes_:
-
-  - Décret n°88-176 du 23 février 1988 - art. 3 (M)
+  - Code rural R343-3, R313-1, R344-6
+  - Décret n°64-112 1964-02-06
 
 _Codifié par_:
 
   - Décret n°96-205 1996-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
-
-_Cité par_:
-
-  - Arrêté du 17 juin 2009 - art. 2 (V)
+  - Décret n°96-373 du 2 mai 1996 - art. 4 () JORF 4 mai 1996
 
 
 ###### Article R343-6
@@ -92992,9 +92958,9 @@ Elle est établie sur la base de références et de normes techniques et économ
 échéant, à l'intérieur du département, pour la région naturelle où se situe l'exploitation du candidat à l'installation.
 
 Pour chaque département, ces références et normes sont arrêtées par le préfet de région, au vu des propositions du préfet de
-département après avis de la commission mixte départementale, dans les formes et conditions prévues par un arrêté
-ministériel ; les arrêtés sont notifiés en même temps qu'au préfet du département au ministre de l'agriculture, qui peut
-demander un nouvel examen de ces références et normes à échéance d'une année.
+département après avis de la commission départementale d'orientation de l'agriculture , dans les formes et conditions prévues
+par un arrêté ministériel ; les arrêtés sont notifiés en même temps qu'au préfet du département au ministre de l'agriculture,
+qui peut demander un nouvel examen de ces références et normes à échéance d'une année.
 
 L'arrêté ministériel prévu au précédent alinéa définit les productions pour lesquelles les références relèvent d'un agrément
 ministériel en raison de leur caractère peu répandu.
@@ -93005,17 +92971,13 @@ _Cite_:
 
   - Code rural R343-5
 
-_Anciens textes_:
-
-  - Décret n°88-176 du 23 février 1988 - art. 5 (M)
-
 _Codifié par_:
 
   - Décret n°96-205 1996-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
+  - Décret n°96-373 du 2 mai 1996 - art. 4 () JORF 4 mai 1996
 
 
 ###### Article R343-8
@@ -93056,8 +93018,8 @@ Les montants minimum et maximum de la dotation ainsi que ses modalités de paiem
 conjoint du ministre de l'agriculture et du ministre chargé du budget pour les zones de montagne et les autres zones
 agricoles défavorisées définies par les articles R. 113-13 à R. 113-15 et pour le reste du territoire.
 
-Dans les limites fixées par cet arrêté, le préfet du département fixe, après avis de la commission mixte départementale, le
-montant de la dotation attribuée au bénéficiaire.
+Dans les limites fixées par cet arrêté, le préfet du département fixe, après avis de la commission départementale
+d'orientation de l'agriculture , le montant de la dotation attribuée au bénéficiaire.
 
 Le préfet prend notamment en compte :
 
@@ -93066,7 +93028,7 @@ Le préfet prend notamment en compte :
 2° Les handicaps rencontrés par les candidats réalisant une réinsertion professionnelle en agriculture ;
 
 3° Les critères d'appréciation adaptés aux spécificités de l'économie agricole locale arrêtés après avis de la commission
-mixte départementale.
+départementale d'orientation de l'agriculture.
 
 Sans préjudice des cas mentionnés à l'article R. 343-10, lorsque le projet d'installation fait apparaître que le conjoint du
 chef d'exploitation exerce sur l'exploitation une activité agricole lui permettant de bénéficier des prestations d'assurance
@@ -93092,9 +93054,9 @@ _Codifié par_:
 
   - Décret n°96-205 1996-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
+  - Décret n°96-373 du 2 mai 1996 - art. 4 () JORF 4 mai 1996
 
 _Cité par_:
 
@@ -93149,8 +93111,8 @@ _Créé par_:
 ###### Article R343-11
 
 La dotation d'installation ou la majoration prévue à l'article R. 343-9 peut être refusée par le préfet, après avis de la
-commission mixte départementale, si, compte tenu de la situation économique ou financière de l'intéressé, elle n'est
-manifestement pas nécessaire à la reprise ou la création d'une exploitation agricole.
+commission départementale d'orientation de l'agriculture , si, compte tenu de la situation économique ou financière de
+l'intéressé, elle n'est manifestement pas nécessaire à la reprise ou la création d'une exploitation agricole.
 
 **Liens relatifs à cet article**
 
@@ -93158,17 +93120,13 @@ _Cite_:
 
   - Code rural R343-9
 
-_Anciens textes_:
-
-  - Décret n°88-176 du 23 février 1988 - art. 10 (M)
-
 _Codifié par_:
 
   - Décret n°96-205 1996-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
+  - Décret n°96-373 du 2 mai 1996 - art. 4 () JORF 4 mai 1996
 
 
 ###### Article R343-12
@@ -93366,11 +93324,12 @@ La demande mentionnée à l'alinéa précédent est adressée par le candidat, a
 département dans le ressort duquel est situé le fonds qu'il se propose d'exploiter. Lorsque cette demande concerne des prêts
 à moyen terme spéciaux, elle est adressée également à l'établissement de crédit sollicité pour consentir les prêts.
 
-Elle est soumise, après instruction, à l'examen de la commission mixte départementale.
+Elle est soumise, après instruction, à l'examen de la commission départementale d'orientation de l'agriculture.
 
 Au vu du rapport de l'organisme chargé de l'instruction par le préfet et, lorsqu'une demande de prêt a été présentée, de
 l'avis de l'établissement de crédit sollicité, ainsi que des conclusions du directeur départemental de l'agriculture et de la
-forêt, la commission mixte émet un avis motivé sur la suite à donner à la demande du candidat.
+forêt, la commission départementale d'orientation de l'agriculture émet un avis motivé sur la suite à donner à la demande du
+candidat.
 
 Le préfet prend ensuite une décision sur l'octroi de la bonification et de la dotation d'installation. La décision d'octroi
 peut être assortie de conditions concernant le suivi technique, économique et financier de la réalisation du projet du
@@ -93386,34 +93345,28 @@ _Cite_:
 
   - Code rural R343-5
 
-_Anciens textes_:
-
-  - Décret n°88-176 du 23 février 1988 - art. 16 (Ab)
-  - Décret n°88-176 du 23 février 1988 - art. 17 (M)
-  - Décret n°88-176 du 23 février 1988 - art. 18 (Ab)
-
 _Codifié par_:
 
   - Décret n°96-205 1996-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
+  - Décret n°96-373 du 2 mai 1996 - art. 4 () JORF 4 mai 1996
 
 
 ###### Article R343-18
 
 Au terme de la troisième année suivant l'installation, ou au terme du délai supplémentaire imparti par le préfet en
-application du troisième alinéa du 3° de l'article R. 343-5, la commission mixte départementale apprécie les conditions
-réelles de l'installation. Lorsque les objectifs minimum de revenu fixés dans l'étude prévisionnelle d'installation ne se
-trouvent pas atteints ou que l'exploitation est en difficulté, le projet d'installation est révisé par le préfet. Le
-bénéficiaire est alors orienté, le cas échéant, vers un appui technique ou de gestion.
+application du troisième alinéa du 3° de l'article R. 343-5, la commission départementale d'orientation de l'agriculture
+apprécie les conditions réelles de l'installation. Lorsque les objectifs minimum de revenu fixés dans l'étude prévisionnelle
+d'installation ne se trouvent pas atteints ou que l'exploitation est en difficulté, le projet d'installation est révisé par
+le préfet. Le bénéficiaire est alors orienté, le cas échéant, vers un appui technique ou de gestion.
 
-La commission mixte départementale émet, au vu des résultats obtenus, un avis sur l'attribution du second versement de la
-dotation d'installation. Peut être exclu par le préfet du second versement de la dotation, le candidat qui n'a pas satisfait
-aux conditions de revenus minima et maxima fixées aux articles R. 343-5, R. 343-6 et R. 343-12, sous réserve de la prise en
-compte d'événements conjoncturels ayant affecté l'exploitation, ou qui n'accepte pas l'appui technique ou de gestion que
-l'examen des difficultés rencontrées par lui amène à lui prescrire.
+La commission départementale d'orientation de l'agriculture émet, au vu des résultats obtenus, un avis sur l'attribution du
+second versement de la dotation d'installation. Peut être exclu par le préfet du second versement de la dotation, le candidat
+qui n'a pas satisfait aux conditions de revenus minima et maxima fixées aux articles R. 343-5, R. 343-6 et R. 343-12, sous
+réserve de la prise en compte d'événements conjoncturels ayant affecté l'exploitation, ou qui n'accepte pas l'appui technique
+ou de gestion que l'examen des difficultés rencontrées par lui amène à lui prescrire.
 
 Si le bénéficiaire des aides ne respecte pas les engagements mentionnés aux 5°, 6° et 7° de l'article R. 343-5 ou, pour les
 exploitants qui ne sont pas agriculteurs à titre principal, aux 6° et 7° de l'article R. 343-5 et au c de l'article R. 343-6,
@@ -93434,17 +93387,13 @@ _Cite_:
 
   - Code rural R343-5, R343-6, R343-12
 
-_Anciens textes_:
-
-  - Décret n°88-176 du 23 février 1988 - art. 20 (M)
-
 _Codifié par_:
 
   - Décret n°96-205 1996-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
+  - Décret n°96-373 du 2 mai 1996 - art. 4 () JORF 4 mai 1996
 
 
 ##### Sous-section 5 : Bourse versée par l'Etat aux jeunes réalisant le stage prévu au 4° de l'article R. 343-4.<a id=944></a>
@@ -94084,11 +94033,11 @@ préfet.
 
 Lorsque le montant total des investissements prévus dans le plan n'excède pas un montant fixé par arrêté du ministre de
 l'agriculture, cette comptabilité peut ne comporter, sauf décision contraire du préfet prise après avis de la commission
-mixte définie à l'article R. 344-19, qu'un enregistrement des recettes et des dépenses et l'établissement d'un bilan annuel
-concernant l'état des actifs et des passifs de l'exploitation. Dans les autres cas, l'exploitant doit s'engager à tenir une
-comptabilité de gestion. Cette comptabilité de gestion doit notamment permettre, lorsque l'exploitation agricole est
-sélectionnée par le réseau d'information comptable agricole, la fourniture de tous les éléments de comptabilité nécessaires à
-ce réseau ;
+départementale d'orientation de l'agriculture définie à l'article R. 313-1, qu'un enregistrement des recettes et des dépenses
+et l'établissement d'un bilan annuel concernant l'état des actifs et des passifs de l'exploitation. Dans les autres cas,
+l'exploitant doit s'engager à tenir une comptabilité de gestion. Cette comptabilité de gestion doit notamment permettre,
+lorsque l'exploitation agricole est sélectionnée par le réseau d'information comptable agricole, la fourniture de tous les
+éléments de comptabilité nécessaires à ce réseau ;
 
 9° Opter, lorsqu'il n'y est pas déjà assujetti, au 1er janvier suivant l'agrément du plan d'amélioration matérielle, pour
 l'ensemble des activités de son exploitation, pour le régime simplifié d'imposition à la taxe sur la valeur ajoutée prévu à
@@ -94099,19 +94048,15 @@ l'article 298 bis du code général des impôts.
 _Cite_:
 
   - CGI 298 bis
-  - Code rural R344-1, R344-6
-
-_Anciens textes_:
-
-  - Décret n°85-1144 du 30 octobre 1985 - art. 2 (M)
+  - Code rural R344-1, R344-6, R313-1
 
 _Codifié par_:
 
   - Décret n°96-205 1996-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
+  - Décret n°96-373 du 2 mai 1996 - art. 3 () JORF 4 mai 1996
 
 
 ###### Article R344-3
@@ -94613,55 +94558,28 @@ Le projet de plan d'amélioration matérielle pour l'exploitation agricole est �
 département dans lequel se situe le siège de l'exploitation.
 
 L'instruction du dossier est effectuée par un organisme agréé par le préfet, sur proposition conjointe de la chambre
-d'agriculture et des organisations professionnelles représentées dans la commission mixte départementale définie à l'article
-R. 344-19.
+d'agriculture et des organisations syndicales d'exploitants agricoles représentées dans la commission départementale
+d'orientation de l'agriculture définie à l'article R. 313-1.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R344-19
-
-_Anciens textes_:
-
-  - Décret n°85-1144 du 30 octobre 1985 - art. 19 (M)
+  - Code rural R313-1
 
 _Codifié par_:
 
   - Décret n°96-205 1996-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
+  - Décret n°96-373 du 2 mai 1996 - art. 3 () JORF 4 mai 1996
 
 
 ###### Article R344-19
 
-La commission mixte départementale est placée sous la présidence du préfet ou de son représentant et comprend :
-
-1° Trois fonctionnaires de l'Etat chargés de l'agriculture désignés par le préfet du département ;
-
-2° Le trésorier-payeur général ou son représentant ;
-
-3° Le président de la chambre d'agriculture ou son représentant ;
-
-4° Un représentant de chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en
-application de l'article 1er du décret n° 90-187 du 28 février 1990 ;
-
-5° Trois personnalités choisies par le préfet en fonction de leur compétence en matière de gestion et d'organisation
-économique en agriculture, dont le président de la fédération départementale des coopératives d'utilisation en commun de
-matériel agricole ou son représentant ou, à défaut de cette fédération, le président de la fédération départementale des
-coopératives agricoles ou son représentant.
-
-La commission peut s'adjoindre pour l'examen de certaines dossiers, à titre consultatif, une ou plusieurs personnalités
-compétentes sur l'objet à traiter.
-
-Pour les questions relatives à l'attribution des quantités de référence laitière sont également membres de la commission : un
-représentant des coopératives laitières et un représentant de l'industrie laitière non coopérative collectant dans le
-département désignés par le préfet sur proposition des acheteurs.
-
-La commission mixte examine les rapports présentés par l'organisme instructeur et, le cas échéant, l'établissement de crédit
-sollicité pour consentir les prêts, et formule son avis.
+La commission départementale d'orientation de l'agriculture examine les rapports présentés par l'organisme instructeur et, le
+cas échéant, l'établissement de crédit sollicité pour consentir les prêts, et formule son avis.
 
 Ce dernier doit intervenir dans les trois mois suivant le dépôt du projet et porte sur l'ensemble des conditions
 réglementaires, la qualité technique, économique et financière du projet, les mesures destinées à en faciliter la réalisation
@@ -94669,11 +94587,6 @@ ainsi que sur la manière dont il s'insère dans l'organisation économique exis
 la mise en marché.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1144 1985-10-30 art. 20, art. 21 al. 1, al. 2
-  - Décret n°85-1144 du 30 octobre 1985 - art. 20 (M)
 
 _Cite_:
 
@@ -94683,31 +94596,27 @@ _Codifié par_:
 
   - Décret n°96-205 1996-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
+  - Décret n°96-373 du 2 mai 1996 - art. 3 () JORF 4 mai 1996
 
 
 ###### Article R344-20
 
-Après avis de la commission mixte, le préfet se prononce sur la recevabilité du plan d'amélioration matérielle, qui peut être
-assortie de conditions concernant notamment la formation du demandeur ou le suivi technique, économique et financier de la
-réalisation de son projet. Les aides prévues dans le plan peuvent alors être accordées, sur sa demande, à l'agriculteur en
-fonction de l'état d'avancement du projet.
+Après avis de la commission départementale d'orientation de l'agriculture, le préfet se prononce sur la recevabilité du plan
+d'amélioration matérielle, qui peut être assortie de conditions concernant notamment la formation du demandeur ou le suivi
+technique, économique et financier de la réalisation de son projet. Les aides prévues dans le plan peuvent alors être
+accordées, sur sa demande, à l'agriculteur en fonction de l'état d'avancement du projet.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1144 1985-10-30 art. 21 al. 3
 
 _Codifié par_:
 
   - Décret n°96-205 1996-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
+  - Décret n°96-373 du 2 mai 1996 - art. 3 () JORF 4 mai 1996
 
 
 ###### Article R344-21
@@ -97722,7 +97631,7 @@ L'indemnité annuelle d'attente peut être accordée au chef d'exploitation qui 
 353-2 et qui est contraint de cesser son activité agricole à la suite d'une des procédures prévues au chapitre Ier du présent
 titre.
 
-L'indemnité peut également être accordée, après avis de la commission départementale des agriculteurs en difficulté, si, en
+L'indemnité peut également être accordée, après avis de la commission départementale d'orientation de l'agriculture , si, en
 raison de la situation économique et financière de l'exploitation, l'intéressé doit cesser son activité en se conformant aux
 conditions fixées à l'article R. 353-2.
 
@@ -97732,21 +97641,21 @@ agricole.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D353-3
+
 _Cite_:
 
   - Code rural R353-2
-
-_Anciens textes_:
-
-  - Décret n°89-341 du 29 mai 1989 - art. 3 (M)
 
 _Codifié par_:
 
   - Décret n°96-205 1996-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
+  - Décret n°96-373 du 2 mai 1996 - art. 4 () JORF 4 mai 1996
 
 
 ###### Article R353-4
@@ -98311,28 +98220,23 @@ _Créé par_:
 Le projet de plan d'adaptation est établi par l'agriculteur et adressé au préfet du département dans lequel se situe le siège
 de l'exploitation.
 
-Après avis de la commission mixte prévue à l'article R. 344-19 ou de la commission des agriculteurs en difficulté pour les
-plans visant le redressement des exploitations, le préfet se prononce sur la recevabilité du plan d'adaptation ou de
-transmission, qui peut être assorti de conditions concernant notamment la formation du demandeur ou le suivi technique,
-économique et financier de la réalisation du plan.
+Après avis de la commission départementale d'orientation de l'agriculture, le préfet se prononce sur la recevabilité du plan
+d'adaptation ou de transmission, qui peut être assorti de conditions concernant notamment la formation du demandeur ou le
+suivi technique, économique et financier de la réalisation du plan.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Nouveaux textes_:
 
-  - Code rural R344-19
-
-_Anciens textes_:
-
-  - Décret n°90-687 1990-08-01 art. 8
+  - Code rural D354-7
 
 _Codifié par_:
 
   - Décret n°96-205 1996-03-15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-205 1996-03-15 annexe JORF 17 mars 1996
+  - Décret n°96-373 du 2 mai 1996 - art. 4 () JORF 4 mai 1996
 
 
 ###### Article R354-8
@@ -110005,14 +109909,14 @@ _Modifié par_:
 
 ###### Article R*525-2
 
-Sont agréées par arrêté du préfet du département de leur siège social, après avis de la commission départementale des
-structures, les coopératives dont la circonscription est au plus égale à celle du département ou dont la circonscription
-s'étend au plus à un arrondissement d'un département voisin.
+Sont agréées par arrêté du préfet du département de leur siège social, après avis de la commission départementale
+d'orientation de l'agriculture, les coopératives dont la circonscription est au plus égale à celle du département ou dont la
+circonscription s'étend au plus à un arrondissement d'un département voisin.
 
-Sont agréées par arrêté du préfet de la région de leur siège social, après avis des commissions départementales des
-structures de tous les départements intéressés, les coopératives agricoles dont la circonscription est au plus égale à celle
-de la région ou dont la circonscription s'étend au plus à un arrondissement d'une région voisine et dont l'agrément ne relève
-pas de l'autorité départementale.
+Sont agréées par arrêté du préfet de la région de leur siège social, après avis des commissions départementales d'orientation
+de l'agriculture de tous les départements intéressés, les coopératives agricoles dont la circonscription est au plus égale à
+celle de la région ou dont la circonscription s'étend au plus à un arrondissement d'une région voisine et dont l'agrément ne
+relève pas de l'autorité départementale.
 
 Sont agréées par arrêté du ministre de l'agriculture, après avis de la commission centrale d'agrément prévue à l'article R.
 528-2, les unions de coopératives agricoles ainsi que toutes les sociétés coopératives agricoles qui n'entrent pas dans les
@@ -110026,7 +109930,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-1363 du 24 décembre 1992 - art. 3 (V) JORF 30 décembre 1992
+  - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
 
 _Cité par_:
 
@@ -110065,47 +109969,6 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R525-2 (V)
 
 
-###### Article R*525-4
-
-Les demandes d'agrément des unions de coopératives agricoles, ainsi que celles des sociétés coopératives agricoles dont
-l'agrément doit être prononcé par arrêté du ministre de l'agriculture, sont adressées au secrétariat de la commission
-centrale d'agrément.
-
-Le secrétariat de la commission centrale enregistre la demande dès qu'un dossier comprenant les pièces mentionnées à
-l'article R. 525-5 a été régulièrement constitué. Dans les huit jours qui suivent cet enregistrement, il envoie au président
-du conseil d'administration du groupement coopératif un accusé de réception portant mention de la date de dépôt.
-
-Les demandes d'agrément des sociétés coopératives agricoles dont l'agrément doit être prononcé par arrêté du préfet de région
-sont adressées à l'ingénieur général chargé de la région où se trouve le siège social de la société.
-
-Les demandes d'agrément des sociétés coopératives agricoles, dont l'agrément doit être prononcé par arrêté du préfet du
-département, sont adressées au secrétariat de la commission départementale des structures où se trouve le siège social de la
-société.
-
-Le directeur départemental de l'agriculture enregistre la demande et en accuse réception dans les mêmes conditions que celles
-prévues au deuxième alinéa du présent article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
-
-_Cité par_:
-
-  - Code rural - art. R525-5-1 (V)
-  - Code rural - art. R582-31 (V)
-
-_Cite_:
-
-  - Code rural R525-5
-
-
 ###### Article R*525-5
 
 Toute demande d'agrément doit être accompagnée des pièces suivantes :
@@ -110138,9 +110001,9 @@ _Modifié par_:
 ###### Article R*525-8
 
 La décision de refus d'agrément mentionnée au quatrième alinéa de l'article L. 525-1 est prise, selon les cas, par le préfet
-de la région après avis des commissions départementales des structures agricoles ou par le préfet du département après avis
-de la commission départementale des structures agricoles. La composition et les attributions de ce conseil et de ces
-commissions font l'objet des dispositions du chapitre VIII du présent titre.
+de la région après avis des commissions départementales d'orientation de l'agriculture ou par le préfet du département après
+avis de la commission départementale d'orientation de l'agriculture. La composition et les attributions de ce conseil et de
+ces commissions font l'objet des dispositions du chapitre VIII du présent titre.
 
 L'agrément ne peut être refusé que dans le cas d'irrégularité des formalités de constitution, de maintien de statuts non
 conformes aux statuts types élaborés par le conseil supérieur de la coopération agricole et homologués par le ministre de
@@ -110157,31 +110020,31 @@ prévues à l'article R. 528-2, par la commission centrale d'agrément mentionn�
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural L525-1, R528-2
-
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
 
 _Cité par_:
 
   - Code rural - art. R582-34 (V)
 
+_Cite_:
+
+  - Code rural L525-1, R528-2
+
 
 ###### Article R*525-9
 
 En outre, dans le cas où deux coopératives de même objet fonctionnent déjà dans le secteur intéressé tout arrêté préfectoral
-pris sur avis d'une commission départementale des structures peut faire l'objet d'un recours devant le ministre de
-l'agriculture dans un délai de deux mois à partir de la date de publication par toute société coopérative justifiant qu'il
-lui porte préjudice ou par tout membre de la commission départementale des structures. Le recours est suspensif. Le ministre
-statue dans un délai de quatre mois après avis du conseil supérieur de la coopération agricole.
+pris sur avis d'une commission départementale d'orientation de l'agriculture peut faire l'objet d'un recours devant le
+ministre de l'agriculture dans un délai de deux mois à partir de la date de publication par toute société coopérative
+justifiant qu'il lui porte préjudice ou par tout membre de la commission départementale d'orientation de l'agriculture. Le
+recours est suspensif. Le ministre statue dans un délai de quatre mois après avis du conseil supérieur de la coopération
+agricole.
 
 **Liens relatifs à cet article**
 
@@ -110191,38 +110054,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
 
 _Cité par_:
 
   - Arrêté du 9 février 2009 (V)
   - Code rural - art. R582-35 (V)
-
-
-###### Article R*525-10
-
-La décision de retrait d'agrément mentionnée au quatrième alinéa de l'article L. 525-1 est prise, selon les cas, par le
-commissaire de la République de la région après avis des commissions départementales des structures agricoles ou par le
-commissaire de la République du département après avis de la commission départementale des structures agricoles.
-
-L'agrément donné est retiré après avis de l'organisme ou des organismes consultatifs compétents si la coopérative ou l'union
-cesse ultérieurement d'appliquer les prescriptions qui lui sont applicables ou si elle étend son objet ou sa circonscription
-sans l'accord de l'autorité chargée de l'agrément. L'agrément peut également être retiré dans les conditions fixées à
-l'article R. 525-14.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L525-1, R525-14
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*525-11
@@ -110249,6 +110086,46 @@ _Modifié par_:
 _Abrogé par_:
 
   - Décret n°2006-1528 du 5 décembre 2006 - art. 1 () JORF 6 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article R525-4
+
+Les demandes d'agrément des unions de coopératives agricoles, ainsi que celles des sociétés coopératives agricoles dont
+l'agrément doit être prononcé par arrêté du ministre de l'agriculture, sont adressées au secrétariat de la commission
+centrale d'agrément.
+
+Le secrétariat de la commission centrale enregistre la demande dès qu'un dossier comprenant les pièces mentionnées à
+l'article R. 525-5 a été régulièrement constitué. Dans les huit jours qui suivent cet enregistrement, il envoie au président
+du conseil d'administration du groupement coopératif un accusé de réception portant mention de la date de dépôt.
+
+Les demandes d'agrément des sociétés coopératives agricoles dont l'agrément doit être prononcé par arrêté du préfet de région
+sont adressées à l'ingénieur général chargé de la région où se trouve le siège social de la société.
+
+Les demandes d'agrément des sociétés coopératives agricoles, dont l'agrément doit être prononcé par arrêté du préfet du
+département, sont adressées au secrétariat de la commission départementale d'orientation de l'agriculture où se trouve le
+siège social de la société.
+
+Le directeur départemental de l'agriculture enregistre la demande et en accuse réception dans les mêmes conditions que celles
+prévues au deuxième alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
+
+_Cité par_:
+
+  - Code rural - art. R525-5-1 (V)
+  - Code rural - art. R582-31 (V)
+
+_Cite_:
+
+  - Code rural R525-5
 
 
 ###### Article R525-6
@@ -110302,6 +110179,36 @@ _Modifié par_:
 _Cité par_:
 
   - Code rural - art. R582-33 (V)
+
+
+###### Article R525-10
+
+La décision de retrait d'agrément mentionnée au quatrième alinéa de l'article L. 525-1 est prise, selon les cas, par le
+commissaire de la République de la région après avis des commissions départementales d'orientation de l'agriculture ou par le
+commissaire de la République du département après avis de la commission départementale d'orientation de l'agriculture.
+
+L'agrément donné est retiré après avis de l'organisme ou des organismes consultatifs compétents si la coopérative ou l'union
+cesse ultérieurement d'appliquer les prescriptions qui lui sont applicables ou si elle étend son objet ou sa circonscription
+sans l'accord de l'autorité chargée de l'agrément. L'agrément peut également être retiré dans les conditions fixées à
+l'article R. 525-14.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L525-1, R525-14
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
+
+_Abrogé par_:
+
+  - Décret n°2006-1528 du 5 décembre 2006 - art. 1 () JORF 6 décembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article R525-12
@@ -111145,9 +111052,9 @@ _Modifié par_:
 
 ##### Section 2 : Commission départementale des structures agricoles.<a id=1102></a>
 
-###### Article R*528-8
+###### Article R528-8
 
-La commission départementale des structures agricoles est compétente pour délibérer en matière d'agrément des sociétés
+La commission départementale d'orientation de l'agriculture est compétente pour délibérer en matière d'agrément des sociétés
 coopératives agricoles lorsque cet agrément est de la compétence du commissaire de la République du département, conformément
 à l'article R. 525-2.
 
@@ -111162,72 +111069,6 @@ _Codifié par_:
   - Décret n°81-277 1981-03-18
 
 _Modifié par_:
-
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
-
-
-###### Article R*528-10
-
-Les représentants des sociétés coopératives agricoles à la commission départementale des structures sont désignés par arrêté
-du préfet sur proposition, soit de la fédération départementale de la coopération agricole lorsqu'elle regroupe tous les
-secteurs d'activité de la coopération agricole existant dans le département, soit des fédérations départementales quand il
-n'existe pas d'organisation ayant vocation à fédérer l'ensemble des sociétés coopératives agricoles.
-
-Dans le cas où l'application de cette procédure ne permet pas d'assurer la représentation de tous les secteurs d'activité de
-la coopération dans le département intéressé, les propositions pour les sièges restant à pourvoir sont présentées par la
-fédération régionale de la coopération agricole territorialement concernée.
-
-Pour être désignés, ces représentants doivent être administrateurs ou membres du conseil de surveillance de sociétés
-coopératives agricoles remplissant les conditions suivantes :
-
-- être agréées avant la date de l'arrêté préfectoral désignant les représentants ;
-
-- avoir leur siège social dans le département intéressé ;
-
-- avoir des statuts conformes aux dispositions du présent titre (partie législative et partie réglementaire).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
-
-_Abrogé par_:
-
-  - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
-
-
-###### Article R528-9
-
-Lorsqu'elle est appelée à délibérer en matière d'agrément des sociétés coopératives agricoles, la commission départementale
-des structures agricoles comprend, outre les membres énumérés à l'article 1er (1°) du décret du 27 mars 1968 relatif à cette
-commission, les membres suivants :
-
-- quatre représentants des sociétés coopératives agricoles désignés dans les conditions fixées à l'article R. 528-10 ;
-
-- un technicien employé ou ouvrier des sociétés coopératives agricoles désigné par l'organisation syndicale la plus
-représentative du département.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R528-10
-  - Décret n°68-281 1968-03-27 art. 1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
-
-_Abrogé par_:
 
   - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
 
