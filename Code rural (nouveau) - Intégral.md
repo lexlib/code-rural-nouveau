@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1993-10-17
+Version Consolidée au 1993-11-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -59985,15 +59985,8 @@ l'assemblée générale de chaque fédération conformément aux dispositions pr
 Les cotisations comprennent :
 
 1° Une participation utilisée par chaque fédération pour le financement de son fonctionnement et des actions énumérées à
-l'article L. 221-2 dont le montant est fixé comme suit :
-
-a) Le montant de la participation exigible des chasseurs qui adhèrent à une fédération en vue d'obtenir le visa de leur
-permis de chasser conformément aux dispositions de l'article L. 223-10 est égal au montant national minimum fixé par le
-collège des présidents de fédération réuni chaque année à cet effet en assemblée générale, augmenté au maximum de 66 p. 100 ;
-
-b) Le montant de la participation exigible des chasseurs déjà titulaires d'une validation nationale et tenus d'adhérer en
-application des dispositions de la deuxième phrase du troisième alinéa de l'article L. 223-16 ne peut être inférieur à 10 F
-ni excéder le montant de l'augmentation décidée dans le département en application du a ci-dessus.
+l'article L. 221-2 dont le montant est égal au montant national minimum fixé par le collège des présidents de fédération
+réuni chaque année à cet effet en assemblée générale, augmenté au maximum de 66 p. 100.
 
 2° Le cas échéant, les participations prévues au troisième alinéa de l'article L. 226-5 pour contribuer à l'indemnisation des
 dégâts de grand gibier.
@@ -60002,7 +59995,7 @@ dégâts de grand gibier.
 
 _Cite_:
 
-  - Code rural L223-10, L221-2, L223-16, L226-5
+  - Code rural L223-10, L221-2, L226-5
 
 _Codifié par_:
 
@@ -60010,7 +60003,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-1151 du 15 octobre 1992 - art. 1 () JORF 17 octobre 1992
+  - Décret n°93-1262 du 22 novembre 1993 - art. 2 () JORF 27 novembre 1993
 
 
 ###### Article R*221-34
@@ -63317,61 +63310,51 @@ _Nouveaux textes_:
 
 ###### Article R*223-2
 
-L'examen prévu par l'article L. 223-3 est organisé chaque année dans tous les départements à raison d'une session unique sur
-l'ensemble du territoire, selon les modalités fixées par arrêté du ministre chargé de la chasse.
-
-Toutefois, des sessions complémentaires ont lieu dans le courant de la même année, dans les mêmes conditions, pour les
-candidats dont la commission nationale prévue à l'article R. 223-5 aura constaté qu'ils ont été empêchés de prendre part à la
-session normale.
+L'examen prévu à l'article L. 223-3 est organisé chaque année dans tous les départements selon les modalités fixées par
+arrêté du ministre chargé de la chasse. Plusieurs sessions peuvent être organisées au cours de l'année.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural L223-3, R223-5
-
-_Anciens textes_:
-
-  - Décret n°76-398 du 7 mai 1976 - art. 1 (Ab)
+  - Code rural L223-3
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°93-1262 du 22 novembre 1993 - art. 1 () JORF 27 novembre 1993
 
 
 ###### Article R*223-3
 
-Nul ne peut être admis à prendre part à l'examen s'il n'a quinze ans révolus au 31 mars de l'année de l'examen et s'il n'a
-participé à une session de formation pratique.
+Nul ne peut être admis à prendre part à l'examen s'il n'a quinze ans révolus le jour des épreuves et s'il n'a participé à une
+session de formation pratique.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-398 du 7 mai 1976 - art. 2 (M)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°93-1262 du 22 novembre 1993 - art. 1 () JORF 27 novembre 1993
 
 
 ###### Article R*223-4
 
 L'examen porte sur les matières ci-après :
 
-1° Connaissance et sauvegarde du gibier et de la faune sauvage ;
+1° Connaissance et sauvegarde de la faune sauvage, notamment des espèces dont la chasse est autorisée ;
 
-2° Lois et règlements concernant la police de la chasse ;
+2° Connaissance de la chasse ;
 
-3° Emplois des armes et munitions et règles de sécurité.
+3° Connaissance et emplois des armes et munitions, et des règles de sécurité ;
+
+4° Connaissance des lois et règlements relatifs aux matières qui précèdent.
 
 La session de formation pratique porte notamment sur la connaissance et le maniement des armes et des munitions ainsi que sur
 les règles de sécurité.
@@ -63381,17 +63364,13 @@ contenu et les modalités d'organisation de la session de formation pratique.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°76-398 du 7 mai 1976 - art. 3 (M)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°93-1262 du 22 novembre 1993 - art. 1 () JORF 27 novembre 1993
 
 _Cité par_:
 
@@ -63968,20 +63947,19 @@ _Créé par_:
 ###### Article R*223-23
 
 Le versement de la redevance cynégétique nationale valide le permis pour tout le territoire national, y compris les zones
-définies à l'article L. 222-27, sous réserve que le titulaire du permis adhère à la fédération départementale des chasseurs
-du lieu de chasse.
+définies à l'article L. 222-27.
 
-Cette adhésion est souscrite :
-
-1° Antérieurement au visa pour la première adhésion conformément à l'article R. 223-14 ;
-
-2° A tout moment, préalablement à tout acte de chasse dans le département concerné pour les autres adhésions.
+En outre les chasseurs de grand gibier et de sanglier ayant obtenu la validation nationale de leur permis de chasser doivent
+acquitter la redevance additionnelle à la redevance cynégétique nationale, dont le produit est affecté au compte particulier
+ouvert dans le budget de l'Office national de la chasse pour assurer l'indemnisation des dégâts causés aux récoltes par
+certaines espèces de gibier, instituée par l'article 34 I de la loi de finances rectificative pour 1993 (n° 93-859 du 22 juin
+1993).
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural L222-27, R223-14
+  - Code rural L222-27
 
 _Codifié par_:
 
@@ -63989,7 +63967,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-1151 du 15 octobre 1992 - art. 2 () JORF 17 octobre 1992
+  - Décret n°93-1262 du 22 novembre 1993 - art. 2 () JORF 27 novembre 1993
 
 
 ###### Article R*223-24
@@ -65465,6 +65443,9 @@ b) Les taxes versées par les bénéficiaires de plans de chasse individuels ;
 
 c) Le produit des contributions imposées aux fédérations départementales des chasseurs en application de l'article R. 226-4 ;
 
+d) Le produit de la redevance additionnelle instituée par l'article 34 I de la loi de finances rectificative pour 1993 (n°
+93-859 du 22 juin 1993).
+
 2° En dépenses :
 
 a) Les indemnités versées aux victimes des dégâts mentionnés à l'article L. 226-1 ;
@@ -65485,7 +65466,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-1151 du 15 octobre 1992 - art. 3 () JORF 17 octobre 1992
+  - Décret n°93-1262 du 22 novembre 1993 - art. 2 () JORF 27 novembre 1993
 
 _Cité par_:
 
