@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1994-01-05
+Version Consolidée au 1994-01-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -787,7 +787,7 @@ Version Consolidée au 1994-01-05
           - [Section 4 : Réserves et interdictions permanentes de pêche (art. R*236-84 à R*236-95)](#784)
             - [Sous-section 1 : Dispositions générales. (art. R*236-84)](#785)
             - [Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche. (art. R*236-85 à R*236-89)](#786)
-            - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche. (art. R*236-90 à R*236-92)](#787)
+            - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche. (art. R*236-91 à R*236-92)](#787)
             - [Sous-section 4 : Dispositions communes. (art. R*236-93 à R*236-95)](#788)
           - [Section 5 : Commercialisation. (art. R*236-96 à R*236-97)](#789)
           - [Section 6 : Dispositions particulières (art. R*236-98 à R*236-121)](#790)
@@ -72359,26 +72359,30 @@ _Nouveaux textes_:
 Dans chaque département, les associations agréées de pêche et de pisciculture et, le cas échéant, l'association agréée de
 pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public sont obligatoirement regroupées en une fédération
 départementale des associations agréées de pêche et de pisciculture dont les statuts, qui doivent être conformes à des
-statuts types pris par arrêté ministériel, sont approuvés par le ministre chargé de la pêche en eau douce.
+statuts types pris par arrêté ministériel, sont approuvés par le préfet.
 
-Toute modification des statuts d'une fédération départementale doit être soumise dans les trois mois à l'approbation de ce
-ministre. La fédération départementale des associations agréées de pêche et de pisciculture est constituée et déclarée
+Toute modification des statuts d'une fédération départementale doit être soumise dans les trois mois à l'approbation du
+préfet. La fédération départementale des associations agréées de pêche et de pisciculture est constituée et déclarée
 conformément à la loi du 1er juillet 1901 ou aux articles 21 à 79 du code civil local maintenu en vigueur dans les
 départements du Haut-Rhin, du Bas-Rhin et de la Moselle par la loi du 1er juin 1924 susmentionnée.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-1284 du 28 novembre 1985 - art. 5 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-40 du 7 janvier 1994 - art. 1 () JORF 15 janvier 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R234-26
 
 _Cite_:
 
@@ -74795,8 +74799,8 @@ de mer peut être, en fonction de la dimension atteinte à l'âge de première r
 1° Portée à 0,25 mètre ou ramenée à 0,20 mètre par arrêté du préfet dans certains cours d'eau, canaux et plans d'eau du
 département ;
 
-2° Ramenée à 0,18 mètre par le ministre chargé de la pêche en eau douce dans les cours d'eau ou parties de cours d'eau et
-plans d'eau de certaines régions montagneuses à sol acide.
+2° Ramenée à 0,18 mètre par arrêté du préfet dans les cours d'eau ou parties de cours d'eau et plans d'eau de certaines
+régions montagneuses à sol acide.
 
 En outre, le préfet peut lever l'interdiction de pêcher la truite arc-en-ciel d'une longueur inférieure au minimum prévu par
 l'article R. 236-23 ou par le présent article dans les eaux de la 2e catégorie.
@@ -74807,17 +74811,13 @@ _Cite_:
 
   - Code rural R236-23
 
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 19 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-40 du 7 janvier 1994 - art. 2 () JORF 15 janvier 1994
 
 
 ###### Article R*236-25
@@ -76375,21 +76375,21 @@ _Abrogé par_:
 
 ###### Article R*236-75
 
-Les demandes d'autorisation sont adressées au ministre chargé de la pêche en eau douce.
+Les demandes d'autorisation sont adressées au préfet du département où les opérations de capture du poisson sont envisagées.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°88-1032 du 7 novembre 1988 - art. 9 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-40 du 7 janvier 1994 - art. 3 () JORF 15 janvier 1994
+
+_Abrogé par_:
+
+  - Décret n°97-787 du 31 juillet 1997 - art. 3 (V) JORF 13 août 1997
 
 
 ###### Article R*236-76
@@ -76402,7 +76402,7 @@ Le dossier de demande comporte les indications et pièces suivantes :
 
 3° Les objectifs poursuivis ;
 
-4° Le ou les départements pour lesquels l'autorisation est demandée ;
+4° (alinéa supprimé) ;
 
 5° Dans le cas d'une demande effectuée pour réaliser une notice ou une étude d'impact au sens de l'article 2 de la loi du 10
 juillet 1976, la nature du projet et la désignation de la ou des parties de cours d'eau, canal ou plan d'eau concernées ;
@@ -76420,22 +76420,22 @@ _Cite_:
 
   - Loi n°76-629 du 10 juillet 1976 - art. 2 (M)
 
-_Anciens textes_:
-
-  - Décret n°88-1032 du 7 novembre 1988 - art. 10 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-40 du 7 janvier 1994 - art. 4 () JORF 15 janvier 1994
+
+_Abrogé par_:
+
+  - Décret n°97-787 du 31 juillet 1997 - art. 3 (V) JORF 13 août 1997
 
 
 ###### Article R*236-77
 
-L'autorisation délivrée par le ministre précise :
+L'autorisation délivrée par le préfet :
 
 1° L'identité et la qualité du bénéficiaire de l'autorisation ainsi que celles de la ou des personnes responsables de
 l'exécution matérielle de l'opération ;
@@ -76457,17 +76457,17 @@ _Cite_:
 
   - Loi n°76-629 du 10 juillet 1976 - art. 2 (M)
 
-_Anciens textes_:
-
-  - Décret n°88-1032 du 7 novembre 1988 - art. 11 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-40 du 7 janvier 1994 - art. 5 () JORF 15 janvier 1994
+
+_Abrogé par_:
+
+  - Décret n°97-787 du 31 juillet 1997 - art. 3 (V) JORF 13 août 1997
 
 
 ###### Article R*236-78
@@ -76484,22 +76484,22 @@ l'opération, des dates et des lieux de pêche ;
 et au président de la fédération départementale des associations agréées de pêche et de pisciculture un compte-rendu de
 l'opération avec les résultats des captures, présentés sous une forme fixée par le ministre chargé de la pêche en eau douce ;
 
-4° Adresser dans le délai de six mois après l'expiration de l'autorisation au ministre chargé de la pêche en eau douce un
-rapport indiquant les opérations réalisées, leurs lieux, dates et objets.
+4° Adresser dans le délai de six mois après l'expiration de l'autorisation au préfet coordonnateur de bassin un rapport
+indiquant les opérations réalisées, leurs lieux, dates et objets.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°88-1032 du 7 novembre 1988 - art. 12 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-40 du 7 janvier 1994 - art. 6 () JORF 15 janvier 1994
+
+_Abrogé par_:
+
+  - Décret n°97-787 du 31 juillet 1997 - art. 3 (V) JORF 13 août 1997
 
 
 ##### Sous-section 3 : Dispositions communes.<a id=783></a>
@@ -76819,55 +76819,35 @@ _Nouveaux textes_:
 
 ##### Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche.<a id=787></a>
 
-###### Article R*236-90
-
-Le ministre chargé de la pêche en eau douce peut, par arrêté, instituer des réserves de pêche où toute pêche est interdite
-pour une durée allant de plus d'un an à cinq années consécutives. Cette interdiction peut être renouvelée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1369 du 20 décembre 1985 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-40 du 7 janvier 1994 - art. 7 () JORF 15 janvier 1994
-
-
 ###### Article R*236-91
 
 Le préfet du département, après avis du délégué régional du Conseil supérieur de la pêche, de la fédération départementale
 des associations agréées de pêche et de pisciculture et, le cas échéant, de l'association agréée de pêcheurs professionnels
-en eau douce, peut, par arrêté, instituer des réserves de pêche où toute pêche est interdite pour une durée maximale d'une
-année.
+en eau douce, peut, par arrêté, instituer des réserves de pêche où toute pêche est interdite pour une durée allant d'un an à
+cinq années consécutives.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1369 du 20 décembre 1985 - art. 7 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-40 du 7 janvier 1994 - art. 8 () JORF 15 janvier 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R236-91
 
 
 ###### Article R*236-92
 
-L'arrêté du ministre ou celui du préfet détermine :
+L'arrêté du préfet détermine :
 
 1° L'emplacement, les limites amont et aval de la section concernée du cours d'eau, canal ou plan d'eau ;
 
@@ -76879,17 +76859,21 @@ d'une année.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-1369 du 20 décembre 1985 - art. 8 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-40 du 7 janvier 1994 - art. 9 () JORF 15 janvier 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R236-92
 
 
 ##### Sous-section 4 : Dispositions communes.<a id=788></a>
