@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1991-02-09
+Version Consolidée au 1991-03-01
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L263-10)](#2)
@@ -35517,6 +35517,158 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+
+
+###### Article R232-16
+
+Font l'objet de l'agrément prévu à l'article L. 232-12 les établissements de pisciculture ou d'aquaculture dont les produits
+sont utilisés en tout ou partie au repeuplement ou à l'alevinage des eaux mentionnées au titre III de la première partie du
+livre II.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L232-12
+
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Créé par_:
+
+  - Décret n°90-804 du 7 septembre 1990 - art. 1 () JORF 13 septembre 1990 en vigueur le 1er mars 1991
+
+
+###### Article R232-17
+
+L'agrément d'un établissement est accordé, sur demande de l'exploitant, par décision du préfet du département où est situé
+l'établissement. Il donne lieu à inscription sur un registre départemental des établissements agréés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Créé par_:
+
+  - Décret n°90-804 du 7 septembre 1990 - art. 1 () JORF 13 septembre 1990 en vigueur le 1er mars 1991
+
+
+###### Article R232-18
+
+L'agrément est subordonné à l'engagement écrit pris par l'exploitant de respecter les obligations suivantes :
+
+1° Accompagner toute fourniture d'un document justifiant l'identité de l'exploitant ;
+
+2° Ne fournir que des lots de poissons ne présentant pas de vices apparents ;
+
+3° Ne fournir des lots de poissons susceptibles de provoquer des déséquilibres biologiques et dont la liste est fixée par
+l'article R. 232-1 qu'au détenteur de l'autorisation mentionnée à l'article L. 232-11 ;
+
+4° Déclarer sans délai au préfet toute mortalité anormale constatée dans son établissement ;
+
+5° Accepter toutes les visites effectuées par le directeur des services vétérinaires ou son représentant.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R232-1, L232-11
+
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Créé par_:
+
+  - Décret n°90-804 du 7 septembre 1990 - art. 1 () JORF 13 septembre 1990 en vigueur le 1er mars 1991
+
+
+###### Article R232-19
+
+Le non respect par l'exploitant d'une des obligations imposées à l'article R. 232-18 est constaté par les agents mentionnés à
+l'article L. 237-1 ou par les agents des services vétérinaires. Ces agents en font rapport dans les trois jours au directeur
+départemental de l'agriculture et de la forêt, lequel fait procéder sans délai à une enquête à laquelle l'exploitant ou son
+représentant est invité à participer.
+
+Sans préjudice des mesures d'urgence prises en application des dispositions de l'article 226 du livre Ier, le préfet peut, au
+vu des conclusions de l'enquête et aprés avoir invité l'exploitant à présenter ses observations dans le délai d'un mois,
+prononcer le retrait de l'agrément. Cette décision est publiée au Recueil des actes administratifs du département.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R232-18, L237-1, 226
+
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Créé par_:
+
+  - Décret n°90-804 du 7 septembre 1990 - art. 1 () JORF 13 septembre 1990 en vigueur le 1er mars 1991
+
+
+###### Article R232-20
+
+Le non-respect par l'exploitant d'une des obligations imposées à l'article R. 232-18 est constaté par les agents mentionnés à
+l'article L. 237-1 ou par les agents des services vétérinaires. Ces agents en font rapport dans les trois jours au directeur
+départemental de l'agriculture et de la forêt, lequel fait procéder sans délai à une enquête à laquelle l'exploitant ou son
+représentant est invité à participer.
+
+Sans préjudice des mesures d'urgence prises en application des dispositions de l'article 226 du livre Ier, le préfet peut, au
+vu des conclusions de l'enquête et après avoir invité l'exploitant à présenter ses observations dans le délai d'un mois,
+prononcer le retrait de l'agrément. Cette décision est publiée au Recueil des actes administratifs du département.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R232-18, L237-1, 226
+
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Créé par_:
+
+  - Décret n°90-804 du 7 septembre 1990 - art. 1 () JORF 13 septembre 1990 en vigueur le 1er mars 1991
+
+
+###### Article R232-21
+
+Lorsque l'agrément d'un établissement a été retiré, un nouvel agrément ne peut être accordé qu'après visite effectuée par le
+directeur des services vétérinaires ou son représentant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Créé par_:
+
+  - Décret n°90-804 du 7 septembre 1990 - art. 1 () JORF 13 septembre 1990 en vigueur le 1er mars 1991
+
+
+###### Article R232-22
+
+Toute livraison par l'exploitant d'un établissement de pisciculture ou d'aquaculture non agréé de lots de poissons en vue du
+réempoissonnement ou de l'alevinage des eaux mentionnées au titre III de la première partie du livre II sera punie de la
+peine d'amende prévue pour les contraventions de la 5e classe.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Créé par_:
+
+  - Décret n°90-804 du 7 septembre 1990 - art. 1 () JORF 13 septembre 1990 en vigueur le 1er mars 1991
 
 
 ###### Article R232-23
