@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1984-08-02
+Version Consolidée au 1984-10-05
 ## Contenu: 
   - [Partie législative (art. L411-1 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-1 à L471-7)](#2)
@@ -20259,6 +20259,42 @@ _Créé par_:
 _Cité par_:
 
   - Code de l'éducation - art. R238-1 (V)
+
+
+###### Article R*814-2
+
+L'enseignement supérieur relevant du ministre de l'agriculture comprend :
+
+L'institut national agronomique de Paris-Grignon et les autres écoles nationales supérieures agronomiques de Rennes et de
+Montpellier ;
+
+Les écoles nationales vétérinaires ;
+
+L'école nationale supérieure des industries agricoles et alimentaires ;
+
+L'école nationale supérieure d'horticulture ;
+
+L'école nationale supérieure du paysage ;
+
+L'école nationale supérieure féminine d'agronomie de Rennes ;
+
+Les écoles nationales d'ingénieurs des travaux agricoles d'Angers, de Bordeaux, de Clermont-Ferrand et de Dijon et l'Ecole
+nationale d'ingénieurs des travaux des industries-agricoles de Nantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°84-882 1984-10-04 art. 1 JORF 5 octobre 1984
+  - Décret  n°84-882  du 4 octobre 1984  - art. 1 (V)
 
 
 ###### Article R*814-3
