@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1984-10-05
+Version Consolidée au 1984-12-16
 ## Contenu: 
   - [Partie législative (art. L411-1 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-1 à L471-7)](#2)
@@ -46,7 +46,7 @@ Version Consolidée au 1984-10-05
     - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. L815-1 à L815-4)](#43)
       - [Titre Ier : Enseignement et formation professionnelle agricoles (art. L815-1 à L815-4)](#44)
         - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole publics. (art. L815-1 à L815-4)](#45)
-  - [Partie réglementaire (art. R*411-1 à R*816-4)](#46)
+  - [Partie réglementaire (art. R*411-1 à R*831-15)](#46)
     - [Livre IV : Baux ruraux (art. R*411-1 à R464-1)](#47)
       - [Titre Ier : Statut du fermage et du métayage (art. R*411-1 à R417-3)](#48)
         - [Chapitre Ier : Régime de droit commun (art. R*411-1 à R411-19)](#49)
@@ -173,7 +173,7 @@ Version Consolidée au 1984-10-05
           - [Section 2 : Droit de préemption des collectivités locales. (art. R*562-3)](#170)
         - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique. (art. R*563-1 à R*563-2)](#171)
         - [Chapitre IV : Avantages divers et subventions. (art. R*564-1 à R*564-3)](#172)
-    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-38 à R*816-4)](#173)
+    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-38 à R*831-15)](#173)
       - [Titre Ier : Enseignement et formation professionnelle agricoles (art. R*811-38 à R*816-4)](#174)
         - [Chapitre Ier : Dispositions relatives à l'enseignement et à la formation professionnelle agricoles publics (art. R*811-38 à R*811-45)](#175)
           - [Section 3 : Dispositions relatives aux établissements publics locaux d'enseignement et de formation professionnelle agricoles (art. R*811-38 à R*811-45)](#176)
@@ -231,6 +231,11 @@ Version Consolidée au 1984-10-05
           - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#228)
           - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#229)
         - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-4)](#230)
+      - [Titre III : Recherche agronomique (art. R831-1 à R*831-15)](#231)
+        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#232)
+          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#233)
+          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#234)
+          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#235)
 # Partie législative<a id=1></a>
 
 ## Livre IV : Baux ruraux<a id=2></a>
@@ -22414,5 +22419,565 @@ _Créé par_:
 _Transféré par_:
 
   - Décret n°92-433 du 7 mai 1992 - art. 4 () JORF 14 mai 1992
+
+
+### Titre III : Recherche agronomique<a id=231></a>
+
+#### Chapitre Ier : Institut national de la recherche agronomique<a id=232></a>
+
+##### Section 1 : Dispositions générales.<a id=233></a>
+
+###### Article R831-1
+
+L'institut national de la recherche agronomique est un établissement public national à caractère scientifique et
+technologique placé sous la tutelle du ministre chargé de la recherche et du ministre chargé de l'agriculture. Il a pour
+missions :
+
+1. D'organiser et d'exécuter toute recherche scientifique intéressant l'agriculture et les industries qui lui sont liées ;
+
+2. De contribuer à l'élaboration de la politique nationale de recherche dans les domaines relevant de sa compétence ;
+
+3. De publier et diffuser les résultats de ses travaux et, plus généralement, de concourir au développement de l'information
+scientifique et à la diffusion des connaissances scientifiques en favorisant l'usage de la langue française ;
+
+4. D'apporter son concours à la formation à la recherche et par la recherche ;
+
+5. De participer à la valorisation de ses recherches et de son savoir-faire ;
+
+6. D'effectuer des expertises scientifiques dans son champ de compétences.
+
+Dans le domaine de la recherche, les missions de l'institut incluent notamment :
+
+a) L'inventaire des ressources du milieu physique (sol, micro-climat et réserves hydriques) et l'étude de leur exploitation ;
+
+b) L'amélioration des productions végétales et animales intéressant l'économie agricole, y compris les espèces forestières et
+les espèces aquatiques ;
+
+c) La conservation, la transformation des produits agricoles en produits alimentaires, l'amélioration de la qualité des
+produits alimentaires et leur adaptation aux demandes des consommateurs ;
+
+d) Les biotechnologies intéressant l'agriculture et les industries qui lui sont liées ;
+
+e) La production d'énergie, de protéines ou de molécules par le développement de cultures spécifiques ou par l'utilisation
+des sous-produits des activités agricoles et industrielles ;
+
+f) La protection, la sauvegarde et la gestion rationnelle des ressources naturelles et de l'espace rural ;
+
+g) L'étude des investissements nécessaires au bon fonctionnement des exploitations agricoles et des entreprises agro-
+alimentaires ;
+
+h) La compréhension du monde agricole et rural et de ses transformations par le développement des sciences sociales ;
+
+i) L'amélioration des conditions de travail dans l'agriculture et les industries qui lui sont rattachées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+
+_Cité par_:
+
+  - Arrêté du 21 mars 2014 (V)
+  - Arrêté du 24 mars 2015 - art. (Ab)
+
+
+###### Article R831-2
+
+Pour l'accomplissement de ses missions, l'institut peut notamment :
+
+a) Créer, gérer et subventionner des unités de recherche ;
+
+b) Contribuer aux recherches entreprises dans des laboratoires relevant d'autres organismes publics ou privés de recherche,
+notamment par l'attribution d'aides financières, le détachement ou la mise à disposition de personnels de recherche ;
+
+c) Participer en France et à l'étranger aux travaux effectués dans les domaines de sa compétence par ces organismes : les
+associer à ses propres travaux et notamment participer, à cette fin, à des actions menées en commun dans le cadre de
+groupements d'intérêt public ;
+
+d) Participer à l'élaboration et à la mise en oeuvre d'accords de coopération scientifique internationale et de coopération
+pour le développement ;
+
+e) Prendre des participations et constituer des sociétés filiales en vue notamment d'assurer la valorisation de ses
+recherches ;
+
+f) S'assurer le concours à titre de conseillers scientifiques, accueillir et rémunérer temporairement des personnalités
+extérieures appartenant au secteur public ou privé, ainsi que des professeurs et chercheurs de nationalité étrangère.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+
+
+##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=234></a>
+
+###### Article R*831-3
+
+L'institut est administré par un conseil d'administration avec le concours d'un conseil scientifique. Le président du conseil
+d'administration assure la direction générale de l'institut.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+
+
+###### Article R*831-4
+
+Le conseil d'administration de l'institut national de la recherche agronomique comprend vingt-sept membres :
+
+a) Le président ;
+
+b) Neuf représentants de l'Etat, dont deux désignés sur proposition du ministre chargé de l'agriculture et sept sur
+proposition de chacun des ministres respectivement chargés de la recherche, de l'industrie, du budget, de l'éducation
+nationale, de la santé, de la consommation et de l'environnement ;
+
+c) Le président du conseil scientifique ;
+
+d) Quatre membres appartenant au secteur de la production agricole ;
+
+e) Trois membres appartenant au secteur des industries liées à l'agriculture (filières interprofessionnelles ou industries
+agro-alimentaires stricto sensu) ;
+
+f) Un membre appartenant aux industries fournissant les produits utilisés dans l'agriculture ;
+
+g) Un membre appartenant aux organismes représentant les consommateurs ;
+
+h ) Deux membres représentant respectivement les salariés du secteur agricole et du secteur agro-alimentaire désignés sur
+proposition des confédérations les plus représentatives ;
+
+i) Cinq représentants du personnel, élus selon les modalités fixées par arrêté conjoint du ministre chargé de la recherche et
+du ministre chargé de l'agriculture.
+
+Le président du conseil d'administration est nommé pour une durée de quatre ans, renouvelable une fois, par décret pris en
+conseil des ministres sur proposition du ministre chargé de la recherche et du ministre chargé de l'agriculture.
+
+Les membres du conseil d'administration, autres que les représentants élus du personnel, sont nommés par décret sur
+proposition du ministre chargé de la recherche et du ministre chargé de l'agriculture.
+
+Les membres du conseil d'administration siègent personnellement au conseil ; ils peuvent, en cas d'absence ou d'empêchement,
+être suppléés par un représentant nommément désigné. Les mandats sont de quatre ans, renouvelables une fois.
+
+Les membres du conseil d'administration décédés ou démissionnaires et ceux qui, en cours de mandat, n'occupent plus les
+fonctions à raison desquelles ils ont été désignés sont remplacés pour la durée du mandat restant à courir.
+
+Les fonctions de membre du conseil d'administration sont gratuites.
+
+Le contrôleur financier et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
+
+Le président du conseil d'administration peut inviter à participer aux réunions de ce conseil tout expert jugé utile en
+fonction de l'ordre du jour. Les experts ont voix consultative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+
+_Cité par_:
+
+  - Arrêté du 19 janvier 2017 - art. 1 (V)
+
+
+###### Article R*831-5
+
+Le conseil d'administration se réunit aussi souvent qu'il est nécessaire et au moins quatre fois par an, sur convocation de
+son président qui en fixe l'ordre du jour.
+
+Le conseil d'administration ne délibère valablement que si la majorité de ses membres est présente. Si le quorum n'est pas
+atteint, le conseil est de nouveau convoqué avec le même, ordre du jour dans un délai maximal de trois semaines ; il délibère
+alors valablement sans condition de quorum.
+
+Les délibérations du conseil sont prises à la majorité absolue des votants ; en cas de partage, la voix du président est
+prépondérante.
+
+Le lieu, la date et l'heure ainsi que l'ordre du jour des séances sont portés au moins quinze jours à l'avance à la
+connaissance des membres du conseil d'administration ainsi que du contrôleur financier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+
+
+###### Article R*831-6
+
+Le conseil d'administration délibère sur :
+
+1. L'orientation de la politique de recherche de l'institut, les programmes généraux d'activités et d'investissements et
+l'exploitation des résultats de la recherche ;
+
+2. Les mesures générales relatives à l'organisation de l'institut ;
+
+3. Le budget et ses modifications, le compte financier ;
+
+4. Le rapport annuel d'activité ;
+
+5. Les contrats et marchés ;
+
+6. Les emprunts ;
+
+7. La participation de l'institut aux groupements d'intérêt public prévus à l'article 21 de la loi n° 82-610 du 15 juillet
+1982 susvisée ;
+
+8. Les projets d'achats, ventes et échanges d'immeubles, de constitutions d'hypothèques, les projets de baux et de location
+d'une durée supérieure à neuf ans ;
+
+9. Les prises, extensions ou cessions de participations financières et créations de sociétés filiales ;
+
+10. L'acceptation des dons et legs ;
+
+11. Les actions en justice, les transactions ainsi que le recours à l'arbitrage.
+
+Le conseil d'administration se prononce en outre sur les questions qui lui sont soumises par son président, le ministre
+chargé de la recherche et le ministre chargé de l'agriculture.
+
+En ce qui concerne les matières énumérées aux 5°, 8° et 11°, le conseil peut déléguer une partie de ses pouvoirs à son
+président. Celui-ci rend compte lors de sa plus prochaine séance des décisions qu'il a prises en vertu de cette délégation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Cite_:
+
+  - Loi n°82-610 1982-07-15 art. 21
+
+_Modifié par_:
+
+  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+
+_Cité par_:
+
+  - Code rural - art. R831-11 (V)
+  - Code rural et de la pêche maritime - art. R831-7 (V)
+
+
+###### Article R*831-7
+
+Les délibérations du conseil d'administration sont exécutoires quinze jours après la réception du procès-verbal par le
+ministre chargé de la recherche et par le ministre chargé de l'agriculture, à moins que l'un ou l'autre de ceux-ci n'y fasse
+opposition. En cas d'urgence, le ministre chargé de la recherche et le ministre chargé de l'agriculture peuvent autoriser
+l'exécution immédiate.
+
+Toutefois, les délibérations portant sur le budget et ses modifications et le compte financier, les emprunts, les
+acquisitions, échanges et aliénations d'immeubles sont exécutoires sauf opposition du ministre chargé de la recherche, ou du
+ministre chargé de l'agriculture, ou du ministre chargé du budget, dans un délai d'un mois à compter de la réception du
+procès-verbal, par chacun de ces ministres.
+
+Les délibérations portant sur les matières énumérées aux 7° et 9° de l'article R. 831-6 ci-dessus ne sont exécutoires
+qu'après approbation par arrêté conjoint du ministre chargé de la recherche, du ministre chargé de l'agriculture et du
+ministre chargé du budget, ainsi que, pour le 9°, du ministre chargé des finances.
+
+Parmi les décisions modificatives du budget, sont seules soumises au conseil d'administration et à l'approbation des
+autorités de tutelle celles qui comportent soit une augmentation du montant global des dépenses inscrites au budget de
+l'établissement, soit des virements entre sections ou entre parties de section, soit des virements entre, d'une part, des
+crédits affectés aux gros équipements ou aux opérations immobilières et, d'autre part, des crédits affectés à des actions ou
+programmes financés par l'institut.
+
+Toutes les autres décisions modificatives du budget sont prises par le président en accord avec le contrôleur financier et
+portées à la connaissance du conseil d'administration lors de sa plus prochaine séance.
+
+La procédure prévue à l'alinéa précédent s'applique aux virements de crédits provenant de la réserve générale lorsque le
+montant des crédits ainsi virés n'excède pas, au cours d'un exercice budgétaire, 10 p. 100 de la dotation initiale de la
+partie de la deuxième ou troisième section bénéficiant du virement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R831-6
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+
+
+###### Article R*831-8
+
+Le président du conseil d'administration est assisté de directeurs généraux adjoints, nommés sur sa proposition par arrêté
+conjoint du ministre chargé de la recherche et du ministre chargé de l'agriculture, et de directeurs scientifiques qu'il
+nomme après avis du conseil scientifique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+
+
+###### Article R*831-9
+
+Le président du conseil d'administration prépare les délibérations du conseil d'administration et en assure l'exécution.
+
+Il représente l'institut dans tous les actes de la vie civile dans ses rapports avec les tiers et dans les relations
+internationales.
+
+Il représente l'institut en justice.
+
+Il gère le personnel de l'institut, dans les conditions prévues par les dispositions réglementaires applicables.
+
+Il est ordonnateur principal des dépenses et recettes de l'institut et peut désigner des ordonnateurs secondaires.
+
+Il peut déléguer ses pouvoirs à des agents de l'institut dans les limites qu'il détermine. Il peut déléguer sa signature.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+
+
+###### Article R*831-10
+
+Un conseil scientifique est institué auprès du président du conseil d'administration.
+
+Il est constitué de personnalités scientifiques extérieures à l'institut, de responsables scientifiques de la recherche
+publique, de l'enseignement supérieur, des instituts ou centres techniques et de développement du secteur agricole, des
+industries liées à l'agriculture ainsi que de représentants élus des chercheurs et des ingénieurs de l'institut.
+
+Sa composition, les modalités de désignation de ses membres et les conditions de son fonctionnement sont fixées par arrêté
+conjoint du ministre chargé de la recherche et du ministre chargé de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+
+
+###### Article R*831-11
+
+Le conseil scientifique est l'instance de réflexion et de proposition de l'institut en matière de politique scientifique,
+ainsi que d'évaluation des activités de recherche.
+
+Il étudie la situation et les perspectives de développement dans les domaines de la recherche agronomique, et veille à ce que
+soit assurée une bonne coordination entre l'institut et les autres organismes de recherche intéressés.
+
+Il est consulté par le président du conseil d'administration sur :
+
+1. L'organisation scientifique de l'institut, et notamment la liste des départements de recherche ;
+
+2. Le contenu et l'exécution des programmes de recherche, des études et travaux de l'institut ;
+
+3. La nomination des directeurs scientifiques et des chefs de départements.
+
+Le conseil scientifique peut être assisté par :
+
+a) Des commissions spécialisées ou par discipline, créées par décision du président de l'institut ;
+
+b) Des groupes de travail ou comités restreints, constitués en son sein, en vue de l'aider à remplir les tâches qui lui sont
+dévolues.
+
+Ces différentes instances doivent rendre compte périodiquement au conseil scientifique des conclusions de leurs travaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+
+_Cité par_:
+
+  - Code rural - art. R831-13 (V)
+
+
+###### Article R*831-12
+
+Les recherches sont conduites au sein d'unités de recherche. Ces unités peuvent être regroupées en départements de recherche
+correspondant à des disciplines scientifiques ou à des objectifs agronomiques déterminés.
+
+La liste des départements est arrêtée par le président du conseil d'administration après avis du conseil scientifique. Chaque
+département de recherche est placé sous la responsabilité d'un chef de département nommé par le président du conseil
+d'administration après avis du conseil scientifique.
+
+Le chef de département est chargé, sous l'autorité du président du conseil d'administration, d'animer la vie scientifique des
+unités qui composent le département et d'en assurer le bon fonctionnement. Il est assisté par un conseil scientifique et un
+conseil de gestion dont les membres sont désignés et l'organisation est fixée dans les conditions définies par le président
+du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+
+
+###### Article R*831-13
+
+Les unités de recherche ainsi que les services communs sont regroupés géographiquement dans des centres de recherche.
+
+La liste des centres est arrêtée par le président de l'institut après avis du conseil d'administration.
+
+Chaque centre est placé sous l'autorité d'un président de centre désigné par le président de l'institut et assis d'un conseil
+scientifique et d'un conseil de gestion qu'il préside.
+
+Le président du centre est principalement chargé de l'administration du centre et de l'orientation de sa vie collective et
+scientifique. Il est le correspondant de l'institut avec les organismes ou autorités régionaux.
+
+Le conseil scientifique et le conseil de gestion sont chargés respectivement d'assurer l'animation scientifique du centre et
+de délibérer sur les questions intéressant notamment son fonctionnement et son développement. Les modalités de désignation de
+leurs membres et leur organisation sont fixées par décision du président du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+
+
+##### Section 3 : Dispositions diverses.<a id=235></a>
+
+###### Article R*831-14
+
+L'agent comptable de l'établissement est nommé par arrêté conjoint du ministre chargé de la recherche, du ministre chargé de
+l'agriculture et du ministre chargé du budget, sur proposition du président du conseil d'administration.
+
+Des comptables secondaires peuvent être désignés par le président du conseil d'administration, après avis de l'agent
+comptable et avec l'agrément du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+
+
+###### Article R*831-15
+
+L'institut est soumis au contrôle financier de l'Etat dans les conditions prévues par le décret n° 83-952 du 25 octobre 1983
+susvisé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Cite_:
+
+  - Décret n°83-952 1983-10-25
+
+_Modifié par_:
+
+  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
