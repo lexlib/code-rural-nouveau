@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1992-12-12
+Version Consolidée au 1992-12-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -892,11 +892,11 @@ Version Consolidée au 1992-12-12
         - [Chapitre II : Associés, tiers non coopérateurs (art. R522-1 à R522-9)](#889)
           - [Section 1 : Associés coopérateurs. (art. R522-1 à R522-8)](#890)
           - [Section 3 : Tiers non coopérateurs. (art. R522-9)](#891)
-        - [Chapitre III : Capital social et dispositions financières (art. R*523-1 à R523-9)](#892)
+        - [Chapitre III : Capital social et dispositions financières (art. R*523-1 à R523-12)](#892)
           - [Section 1 : Capital social. (art. R*523-1 à R523-4)](#893)
           - [Section 2 : Fonds de développement coopératif. (art. R*523-6 à R*523-7)](#894)
           - [Section 3 : Prises de participation. (art. R523-8 à R523-11)](#895)
-          - [Section 4 : Participation et intéressement. (art. R523-9)](#896)
+          - [Section 4 : Participation et intéressement. (art. R523-9 à R523-12)](#896)
         - [Chapitre IV : Administration (art. R*524-1 à R524-42)](#897)
           - [Section 1 : Conseil d'administration. (art. R*524-1 à R524-8)](#898)
           - [Section 2 : Commissariat aux comptes. (art. R*524-10 à R524-11)](#899)
@@ -974,40 +974,41 @@ Version Consolidée au 1992-12-12
               - [Paragraphe 1 : Dispositions générales. (art. R*814-10 à R*814-19)](#971)
               - [Paragraphe 2 : Dispositions particulières aux élèves étrangers. (art. R*814-20 à R*814-26)](#972)
             - [Sous-section 6 : Dispositions relatives à la délivrance des diplômes. (art. R*814-27)](#973)
-          - [Section 3 : Enseignement supérieur vétérinaire (art. R*814-28 à R*814-43)](#974)
+          - [Section 3 : Enseignement supérieur vétérinaire (art. R*814-28 à R*814-43-1)](#974)
             - [Sous-section 1 : Dispositions générales. (art. R*814-28 à R*814-29)](#975)
             - [Sous-section 2 : Conditions d'admission des élèves. (art. R*814-30 à R*814-31)](#976)
             - [Sous-section 3 : Enseignement et recherche. (art. R*814-32 à R*814-36)](#977)
             - [Sous-section 4 : Administration. (art. R*814-37)](#978)
             - [Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire. (art. R*814-38 à R*814-43)](#979)
-          - [Section 4 : Enseignement de l'agronomie des régions chaudes (art. R*814-44 à R*814-61)](#980)
-            - [Sous-section 1 : Dispositions générales. (art. R*814-44 à R*814-47)](#981)
-            - [Sous-section 2 : Administration du centre. (art. R*814-48 à R*814-57)](#982)
-            - [Sous-section 3 : Régime financier du centre. (art. R*814-58 à R*814-61)](#983)
-        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#984)
-          - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#985)
-          - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#986)
-        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-3)](#987)
-      - [Titre II : Développement agricole (art. R*821-1 à R825-4)](#988)
-        - [Chapitre Ier : Actions de développement agricole. (art. R*821-1 à R*821-4)](#989)
-        - [Chapitre II : Convention avec l'association nationale pour le développement agricole. (art. R*822-1 à R*822-4)](#990)
-        - [Chapitre III : Fonds national de développement agricole. (art. R*823-1 à R*823-19)](#991)
-        - [Chapitre IV : Programmes départementaux, régionaux et national de développement agricole (art. R824-1 à R824-10)](#992)
-          - [Section 1 : Programmes départementaux. (art. R824-1 à R824-4)](#993)
-          - [Section 2 : Programmes régionaux. (art. R824-5 à R824-8)](#994)
-          - [Section 3 : Programme national. (art. R824-9 à R824-10)](#995)
-        - [Chapitre V : Conventions de développement. (art. R825-1 à R825-4)](#996)
-      - [Titre III : Recherche agronomique (art. R831-1 à R832-19)](#997)
-        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#998)
-          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#999)
-          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#1000)
-          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#1001)
-        - [Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts (art. R832-1 à R832-19)](#1002)
-          - [Section 1 : Dispositions générales (art. R832-1 à R832-3)](#1003)
-          - [Section 2 : Administration et direction du centre. (art. R*832-4 à R832-10)](#1004)
-          - [Section 3 : Organisation du centre. (art. R832-11 à R832-14)](#1005)
-          - [Section 4 : Conseil scientifique et technique et commissions spécialisées (art. R832-15 à R832-16)](#1006)
-          - [Section 5 : Dispositions diverses (art. R832-17 à R832-19)](#1007)
+            - [Sous-section 6 : Conseil national de la spécialisation vétérinaire. (art. R*814-43-1)](#980)
+          - [Section 4 : Enseignement de l'agronomie des régions chaudes (art. R*814-44 à R*814-61)](#981)
+            - [Sous-section 1 : Dispositions générales. (art. R*814-44 à R*814-47)](#982)
+            - [Sous-section 2 : Administration du centre. (art. R*814-48 à R*814-57)](#983)
+            - [Sous-section 3 : Régime financier du centre. (art. R*814-58 à R*814-61)](#984)
+        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#985)
+          - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#986)
+          - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#987)
+        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-3)](#988)
+      - [Titre II : Développement agricole (art. R*821-1 à R825-4)](#989)
+        - [Chapitre Ier : Actions de développement agricole. (art. R*821-1 à R*821-4)](#990)
+        - [Chapitre II : Convention avec l'association nationale pour le développement agricole. (art. R*822-1 à R*822-4)](#991)
+        - [Chapitre III : Fonds national de développement agricole. (art. R*823-1 à R*823-19)](#992)
+        - [Chapitre IV : Programmes départementaux, régionaux et national de développement agricole (art. R824-1 à R824-10)](#993)
+          - [Section 1 : Programmes départementaux. (art. R824-1 à R824-4)](#994)
+          - [Section 2 : Programmes régionaux. (art. R824-5 à R824-8)](#995)
+          - [Section 3 : Programme national. (art. R824-9 à R824-10)](#996)
+        - [Chapitre V : Conventions de développement. (art. R825-1 à R825-4)](#997)
+      - [Titre III : Recherche agronomique (art. R831-1 à R832-19)](#998)
+        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#999)
+          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#1000)
+          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#1001)
+          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#1002)
+        - [Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts (art. R832-1 à R832-19)](#1003)
+          - [Section 1 : Dispositions générales (art. R832-1 à R832-3)](#1004)
+          - [Section 2 : Administration et direction du centre. (art. R*832-4 à R832-10)](#1005)
+          - [Section 3 : Organisation du centre. (art. R832-11 à R832-14)](#1006)
+          - [Section 4 : Conseil scientifique et technique et commissions spécialisées (art. R832-15 à R832-16)](#1007)
+          - [Section 5 : Dispositions diverses (art. R832-17 à R832-19)](#1008)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Aménagement et équipement de l'espace rural<a id=2></a>
@@ -84810,6 +84811,65 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
+###### Article R523-12
+
+Pour l'application aux sociétés coopératives agricoles et à leurs unions des dispositions du décret du 17 juillet 1987
+susvisé, la réserve spéciale de participation des salariés est calculée sur les bases suivantes :
+
+1° Le bénéfice est égal à l'excédent net répartissable défini comme l'excédent net de l'exercice diminué :
+
+- du report à nouveau débiteur Opérations avec les associés coopérateurs ;
+
+- des sommes affectées aux réserves indisponibles ;
+
+- du prélèvement affecté à la réserve légale conformément aux dispositions de l'article R. 524-21 ;
+
+- des sommes affectées à la réserve mentionnée au troisième alinéa de l'article R. 523-5 ;
+
+- du montant des sommes correspondant aux plus-values réalisées sur les cessions d'actifs immobilisés portées en réserve.
+
+2° Les capitaux propres de l'entreprise sont réputés égaux :
+
+- au capital social ;
+
+- aux droits d'entrée ;
+
+- aux écarts de réévaluation ;
+
+- aux réserves, à l'exclusion de la réserve spéciale de participation des salariés ;
+
+- aux provisions pour ristournes et intérêts aux parts ;
+
+- au résultat de l'exercice (excédent ou déficit) ;
+
+- aux subventions d'investissement autres que celles de l'Etat, des collectivités publiques et des établissements publics ;
+
+- aux provisions réglementées.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R523-9
+
+_Cite_:
+
+  - Code rural R524-21, R523-5
+  - Décret n°87-544 1987-07-17
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 1 () JORF 30 décembre 1992
+
+_Transféré par_:
+
+  - Décret n°2007-1218 du 10 août 2007 - art. 3 () JORF 14 août 2007
+
+
 #### Chapitre IV : Administration<a id=897></a>
 
 ##### Section 1 : Conseil d'administration.<a id=898></a>
@@ -93112,26 +93172,60 @@ _Abrogé par_:
 
 ###### Article R*814-34
 
-Les écoles nationales vétérinaires peuvent créer des enseignements de spécialisation post-scolaire donnant lieu à la
-délivrance, par ces écoles, de diplômes nationaux ou d'école.
+Les écoles vétérinaires peuvent créer des enseignements complémentaires donnant lieu à délivrance :
 
-Les programmes, ainsi que les conditions d'accès aux enseignements de spécialisation sanctionnés par des diplômes nationaux,
-sont définis par arrêté du ministre de l'agriculture pris après avis du conseil des directeurs institué par l'article R.
-814-43.
+1° De diplômes d'école ;
+
+2° De diplômes nationaux d'enseignement complémentaire délivrés à l'issue d'une formation poursuivie après l'obtention du
+certificat de fin de scolarité des études vétérinaires ;
+
+3° De diplômes nationaux de spécialisation vétérinaire comprenant :
+
+a) Des certificats d'études approfondies vétérinaires (CEAV) délivrés à l'issue d'une formation d'un an après l'obtention du
+certificat de fin de scolarité des études vétérinaires ;
+
+b) Des diplômes d'études spécialisées vétérinaires (DESV) délivrés à l'issue d'une formation de trois années après
+l'obtention du certificat de fin de scolarité des études vétérinaires.
+
+Les conditions d'accès aux enseignements complémentaires donnant lieu à la délivrance de diplômes nationaux, leurs
+programmes, la liste des diplômes sanctionnant ces formations et les modalités de leur délivrance sont définis par arrêté du
+ministre chargé de l'agriculture après avis :
+
+1° Pour les diplômes nationaux d'enseignement complémentaire, du Conseil national de l'enseignement supérieur et de la
+recherche agricole, agro-alimentaire et vétérinaire et du Conseil supérieur de l'enseignement supérieur vétérinaire prévu à
+l'article R. 814-38 ;
+
+2° Pour les diplômes nationaux de spécialisation vétérinaire, du Conseil national de l'enseignement supérieur de la recherche
+agricole, agro-alimentaire et vétérinaire et du Conseil national de la spécialisation vétérinaire prévu à l'article R.
+814-43-1.
+
+Les écoles ne peuvent mettre en place les enseignements complémentaires donnant lieu à délivrance de diplômes d'école
+qu'après avis du conseil des directeurs prévu à l'article R. 814-43.
+
+Seuls les titulaires d'un diplôme d'études spécialisées vétérinaires ou d'un titre étranger reconnu équivalent peuvent se
+prévaloir du titre de vétérinaire spécialiste.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-38
+
 _Cite_:
 
-  - Code rural R814-43
+  - Code rural R814-38, R814-43-1, R814-43
 
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-1346 du 7 décembre 1992 - art. 1 () JORF 24 décembre 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
 ###### Article R*814-35
@@ -93445,9 +93539,62 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 4 : Enseignement de l'agronomie des régions chaudes<a id=980></a>
+##### Sous-section 6 : Conseil national de la spécialisation vétérinaire.<a id=980></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=981></a>
+###### Article R*814-43-1
+
+Le Conseil national de la spécialisation vétérinaire la pour mission de coordonner et d'harmoniser les enseignements de
+spécialisation et les conditions de délivrance du titre de vétérinaire spécialiste.
+
+Il comprend vingt-quatre membres, nommés pour quatre ans par arrêté du ministre chargé de l'agriculture :
+
+1. Huit représentants de l'administration et des établissements et services publics intéressés :
+
+a) Le directeur général chargé de l'enseignement au ministère de l'agriculture, qui préside le conseil, ou son représentant ;
+
+b) Le directeur général de l'alimentation ou son représentant ;
+
+c) Le vice-président du conseil général vétérinaire ou son représentant ;
+
+d) Le directeur de chaque école vétérinaire ou son représentant ;
+
+e) Le directeur des enseignements supérieurs au ministère de l'éducation nationale ou son représentant ;
+
+2. Huit représentants de la profession vétérinaire, dont :
+
+a) Deux représentants du Conseil supérieur de l'ordre des vétérinaires ;
+
+b) Six représentants des organisations professionnelles des vétérinaires ;
+
+3. Quatre enseignants-chercheurs ;
+
+4. Quatre personnalités qualifiées.
+
+Pour chacun des membres des catégories figurant au 2, au 3 et au 4 ci-dessus, il est désigné un suppléant dans les mêmes
+conditions. Le ministre chargé de l'agriculture fixe par arrêté les modalités de son fonctionnement.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R814-16
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°92-1346 du 7 décembre 1992 - art. 1 () JORF 24 décembre 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+##### Section 4 : Enseignement de l'agronomie des régions chaudes<a id=981></a>
+
+##### Sous-section 1 : Dispositions générales.<a id=982></a>
 
 ###### Article R*814-44
 
@@ -93584,7 +93731,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Administration du centre.<a id=982></a>
+##### Sous-section 2 : Administration du centre.<a id=983></a>
 
 ###### Article R*814-48
 
@@ -93964,7 +94111,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 3 : Régime financier du centre.<a id=983></a>
+##### Sous-section 3 : Régime financier du centre.<a id=984></a>
 
 ###### Article R*814-58
 
@@ -94087,9 +94234,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public<a id=984></a>
+#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public<a id=985></a>
 
-##### Section 1 : Dispositions communes.<a id=985></a>
+##### Section 1 : Dispositions communes.<a id=986></a>
 
 ###### Article R*815-1
 
@@ -94167,7 +94314,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Dispositions relatives aux établissements d'enseignement technologique.<a id=986></a>
+##### Section 2 : Dispositions relatives aux établissements d'enseignement technologique.<a id=987></a>
 
 ###### Article R*815-4
 
@@ -94192,7 +94339,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-#### Chapitre VI : Dispositions relatives aux examens et concours publics.<a id=987></a>
+#### Chapitre VI : Dispositions relatives aux examens et concours publics.<a id=988></a>
 
 ###### Article R*816-1
 
@@ -94311,9 +94458,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-### Titre II : Développement agricole<a id=988></a>
+### Titre II : Développement agricole<a id=989></a>
 
-#### Chapitre Ier : Actions de développement agricole.<a id=989></a>
+#### Chapitre Ier : Actions de développement agricole.<a id=990></a>
 
 ###### Article R*821-1
 
@@ -94418,7 +94565,7 @@ _Modifié par_:
   - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
 
 
-#### Chapitre II : Convention avec l'association nationale pour le développement agricole.<a id=990></a>
+#### Chapitre II : Convention avec l'association nationale pour le développement agricole.<a id=991></a>
 
 ###### Article R*822-1
 
@@ -94534,7 +94681,7 @@ _Modifié par_:
   - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
 
 
-#### Chapitre III : Fonds national de développement agricole.<a id=991></a>
+#### Chapitre III : Fonds national de développement agricole.<a id=992></a>
 
 ###### Article R*823-1
 
@@ -95031,9 +95178,9 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-#### Chapitre IV : Programmes départementaux, régionaux et national de développement agricole<a id=992></a>
+#### Chapitre IV : Programmes départementaux, régionaux et national de développement agricole<a id=993></a>
 
-##### Section 1 : Programmes départementaux.<a id=993></a>
+##### Section 1 : Programmes départementaux.<a id=994></a>
 
 ###### Article R824-1
 
@@ -95181,7 +95328,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-##### Section 2 : Programmes régionaux.<a id=994></a>
+##### Section 2 : Programmes régionaux.<a id=995></a>
 
 ###### Article R824-5
 
@@ -95332,7 +95479,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-##### Section 3 : Programme national.<a id=995></a>
+##### Section 3 : Programme national.<a id=996></a>
 
 ###### Article R824-9
 
@@ -95386,7 +95533,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-#### Chapitre V : Conventions de développement.<a id=996></a>
+#### Chapitre V : Conventions de développement.<a id=997></a>
 
 ###### Article R825-1
 
@@ -95508,11 +95655,11 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-### Titre III : Recherche agronomique<a id=997></a>
+### Titre III : Recherche agronomique<a id=998></a>
 
-#### Chapitre Ier : Institut national de la recherche agronomique<a id=998></a>
+#### Chapitre Ier : Institut national de la recherche agronomique<a id=999></a>
 
-##### Section 1 : Dispositions générales.<a id=999></a>
+##### Section 1 : Dispositions générales.<a id=1000></a>
 
 ###### Article R831-1
 
@@ -95614,7 +95761,7 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=1000></a>
+##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=1001></a>
 
 ###### Article R*831-3
 
@@ -96000,7 +96147,7 @@ _Modifié par_:
   - Décret n°90-648 du 13 juillet 1990 - art. 1 () JORF 24 juillet 1990
 
 
-##### Section 3 : Dispositions diverses.<a id=1001></a>
+##### Section 3 : Dispositions diverses.<a id=1002></a>
 
 ###### Article R*831-14
 
@@ -96045,9 +96192,9 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-#### Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts<a id=1002></a>
+#### Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts<a id=1003></a>
 
-##### Section 1 : Dispositions générales<a id=1003></a>
+##### Section 1 : Dispositions générales<a id=1004></a>
 
 ###### Article R832-1
 
@@ -96181,7 +96328,7 @@ _Cité par_:
   - Code rural - art. R832-17 (V)
 
 
-##### Section 2 : Administration et direction du centre.<a id=1004></a>
+##### Section 2 : Administration et direction du centre.<a id=1005></a>
 
 ###### Article R*832-4
 
@@ -96474,7 +96621,7 @@ _Modifié par_:
   - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
 
 
-##### Section 3 : Organisation du centre.<a id=1005></a>
+##### Section 3 : Organisation du centre.<a id=1006></a>
 
 ###### Article R832-11
 
@@ -96591,7 +96738,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R832-6 (V)
 
 
-##### Section 4 : Conseil scientifique et technique et commissions spécialisées<a id=1006></a>
+##### Section 4 : Conseil scientifique et technique et commissions spécialisées<a id=1007></a>
 
 ###### Article R832-15
 
@@ -96674,7 +96821,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R832-6 (V)
 
 
-##### Section 5 : Dispositions diverses<a id=1007></a>
+##### Section 5 : Dispositions diverses<a id=1008></a>
 
 ###### Article R832-17
 
