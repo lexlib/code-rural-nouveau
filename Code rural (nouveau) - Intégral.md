@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1990-06-30
+Version Consolidée au 1990-07-24
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L262-1)](#2)
@@ -65643,8 +65643,8 @@ _Modifié par_:
 
 ###### Article R*831-3
 
-L'institut est administré par un conseil d'administration avec le concours d'un conseil scientifique. Le président du conseil
-d'administration assure la direction générale de l'institut.
+L'institut est administré par un conseil d'administration présidé par le président de l'institut. Il est dirigé par un
+directeur général. Le président de l'institut et le directeur général sont assistés du conseil scientifique de l'institut.
 
 **Liens relatifs à cet article**
 
@@ -65652,13 +65652,9 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
 _Modifié par_:
 
-  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+  - Décret n°90-648 du 13 juillet 1990 - art. 1 () JORF 24 juillet 1990
 
 
 ###### Article R*831-4
@@ -65667,9 +65663,9 @@ Le conseil d'administration de l'institut national de la recherche agronomique c
 
 a) Le président ;
 
-b) Neuf représentants de l'Etat, dont deux désignés sur proposition du ministre chargé de l'agriculture et sept sur
-proposition de chacun des ministres respectivement chargés de la recherche, de l'industrie, du budget, de l'éducation
-nationale, de la santé, de la consommation et de l'environnement ;
+b) Neuf représentants de l'Etat, dont deux désignés par le ministre chargé de l'agriculture et sept désignés respectivement
+par les ministres chargés de la recherche, de l'industrie, du budget, de l'éducation nationale, de la santé, de la
+consommation et de l'environnement ;
 
 c) Le président du conseil scientifique ;
 
@@ -65682,7 +65678,7 @@ f) Un membre appartenant aux industries fournissant les produits utilisés dans 
 
 g) Un membre appartenant aux organismes représentant les consommateurs ;
 
-h ) Deux membres représentant respectivement les salariés du secteur agricole et du secteur agro-alimentaire désignés sur
+h) Deux membres représentant respectivement les salariés du secteur agricole et du secteur agro-alimentaire désignés sur
 proposition des confédérations les plus représentatives ;
 
 i) Cinq représentants du personnel, élus selon les modalités fixées par arrêté conjoint du ministre chargé de la recherche et
@@ -65691,8 +65687,8 @@ du ministre chargé de l'agriculture.
 Le président du conseil d'administration est nommé pour une durée de quatre ans, renouvelable une fois, par décret pris en
 conseil des ministres sur proposition du ministre chargé de la recherche et du ministre chargé de l'agriculture.
 
-Les membres du conseil d'administration, autres que les représentants élus du personnel, sont nommés par décret sur
-proposition du ministre chargé de la recherche et du ministre chargé de l'agriculture.
+Les membres du conseil d'administration autres que les représentants de l'Etat et les représentants élus du personnel sont
+nommés par décret sur proposition du ministre chargé de la recherche et du ministre chargé de l'agriculture.
 
 Les membres du conseil d'administration siègent personnellement au conseil ; ils peuvent, en cas d'absence ou d'empêchement,
 être suppléés par un représentant nommément désigné. Les mandats sont de quatre ans, renouvelables une fois.
@@ -65702,7 +65698,8 @@ fonctions à raison desquelles ils ont été désignés sont remplacés pour la 
 
 Les fonctions de membre du conseil d'administration sont gratuites.
 
-Le contrôleur financier et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
+Le directeur général, les directeurs généraux adjoints, le contrôleur financier et l'agent comptable assistent aux séances du
+conseil d'administration avec voix consultative.
 
 Le président du conseil d'administration peut inviter à participer aux réunions de ce conseil tout expert jugé utile en
 fonction de l'ordre du jour. Les experts ont voix consultative.
@@ -65713,13 +65710,9 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
 _Modifié par_:
 
-  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+  - Décret n°90-648 du 13 juillet 1990 - art. 2 () JORF 24 juillet 1990
 
 _Cité par_:
 
@@ -65729,7 +65722,7 @@ _Cité par_:
 ###### Article R*831-5
 
 Le conseil d'administration se réunit aussi souvent qu'il est nécessaire et au moins quatre fois par an, sur convocation de
-son président qui en fixe l'ordre du jour.
+son président.
 
 Le conseil d'administration ne délibère valablement que si la majorité de ses membres est présente. Si le quorum n'est pas
 atteint, le conseil est de nouveau convoqué avec le même, ordre du jour dans un délai maximal de trois semaines ; il délibère
@@ -65747,13 +65740,9 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
 _Modifié par_:
 
-  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+  - Décret n°90-648 du 13 juillet 1990 - art. 3 () JORF 24 juillet 1990
 
 
 ###### Article R*831-6
@@ -65788,8 +65777,8 @@ d'une durée supérieure à neuf ans ;
 Le conseil d'administration se prononce en outre sur les questions qui lui sont soumises par son président, le ministre
 chargé de la recherche et le ministre chargé de l'agriculture.
 
-En ce qui concerne les matières énumérées aux 5°, 8° et 11°, le conseil peut déléguer une partie de ses pouvoirs à son
-président. Celui-ci rend compte lors de sa plus prochaine séance des décisions qu'il a prises en vertu de cette délégation.
+En ce qui concerne les matières énumérées aux 5°, 8° et 11°, le conseil peut déléguer une partie de ses pouvoirs au directeur
+général. Celui-ci rend compte lors de sa plus prochaine séance des décisions qu'il a prises en vertu de cette délégation.
 
 **Liens relatifs à cet article**
 
@@ -65797,17 +65786,13 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
 _Cite_:
 
   - Loi n°82-610 1982-07-15 art. 21
 
 _Modifié par_:
 
-  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+  - Décret n°90-648 1990-07-13 art. 7 I JORF 24 juillet 1990
 
 _Cité par_:
 
@@ -65837,8 +65822,8 @@ l'établissement, soit des virements entre sections ou entre parties de section,
 crédits affectés aux gros équipements ou aux opérations immobilières et, d'autre part, des crédits affectés à des actions ou
 programmes financés par l'institut.
 
-Toutes les autres décisions modificatives du budget sont prises par le président en accord avec le contrôleur financier et
-portées à la connaissance du conseil d'administration lors de sa plus prochaine séance.
+Toutes les autres décisions modificatives du budget sont prises par le directeur général en accord avec le contrôleur
+financier et portées à la connaissance du conseil d'administration lors de sa plus prochaine séance.
 
 La procédure prévue à l'alinéa précédent s'applique aux virements de crédits provenant de la réserve générale lorsque le
 montant des crédits ainsi virés n'excède pas, au cours d'un exercice budgétaire, 10 p. 100 de la dotation initiale de la
@@ -65854,20 +65839,29 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
 _Modifié par_:
 
-  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+  - Décret n°90-648 1990-07-13 art. 7 II JORF 24 juillet 1990
 
 
 ###### Article R*831-8
 
-Le président du conseil d'administration est assisté de directeurs généraux adjoints, nommés sur sa proposition par arrêté
-conjoint du ministre chargé de la recherche et du ministre chargé de l'agriculture, et de directeurs scientifiques qu'il
-nomme après avis du conseil scientifique.
+Dans le cadre des orientations arrêtées par le conseil d'administration, le président définit la politique générale et assure
+les relations de l'établissement avec les ministères de tutelle.
+
+Il veille au respect des équilibres sectoriels et régionaux de l'institut et à leur évolution en fonction des besoins.
+
+Il assure, en liaison avec les départements ministériels concernés, les relations de l'établissement avec les partenaires
+socio-économiques ainsi qu'avec les organismes nationaux ou étrangers et les organisations internationales intervenant dans
+ses domaines d'activité.
+
+Il fixe l'ordre du jour, prépare les délibérations du conseil d'administration et s'assure de leur exécution ; sur
+proposition du directeur général, le président arrête les projets de programmes généraux de recherche et détermine les moyens
+nécessaires à leur réalisation.
+
+Il peut déléguer une partie de ses pouvoirs au directeur général.
+
+Il peut déléguer sa signature.
 
 **Liens relatifs à cet article**
 
@@ -65875,29 +65869,37 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
 _Modifié par_:
 
-  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+  - Décret n°90-648 du 13 juillet 1990 - art. 4 () JORF 24 juillet 1990
 
 
 ###### Article R*831-9
 
-Le président du conseil d'administration prépare les délibérations du conseil d'administration et en assure l'exécution.
+Le directeur général est nommé, pour quatre ans, par décret pris en conseil des ministres sur proposition du ministre chargé
+de la recherche et du ministre chargé de l'agriculture, après avis du président de l'institut. Ses fonctions sont
+renouvelables une fois.
 
-Il représente l'institut dans tous les actes de la vie civile dans ses rapports avec les tiers et dans les relations
-internationales.
+Le directeur général assure la direction scientifique, administrative et financière de l'institut.
+
+Il prépare les projets de programmes généraux de recherche avec le concours du conseil scientifique.
+
+Il représente l'institut dans tous les actes de la vie civile et dans ses rapports avec les tiers.
 
 Il représente l'institut en justice.
 
 Il gère le personnel de l'institut, dans les conditions prévues par les dispositions réglementaires applicables.
 
-Il est ordonnateur principal des dépenses et recettes de l'institut et peut désigner des ordonnateurs secondaires.
+Il est ordonnateur principal des dépenses et des recettes de l'institut et peut désigner des ordonnateurs secondaires.
+
+Il assiste le président dans la préparation des délibérations du conseil d'administration et en assure l'exécution. Il est
+notamment chargé de la préparation du budget.
 
 Il peut déléguer ses pouvoirs à des agents de l'institut dans les limites qu'il détermine. Il peut déléguer sa signature.
+
+Il est assisté de directeurs généraux adjoints, nommés sur sa proposition, par arrêté conjoint du ministre chargé de la
+recherche et du ministre chargé de l'agriculture, et de directeurs scientifiques qu'il nomme après avis du conseil
+scientifique.
 
 **Liens relatifs à cet article**
 
@@ -65905,18 +65907,14 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
 _Modifié par_:
 
-  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+  - Décret n°90-648 du 13 juillet 1990 - art. 5 () JORF 24 juillet 1990
 
 
 ###### Article R*831-10
 
-Un conseil scientifique est institué auprès du président du conseil d'administration.
+Un conseil scientifique assiste le président de l'institut et le directeur général.
 
 Il est constitué de personnalités scientifiques extérieures à l'institut, de responsables scientifiques de la recherche
 publique, de l'enseignement supérieur, des instituts ou centres techniques et de développement du secteur agricole, des
@@ -65931,13 +65929,9 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
 _Modifié par_:
 
-  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+  - Décret n°90-648 du 13 juillet 1990 - art. 1 () JORF 24 juillet 1990
 
 
 ###### Article R*831-11
@@ -65948,7 +65942,7 @@ ainsi que d'évaluation des activités de recherche.
 Il étudie la situation et les perspectives de développement dans les domaines de la recherche agronomique, et veille à ce que
 soit assurée une bonne coordination entre l'institut et les autres organismes de recherche intéressés.
 
-Il est consulté par le président du conseil d'administration sur :
+Il donne son avis sur :
 
 1. L'organisation scientifique de l'institut, et notamment la liste des départements de recherche ;
 
@@ -65958,7 +65952,7 @@ Il est consulté par le président du conseil d'administration sur :
 
 Le conseil scientifique peut être assisté par :
 
-a) Des commissions spécialisées ou par discipline, créées par décision du président de l'institut ;
+a) Des commissions spécialisées ou par discipline, créées par décision du directeur général ;
 
 b) Des groupes de travail ou comités restreints, constitués en son sein, en vue de l'aider à remplir les tâches qui lui sont
 dévolues.
@@ -65971,13 +65965,9 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
 _Modifié par_:
 
-  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+  - Décret n°90-648 1990-07-13 art. 7 JORF 24 juillet 1990
 
 _Cité par_:
 
@@ -65989,14 +65979,13 @@ _Cité par_:
 Les recherches sont conduites au sein d'unités de recherche. Ces unités peuvent être regroupées en départements de recherche
 correspondant à des disciplines scientifiques ou à des objectifs agronomiques déterminés.
 
-La liste des départements est arrêtée par le président du conseil d'administration après avis du conseil scientifique. Chaque
-département de recherche est placé sous la responsabilité d'un chef de département nommé par le président du conseil
-d'administration après avis du conseil scientifique.
+La liste des départements est arrêtée par le directeur général après avis du conseil scientifique. Chaque département de
+recherche est placé sous la responsabilité d'un chef de département nommé par le directeur général après avis du conseil
+scientifique.
 
-Le chef de département est chargé, sous l'autorité du président du conseil d'administration, d'animer la vie scientifique des
-unités qui composent le département et d'en assurer le bon fonctionnement. Il est assisté par un conseil scientifique et un
-conseil de gestion dont les membres sont désignés et l'organisation est fixée dans les conditions définies par le président
-du conseil d'administration.
+Le chef de département est chargé, sous l'autorité du directeur général, d'animer la vie scientifique des unités qui
+composent le département et d'en assurer le bon fonctionnement. Il est assisté par un conseil scientifique et un conseil de
+gestion dont les membres sont désignés et l'organisation est fixée dans les conditions définies par le directeur général.
 
 **Liens relatifs à cet article**
 
@@ -66004,22 +65993,18 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
 _Modifié par_:
 
-  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+  - Décret n°90-648 1990-07-13 art. 7 JORF 24 juillet 1990
 
 
 ###### Article R*831-13
 
 Les unités de recherche ainsi que les services communs sont regroupés géographiquement dans des centres de recherche.
 
-La liste des centres est arrêtée par le président de l'institut après avis du conseil d'administration.
+La liste des centres est arrêtée par le directeur général après avis du conseil d'administration.
 
-Chaque centre est placé sous l'autorité d'un président de centre désigné par le président de l'institut et assis d'un conseil
+Chaque centre est placé sous l'autorité d'un président de centre désigné par le directeur général et assisté d'un conseil
 scientifique et d'un conseil de gestion qu'il préside.
 
 Le président du centre est principalement chargé de l'administration du centre et de l'orientation de sa vie collective et
@@ -66027,7 +66012,7 @@ scientifique. Il est le correspondant de l'institut avec les organismes ou autor
 
 Le conseil scientifique et le conseil de gestion sont chargés respectivement d'assurer l'animation scientifique du centre et
 de délibérer sur les questions intéressant notamment son fonctionnement et son développement. Les modalités de désignation de
-leurs membres et leur organisation sont fixées par décision du président du conseil d'administration.
+leurs membres et leur organisation sont fixées par décision du directeur général.
 
 **Liens relatifs à cet article**
 
@@ -66035,13 +66020,9 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
 _Modifié par_:
 
-  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+  - Décret n°90-648 du 13 juillet 1990 - art. 1 () JORF 24 juillet 1990
 
 
 ##### Section 3 : Dispositions diverses.<a id=721></a>
@@ -66049,10 +66030,10 @@ _Modifié par_:
 ###### Article R*831-14
 
 L'agent comptable de l'établissement est nommé par arrêté conjoint du ministre chargé de la recherche, du ministre chargé de
-l'agriculture et du ministre chargé du budget, sur proposition du président du conseil d'administration.
+l'agriculture et du ministre chargé du budget, sur proposition du directeur général.
 
-Des comptables secondaires peuvent être désignés par le président du conseil d'administration, après avis de l'agent
-comptable et avec l'agrément du ministre chargé du budget.
+Des comptables secondaires peuvent être désignés par le directeur général, après avis de l'agent comptable et avec l'agrément
+du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
@@ -66060,13 +66041,9 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
 _Modifié par_:
 
-  - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
+  - Décret n°90-648 1990-07-13 art. 7 JORF 24 juillet 1990
 
 
 ###### Article R*831-15
