@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1988-11-30
+Version Consolidée au 1988-12-31
 ## Contenu: 
   - [Partie législative (art. L411-1 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-1 à L481-1)](#2)
@@ -473,8 +473,9 @@ _Cite_:
 ###### Article L411-6
 
 Par dérogation à l'article précédent, au moment du renouvellement du bail, le preneur ne peut refuser l'introduction d'une
-clause de reprise à la fin de la sixième année suivant ce renouvellement au profit d'un ou de plusieurs descendants majeurs
-ou mineurs émancipés, qui devront exploiter personnellement dans les conditions fixées à l'article L. 411-59.
+clause de reprise à la fin de la sixième année suivant ce renouvellement au profit du conjoint ou d'un ou de plusieurs
+descendants majeurs ou mineurs émancipés, qui devront exploiter personnellement dans les conditions fixées à l'article L.
+411-59.
 
 Lorsqu'une clause de reprise en cours de bail figure dans le bail initial ou le bail renouvelé, elle ne peut s'exercer que
 dans les conditions prévues à l'alinéa qui précède, sauf s'il s'agit d'un bail conclu ou renouvelé au nom du propriétaire ou
@@ -490,17 +491,9 @@ l'une des situations prévues aux deuxième et troisième alinéas de l'article 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural L411-47, L411-58, L411-59
-
-_Créé par_:
-
-  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
-
 _Modifié par_:
 
-  - Loi n°84-741 du 1 août 1984 - art. 21 () JORF 2 août 1984
+  - Loi n°88-1202 du 30 décembre 1988 - art. 14 () JORF 31 décembre 1988
 
 _Codifié par_:
 
@@ -515,6 +508,10 @@ _Cité par_:
   - Code rural - art. L416-1 (V)
   - Code rural et de la pêche maritime - art. D654-107 (Ab)
   - Code rural et de la pêche maritime - art. L411-71 (V)
+
+_Cite_:
+
+  - Code rural L411-47, L411-58, L411-59
 
 
 ###### Article L411-7
@@ -623,26 +620,32 @@ _Cite_:
 
 ###### Article L411-11
 
-Le prix de chaque fermage évalué en une quantité déterminée de denrées est établi en fonction, notamment, de la durée du
-bail, compte tenu d'une clause de reprise éventuelle en cours de bail, de l'état et de l'importance des bâtiments
-d'habitation et d'exploitation, de la qualité des sols ainsi que de la structure parcellaire du bien loué.
+Le prix de chaque fermage est établi en fonction, notamment, de la durée du bail, compte tenu d'une clause de reprise
+éventuellement en cours de bail, de l'état et de l'importance des bâtiments d'habitation et d'exploitation, de la qualité des
+sols ainsi que de la structure parcellaire du bien loué. Ce prix est constitué, d'une part, du loyer des bâtiments
+d'habitation et, d'autre part, du loyer des bâtiments d'exploitation et des terres nues.
 
-Cette quantité doit être comprise entre des maxima et des minima arrêtés par l'autorité administrative sur proposition de
-commissions consultatives paritaires départementales et, le cas échéant, régionales et nationale, dans des conditions fixées
-par le décret en Conseil d'Etat prévu à l'article L. 411-16. En cas de carence desdites commissions, l'autorité compétente
-fixe elle-même, dans un délai d'un mois, les quantités de denrées prévues au présent alinéa.
+Le loyer des bâtiments d'habitation est fixé en monnaie entre des maxima et des minima qui sont arrêtés par l'autorité
+administrative. Ce loyer ainsi que les maxima et les minima sont actualisés, chaque année, selon la variation de l'indice
+national mesurant le coût de la construction publié par l'Institut national de la statistique et des études économiques.
 
-Les quantités de denrées font l'objet d'un nouvel examen dans une période n'excédant pas neuf ans ; elles peuvent être
-éventuellement modifiées, selon la procédure fixée à l'alinéa précédent. En cas de modification, et sous réserve des
-dispositions figurant au premier alinéa de l'article L. 411-13, le prix du bail en cours ne peut être révisé, à l'initiative
-de l'une des parties, que lors du renouvellement, sauf s'il s'agit d'un bail à long terme, auquel cas la révision peut
-intervenir à chaque nouvelle période de neuf ans. A défaut d'accord, le tribunal fixe le nouveau prix du bail.
+Le loyer des bâtiments d'exploitation et des terres nues est évalué en une quantité déterminée de denrées comprise entre des
+maxima et des minima arrêtés par l'autorité administrative.
+
+L'autorité administrative détermine les maxima et les minima prévus aux deux alinéas ci-dessus sur proposition de commissions
+consultatives paritaires départementales et, le cas échéant, régionales et nationale. En cas de carence de ces commissions,
+l'autorité compétente procède elle-même à cette fixation.
+
+Ces maxima et ces minima font l'objet d'un nouvel examen au plus tard tous les neuf ans. S'ils sont modifiés, le prix des
+baux en cours ne peut, sous réserve des dispositions figurant au premier alinéa de l'article L. 411-13, être révisé que lors
+du renouvellement ou, s'il s'agit d'un bail à long terme, en début de chaque nouvelle période de neuf ans. A défaut d'accord
+amiable, le tribunal paritaire des baux ruraux fixe le nouveau prix du bail.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+  - Loi n°88-1202 du 30 décembre 1988 - art. 10 () JORF 31 décembre 1988
 
 _Codifié par_:
 
@@ -670,10 +673,6 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R411-2 (V)
   - Code rural et de la pêche maritime - art. R411-9-1 (V)
   - Code rural et de la pêche maritime - art. R411-9-2 (V)
-
-_Cite_:
-
-  - Code rural L411-13, L411-16
 
 
 ###### Article L411-12
@@ -1346,30 +1345,31 @@ _Cité par_:
 ###### Article L411-35
 
 Nonobstant les dispositions de l'article 1717 du code civil, toute cession de bail est interdite, sauf si la cession est
-consentie, avec l'agrément du bailleur, au profit des descendants du preneur ayant atteint l'âge de la majorité. A défaut
-d'agrément du bailleur, la cession peut être autorisée par le tribunal paritaire.
+consentie, avec l'agrément du bailleur, au profit du conjoint du preneur participant à l'exploitation ou aux descendants du
+preneur ayant atteint l'âge de la majorité ou ayant été émancipés. A défaut d'agrément du bailleur, la cession peut être
+autorisée par le tribunal paritaire.
 
-De même, le preneur peut, avec l'agrément du bailleur ou, à défaut, l'autorisation du tribunal paritaire, associer à son bail
-en qualité de copreneur un descendant ayant atteint l'âge de la majorité.
+De même, le preneur peut avec l'agrément du bailleur ou, à défaut, l'autorisation du tribunal paritaire, associer à son bail
+en qualité de copreneur son conjoint participant à l'exploitation ou un descendant ayant atteint l'âge de la majorité.
 
-Toute sous-location est interdite. Toutefois, le bailleur peut autoriser le preneur à consentir des sous-locations de
-certains bâtiments pour un usage de vacances ou de loisirs. Chacune de ces sous-locations ne peut excéder une durée de trois
-mois consécutifs. Dans ce cas, le bénéficaire de la sous-location n'a aucun droit à son renouvellement, ni au maintien dans
-les lieux à son expiration. En cas de refus du bailleur, le preneur peut saisir le tribunal paritaire. Le tribunal peut, s'il
-estime non fondés les motifs de l'opposition du bailleur, autoriser le preneur à conclure la sous-location envisagée. Dans ce
-cas, il fixe éventuellement la part du produit de la sous-location qui pourra être versée au bailleur par le preneur.
+Toute sous-location est interdite. Toutefois, le bailleur peut autoriser le preneur à consentir des sous-locations pour un
+usage de vacances ou de loisirs. Chacune de ces sous-locations ne peut excéder une durée de trois mois consécutifs. Dans ce
+cas, le bénéficiaire de la sous-location n'a aucun droit à son renouvellement, ni au maintien dans les lieux à son
+expiration. En cas de refus du bailleur, le preneur peut saisir le tribunal paritaire. Le tribunal peut, s'il estime non
+fondés les motifs de l'opposition du bailleur, autoriser le preneur à conclure la sous-location envisagée. Dans ce cas, il
+fixe éventuellement la part du produit de la sous-location qui pourra être versée au bailleur par le preneur.
+
+Le preneur peut héberger, dans les bâtiments d'habitation loués, ses ascendants, descendants, frères et soeurs, ainsi que
+leurs conjoints. Il ne peut exiger, pour cet hébergement, un aménagement intérieur du bâtiment ou une extension de
+construction.
 
 Les dispositions du présent article sont d'ordre public.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
-
 _Modifié par_:
 
-  - Loi n°84-741 du 1 août 1984 - art. 24 () JORF 2 août 1984
+  - Loi n°88-1202 du 30 décembre 1988 - art. 15 () JORF 31 décembre 1988
 
 _Codifié par_:
 
@@ -1423,7 +1423,7 @@ _Abrogé par_:
 ###### Article L411-37
 
 A la condition d'en aviser au préalable le bailleur par lettre recommandée avec demande d'avis de réception, le preneur
-appartenant à une société à objet exclusivement agricole peut mettre à la disposition de celle-ci, pour une durée qui ne peut
+associé d'une société à objet principalement agricole peut mettre à la disposition de celle-ci, pour une durée qui ne peut
 excéder celle pendant laquelle il reste titulaire du bail, tout ou partie des biens dont il est locataire, sans que cette
 opération puisse donner lieu à l'attribution de parts. Cette société doit être constituée entre personnes physiques et, soit
 être dotée de la personnalité morale, soit, s'il s'agit d'une société en participation, être régie par des statuts établis
@@ -1450,9 +1450,9 @@ personnalité morale, sont tenus indéfiniment et solidairement avec le preneur 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+  - Loi n°88-1202 du 30 décembre 1988 - art. 16 () JORF 31 décembre 1988
 
 _Codifié par_:
 
@@ -2022,8 +2022,8 @@ _Cité par_:
 
 ###### Article L411-58
 
-Le bailleur a le droit de refuser le renouvellement du bail s'il veut reprendre le bien loué pour lui-même ou au profit d'un
-descendant majeur ou mineur émancipé de plein droit.
+Le bailleur a le droit de refuser le renouvellement du bail s'il veut reprendre le bien loué pour lui-même ou au profit du
+conjoint ou d'un descendant majeur ou mineur émancipé de plein droit.
 
 Toutefois, le preneur peut s'opposer à la reprise lorsque lui-même, ou en cas de copreneurs l'un d'entre eux, se trouve à
 moins de cinq ans de l'âge auquel peut lui être accordée l'indemnité viagère de départ prévue par l'article 27 de la loi du 8
@@ -2052,7 +2052,7 @@ Si le bénéficiaire de la reprise se trouve, à l'expiration du congé donné c
 411-47, soumis aux obligations du service national, la date d'effet du congé est reportée à la fin de l'année culturale du
 retour de l'intéressé à la vie civile.
 
-Lorsque le bien loué a été aliéné moyennant le versement d'une rente viagère servie pour la totalité ou pour l'essentiel sous
+Lorsque le bien loué a été aliéné moyennant le versement d'une rente viagère servie pour totalité ou pour l'essentiel sous
 forme de prestations de services personnels, le droit de reprise ne peut être exercé sur le bien dans les neuf premières
 années suivant la date d'acquisition.
 
@@ -2064,13 +2064,9 @@ _Cite_:
   - Loi n°62-933 1962-08-08 art. 26, art. 27
   - Loi n°62-933 du 8 août 1962 - art. 26 (V)
 
-_Créé par_:
-
-  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
-
 _Modifié par_:
 
-  - Loi n°84-741 du 1 août 1984 - art. 22 () JORF 2 août 1984
+  - Loi n°88-1202 du 30 décembre 1988 - art. 14 () JORF 31 décembre 1988
 
 _Codifié par_:
 
@@ -2616,11 +2612,14 @@ de forclusion. Le preneur peut exécuter ou faire exécuter ces travaux si aucun
 pas admis la recevabilité ou le bien-fondé des motifs de l'opposition dont il a été saisi, ou si le bailleur n'a pas
 entrepris, dans le délai d'un an, les travaux qu'il s'est engagé à exécuter.
 
-2. Pour les plantations, les constructions de maisons d'habitation ou de bâtiments destinés à une production hors sol, le
-preneur, afin d'obtenir l'autorisation du bailleur, lui notifie sa proposition. En cas de refus du bailleur ou à défaut de
-réponse dans les deux mois de la notification qui lui a été faite, les travaux peuvent être autorisés par le tribunal
-paritaire, à moins que le bailleur ne décide de les exécuter à ses frais dans un délai fixé en accord avec le preneur ou, à
-défaut, par le tribunal paritaire.
+2. Pour les plantations et les constructions de bâtiments destinés à une production hors sol, le preneur, afin d'obtenir
+l'autorisation du bailleur, lui notifie sa proposition. En cas de refus du bailleur ou à défaut de réponse dans les deux mois
+de la notification qui lui a été faite, les travaux peuvent être autorisés par le tribunal paritaire, à moins que le bailleur
+ne décide de les exécuter à ses frais dans un délai fixé en accord avec le preneur ou, à défaut, par le tribunal paritaire.
+
+Le preneur ne peut construire ou faire construire un bâtiment d'habitation sur un bien compris dans le bail que s'il a obtenu
+au préalable l'accord écrit du bailleur. Il exécute alors les travaux à ses frais et supporte les impôts et taxes afférents
+au bâtiment construit.
 
 3. Pour tous autres travaux d'amélioration, le preneur doit obtenir l'autorisation du bailleur. A cet effet, il lui notifie
 sa proposition ainsi qu'à un comité technique départemental dont la composition et les conditions d'intervention sont fixées
@@ -2651,8 +2650,8 @@ et le contrôle d'un homme de l'art désigné, à défaut d'accord amiable, par 
 
 _Cite_:
 
-  - Code rural L411-28, L411-71, L411-47, L416-3, L411-58
   - Loi n°67-561 1967-07-12
+  - Code rural L411-28, L411-71, L411-47, L416-3, L411-58
 
 _Créé par_:
 
@@ -2660,7 +2659,7 @@ _Créé par_:
 
 _Modifié par_:
 
-  - Loi n°84-741 du 1 août 1984 - art. 17 () JORF 2 août 1984
+  - Loi n°88-1202 du 30 décembre 1988 - art. 12 () JORF 31 décembre 1988
 
 _Codifié par_:
 
@@ -2914,14 +2913,15 @@ Bénéficie du droit de préemption le preneur ayant exercé, au moins pendant t
 par lui-même ou par sa famille le fonds mis en vente.
 
 Il peut exercer personnellement ce droit, soit pour exploiter lui-même, soit pour faire assurer l'exploitation du fonds par
-un descendant qui a exercé la profession agricole pendant trois ans au moins ou qui est titulaire d'un diplôme d'enseignement
-agricole.
+son conjoint participant à l'exploitation ou par un descendant si ce conjoint ou descendant a exercé la profession agricole
+pendant trois ans au moins ou est titulaire d'un diplôme d'enseignement agricole.
 
-Il peut aussi subroger dans l'exercice de ce droit un descendant majeur ou mineur émancipé remplissant les conditions prévues
-à l'alinéa précédent.
+Il peut aussi subroger dans l'exercice de ce droit son conjoint participant à l'exploitation ou un descendant majeur ou
+mineur émancipé qui remplissent les conditions prévues à l'alinéa précédent.
 
-Le bénéficiaire du droit de préemption ou le descendant au profit duquel le preneur a exercé son droit de préemption devra
-exploiter personnellement le fonds objet de préemption aux conditions fixées aux articles L. 411-59 et L. 412-12.
+Le bénéficiaire du droit de préemption, le conjoint participant à l'exploitation ou le descendant au profit duquel le preneur
+a exercé son droit de préemption devra exploiter personnellement le fonds objet de préemption aux conditions fixées aux
+articles L. 411-59 et L. 412-12.
 
 Le conjoint du preneur décédé, ainsi que ses ascendants et ses descendants âgés d'au moins seize ans, au profit desquels le
 bail continue en vertu de l'article L. 411-34, alinéa 1er, bénéficient, dans l'ordre de ce même droit, lorsqu'ils remplissent
@@ -2929,14 +2929,15 @@ les conditions prévues à l'alinéa 2 ci-dessus et exploitent par eux-mêmes ou
 date d'exercice du droit.
 
 Le droit de préemption ne peut être exercé si, au jour où il fait connaître sa décision d'exercer ce droit, le bénéficiaire
-ou, dans le cas prévu au troisième alinéa ci-dessus, le descendant subrogé est déjà propriétaire de parcelles représentant
-une superficie supérieure à trois fois la surface minimum d'installation prévue à l'article 188-4 du code rural.
+ou, dans le cas prévu au troisième alinéa ci-dessus, le conjoint ou le descendant subrogé est déjà propriétaire de parcelles
+représentant une superficie supérieure à trois fois la surface minimum d'installation prévue à l'article L. 312-5 du code
+rural.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+  - Loi n°88-1202 du 30 décembre 1988 - art. 17 () JORF 31 décembre 1988
 
 _Codifié par_:
 
@@ -2947,10 +2948,6 @@ _Cité par_:
   - Code rural - art. L143-6 (V)
   - Code rural - art. L412-11 (V)
   - Code rural - art. L412-14 (V)
-
-_Cite_:
-
-  - Code rural 188-4, L411-59, L412-12, L411-34
 
 
 ###### Article L412-6
@@ -3015,6 +3012,7 @@ renonciation au droit de préemption.
 En cas de préemption, celui qui l'exerce bénéficie alors d'un délai de deux mois à compter de la date d'envoi de sa réponse
 au propriétaire vendeur pour réaliser l'acte de vente authentique ; passé ce délai, sa déclaration de préemption sera nulle
 de plein droit, quinze jours après une mise en demeure à lui faite par acte d'huissier de justice et restée sans effet.
+L'action en nullité appartient au propriétaire vendeur et à l'acquéreur évincé lors de la préemption.
 
 Le tiers acquéreur peut, pendant le délai d'exercice du droit de préemption par le preneur, joindre à la notification prévue
 à l'alinéa 1er ci-dessus une déclaration par laquelle il s'oblige à ne pas user du droit de reprise pendant une durée
@@ -3024,9 +3022,9 @@ prévaloir de cette déclaration aux fins d'annulation de tout congé portant re
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+  - Loi n°88-1202 du 30 décembre 1988 - art. 19 () JORF 31 décembre 1988
 
 _Codifié par_:
 
@@ -4081,7 +4079,8 @@ janvier 1964 sont réputés faits avec l'accord du bailleur.
 Toutefois, nonobstant toute disposition contraire, la conversion ne pourra être refusée lorsque la demande sera faite par le
 métayer en place depuis huit ans et plus.
 
-Un décret en Conseil fixera, en tant que de besoin, les modalités d'application de cette disposition.
+Sans préjudice de l'application immédiate de l'alinéa précédent, les modalités de l'indemnisation éventuellement due au
+bailleur sont fixées par un décret en Conseil d'Etat.
 
 Une demande de conversion ne peut être considérée comme une rupture de contrat, ni justifier une demande de reprise du
 propriétaire. Cette disposition est d'ordre public.
@@ -4094,7 +4093,7 @@ _Créé par_:
 
 _Modifié par_:
 
-  - Loi n°84-731 1984-08-01 art. 25 I JORF 2 août 1984
+  - Loi n°88-1202 du 30 décembre 1988 - art. 13 () JORF 31 décembre 1988
 
 _Codifié par_:
 
@@ -4680,16 +4679,14 @@ _Codifié par_:
 ###### Article L441-1
 
 Dans le régime des vignes à complant, quelles que soient les dénominations - contrat de complant, bail à complant ou tout
-autre analogue - la redevance due au propriétaire est versée dans les conditions consacrées par l'usage local, mais est
-réduite, sauf pour les plants de producteurs directs, du tiers au quart ou du quart au cinquième de la récolte. Cette
-réduction exclut pour le complanteur tous droits à réclamer les fournitures de substances anticryptogamiques ou autres que
-les propriétaires auraient pu consentir par des accords antérieurs.
+autre analogue - la redevance due au propriétaire est versée dans les conditions déterminées par un arrêté préfectoral, sur
+proposition de la commission consultative départementale des baux ruraux.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+  - Loi n°88-1202 du 30 décembre 1988 - art. 18 () JORF 31 décembre 1988
 
 _Codifié par_:
 
