@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1993-01-09
+Version Consolidée au 1993-03-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -92351,11 +92351,17 @@ L'école nationale supérieure du paysage ;
 
 L'école nationale supérieure féminine d'agronomie de Rennes ;
 
-Les écoles nationales d'ingénieurs de travaux agricoles de Bordeaux, de Clermont-Ferrand et de Dijon, l'Ecole nationale
-d'ingénieurs des travaux de l'horticulture et du paysage d'Angers et l'Ecole nationale d'ingénieurs des travaux des
-industries agricoles et alimentaires de Nantes.
+Les écoles nationales d'ingénieurs de travaux agricoles de Bordeaux, de Clermont-Ferrand, l'Ecole nationale d'ingénieurs des
+travaux de l'horticulture et du paysage d'Angers et l'Ecole nationale d'ingénieurs des travaux des industries agricoles et
+alimentaires de Nantes.
+
+Etablissement national d'enseignement supérieur agronomique de Dijon.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-2
 
 _Codifié par_:
 
@@ -92363,7 +92369,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°89-420 du 20 juin 1989 - art. 2 () JORF 28 juin 1989
+  - Décret n°93-598 1993-03-26 art. 10 JORF 28 mars 1993
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
 ###### Article R*814-3
