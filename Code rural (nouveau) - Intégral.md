@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1980-11-15
+Version Consolidée au 1981-03-20
 ## Contenu: 
   - [Partie réglementaire (art. R523-9 à R*816-4)](#1)
     - [Livre V : Organismes professionnels agricoles (art. R523-9)](#2)
@@ -116,7 +116,7 @@ Version Consolidée au 1980-11-15
           - [Section 1 : Enseignement technologique de cycle long. (art. R*813-1 à R*813-5)](#113)
           - [Section 2 : Formation des techniciens supérieurs agricoles. (art. R*813-6 à R*813-7)](#114)
           - [Section 3 : Dispositions communes. (art. R*813-8 à R*813-12)](#115)
-        - [Chapitre IV : Enseignement supérieur (art. R*814-1 à R*814-43)](#116)
+        - [Chapitre IV : Enseignement supérieur (art. R*814-1 à R*814-61)](#116)
           - [Section 1 : Dispositions générales. (art. R*814-1 à R*814-4)](#117)
           - [Section 2 : Enseignement supérieur agricole (art. R*814-5 à R*814-27)](#118)
             - [Sous-section 1 : Formation des ingénieurs spécialisés en agriculture. (art. R*814-5)](#119)
@@ -132,10 +132,14 @@ Version Consolidée au 1980-11-15
             - [Sous-section 3 : Enseignement et recherche. (art. R*814-32 à R*814-36)](#129)
             - [Sous-section 4 : Administration. (art. R*814-37)](#130)
             - [Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire. (art. R*814-38 à R*814-43)](#131)
-        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#132)
-          - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#133)
-          - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#134)
-        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-4)](#135)
+          - [Section 4 : Enseignement de l'agronomie des régions chaudes (art. R*814-44 à R*814-61)](#132)
+            - [Sous-section 1 : Dispositions générales. (art. R*814-44 à R*814-47)](#133)
+            - [Sous-section 2 : Administration du centre. (art. R*814-48 à R*814-57)](#134)
+            - [Sous-section 3 : Régime financier du centre. (art. R*814-58 à R*814-61)](#135)
+        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#136)
+          - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#137)
+          - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#138)
+        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-4)](#139)
 # Partie réglementaire<a id=1></a>
 
 ## Livre V : Organismes professionnels agricoles<a id=2></a>
@@ -11324,9 +11328,651 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public<a id=132></a>
+##### Section 4 : Enseignement de l'agronomie des régions chaudes<a id=132></a>
 
-##### Section 1 : Dispositions communes.<a id=133></a>
+##### Sous-section 1 : Dispositions générales.<a id=133></a>
+
+###### Article R*814-44
+
+Le centre national d'études agronomiques des régions chaudes est un établissement public national à caractère administratif
+doté de la personnalité civile et de l'autonomie financière. Il est placé sous la tutelle du ministre de l'agriculture. Son
+siège est à Montpellier.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-42
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-45
+
+Le centre national d'études agronomiques des régions chaudes a pour mission d'organiser es formations en agronomie et en
+agriculture des régions chaudes.
+
+A cet effet :
+
+- il fait au ministre de l'agriculture toute proposition qu'il juge utile au sujet des mesures pédagogiques concernant ces
+formations, où égard aux besoins français et étrangers ;
+
+- il assure notamment, en sa qualité d'école d'application de l'enseignement supérieur agronomique et avec le concours des
+organismes compétents, un enseignement supérieur de troisième cycle adapté aux besoins des régions chaudes en agronomie et
+dans les disciplines relatives à l'élevage, aux forêts, à l'hydraulique, au machinisme, aux industries agricoles et
+alimentaires et au développement agricole et rural. Cet enseignement est destiné à former des ingénieurs fonctionnaires, des
+ingénieurs civils, des cadres et des spécialistes français et étrangers ;
+
+- il organise, dans ces disciplines, la formation de techniciens supérieurs ;
+
+- il organise des cycles de formation spécifique et, en particulier, de formation continue ;
+
+- il oriente et assiste, dans leurs travaux et dans leurs études, les stagiaires étrangers qu'il reçoit ;
+
+- il met en oeuvre les moyens pédagogiques et documentaires nécessaires à l'ensemble de ses activités, tant en France qu'à
+l'étranger.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-43
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-46
+
+Les conditions d'admission des élèves aux cycles d'études sanctionnées par un diplôme national et l'organisation de ces
+cycles sont fixées par arrêté du ministre de l'agriculture pris après avis du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-44
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-47
+
+Pour remplir sa mission, le centre national d'études agronomiques des régions chaudes peut passer des conventions avec des
+organismes de formation et de recherche français et étrangers dans le domaine de sa compétence, La création de centres
+associés à l'étranger est décidée et mise en oeuvre conjointement avec les ministres chargés de la coopération
+internationale.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-45
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+##### Sous-section 2 : Administration du centre.<a id=134></a>
+
+###### Article R*814-48
+
+Le centre est administré par un conseil d'administration et dirigé par un directeur assisté d'un conseil de l'enseignement.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-46
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-49
+
+Le conseil d'administration comprend vingt-trois membres :
+
+1° Six représentants des ministres de l'agriculture, des affaires étrangères, de la coopération, des universités et des
+secrétaires d'Etat chargés de la recherche et des départements et territoires d'outre-mer ;
+
+2° Un représentant de la caisse centrale de coopération économique, deux personnalités qualifiées dans les problèmes du
+développement agricole des régions chaudes, onze représentants d'organismes d'études et d'établissements de formation ou de
+recherche coopérant avec le centre ;
+
+3° Le maire de Montpellier ou son représentant ;
+
+4° Un représentant élu du personnel enseignant ;
+
+5° Un représentant élu du personnel administratif et technique.
+
+Les membres du conseil d'administration sont nommés par arrêté du ministre de l'agriculture, sur proposition des ministres
+intéressés pour les représentants de l'Etat, sur proposition de la caisse centrale ou des organismes pour ceux qui
+représentent ces établissements.
+
+Ils sont nommés pour une durée de trois ans. Leur mandat est renouvelable.
+
+Les membres du conseil d'administration décédés ou démissionnaires et ceux qui, en cours de mandat, n'occupent plus les
+fonctions en raison desquelles ils ont été désignés, doivent être remplacés. Les remplaçants sont nommés pour la durée du
+mandat restant à courir.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-47
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-50
+
+Le président du conseil d'administration est choisi parmi les membres du conseil. Il est nommé par arrêté du ministre de
+l'agriculture après avis du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-48
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-51
+
+Le conseil d'administration se réunit aussi souvent qu'il est nécessaire et au moins deux fois par an, sur convocation de son
+président qui fixe l'ordre du jour.
+
+Le conseil d'administration est également convoqué si le ministre de l'agriculture ou les deux tiers des membres du conseil
+le demandent.
+
+Le conseil d'administration ne délibère valablement que si la majorité de ses membres en exercice est présente. Si ce quorum
+n'est pas atteint, le conseil est de nouveau convoqué avec le même ordre du jour dans un délai maximum de quinze jours.
+
+Les délibérations du conseil sont prises à la majorité absolue des votants ; en cas de partage, la voix du président est
+prépondérante.
+
+Le lieu, la date et l'heure ainsi que l'ordre du jour des séances sont portés, au moins huit jours à l'avance, à la
+connaissance des membres du conseil d'administration ainsi que du contrôleur financier.
+
+Le directeur et le contrôleur financier assistent aux séances du conseil d'administration avec voix consultative.
+
+L'agent comptable y assiste dans les conditions fixées par l'article 16 du décret susvisé du 7 novembre 1975.
+
+Le président peut également appeler à participer aux séances avec voix consultative toute personne dont il jugera la présence
+utile.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-49
+
+_Cite_:
+
+  - Décret n°75-1036 1975-11-07 art. 16
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-52
+
+Le conseil d'administration connaît des conditions générales de fonctionnement technique, pédagogique, administratif et
+financier du centre ; à ce titre, il :
+
+- vote le budget et, d'une façon générale, exerce en matière administrative et financière, les attributions prévues par les
+décrets susvisés des 17 janvier 1942 et 7 novembre 1975 ;
+
+- propose les mesures d'organisation générale de l'enseignement et les programmes e formation ;
+
+- établit le règlement intérieur du centre ;
+
+- approuve les projets de conventions mentionnés à l'article R. 814-47 ci-dessus.
+
+Le conseil d'administration peut, en outre, être consulté sur toutes questions de la compétence du centre par son président
+ou par le ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-50
+
+_Cite_:
+
+  - Code rural R814-47
+  - Décret n°1942-01-17
+  - Décret n°75-1036 1975-11-07
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-53
+
+Les délibérations du conseil d'administration sont exécutoires dans les conditions prévues à l'article 4 du décret susvisé du
+17 janvier 1942.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-51
+
+_Cite_:
+
+  - Décret n°1942-01-17 art. 4
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-54
+
+Le directeur du centre est nommé par arrêté du ministre de l'agriculture ; il représente le centre dans les actes de la vie
+civile et dans ses rapports avec les tiers. Il représente le centre en justice.
+
+Il assume la responsabilité du fonctionnement technique, pédagogique, administratif et financier du centre.
+
+Sous l'autorité du président, il prépare les délibérations du conseil d'administration et assure l'exécution de ses
+décisions.
+
+Il peut être autorisé par le conseil d'administration et dans les limites fixées par celui-ci, à arrêter les conditions
+d'application des orientations générales approuvées par le conseil et à passer, sans approbation préalable, des conventions,
+des contrats ou des marchés.
+
+Il est responsable de la préparation du budget annuel, des décisions modificatives et du compte de résultats de l'exercice
+écoulé.
+
+Il est ordonnateur principal des dépenses et recettes du centre.
+
+Il peut, sous sa responsabilité, donner délégation de signature à des agents du centre dans les limites qu'il détermine.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-52
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-55
+
+Le directeur a autorité sur l'ensemble des services et des personnels du centre qui comprennent :
+
+- des agents permanents : fonctionnaires placés en position de détachement ou mis à la disposition du centre, agents
+contractuels occupant des emplois administratifs ou techniques ;
+
+- des collaborateurs d'enseignement rémunérés à la vacation.
+
+Le directeur arrêté la liste des collaborateurs d'enseignement et les modalités de leur participation aux activités du centre
+après avis du conseil d'administration et du conseil de l'enseignement.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-53
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-56
+
+Le conseil de l'enseignement assiste le directeur du centre qui le préside, le convoque et fixe son ordre du jour.
+
+Il est composé de trente membres au maximum désignés par le conseil d'administration, pour un tiers au moins parmi le
+personnel enseignant des organismes associés au centre par convention et, pour le reste, parmi le personnel permanent et les
+collaborateurs d'enseignement du centre et des personnalités qualifiées en agronomie des régions chaudes.
+
+Il peut créer des commissions spécialisées avec la participation de personnalités extérieures au centre.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-54
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-57
+
+Le conseil de l'enseignement donne son avis sur le programme d'enseignement et de formation, sur les conditions d'accès aux
+divers niveaux d'études et de formation, sur la sanction des études ainsi que sur la constitution d'unités de valeurs.
+
+Il peut être consulté sur toute question relative aux formations dispensées dans le domaine de l'agronomie et du
+développement agricole et rural des régions chaudes en liaison avec les organismes d'enseignement ou de recherche qui ont le
+même objet.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-55
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+##### Sous-section 3 : Régime financier du centre.<a id=135></a>
+
+###### Article R*814-58
+
+Le centre est soumis au régime financier et comptable défini par les textes généraux applicables aux établissements publics à
+caractère administratif, notamment par les décrets susvisés des 10 décembre 1953 et 29 décembre 1962, ainsi que par les
+textes particuliers aux établissements publics nationaux d'enseignement et de formation professionnelle agricoles, notamment
+le décret susvisé du 7 novembre 1975.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-56
+
+_Cite_:
+
+  - Décret n°53-1227 1953-12-10
+  - Décret n°62-1587 1962-12-29
+  - Décret n°75-1066 1975-11-07
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-59
+
+Les recettes du centre comprennent notamment : les subventions de l'Etat, des collectivités publiques ou des personnes
+privées ; les revenus des biens, fonds et valeurs ; les dons et legs, le produit de la vente des publications ; les produits
+de l'aliénation des biens, fonds et valeurs ; le produit des emprunts ; la rémunération des services rendus et toutes
+ressources qu'il tire de son activité.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-57
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-60
+
+Les dépenses du centre comprennent les frais de fonctionnement et d'équipement et, d'une manière générale, toutes celles qui
+sont nécessaires à l'activité de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-58
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-61
+
+L'agent comptable est nommé par arrêté conjoint du ministre du budget et du ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-59
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°81-254 1981-03-19 art. 2 JORF 20 mars 1981
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public<a id=136></a>
+
+##### Section 1 : Dispositions communes.<a id=137></a>
 
 ###### Article R*815-1
 
@@ -11404,7 +12050,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Dispositions relatives aux établissements d'enseignement technologique.<a id=134></a>
+##### Section 2 : Dispositions relatives aux établissements d'enseignement technologique.<a id=138></a>
 
 ###### Article R*815-4
 
@@ -11429,7 +12075,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-#### Chapitre VI : Dispositions relatives aux examens et concours publics.<a id=135></a>
+#### Chapitre VI : Dispositions relatives aux examens et concours publics.<a id=139></a>
 
 ###### Article R*816-1
 
