@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1993-03-30
+Version Consolidée au 1993-06-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -13524,7 +13524,6 @@ Pour obtenir la validation départementale du permis de chasser, le demandeur do
 correspondante.
 
 Pour obtenir la validation nationale du permis de chasser, le demandeur doit être membre de la fédération des chasseurs d'un
-département. Lorsqu'il souhaite chasser dans un autre département, il doit préalablement adhérer à la fédération de ce
 département.
 
 **Liens relatifs à cet article**
@@ -13535,7 +13534,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-613 du 6 juillet 1992 - art. 16 (V) JORF 7 juillet 1992
+  - Loi n°93-859 1993-06-22 art. 34 II JORF 23 juin 1993
 
 _Cité par_:
 
