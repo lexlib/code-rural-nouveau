@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1994-12-31
+Version Consolidée au 1995-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -777,10 +777,10 @@ Version Consolidée au 1994-12-31
         - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R*236-2 à R*236-121)](#774)
           - [Section 1 : Dispositions générales (art. R*236-2 à R*236-66)](#775)
             - [Sous-section 1 : Temps et heures d'interdiction (art. R*236-6 à R236-20)](#776)
-              - [Paragraphe 1 : Temps d'interdiction. (art. R*236-6 à R*236-17)](#777)
+              - [Paragraphe 1 : Temps d'interdiction. (art. R*236-6 à R*236-16)](#777)
               - [Paragraphe 2 : Heures d'interdiction. (art. R*236-18 à R236-20)](#778)
-            - [Sous-section 2 : Taille minimale des poissons. (art. R*236-23 à R*236-26)](#779)
-            - [Sous-section 3 : Nombre de captures autorisées, conditions de capture. (art. R*236-27 à R*236-29)](#780)
+            - [Sous-section 2 : Taille minimale des poissons et des écrevisses. (art. R*236-23 à R*236-26)](#779)
+            - [Sous-section 3 : Nombre de captures autorisées, conditions de capture. (art. R*236-28 à R*236-29)](#780)
             - [Sous-section 4 : Procédés et modes de pêche autorisés. (art. R*236-30 à R*236-39)](#781)
             - [Sous-section 5 : Procédés et modes de pêche prohibés. (art. R*236-40 à R*236-50)](#782)
             - [Sous-section 6 : Dispositions diverses. (art. R*236-51 à R*236-53)](#783)
@@ -804,7 +804,7 @@ Version Consolidée au 1994-12-31
               - [Paragraphe 3 : Nombre de captures autorisées, conditions de capture. (art. R*236-104 à R*236-105)](#801)
               - [Paragraphe 4 : Filets, engins et moyens de pêche autorisés ou prohibés. (art. R*236-106 à R*236-112)](#802)
               - [Paragraphe 5 : Zones de protection du poisson. (art. R*236-113 à R*236-116)](#803)
-              - [Paragraphe 6 : Dispositions pénales. (art. R*236-117 à R*236-120)](#804)
+              - [Paragraphe 6 : Dispositions pénales. (art. R*236-117)](#804)
               - [Paragraphe 7 : Capture de géniteurs. (art. R*236-121)](#805)
         - [Chapitre VII : Recherche et constatation des infractions (art. R*237-1 à R*237-7)](#806)
           - [Section 1 : Agents compétents. (art. R*237-1 à R*237-3)](#807)
@@ -74763,10 +74763,8 @@ _Nouveaux textes_:
 
 ###### Article R*236-3
 
-Sera puni de l'amende prévue pour les contraventions de la 2e classe quiconque contrevient aux conditions mises à l'exercice
-de la pêche par l'article L. 236-1.
-
-En cas de récidive, la peine applicable sera celle prévue pour les contraventions de la 3e classe.
+Sera puni de l'amende prévue pour les contraventions de la 3e classe le fait de pêcher sans avoir la qualité de membre d'une
+association agréée prévue à l'article L. 236-1 ou sans avoir acquitté la taxe piscicole prévue au même article.
 
 **Liens relatifs à cet article**
 
@@ -74774,25 +74772,19 @@ _Cite_:
 
   - Code rural L236-1
 
-_Anciens textes_:
-
-  - Décret n°86-198 du 6 février 1986 - art. 1 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 1 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 
 ###### Article R*236-4
 
-Sera puni de l'amende prévue pour les contraventions de la 2e classe quiconque, dispensé du paiement de la taxe piscicole en
-vertu du premier alinéa de l'article L. 236-2, contrevient aux prescriptions fixées par cet alinéa.
-
-En cas de récidive, la peine sera celle prévue pour les contraventions de la 3e classe.
+Sera puni de l'amende prévue pour les contraventions de la 3e classe le fait de contrevenir aux conditions fixées par le
+premier alinéa de l'article L. 236-2 du présent code pour pouvoir bénéficier de la dispense de taxe piscicole.
 
 **Liens relatifs à cet article**
 
@@ -74800,25 +74792,27 @@ _Cite_:
 
   - Code rural L236-2
 
-_Anciens textes_:
-
-  - Décret n°86-198 du 6 février 1986 - art. 1 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 2 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R236-4
 
 
 ###### Article R*236-5
 
-Sera puni de l'amende prévue pour les contraventions de la 2e classe quiconque pratique la pêche sans respecter les
-conditions prévues à l'article L. 236-4.
-
-En cas de récidive, la peine applicable sera celle prévue pour les contraventions de la 3e classe.
+Sera puni de l'amende prévue pour les contraventions de la 3e classe le fait de pêcher sans respecter les conditions prévues
+à l'article L. 236-4.
 
 **Liens relatifs à cet article**
 
@@ -74826,17 +74820,21 @@ _Cite_:
 
   - Code rural L236-4
 
-_Anciens textes_:
-
-  - Décret n°86-198 du 6 février 1986 - art. 2 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 3 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R236-5
 
 
 ##### Sous-section 1 : Temps et heures d'interdiction<a id=776></a>
@@ -74845,30 +74843,11 @@ _Créé par_:
 
 ###### Article R*236-6
 
-Dans les eaux de la 1re catégorie mentionnées à l'article L. 236-5 (10°, a), toute pêche est interdite en dehors des temps
-d'ouverture fixés ainsi qu'il suit :
-
-1° Du premier samedi de mars au premier dimanche d'octobre, dans les départements suivants : Ain, Alpes-de-Haute-Provence,
-Hautes-Alpes, Alpes-Maritimes, Bouches-du-Rhône, Drôme, Isère, Savoie, Haute-Savoie et Var ;
-
-2° Du troisième samedi de mars au premier dimanche d'octobre, dans les départements suivants : Aisne, Ardennes, Aube, Doubs,
-Essonne, Eure, Hauts-de-Seine, Jura, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle, Nord, Oise, Paris, Pas-de-
-Calais, Haute-Saône, Seine-Maritime, Seine-et-Marne, Seine-Saint-Denis, Somme, Bas-Rhin, Haut-Rhin, Vosges, territoire de
-Belfort, Val-d'Oise, Val-de-Marne et Yvelines ;
-
-3° Du troisième samedi de mars au troisième dimanche de septembre, dans les départements suivants : Côte-d'Or, Nièvre, Rhône,
-Saône-et-Loire et Yonne ;
-
-4° Du premier samedi de mars au troisième dimanche de septembre, dans les départements autres que ceux désignés ci-dessus.
-
-Toutefois, la pêche du saumon, de la truite de mer, de l'ombre commun, des écrevisses autres que l'écrevisse américaine, des
-grenouilles verte et rousse est réglée par les articles R. 236-9 à R. 236-12.
+Dans les eaux de 1re catégorie, la pêche est autorisée du deuxième samedi de mars au troisième dimanche de septembre, inclus,
+à l'exception de la pêche de l'ombre commun, qui est autorisée du troisième samedi de mai au troisième dimanche de septembre,
+inclus.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L236-5, R236-9 à R236-12
 
 _Codifié par_:
 
@@ -74876,43 +74855,23 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°89-898 du 14 décembre 1989 - art. 1 () JORF 17 décembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 4 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 
 ###### Article R*236-7
 
-Dans les eaux de la 2e catégorie mentionnées à l'article L. 236-5 (10°, b), la pêche aux lignes est autorisée toute l'année.
+Dans les eaux de 2e catégorie, la pêche est autorisée toute l'année, à l'exception de :
 
-La pêche aux engins et aux filets est interdite en dehors des temps d'ouverture fixés du 1er janvier au troisième dimanche
-d'avril et du deuxième samedi de juin au 31 décembre. Le préfet peut, par arrêté, lever partiellement ou totalement cette
-interdiction, d'une part, pour la pêche de l'écrevisse américaine, des aloses, de l'anguille, du flet, des lamproies et du
-mulet, et, d'autre part, pour la pêche du saumon et de la truite de mer uniquement pendant le temps d'ouverture de la pêche
-de ces deux espèces fixé à l'article R. 236-9.
+1° La pêche du brochet, qui est autorisée du 1er janvier au dernier dimanche de janvier et du troisième samedi d'avril au 31
+décembre, inclus ;
 
-Dans les eaux de la 2e catégorie, par dérogation aux alinéas précédents, toute pêche des espèces ci-après est interdite en
-dehors des temps d'ouverture suivants :
+2° La pêche de l'ombre commun, qui est autorisée du troisième samedi de mai au 31 décembre, inclus ;
 
-1° Pour le brochet, du 1er janvier au 31 janvier et du premier samedi d'avril au 31 décembre ;
-
-2° Pour l'anguille d'avalaison, du 1er janvier au 15 février et du 1er octobre au 31 décembre ;
-
-3° Pour les corégones, du 1er janvier au 15 novembre ;
-
-4° Pour l'esturgeon, du 1er janvier au 31 mai ;
-
-5° Pour la truite fario, l'omble ou saumon de fontaine, l'omble chevalier et le cristivomer, ainsi que pour la truite arc-en-
-ciel dans les cours d'eau ou parties de cours d'eau classés comme cours d'eau à saumon ou comme cours d'eau à truite de mer
-en application de l'article R. 236-27, durant le temps d'ouverture de la pêche dans les eaux de la 1re catégorie du
-département concerné ;
-
-6° Pour le saumon, la truite de mer, l'ombre commun, les écrevisses autres que l'écrevisse américaine, les grenouilles verte
-et rousse, durant les temps d'ouverture fixés aux articles R. 236-9 à R. 236-12.
+3° La pêche de la truite fario, de l'omble ou saumon de fontaine, de l'omble chevalier et du cristivomer, ainsi que la pêche
+de la truite arc-en-ciel dans les cours d'eau ou les parties de cours d'eau classés à saumon ou à truite de mer, qui sont
+autorisées durant le temps d'ouverture de la pêche dans les eaux de la 1re catégorie.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L236-5, R236-9, R236-27, R236-9 à R236-12
 
 _Codifié par_:
 
@@ -74920,225 +74879,60 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°89-898 du 14 décembre 1989 - art. 2 () JORF 17 décembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 5 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 _Cité par_:
 
   - Décret n°2001-426 du 11 mai 2001 - art. 4 (VT)
 
 
-###### Article R*236-8
-
-La pêche de la civelle, alevin d'anguille ayant environ 7 centimètres de longueur, est interdite. Toutefois, le préfet peut
-l'autoriser dans les eaux appartenant à la 2e catégorie entre le 1er novembre et le 15 mars. Cette dernière date peut
-exceptionnellement être reportée au 15 avril par le ministre chargé de la pêche en eau douce.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 3 (M)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-157 du 16 février 1994 - art. 26 (Ab) JORF 23 février 1994 en vigueur le 1er janvier 1995
-
-
-###### Article R*236-9
-
-La pêche du saumon et de la truite de mer est interdite en dehors des temps d'ouverture fixés chaque année par le ministre
-chargé de la pêche en eau douce.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-157 du 16 février 1994 - art. 26 (Ab) JORF 23 février 1994 en vigueur le 1er janvier 1995
-
-
-###### Article R*236-10
-
-La pêche de l'ombre commun est interdite :
-
-1° Dans les eaux de la 1re catégorie, en dehors du temps d'ouverture commençant le troisième samedi de mai et se terminant
-soit le 31 décembre pour les cours d'eau classés par le ministre chargé de la pêche en eau douce comme cours d'eau
-principalement peuplés d'ombres communs, soit à la date de la fin du temps d'ouverture applicable aux eaux de la 1re
-catégorie du département concerné ;
-
-2°  Dans les eaux de la 2e catégorie, en dehors du temps d'ouverture commençant le troisième samedi de mai et se terminant le
-31 décembre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-978 du 10 novembre 1994 - art. 6 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
-
-
 ###### Article R*236-11
 
-La pêche des écrevisses autres que l'écrevisse américaine est interdite à l'exception d'une durée maximum de dix jours
-consécutifs. Le préfet fixe par arrêté cette durée à partir soit du 14 juillet, soit du 15 août.
+La pêche des écrevisses à pattes rouges (Astacus astacus), des torrents (Astacus torrentium), à pattes blanches
+(Austrapotamobius pallipes) et à pattes grêles (Astacus leptodactylus) est autorisée pendant une période de dix jours
+consécutifs commençant le quatrième samedi de juillet.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 6 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 7 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R236-11
 
 
 ###### Article R*236-12
 
-La pêche de la grenouille verte et de la grenouille rousse est interdite :
-
-1° Dans les eaux de la 1re catégorie en dehors des temps d'ouverture définis à l'article R. 236-6 ;
-
-2° Dans les eaux de la 1re et de la 2e catégories pendant la période de reproduction de ces grenouilles. Ce temps
-d'interdiction, d'une durée minimum de deux mois, est fixé par arrêté du préfet.
+La pêche de la grenouille verte et de la grenouille rousse est autorisée pendant une période maximum de dix mois fixée par le
+préfet.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R236-6
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 7 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-
-###### Article R*236-13
-
-Les jours inclus dans les temps fixés par les articles R. 236-6, R. 236-7, R. 236-8, R. 236-10 et R. 236-11 sont compris dans
-les temps d'ouverture.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R236-6, R236-7, R236-8, R236-10, R236-11
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 8 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 _Abrogé par_:
 
-  - Décret n°94-978 du 10 novembre 1994 - art. 9 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
+_Nouveaux textes_:
 
-###### Article R*236-14
-
-En vue de protéger certaines espèces, le ministre chargé de la pêche en eau douce peut augmenter pour une ou plusieurs années
-les temps d'interdiction prévus aux articles R. 236-6, R. 236-7, R. 236-8 et R. 236-10.
-
-En outre, en vue de protéger une espèce qu'il estimerait gravement menacée, ce ministre peut interdire totalement la pêche
-pendant une durée ne dépassant pas cinq ans dans certains cours d'eau, canaux ou plans d'eau. Il peut renouveler cette
-interdiction.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R236-6, R236-7, R236-8, R236-10
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 9 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-978 du 10 novembre 1994 - art. 9 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
-
-
-###### Article R*236-15
-
-En vue de protéger certaines espèces, le préfet peut, par arrêté, réduire la durée du temps d'ouverture de la pêche pour
-toutes les espèces ou pour certaines seulement, soit pour tout le département, soit pour certains cours d'eau, canaux ou
-plans d'eau. Il peut également interdire la pêche de certaines espèces par quelque mode que ce soit pendant un an, soit pour
-l'ensemble du département, soit pour certains cours d'eau, canaux ou plans d'eau.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 10 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-978 du 10 novembre 1994 - art. 9 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+  - Code de l'environnement R236-12
 
 
 ###### Article R*236-16
@@ -75147,12 +74941,14 @@ Il est interdit de pêcher dans les parties de cours d'eau, canaux ou plans d'ea
 soit dans le but d'y opérer des curages ou travaux quelconques, soit en raison du chômage des usines ou de la navigation,
 soit à la suite d'accidents survenus aux ouvrages de retenue.
 
-Toute personne responsable de l'abaissement des eaux doit, sauf cas de force majeure, avertir la gendarmerie et le service
-chargé de la police de la pêche, au moins huit jours à l'avance, du moment où le niveau des eaux sera abaissé. En cas
-d'accident survenu à un ouvrage de retenue, la déclaration doit être faite immédiatement par le responsable de l'ouvrage.
+Toute personne responsable de l'abaissement des eaux doit, sauf cas de force majeure, avertir la gendarmerie, la fédération
+départementale des associations agréées de pêche et de pisciculture et le service chargé de la police de la pêche, au moins
+huit jours à l'avance, du moment où le niveau des eaux sera abaissé. En cas d'accident survenu à un ouvrage de retenue, la
+déclaration doit être faite immédiatement par le responsable de l'ouvrage.
 
 Les dispositions du premier alinéa du présent article ne s'appliquent pas aux cas d'abaissement laissant subsister dans un
-cours d'eau, un canal ou une retenue à vocation saisonnière, une hauteur d'eau minimum d'un mètre en moyenne.
+cours d'eau, un canal ou une retenue à vocation saisonnière, une hauteur d'eau ou un débit garantissant la vie et la
+circulation des poissons.
 
 En vue d'assurer la protection du poisson, le préfet peut autoriser l'évacution et le transport dans un autre cours d'eau ou
 plan d'eau qu'il désigne des poissons retenus ou mis en danger par l'abaissement artificiel du niveau des eaux.
@@ -75164,57 +74960,25 @@ Ces dispositions ne s'appliquent pas aux vidanges autorisées en application de 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural L232-9
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 11 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-
-###### Article R*236-17
-
-En cas de baisse naturelle du niveau des eaux dans les cours d'eau, canaux ou plans d'eau, le préfet peut, par arrêté,
-interdire ou réglementer la pêche.
-
-Dans ce cas, les détenteurs du droit de pêche peuvent être autorisés par le préfet à recueillir, en tout temps et par tous
-moyens, les poissons menacés de périr. Les bénéficiaires de l'autorisation doivent toutefois assurer le transport de ceux-ci
-dans un autre cours d'eau ou plan d'eau désigné par le préfet, à l'exception des poissons des espèces mentionnées au 1° de
-l'article L. 232-10 qui doivent être détruits.
-
-Le préfet peut, à la demande des détenteurs du droit de pêche ou en cas d'urgence, se substituer à ceux-ci pour procéder aux
-opérations nécessaires à la sauvegarde des populations piscicoles.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L232-10
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 12 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 10 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 _Abrogé par_:
 
-  - Décret n°94-978 du 10 novembre 1994 - art. 11 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R236-16
+
+_Cite_:
+
+  - Code rural L232-9
 
 
 ##### Paragraphe 2 : Heures d'interdiction.<a id=778></a>
@@ -75261,7 +75025,8 @@ coucher dans les eaux mentionnées à l'article L. 235-1 ;
 4° Des aloses et des lamproies à toute heure dans les parties non salées des cours d'eau et des canaux mentionnés à l'alinéa
 2 de l'article L. 236-10 ;
 
-5° De la carpe à toute heure dans les parties de cours d'eau et plans d'eau de 2e catégorie qu'il désigne.
+5° De la carpe à toute heure dans les parties de cours d'eau ou les plans d'eau de 2e catégorie et pendant une période qu'il
+détermine.
 
 **Liens relatifs à cet article**
 
@@ -75273,16 +75038,16 @@ _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°93-1320 du 15 décembre 1993 - art. 1 () JORF 22 décembre 1993
+  - Décret n°94-978 du 10 novembre 1994 - art. 12 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 
 ###### Article R*236-21
 
 Les filets et engins de toute nature doivent être retirés de l'eau du samedi dix-huit heures au lundi six heures, à
-l'exception toutefois des bosselles à anguilles, nasses et verveux, des carrelets, des lignes de fond, des éperviers et des
-balances à écrevisses ou à crevettes.
+l'exception toutefois des bosselles à anguilles, nasses et verveux, des carrelets, des couls, des lignes de fond, des
+éperviers et des balances à écrevisses ou à crevettes.
 
 Pendant le même temps, les engins actionnés par courant d'eau ou par un dispositif mécanique quelconque doivent être arrêtés.
 Les dispositifs accessoires formant obstacle à la libre circulation des poissons ou contrariant le courant doivent être
@@ -75299,17 +75064,21 @@ _Cite_:
 
   - Code rural R236-27
 
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 16 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 13 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R236-21
 
 
 ###### Article R*236-22
@@ -75371,7 +75140,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-20
 
 
-##### Sous-section 2 : Taille minimale des poissons.<a id=779></a>
+##### Sous-section 2 : Taille minimale des poissons et des écrevisses.<a id=779></a>
 
 ###### Article R*236-23
 
@@ -75382,17 +75151,15 @@ après leur capture si leur longueur est inférieure à :
 
 0,70 mètre pour le huchon ;
 
-0,50 mètre pour le saumon ;
+0,50 mètre pour le brochet dans les eaux de la 2e catégorie ;
 
-0,45 mètre pour le brochet dans les eaux de la 2e catégorie ;
-
-0,35 mètre pour la truite de mer et le cristivomer ;
+0,35 mètre pour le cristivomer ;
 
 0,40 mètre pour le sandre dans les eaux de la 2e catégorie ;
 
-0,30 mètre pour les aloses, l'ombre commun et le corégone ;
+0,30 mètre pour l'ombre commun et le corégone ;
 
-0,25 mètre pour les lamproies marine et fluviatile ;
+0,20 mètre pour la lamproie fluviatile et 0,40 mètre pour la lamproie marine ;
 
 0,23 mètre pour les truites autres que la truite de mer, l'omble ou saumon de fontaine et l'omble chevalier ;
 
@@ -75400,9 +75167,16 @@ après leur capture si leur longueur est inférieure à :
 
 0,20 mètre pour le mulet ;
 
-0,09 mètre pour les écrevisses autres que l'écrevisse américaine.
+0,09 mètre pour les écrevisses appartenant aux espèces mentionnées à l'article R. 236-11.
+
+La longueur des poissons est mesurée du bout du museau à l'extrémité de la queue déployée, celle des écrevisses de la pointe
+de la tête, pinces et antennes non comprises, à l'extrémité de la queue déployée.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R236-11
 
 _Codifié par_:
 
@@ -75410,19 +75184,23 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°89-898 du 14 décembre 1989 - art. 4 () JORF 17 décembre 1989
+  - Décret n°94-157 du 16 février 1994 - art. 26 (Ab)
+  - Décret n°94-978 du 10 novembre 1994 - art. 14 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R236-23
 
 
 ###### Article R*236-24
 
-Par dérogation à l'article R. 236-23, la taille minimum de l'omble ou saumon de fontaine et des truites autres que la truite
-de mer peut être, en fonction de la dimension atteinte à l'âge de première reproduction :
-
-1° Portée à 0,25 mètre ou ramenée à 0,20 mètre par arrêté du préfet dans certains cours d'eau, canaux et plans d'eau du
-département ;
-
-2° Ramenée à 0,18 mètre par arrêté du préfet dans les cours d'eau ou parties de cours d'eau et plans d'eau de certaines
-régions montagneuses à sol acide.
+Le préfet peut, par arrêté motivé, porter à 0,25 mètre ou ramener à 0,20 mètre ou à 0,18 mètre la taille minimum de l'omble
+ou saumon de fontaine, de l'omble chevalier et des truites autres que la truite de mer susceptibles d'être pêchés en fonction
+des caractéristiques de développement  des poissons  de ces espèces dans certains cours d'eau.
 
 En outre, le préfet peut lever l'interdiction de pêcher la truite arc-en-ciel d'une longueur inférieure au minimum prévu par
 l'article R. 236-23 ou par le présent article dans les eaux de la 2e catégorie.
@@ -75439,31 +75217,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°94-40 du 7 janvier 1994 - art. 2 () JORF 15 janvier 1994
-
-
-###### Article R*236-25
-
-La longueur des poissons est mesurée du bout du museau à l'extrémité de la queue, celle des écrevisses de la pointe de la
-tête, pinces et antennes non comprises, à l'extrémité de la queue déployée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 20 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 15 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 _Abrogé par_:
 
-  - Décret n°94-978 du 10 novembre 1994 - art. 16 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R236-24
 
 
 ###### Article R*236-26
@@ -75474,73 +75236,43 @@ département ou dans certains cours d'eau, canaux ou plans d'eau.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Modifié par_:
+
+  - Décret n°94-978 du 10 novembre 1994 - art. 14 () JORF 13 novembre 1994 en vigueur le 1er janvier 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R236-26
+
 _Cite_:
 
   - Code rural R236-23
 
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 21 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
 
 ##### Sous-section 3 : Nombre de captures autorisées, conditions de capture.<a id=780></a>
-
-###### Article R*236-27
-
-Le ministre chargé de la pêche en eau douce établit la liste des cours d'eau ou partie de cours d'eau classés comme cours
-d'eau à saumon. Dans ces cours d'eau, il fixe le nombre de captures de saumons autorisé par pêcheur amateur et par pêcheur
-professionnel, par an et, le cas échéant, par jour. Chaque pêcheur doit tenir à jour un carnet de pêche et procéder à la pose
-d'une marque sur chaque poisson dès sa capture conformément aux prescriptions fixées par le ministre chargé de la pêche en
-eau douce.
-
-Ces mesures peuvent être étendues à la pêche de la truite de mer sur les cours d'eau classés comme cours d'eau à truite de
-mer par le ministre chargé de la pêche en eau douce.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 22 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-157 du 16 février 1994 - art. 26 (Ab) JORF 23 février 1994 en vigueur le 1er janvier 1995
-
 
 ###### Article R*236-28
 
 Le nombre de captures de salmonidés autres que le saumon et, le cas échéant, la truite de mer, autorisé par pêcheur et par
-jour, est fixé par arrêté du préfet.
+jour, est fixé à dix.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 23 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 17 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 
 ###### Article R*236-29
@@ -75567,24 +75299,36 @@ _Créé par_:
 
 ###### Article R*236-30
 
-Dans les eaux de la 1re catégorie, les membres des associations agréées de pêche et de pisciculture ne peuvent pêcher qu'au
-moyen de la ligne montée sur canne munie de deux hameçons au plus ou de trois mouches artificielles au plus, de la vermée, de
-la balance à écrevisses et des engins définis au premier alinéa de l'article R. 236-35. Une seule ligne et un maximum de six
-balances sont autorisés par pêcheur. Toutefois, l'emploi de trois lignes montées sur canne et munies chacune de deux hameçons
-au plus ou de trois mouches artificielles au plus est autorisé dans les eaux mentionnées à l'article L. 235-1 et dans les
-plans d'eau dont la liste est fixée par le préfet. Les lignes doivent être disposées à proximité du pêcheur.
+Les membres des associations agréées de pêche et de pisciculture peuvent pêcher au moyen :
 
-La pêche aux engins et aux filets dans les eaux de la 1re catégorie est interdite. Toutefois, les membres des associations
-agréées de pêcheurs professionnels en eau douce peuvent pêcher dans les plans d'eau dont la liste est fixée par le ministre
-chargé de la pêche en eau douce ou dans le cadre d'une autorisation de vidange de plan d'eau délivrée en application de
-l'article L. 232-9. La nature, les dimensions et le nombre des engins et filets autorisés pour ces pêcheurs, parmi ceux
-mentionnés à l'article R. 236-34, sont définis par le ministre chargé de la pêche en eau douce.
+1° a) De quatre lignes au plus dans les eaux de 2e catégorie ;
+
+b) De deux lignes au plus dans les eaux domaniales de 1re catégorie ainsi que dans les plans d'eau de 1re catégorie désignés
+par le préfet ;
+
+c) D'une ligne dans les eaux de 1re catégorie autres que celles mentionnées au 1° de l'article L. 235-1.
+
+Les lignes doivent être montées sur canne et munies de deux hameçons ou de trois mouches artificielles au plus. Elles doivent
+être disposées à proximité du pêcheur ;
+
+2° De la vermée et de six balances au plus destinées à la capture des écrevisses et des crevettes ;
+
+3° D'une carafe, ou bouteille, destinée à la capture des vairons et autres poissons servant d'amorces dont la contenance ne
+peut être supérieure à deux litres, dans les eaux de 2e catégorie. Le préfet peut autoriser ce moyen de pêche dans les eaux
+de 1re catégorie.
+
+Ils peuvent, en outre, dans les eaux non domaniales de 2e catégorie désignées par le ministre chargé de la pêche en eau
+douce, utiliser des engins et des filets mentionnés à l'article R. 236-32 dont la nature, les dimensions et le nombre sont
+fixés par le préfet.
+
+En outre, le préfet peut autoriser l'emploi d'un carrelet d'un mètre carré de superficie au plus et de lignes de fond munies
+pour l'ensemble de dix-huit hameçons au plus, dans les cours d'eau et les plans d'eau de 2e catégorie qu'il désigne.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural L232-9, L235-1, R236-35, R236-34
+  - Code rural L235-1, R236-32
 
 _Codifié par_:
 
@@ -75592,39 +75336,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°89-898 du 14 décembre 1989 - art. 5 () JORF 17 décembre 1989
-
-
-###### Article R*236-31
-
-Dans les eaux de la 2e catégorie, les membres des associations agréées de pêche et de pisciculture peuvent pêcher au moyen :
-
-1° De lignes montées sur canne et munies chacune de deux hameçons au plus ou de trois mouches artificielles au plus, avec un
-maximum de quatre lignes par pêcheur. Les lignes doivent être disposées à proximité du pêcheur ;
-
-2° De la vermée et de la balance à écrevisses ou à crevettes avec un maximum de six balances par pêcheur ;
-
-3° Des engins définis à l'article R. 236-35.
-
-Toutefois, le préfet peut, par arrêté, limiter le nombre de lignes autorisé par pêcheur.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R236-35
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Modifié par_:
-
-  - Décret n°89-898 du 14 décembre 1989 - art. 6 () JORF 17 décembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-978 du 10 novembre 1994 - art. 19 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+  - Décret n°94-978 du 10 novembre 1994 - art. 18 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 
 ###### Article R*236-32
@@ -75644,7 +75356,7 @@ mètres, ou un filet de type Coul de 1,50 mètre de diamètre maximum ;
 
 3° Trois nasses ;
 
-4° Six bosselles à anguilles ou six nasses de type anguillère ou à lamproie ;
+4° Six bosselles à anguilles ou six nasses de type anguillère à écrevisses ou à lamproie ;
 
 5° Six balances à écrevisses ou à crevettes ;
 
@@ -75668,40 +75380,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°89-898 du 14 décembre 1989 - art. 7 () JORF 17 décembre 1989
-
-
-###### Article R*236-33
-
-Dans les eaux de la 2e catégorie non mentionnées au 1° de l'article L. 235-1, les membres des associations agréées de pêche
-et de pisciculture ne peuvent pêcher au moyen d'engins et de filets, à l'exception de ceux définis au 2° et au 3° de
-l'article R. 236-31. Toutefois, par dérogation au même article, ils peuvent pêcher au moyen d'engins et de filets dans les
-cours d'eau et plans d'eau dont la liste est fixée par le ministre chargé de la pêche en eau douce. Dans ce cas, la nature,
-les dimensions et le nombre d'engins et de filets autorisés par l'article R. 236-32 sont fixés soit dans le cadre de la
-location du droit de pêche de l'Etat dans les eaux mentionnées au 2° de l'article L. 235-1, soit par arrêté du préfet dans
-les eaux non mentionnées à l'article L. 235-1.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L235-1, R236-31, R236-32
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 28 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-978 du 10 novembre 1994 - art. 21 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+  - Décret n°94-978 du 10 novembre 1994 - art. 20 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 
 ###### Article R*236-34
@@ -75762,38 +75441,6 @@ _Modifié par_:
   - Décret n°89-898 du 14 décembre 1989 - art. 8 () JORF 17 décembre 1989
 
 
-###### Article R*236-35
-
-Le préfet peut par arrêté autoriser l'emploi de la bouteille, de la carafe en verre et du baril pour la pêche des vairons et
-autres poissons servant d'amorces dans les cours d'eau où il estime que l'emploi de ces engins n'est pas dommageable. La
-contenance des bouteilles, carafes ou barils ne doit pas dépasser deux litres.
-
-Le préfet peut également autoriser l'emploi des fagots, fascines et nasses à écrevisses pour la pêche de l'écrevisse
-américaine dans les plans d'eau de la 2e catégorie.
-
-Le préfet peut autoriser en outre, dans les eaux de la 2e catégorie qu'il détermine, la pêche de toutes autres espèces au
-moyen d'un carrelet d'un mètre carré de superficie au plus et de lignes dormantes munies pour l'ensemble d'un maximum de dix-
-huit hameçons rectilignes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 30 (M)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-978 du 10 novembre 1994 - art. 21 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
-
-
 ###### Article R*236-36
 
 Sont seuls autorisés les filets, nasses, bosselles à anguilles et autres engins utilisés pour la pêche des poissons et des
@@ -75812,8 +75459,8 @@ b) Pour les espèces autres que celles désignées au a et au c :
 
 27 millimètres ;
 
-c) Pour l'anguille, le goujon, la loche, le vairon, la vandoise, l'ablette, les lamproies, le gardon, le chevesne et la brème
-ainsi que pour les espèces susceptibles de provoquer des déséquilibres biologiques : 10 millimètres.
+c) Pour l'anguille, le goujon, la loche, le vairon, la vandoise, l'ablette, les lamproies, le gardon, le chevesne, le hotu,
+la grémille et la brème ainsi que pour les espèces susceptibles de provoquer des déséquilibres biologiques : 10 millimètres.
 
 Pour la pêche de la civelle, la dimension de la maille des tamis peut être inférieure à 10 millimètres.
 
@@ -75822,15 +75469,7 @@ diagonale ne doit pas dépasser 0,30 mètre.
 
 Le diamètre de l'orifice d'entrée des bosselles à anguilles ne doit pas excéder 40 millimètres.
 
-Les nasses à écrevisses américaines dont l'emploi est autorisé en application de l'article R. 236-35 du code rural aux
-membres des associations agréées de pêche et de pisciculture ne doivent pas avoir plus de 0,30 mètre de diamètre et de 0,50
-mètre de longueur.
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R236-35
 
 _Codifié par_:
 
@@ -75838,14 +75477,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°89-898 du 14 décembre 1989 - art. 9 () JORF 17 décembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 22 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 
 ###### Article R*236-37
 
-Pour la pêche de la crevette vivant dans les eaux saumâtres et celle de l'écrevisse américaine, le préfet peut, par arrêté,
-autoriser l'emploi de filets ou engins comportant des mailles ou des espacements plus réduits que ceux définis à l'article R.
-236-36. Cet arrêté détermine les conditions d'emploi et les espacements de ces filets et engins.
+Pour la pêche de la crevette dans les eaux saumâtres, le préfet peut autoriser l'emploi d'engins comportant des mailles ou
+des espacements de 5 millimètres.
 
 Il peut également, à titre exceptionnel, compte tenu des usages locaux, délivrer des autorisations nominatives de pêche à
 l'anguille d'avalaison dans les eaux de la deuxième catégorie au moyen d'engins de type braie ou nasse et permettre, pour
@@ -75861,19 +75499,15 @@ décembre.
 
 _Cite_:
 
-  - Code rural R236-36, R236-21
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 32 (M)
+  - Code rural R236-21
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 23 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 
 ###### Article R*236-38
@@ -76020,12 +75654,14 @@ autorisé ;
 Toutefois, est autorisé pour retirer de l'eau le poisson déjà ferré l'emploi de l'épuisette et de la gaffe. Dans les cours
 d'eau et parties de cours d'eau classés comme cours d'eau à saumon, le préfet peut interdire l'usage de la gaffe ;
 
-3° De se servir d'armes à feu, de fagots sauf pour la pêche de l'anguille et de l'écrevisse américaine, de lacets ou de
-collets, de lumières ou feux sauf pour la pêche de la civelle, de matériel de plongée subaquatique ;
+3° De se servir d'armes à feu, de fagots sauf pour la pêche de l'anguille et des écrevisses appartenant aux espèces autres
+que celles mentionnées à l'article R. 236-11 de lacets ou de collets, de lumières ou feux sauf pour la pêche de la civelle,
+de matériel de plongée subaquatique ;
 
 4° De pêcher à l'aide d'un trimmer ou d'un engin similaire ;
 
-5° D'utiliser des appareils de sondage par ondes ;
+5° De détenir sur un bateau, en même temps que des moyens de pêche, ou d'utiliser des appareils de sondage par ondes ; sauf
+dans la zone mixte de l'estuaire de la Loire ;
 
 6° D'utiliser des lignes de traîne en dehors des conditions fixées aux articles R. 236-32 et R. 236-34 ;
 
@@ -76037,17 +75673,13 @@ _Cite_:
 
   - Code rural R236-32, R236-34
 
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 37 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 24 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 
 ###### Article R*236-43
@@ -76070,29 +75702,6 @@ _Abrogé par_:
   - Décret n°2002-965 du 2 juillet 2002 - art. 11 (V) JORF 9 juillet 2002
 
 
-###### Article R*236-44
-
-Il est interdit dans les cours d'eau de la première catégorie de fixer des hameçons au-dessus du plomb ou du lest immergé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 39 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-978 du 10 novembre 1994 - art. 25 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
-
-
 ###### Article R*236-45
 
 Pendant la période d'interdiction spécifique de la pêche du brochet, la pêche au vif, au poisson mort ou artificiel, à la
@@ -76104,9 +75713,8 @@ Cette interdiction ne s'applique pas :
 2° A certains cours d'eau, canaux et plans d'eau désignés par arrêté du préfet.
 
 Pendant la période d'interdiction spécifique de la pêche du brochet, l'emploi de l'épervier ainsi que des nasses et verveux,
-à l'exception des bosselles à anguilles et des nasses de type anguillère ou à lamproie, est interdit dans les eaux classées
-dans la deuxième catégorie sauf pour la pêche d'autres espèces pratiquée par les membres des associations agréées de pêcheurs
-professionnels en eau douce.
+à l'exception des bosselles à anguilles et des nasses de type anguillère à écrevisses ou à lamproie, est interdit dans les
+eaux classées dans la deuxième catégorie sauf pour la pêche d'autres espèces.
 
 **Liens relatifs à cet article**
 
@@ -76116,51 +75724,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°89-898 du 14 décembre 1989 - art. 12 () JORF 17 décembre 1989
-
-
-###### Article R*236-46
-
-Dans les cours d'eau de la première catégorie classés comme cours d'eau principalement peuplés d'ombres communs en
-application de l'article R. 236-10, la pêche de l'ombre commun ne peut être pratiquée qu'à la mouche artificielle pendant le
-temps d'interdiction fixé à l'article R. 236-6.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R236-6, R236-10
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 41 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-978 du 10 novembre 1994 - art. 27 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+  - Décret n°94-978 du 10 novembre 1994 - art. 26 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 
 ###### Article R*236-47
 
 Il est interdit d'utiliser comme appât ou comme amorce :
 
-1° Les oeufs de poissons, soit naturels, frais ou de conserve ou mélangés à une composition d'appâts, soit artificiels ;
+1° Les oeufs de poissons, naturels, frais, de conserve, ou mélangés à une composition d'appâts ou artificiels, dans tous les
+cours d'eau et plans d'eau ;
 
-2° Dans les eaux de la première catégorie, les asticots et autres larves de diptères.
-
-Le préfet peut également interdire tous appâts et amorces dont il estime l'emploi de nature à mettre en péril le patrimoine
-piscicole.
-
-Toutefois, le préfet peut autoriser l'emploi de ces appâts, sans amorçage, dans les plans d'eau ainsi que dans les cours
-d'eau ou parties de cours d'eau dont le débit moyen inter-annuel est supérieur à 2,5 mètres cubes par seconde.
+2° Les asticots et autres larves de diptères, dans les eaux de 1re catégorie.
 
 **Liens relatifs à cet article**
 
@@ -76170,32 +75744,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-766 du 28 août 1990 - art. 1 () JORF 1er septembre 1990
-
-
-###### Article R*236-48
-
-En vue de protéger les population de salmonidés dans certaines eaux de la deuxième catégorie, certains modes de pêche,
-amorces et appâts peuvent être interdits par arrêté du préfet pendant la période de fermeture de la pêche dans les eaux de la
-première catégorie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 43 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-978 du 10 novembre 1994 - art. 29 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+  - Décret n°94-978 du 10 novembre 1994 - art. 28 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 
 ###### Article R*236-49
@@ -76204,45 +75753,72 @@ Il est interdit d'appâter les hameçons, nasses, filets, verveux et tous autres
 taille minimum a été fixée par les articles R. 236-23 et R. 236-24, des espèces protégées par les dispositions des articles
 L. 211-1, L. 211-2 et L. 212-1 et des espèces mentionnées aux 1° et 2° de l'article L. 232-10.
 
-L'utilisation du chabot comme appât est interdite dans les eaux de la 1re catégorie.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code rural R236-23, R236-24, L211-1, L211-2, L212-1, L232-10
 
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 44 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 29 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R236-49
 
 
 ###### Article R*236-50
 
-En vue de protéger les frayères, le préfet peut interdire temporairement, par arrêté, la pêche en marchant dans l'eau dans
-les cours d'eau ou partie de cours d'eau de la 1re catégorie.
+Lorsque les caractéristiques locales du milieu aquatique justifient des mesures particulières de protection du patrimoine
+piscicole, le préfet peut, dans tous les cours d'eau et plans d'eau du département ou dans certains d'entre eux, par un
+arrêté motivé pris après avis des services géographiquement compétents du Conseil supérieur de la pêche :
+
+1° Prolonger d'une à trois semaines la période d'ouverture fixée à l'article R. 236-6, dans les plans d'eau et les parties de
+cours d'eau ou les cours d'eau de haute montagne ;
+
+2° Prolonger d'une à quatre semaines la période de fermeture de la pêche du brochet fixée à l'article R. 236-7 ;
+
+3° Interdire la pêche d'une ou plusieurs espèces de poissons dans certaines parties de cours d'eau ou de plans d'eau, pendant
+une durée qu'il détermine ;
+
+4° Interdire la pêche en marchant dans l'eau ;
+
+5° Interdire ou limiter l'emploi de certains modes ou procédés de pêche, et de certains appâts ou amorces ;
+
+6° Autoriser l'emploi des asticots comme appât, sans amorçage, dans certains plans d'eau et cours d'eau ou parties de cours
+d'eau de 1re catégorie ;
+
+7° Diminuer le nombre de captures autorisées, fixé à l'article R. 236-28 ;
+
+8° Interdire la pêche dans les parties de cours d'eau, de canaux ou de plans d'eau dont le niveau est naturellement abaissé,
+en fixant, le cas échéant, les conditions de récupération des poissons.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret n°85-1385 du 23 décembre 1985 - art. 45 (Ab)
+  - Code rural R236-6, R236-7, R236-28
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 30 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+
+_Abrogé par_:
+
+  - Décret n°2002-965 du 2 juillet 2002 - art. 14 (V) JORF 9 juillet 2002
 
 
 ##### Sous-section 6 : Dispositions diverses.<a id=783></a>
@@ -76251,27 +75827,23 @@ _Créé par_:
 
 Le ministre chargé de la pêche en eau douce fixe la liste des grands lacs intérieurs et des lacs de montagne pour lesquels le
 préfet peut établir par arrêté une réglementation spéciale pouvant porter dérogation aux prescriptions des articles R. 236-6,
-R. 236-7, R. 236-20, R. 236-21, R. 236-23, R. 236-30, R. 236-31 et R. 236-42 6°. Cette réglementation est déterminée après
-avis d'une commission dont la composition est fixée pour chaque lac ou ensemble de lacs par le ministre chargé de la pêche en
-eau douce.
+R. 236-7, R. 236-20, R. 236-21, R. 236-23, R. 236-28, R. 236-30, R. 236-31 et R. 236-42 6°. Cette réglementation est
+déterminée après avis d'une commission dont la composition est fixée pour chaque lac ou ensemble de lacs par le ministre
+chargé de la pêche en eau douce.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R236-6, R236-7, R236-20, R236-21, R236-23, R236-30, R236-31, R236-42
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 46 (M)
+  - Code rural R236-6, R236-7, R236-20, R236-21, R236-23, R236-30, R236-31, R236-28, R236-42
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 31 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 
 ###### Article R*236-52
@@ -76306,225 +75878,102 @@ _Nouveaux textes_:
 
 Les arrêtés du préfet prévus aux sous-sections 1 à 6 de la présente section sont pris après avis du délégué régional du
 Conseil supérieur de la pêche, de la fédération départementale des associations agréées de pêche et de pisciculture et, le
-cas échéant, de l'association agréée des pêcheurs professionnels. Les conseils généraux doivent être consultés par le préfet
-sur les mesures qu'il est amené à prendre pour l'application des articles R. 236-8, R. 236-15, R. 236-19, R. 236-33, R.
-236-34 et R. 236-37.
+cas échéant, de l'association agréée des pêcheurs professionnels.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R236-8, R236-15, R236-19, R236-33, R236-34, R236-37
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 48 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 32 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R236-53
 
 
 ##### Sous-section 7 : Dispositions pénales.<a id=784></a>
 
 ###### Article R*236-54
 
-Sera puni de l'amende prévue pour les contraventions de la 1re classe quiconque pêche en marchant dans l'eau dans les cours
-d'eau ou parties de cours d'eau où cette pratique est interdite en application de l'article R. 236-50.
+Sera puni de l'amende prévue pour les contraventions de la 3e classe :
 
-En cas de récidive, l'amende encourue sera celle qui est prévue pour les contraventions de la 2e classe.
+1° Le fait de pêcher pendant les temps d'interdiction prévus par les articles R. 236-6, R. 236-7, R. 236-11 et R. 236-12 ;
 
-Cette amende sera également encourue pour les infractions qui ont été commises de nuit.
+2° Le fait de pêcher pendant les heures d'interdiction prévues par les articles R. 236-18 à R. 236-22 ;
 
-**Liens relatifs à cet article**
+3° Le fait d'employer un procédé ou un mode de pêche prohibés en application des articles R. 236-30 à R. 236-38 et R. 236-40
+à R. 236-49 ;
 
-_Cite_:
+4° Le fait de pêcher, de transporter ou de vendre des poissons provenant des eaux soumises aux dispositions de la présente
+section qui n'ont pas les dimensions fixées par l'article R. 236-23 ou en application de l'article R. 236-24 ;
 
-  - Code rural R236-50
+5° Le fait de pêcher ou de transporter des poissons provenant des eaux soumises aux dispositions de la présente section dont
+le nombre excède celui fixé par l'article R. 236-28 ;
 
-_Anciens textes_:
+6° Le fait d'organiser un concours de pêche dans un cours d'eau de 1re catégorie sans avoir obtenu l'autorisation prévue à
+l'article R. 236-29 ou sans respecter les prescriptions de l'autorisation ;
 
-  - Décret n°85-1385 du 23 décembre 1985 - art. 49 (Ab)
+7° Le fait de ne pas respecter les prescriptions fixées par les arrêtés du préfet pris en application de l'article R.
+236-50 ;
 
-_Codifié par_:
+8° Le fait d'être trouvé, la nuit, porteur ou muni, hors de son domicile, d'instruments, filets ou engins de pêche prohibés
+destinés à être utilisés dans les eaux soumises aux dispositions de la présente section.
 
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-
-###### Article R*236-55
-
-Sera puni de l'amende prévue pour les contraventions de la 2e classe quiconque :
-
-1° Pratique la pêche à la ligne pendant les heures d'interdiction prévues en application des articles R. 236-18 et R.
-236-19 ;
-
-2° Pêche, transporte ou vend des poissons qui proviennent des eaux soumises aux dispositions de la présente section et qui
-n'ont pas les dimensions fixées en application des articles R. 236-23 et R. 236-24 ;
-
-3° Appâte ses hameçons, nasses, filets ou autres engins avec les poissons mentionnés à l'article R. 236-49.
-
-En cas de récidive, l'amende encourue sera celle qui est prévue pour les contraventions de la 3e classe. Cette amende sera
-également encourue pour les infractions aux 2° et 3° du présent article qui ont été commises de nuit.
+L'amende encourue sera celle qui est prévue pour les contraventions de la 4e classe lorsque les infractions aux 1°, 3°, 4°,
+5°, 6° et 7° ont été commises de nuit.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R236-18, R236-19, R236-23, R236-24, R236-49
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 50 (Ab)
+  - Code rural R236-6, R236-7, R236-11, R236-12, R236-18 à R236-22, R236-30 à R236-38, R236-40 à R236-49, R236-23, R236-24, R236-28, R236-29, R236-50
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-978 du 10 novembre 1994 - art. 34 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
-
-
-###### Article R*236-56
-
-Sera puni de l'amende prévue pour les contraventions de la 3e classe quiconque :
-
-1° Pêche ou transporte des poissons qui proviennent des eaux soumises aux dispositions de la présente section et dont le
-nombre excède celui qui est permis en application des articles R. 236-27 et R. 236-28, ou ne respecte pas les conditions de
-capture fixées en application de l'article R. 236-27 ;
-
-2° Est trouvé la nuit porteur ou muni, hors de son domicile, d'instruments, filets ou engins de pêche prohibés destinés à
-être utilisés dans les eaux soumises aux dispositions de la présente section ;
-
-3° Organise un concours de pêche dans les cours d'eau de la 1re catégorie sans avoir obtenu l'autorisation préalable du
-préfet ou sans respecter les prescriptions de l'autorisation.
-
-En cas de récidive, l'amende encourue sera celle qui est prévue pour les contraventions de la 4e classe. Cette amende sera
-également encourue pour les infractions au 1° du présent article qui ont été commises de nuit.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R236-27, R236-28
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 51 (M)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-978 du 10 novembre 1994 - art. 35 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
-
-
-###### Article R*236-57
-
-Sera puni de l'amende prévue pour les contraventions de la 4e classe quiconque :
-
-1° Fait usage de l'un des procédés ou modes de pêche ou de l'un des instruments, filets ou engins de pêche prohibés en
-application des articles R. 236-30 à R. 236-38 et R. 236-40 à R. 236-48 ;
-
-2° Pratique la pêche pendant les temps d'interdiction prévus en application des articles R. 236-6 à R. 236-17 ;
-
-3° Pratique la pêche aux engins et aux filets pendant les heures d'interdiction prévues en application des articles R. 236-18
-à R. 236-22.
-
-En cas de récidive, l'amende encourue sera celle qui est prévue pour les contraventions de la 5e classe. Cette amende sera
-encourue également pour les infractions aux 1° et 2° du présent article qui ont été commises de nuit.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R236-30, R236-38, R236-40, R236-48, R236-6, R236-17, R236-18, R236-22
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 52 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-978 du 10 novembre 1994 - art. 34 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
-
-
-###### Article R*236-58
-
-Sera puni de l'amende prévue pour les contraventions de la 5e classe quiconque commet l'une des infractions définies au 1° de
-l'article R. 236-57 pendant les temps d'interdiction prévus en application des articles R. 236-6 à R. 236-17.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R236-57, R236-6 à R236-17
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 53 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-978 du 10 novembre 1994 - art. 34 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+  - Décret n°94-978 du 10 novembre 1994 - art. 33 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 
 ###### Article R*236-59
 
-Toute personne qui commet des infractions aux arrêtés pris en application de l'article R. 236-51 sera punie des peines
-contraventionnelles prévues pour la violation des articles R. 236-6, R. 236-7, R. 236-23, R. 236-30 et R. 236-31.
+Sera puni de l'amende prévue pour les contraventions de la 3e classe le fait de ne pas respecter les prescriptions fixées par
+les arrêtés du préfet pris en application de l'article R. 236-51.
+
+L'amende encourue sera celle qui est prévue pour les contraventions de la 4e classe lorsque les infractions ont été commises
+de nuit.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R236-51, R236-6, R236-7, R236-23, R236-30, R236-31
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 54 (Ab)
+  - Code rural R236-51
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 35 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R236-59
 
 
 ###### Article R*236-60
@@ -78272,23 +77721,38 @@ _Nouveaux textes_:
 
 ###### Article R*236-117
 
-Sera puni de l'amende prévue pour les contraventions de la 2e classe quiconque :
+Sera puni de l'amende prévue pour les contraventions de la 3e classe :
 
-1° Pratique la pêche à la ligne pendant les heures d'interdiction prévues en application de l'article R. 236-101 ;
+1° Le fait de pêcher pendant les temps d'interdiction fixés par l'article R. 236-100 ;
 
-2° Pêche, transporte ou vend des poissons qui proviennent des eaux soumises aux dispositions de la présente sous-section et
-qui n'ont pas les dimensions fixées par l'article R. 236-103 ;
+2° Le fait de pêcher pendant les heures d'interdiction fixées par l'article R. 236-101 ou en application de l'article R.
+236-102 ;
 
-3° Utilise comme appâts des poissons des espèces définies à l'article R. 236-112 8°.
+3° Le fait d'employer un procédé ou un mode de pêche ou de l'un des instruments, filets ou engins de pêche prohibés en
+application des articles R. 236-106 à R. 236-110 et R. 236-112 (1° à 7°) ;
 
-En cas de récidive, l'amende encourue sera celle qui est prévue pour les contraventions de la 3e classe. Cette amende sera
-également encourue pour les infractions définies au 2° du présent article qui ont été commises de nuit.
+4° Le fait de pêcher, de transporter ou de vendre des poissons provenant des eaux soumises à la présente sous-section qui
+n'ont pas les dimensions fixées par l'article R. 236-103 ;
+
+5° Le fait de pêcher ou de transporter des poissons provenant des eaux soumises aux dispositions de la présente sous-section
+dont le nombre excède celui fixé par l'article R. 236-104 ;
+
+6° Le fait d'utiliser comme appâts des poissons appartenant aux espèces définies à l'article R. 236-112 (8°) ;
+
+7° Le fait d'être trouvé, la nuit, porteur ou muni, hors de son domicile, d'instruments, filets ou engins de pêche prohibés
+destinés à être utilisés dans les eaux soumises aux dispositions de la présente sous-section ;
+
+8° Le fait de pêcher dans les zones de protection du poisson fixées par les articles R. 236-113 à R. 236-115 et en
+application de l'article R. 236-116 ;
+
+L'amende encourue sera celle qui est prévue pour les contraventions de la 4e classe lorsque les infractions aux 1°, 3°, 4°,
+5°, 6° et 8° ont été commises de nuit.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R236-101, R236-103, R236-112
+  - Code rural R236-100, R236-101, R236-102, R236-106 à R236-110, R236-112, R236-103, R236-104, R236-113 à R236-115, R236-116
 
 _Codifié par_:
 
@@ -78296,107 +77760,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-1217 du 31 décembre 1990 - art. 8 () JORF 1er janvier 1991
-
-
-###### Article R*236-118
-
-Sera puni de l'amende prévue pour les contraventions de la 3e classe quiconque :
-
-1° Pêche ou transporte des poissons qui proviennent des eaux soumises aux dispositions de la présente sous-section et dont le
-nombre excède celui qui est permis en application de l'article R. 236-104 ;
-
-2° Est trouvé la nuit porteur ou muni, hors de son domicile, d'instruments, filets ou engins de pêche prohibés destinés à
-être utilisés dans les eaux soumises aux dispositions de la présente sous-section.
-
-En cas de récidive, l'amende encourue sera celle qui est prévue pour les contraventions de la 4e classe. Cette amende sera
-également encourue pour les infractions définies au 1° du présent article qui ont été commises de nuit.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R236-104
-
-_Anciens textes_:
-
-  - Décret n°88-230 du 9 mars 1988 - art. 20 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-978 du 10 novembre 1994 - art. 36 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 _Abrogé par_:
 
-  - Décret n°94-978 du 10 novembre 1994 - art. 37 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
+_Nouveaux textes_:
 
-###### Article R*236-119
-
-Sera puni de l'amende prévue pour les contraventions de la 4e classe quiconque :
-
-1° Fait usage de l'un des procédés ou modes de pêche ou de l'un des instruments, filets ou engins de pêche prohibés en
-application des articles R. 236-106 à R. 236-111 et R. 236-112 (1° à 7°) ;
-
-2° Pratique la pêche pendant les temps d'interdiction prévus en application de l'article R. 236-100 ;
-
-3° Pratique la pêche aux engins et aux filets pendant les heures d'interdiction prévues en application de l'article R.
-236-101 ou en violation des dispositions d'un arrêté pris en application de l'article R. 236-102 ;
-
-4° Ne respecte pas les zones de protection du poisson prévues aux articles R. 236-113 à R. 236-116.
-
-En cas de récidive, l'amende encourue sera celle qui est prévue pour les contraventions de la 5e classe. Cette amende sera
-encourue également pour les infractions définies aux 1°, 2° et 4° du présent article qui ont été commises de nuit.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R236-106 à R236-111, R236-112, R236-100, R236-101, R236-102, R236-113 à R236-116
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Modifié par_:
-
-  - Décret n°90-1217 du 31 décembre 1990 - art. 9 () JORF 1er janvier 1991
-
-_Abrogé par_:
-
-  - Décret n°94-978 du 10 novembre 1994 - art. 37 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
-
-
-###### Article R*236-120
-
-Sera puni de l'amende prévue pour les contraventions de la 5e classe quiconque commet l'une des infractions définies au 1° de
-l'article R. 236-119 pendant les temps d'interdiction prévus en application de l'article R. 236-100.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R236-119, R236-100
-
-_Anciens textes_:
-
-  - Décret n°88-230 du 9 mars 1988 - art. 22 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Abrogé par_:
-
-  - Décret n°94-978 du 10 novembre 1994 - art. 37 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
+  - Code de l'environnement R236-117
 
 
 ##### Paragraphe 7 : Capture de géniteurs.<a id=805></a>
