@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1990-01-25
+Version Consolidée au 1990-02-06
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L262-1)](#2)
@@ -536,7 +536,7 @@ Version Consolidée au 1990-01-25
           - [Section 1 : Etablissement du contrat, durée et prix du bail (art. R*411-1 à R411-9)](#533)
             - [Sous-section 3 : Prix du bail. (art. R*411-1 à R411-9)](#534)
           - [Section 8 : Droit de renouvellement et droit de reprise. (art. R411-10 à R411-13)](#535)
-          - [Section 9 : Indemnité au preneur sortant. (art. R*411-18 à R411-27)](#536)
+          - [Section 9 : Indemnité au preneur sortant. (art. R411-14 à R411-27)](#536)
         - [Chapitre IV : Commissions consultatives paritaires des baux ruraux (art. R*414-1 à R*414-6)](#537)
           - [Section 1 : Commissions consultatives paritaires départementales des baux ruraux. (art. R*414-1 à R414-3)](#538)
           - [Section 2 : Commissions consultatives paritaires régionales des baux ruraux. (art. R*414-5)](#539)
@@ -46827,21 +46827,25 @@ parcellaire des biens loués, ainsi que de tous autres éléments susceptibles d
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°83-213 1983-03-16
-
 _Cité par_:
 
-  - Décret n°2008-27 du 8 janvier 2008 - art. 2 (V)
   - Code rural - art. R411-9-10 (V)
   - Code rural - art. R416-2 (V)
+  - Décret n°2008-27 du 8 janvier 2008 - art. 2 (V)
   - Code rural et de la pêche maritime - art. D732-54 (V)
   - Code rural et de la pêche maritime - art. R411-2 (V)
 
 _Cite_:
 
   - Code rural L411-11 à L411-16
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Modifié par_:
+
+  - Décret n°1990-02-05 art. 1 JORF 6 février 1990
 
 
 ###### Article R*411-2
@@ -47080,72 +47084,6 @@ _Abrogé par_:
 
 ##### Section 9 : Indemnité au preneur sortant.<a id=536></a>
 
-###### Article R*411-18
-
-Le barème national à partir duquel pourront être fixées les tables d'amortissement destinées au calcul des indemnités
-auxquelles les preneurs de baux ruraux ont droit à l'expiration de leurs baux en raison des améliorations apportées par eux
-aux fonds loués en ce qui concerne les bâtiments d'exploitation et les ouvrages incorporés au sol, est fixé comme ci-après :
-
-A. - Bâtiments d'exploitation.
-
-1° Ouvrages autres que ceux définis aux 3° et 4° en matériaux lourds ou demi-lourds, tels que maçonnerie de pierres
-d'épaisseur au moins égale à 30 cm, briques d'épaisseur égale ou supérieure à 12 cm, béton armé et agglomérés de ciment
-(parpaings) ; ossatures et charpentes métalliques ou en bois traité.
-
-Durée minimale et maximale d'amortissement : 20 à 30 ans.
-
-2° Ouvrages autres que ceux définis aux 3° et 4° en matériaux légers, tels que bardages en matériaux légers ou incomplets ou
-briques d'épaisseur inférieure à 12 cm et amiante-ciment ; ossatures et charpentes autres que celles précédemment définies.
-
-Durée minimale et maximale d'amortissement : 15 à 25 ans.
-
-3° Couvertures en tuiles, ardoises, tôle galvanisée d'épaisseur égale ou supérieure à 0,6 mm, amiante-ciment et matériaux de
-qualité au moins équivalente.
-
-Durée minimale et maximale d'amortissement : 15 à 25 ans.
-
-4° Autres modes de couverture : chaume, bois, tôle galvanisée de moins de 0,6 mm notamment.
-
-Durée minimale et maximale d'amortissement : 10 à 20 ans.
-
-B. - Ouvrages incorporés au sol.
-
-1° Ouvrages constituant des immeubles par destination, à l'exception des ouvrages ou installations énumérées au 2° :
-
-a) Installations d'alimentation en eau, d'irrigation, d'assainissement, de drainage notamment.
-
-Durée minimale et maximale d'amortissement : 10 à 30 ans.
-
-b) Installations électriques dans des bâtiments autres que des étables.
-
-Durée minimale et maximale d'amortissement : 10 à 25 ans.
-
-c) Installations électriques dans des étables et installations électriques extérieures
-
-Durée minimale et maximale d'amortissement : 10 à 15 ans.
-
-2° Autres ouvrages ou installations, tels que clôtures ou matériel scellé au sol dans les bâtiments :
-
-a) Ouvrages et installations ne comportant pas d'éléments mobiles.
-
-Durée minimale et maximale d'amortissement : 10 à 20 ans.
-
-b) Ouvrages et installations comportant des éléments mobiles tels que matériel de ventilation, transporteurs et moteurs les
-mettant en mouvement.
-
-Durée minimale et maximale d'amortissement : 5 à 15 ans.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°83-213 1983-03-16
-
-_Cité par_:
-
-  - Code rural - art. R411-19 (V)
-
-
 ###### Article R411-14
 
 Les décisions administratives prévues aux articles L. 411-71 et L. 411-73 sont prises par arrêté du préfet du département
@@ -47215,6 +47153,100 @@ _Codifié par_:
 _Cite_:
 
   - Code rural - art. L411-73 (V)
+
+
+###### Article R411-18
+
+Le barème national à partir duquel pourront être fixées les tables d'amortissement destinées au calcul des indemnités
+auxquelles les preneurs de baux ruraux ont droit à l'expiration de leurs baux en raison des améliorations apportées par eux
+aux fonds loués en ce qui concerne les bâtiments d'exploitation, les ouvrages incorporés au sol et les bâtiments d'habitation
+est fixé comme ci-après :
+
+A. - Bâtiments d'exploitation.
+
+1° Ouvrages autres que ceux définis aux 3° et 4° en matériaux lourds ou demi-lourds, tels que maçonnerie de pierres
+d'épaisseur au moins égale à 30 cm, briques d'épaisseur égale ou supérieure à 12 cm, béton armé et agglomérés de ciment
+(parpaings) ; ossatures et charpentes métalliques ou en bois traité.
+
+Durée minimale et maximale d'amortissement : 20 à 30 ans
+
+2° Ouvrages autres que ceux définis aux 3° et 4° en matériaux légers, tels que bardages en matériaux légers ou incomplets ou
+briques d'épaisseur inférieure à 12 cm et amiante-ciment ; ossatures et charpentes autres que celles précédemment définies.
+
+Durée minimale et maximale d'amortissement : 15 à 25 ans.
+
+3° Couvertures en tuiles, ardoises, tôle galvanisée d'épaisseur égale ou supérieure à 0,6 mm, amiante-ciment et matériaux de
+qualité au moins équivalente.
+
+Durée minimale et maximale d'amortissement : 15 à 25 ans.
+
+4° Autres modes de couverture : chaume, bois, tôle galvanisée de moins de 0,6 mm notamment.
+
+Durée minimale et maximale d'amortissement : 10 à 20 ans.
+
+B. - Ouvrages incorporés au sol.
+
+1° Ouvrages constituant des immeubles par destination, à l'exception des ouvrages ou installations énumérées au 2° :
+
+a) Installations d'alimentation en eau, d'irrigation, d'assainissement, de drainage notamment.
+
+Durée minimale et maximale d'amortissement : 10 à 30 ans.
+
+b) Installations électriques dans des bâtiments autres que des étables.
+
+Durée minimale et maximale d'amortissement : 10 à 25 ans.
+
+c) Installations électriques dans des étables et installations électriques extérieures.
+
+Durée minimale et maximale d'amortissement : 10 à 15 ans.
+
+2° Autres ouvrages ou installations, tels que clôtures ou matériel scellé au sol dans les bâtiments :
+
+a) Ouvrages et installations ne comportant pas d'éléments mobiles.
+
+Durée minimale et maximale d'amortissement : 10 à 20 ans.
+
+b) Ouvrages et installations comportant des éléments mobiles tels que matériel de ventilation, transporteurs et moteurs les
+mettant en mouvement.
+
+Durée minimale et maximale d'amortissement : 5 à 15 ans.
+
+C. - Bâtiments d'habitation.
+
+1° Maisons de construction traditionnelle :
+
+a) Maisons construites par le preneur.
+
+Durée minimale et maximale d'amortissement : 50 à 60 ans.
+
+b) Extensions ou aménagements :
+
+- gros oeuvre.
+
+Durée minimale et maximale d'amortissement : 20 à 40 ans.
+
+- autres éléments.
+
+Durée minimale et maximale d'amortissement : 10 à 30 ans.
+
+2° Maisons préfabriquées.
+
+Durée minimale et maximale d'amortissement : 10 à 40 ans.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Modifié par_:
+
+  - Décret n°90-120 du 5 février 1990 - art. 2 () JORF 6 février 1990
+  - Décret n°90-120 du 5 février 1990 - art. 3 () JORF 6 février 1990
+
+_Cité par_:
+
+  - Code rural - art. R411-19 (V)
 
 
 ###### Article R411-19
