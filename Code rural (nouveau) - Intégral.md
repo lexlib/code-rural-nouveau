@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1984-02-15
+Version Consolidée au 1984-03-21
 ## Contenu: 
   - [Partie législative (art. L411-2 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-2 à L471-7)](#2)
@@ -18719,6 +18719,53 @@ _Nouveaux textes_:
   - Code rural R811-144
 
 
+###### Article R*812-2
+
+L'enseignement technologique de cycle court est sanctionné par la délivrance, après une durée minimale de deux années
+d'études, des diplômes énumérés ci-après portant mention d'options et éventuellement de sous-options :
+
+Certificat d'aptitude professionnelle agricole ;
+
+Brevet d'études professionnelles agricoles.
+
+Ces diplômes sont délivrés dans les conditions fixés par arrêté du ministre de l'agriculture soit à la suite d'examens
+publics, soit selon d'autres modalités.
+
+Les candidats ne peuvent se présenter à ces examens publics que s'ils ont suivi la formation correspondante définie par
+arrêté du ministre de l'agriculture.
+
+Ces diplômes sont respectivement les équivalents du certificat d'aptitude professionnelle et du brevet d'études
+professionnelles délivrés par le ministère de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°84-195 1984-03-19 art. 1 JORF 21 mars 1984
+
+_Cité par_:
+
+  - Décret n°95-370 du 6 avril 1995 - art. 18 (VD)
+  - Arrêté du 3 février 2003 - art. 10 (VT)
+  - Arrêté du 1er mars 2016 - art. 1 (V)
+  - Décret n°2016-854 du 27 juin 2016 - art. 1 (V)
+  - Code de l'éducation - art. D751-1 (V)
+  - Code rural - art. R814-11 (VD)
+  - Code rural - art. R814-12 (V)
+  - Code rural - art. R814-14 (V)
+  - Code rural - art. R814-15 (V)
+  - Code rural - art. R814-25 (V)
+  - Code rural et de la pêche maritime - art. R814-10 (V)
+
+
 ###### Article R*812-3
 
 En vue de l'adaptation à l'emploi, le brevet d'études professionnelles agricoles peut être complété par des certificats de
@@ -19078,6 +19125,30 @@ _Abrogé par_:
 _Cité par_:
 
   - Code rural - art. R813-10 (V)
+
+
+###### Article R*813-10
+
+Le brevet de technicien agricole est l'équivalent des brevets de technicien délivrés par le ministre de l'éducation et peut
+valoir dispense du baccalauréat en vue de l'inscription dans une unité d'enseignement et de recherche à caractère
+scientifique d'une université.
+
+Le brevet de technicien supérieur agricole est l'équivalent du brevet de technicien supérieur délivré par le ministère de
+l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°84-195 1984-03-19 art. 2 JORF 21 mars 1984
 
 
 ###### Article R*813-11
