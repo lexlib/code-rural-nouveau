@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1986-07-30
+Version Consolidée au 1986-10-18
 ## Contenu: 
   - [Partie législative (art. L411-1 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-1 à L481-1)](#2)
@@ -89,10 +89,10 @@ Version Consolidée au 1986-07-30
       - [Titre II : Sociétés coopératives agricoles (art. R523-9)](#86)
         - [Chapitre III : Capital social et dispositions financières (art. R523-9)](#87)
           - [Section 4 : Participation et intéressement. (art. R523-9)](#88)
-    - [Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux (art. R*511-3 à R*564-3)](#89)
-      - [Titre Ier : Chambres d'agriculture (art. R*511-3 à R*514-7)](#90)
-        - [Chapitre Ier : Chambres départementales (art. R*511-3 à R*511-122)](#91)
-          - [Section 1 : Institution et attributions. (art. R*511-3 à R511-4)](#92)
+    - [Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux (art. R*511-1 à R*564-3)](#89)
+      - [Titre Ier : Chambres d'agriculture (art. R*511-1 à R*514-7)](#90)
+        - [Chapitre Ier : Chambres départementales (art. R*511-1 à R511-124)](#91)
+          - [Section 1 : Institution et attributions. (art. R*511-1 à R511-4)](#92)
           - [Section 3 : Elections (art. R*511-13 à R*511-52)](#93)
             - [Sous-section 2 : Listes électorales (art. R*511-13 à R*511-29)](#94)
               - [Paragraphe 1 : Electeurs votant individuellement. (art. R*511-13 à R*511-25)](#95)
@@ -107,14 +107,14 @@ Version Consolidée au 1986-07-30
             - [Sous-section 8 : Cessation de mandat. (art. R*511-51)](#104)
             - [Sous-section 9 : Elections partielles. (art. R*511-52)](#105)
           - [Section 4 : Fonctionnement. (art. R*511-54 à R*511-70)](#106)
-          - [Section 5 : Régime financier (art. R*511-73 à R511-96)](#107)
-            - [Sous-section 1 : Opérations du budget général. (art. R*511-73 à R511-81)](#108)
+          - [Section 5 : Régime financier (art. R*511-71 à R511-96)](#107)
+            - [Sous-section 1 : Opérations du budget général. (art. R*511-72 à R511-82)](#108)
             - [Sous-section 2 : Opérations des budgets spéciaux. (art. R511-86 à R511-90)](#109)
             - [Sous-section 3 : Opérations communes au budget général et aux budgets spéciaux. (art. R*511-95 à R511-96)](#110)
-          - [Section 6 : Chambre interdépartementale de l'Ile-de-France. (art. R*511-97 à R*511-99)](#111)
-          - [Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer. (art. R*511-118 à R*511-122)](#112)
-        - [Chapitre II : Chambres régionales (art. R*512-1 à R*512-7)](#113)
-          - [Section 1 : Dispositions particulières aux chambres régionales d'agriculture. (art. R*512-1 à R*512-7)](#114)
+          - [Section 6 : Chambre interdépartementale de l'Ile-de-France. (art. R*511-97 à R*511-100)](#111)
+          - [Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer. (art. R*511-117 à R511-124)](#112)
+        - [Chapitre II : Chambres régionales (art. R*512-1 à R*512-8)](#113)
+          - [Section 1 : Dispositions particulières aux chambres régionales d'agriculture. (art. R*512-1 à R*512-8)](#114)
         - [Chapitre III : Assemblée permanente des chambres d'agriculture (art. R*513-1 à R513-28)](#115)
           - [Section 1 : Organisation et fonctionnement. (art. R*513-1 à R513-11)](#116)
           - [Section 2 : Comité permanent général, commissions et sections spécialisées. (art. R*513-12 à R513-21)](#117)
@@ -9357,6 +9357,62 @@ _Créé par_:
 
 ##### Section 1 : Institution et attributions.<a id=92></a>
 
+###### Article R*511-1
+
+Dans le cadre de leurs attributions consultatives, les chambres d'agriculture transmettent aux commissaires de la République
+leurs voeux sur toutes matières d'intérêt agricole. Ces voeux sont également adressés au président du conseil général
+lorsqu'ils ont trait à des matières relevant de la compétence du département.
+
+L'autorité administrative mentionnée au deuxième alinéa de l'article L. 511-3 est le préfet.
+
+Un exemplaire des usages codifiés mentionnés au troisième alinéa du même article est déposé et conservé au secrétariat des
+mairies pour être communiqué à ceux qui le demanderont.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L511-3
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°86-1122 1986-10-17 art. 1 JORF 18 octobre 1986
+
+
+###### Article R*511-2
+
+L'accord de l'autorité supérieure mentionné à l'article L. 511-5 est donné par le commissaire de la République dans un délai
+de deux mois à compter de la date de réception de la demande de la chambre d'agriculture. A défaut d'accord exprès dans ce
+délai ou de demande de modification ou de production de documents supplémentaires par le commissaire de la République, la
+délibération de la chambre est exécutoire.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L511-5
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°86-1123 1986-10-17 art. 1 JORF 18 octobre 1986
+
+
 ###### Article R*511-3
 
 Lorsqu'en application de l'article L. 511-4 du présent code et afin, notamment, de bénéficier des aides du Fonds national de
@@ -10485,6 +10541,52 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
+###### Article R*511-57
+
+Le président de la chambre d'agriculture avise le commissaire de la République et le président du conseil général au moins
+huit jours à l'avance de la date fixée pour la tenue des réunions et de l'ordre du jour des travaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°86-1122 1986-10-17 art. 2 JORF 18 octobre 1986
+
+
+###### Article R*511-58
+
+Le commissaire de la République et le président du conseil général du département où la chambre d'agriculture a son siège
+peuvent assister aux séances de la chambre. Ils sont entendus chaque fois qu'ils le demandent. Ils peuvent se faire assister
+ou représenter.
+
+Le directeur départemental de l'agriculture assiste à titre consultatif aux réunions de la chambre d'agriculture. Il peut se
+faire suppléer et se faire accompagner par tout fonctionnaire qualifié pour l'assister dans l'exercice de ses fonctions.
+
+Les chambres d'agriculture peuvent aussi entendre les personnes qu'il leur paraît utile de consulter.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°86-1122 1986-10-17 art. 3 JORF 18 octobre 1986
+
+
 ###### Article R*511-59
 
 Les séances des chambres d'agriculture ne sont pas publiques mais les chambres peuvent décider la publication de leurs
@@ -10727,6 +10829,46 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
+###### Article R*511-69
+
+Pour l'exercice des activités prévues aux articles L. 511-3 et R. 511-1, les chambres d'agriculture constituent des services
+généraux.
+
+Elles peuvent instituer toutes les fonctions administratives qu'elles jugent nécessaires à leur fonctionnement et voter les
+traitements et indemnités afférents à ces fonctions.
+
+Les agents des chambres sont nommés et révoqués par le président et placés sous son autorité.
+
+Dans chaque chambre d'agriculture, un directeur nommé par le président assure le fonctionnement de l'ensemble des services
+généraux et des établissements et services créés par la chambre, mentionnés au premier alinéa de l'article L. 511-4. Il est
+notamment à ce titre chef du personnel de la chambre d'agriculture. Il établit à la demande du président les propositions de
+nomination, révocation, promotion et avancement. Il peut faire partie de la délégation employeurs dans les commissions
+paritaires départementales et régionales prévues dans le statut du personnel administratif des chambres d'agriculture.
+
+Il assiste à titre consultatif aux réunions des formations délibérantes de la chambre et assure l'exécution de leurs
+décisions.
+
+Il peut recevoir délégation de signature du président conformément à l'article R. 511-64.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L511-3, R511-1, L511-4, R511-64
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°86-1122 1986-10-17 art. 4 JORF 18 octobre 1986
+
+
 ###### Article R*511-70
 
 Dans les cérémonies publiques, les membres des chambres d'agriculture prennent rang immédiatement après ceux des tribunaux de
@@ -10747,7 +10889,125 @@ _Créé par_:
 
 ##### Section 5 : Régime financier<a id=107></a>
 
+###### Article R*511-71
+
+Les chambres d'agriculture dressent leur budget général et les budgets spéciaux de leurs établissements et services d'utilité
+agricole. Ces budgets sont soumis à l'approbation du commissaire de la République.
+
+Ils sont exécutoires dans le délai de deux mois à compter de la date de leur réception par le commissaire de la République si
+dans ce délai ils n'ont fait l'objet ni d'une approbation expresse ni d'une demande de modification.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 14 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°86-1124 1986-10-17 art. 1 JORF 18 octobre 1986
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. D513-22 (V)
+
+
 ##### Sous-section 1 : Opérations du budget général.<a id=108></a>
+
+###### Article R*511-72
+
+Le budget des chambres d'agriculture comprend :
+
+- des recettes et dépenses de fonctionnement ;
+
+- des recettes et dépenses en capital.
+
+Les recettes et dépenses de fonctionnement comprennent notamment :
+
+Recettes :
+
+1° Le produit de la taxe perçue au bénéfice de la chambre d'agriculture ;
+
+2° Les revenus et intérêts des biens, fonds et valeurs leur appartenant ;
+
+3° Les taxes, droits ou primes en rémunération des services qu'elles rendent ;
+
+4° Les subventions des départements, des communes, des personnes ou associations privées ;
+
+5° Les subventions de l'Etat ;
+
+6° Les recettes accidentelles ou exceptionnelles ;
+
+7° Toutes autres ressources de caractère annuel et permanent.
+
+Dépenses :
+
+1° Les frais d'administration (personnel, matériel, impôts, missions, inspections, etc.) ;
+
+2° Les cotisations obligatoires (assemblée permanente des chambres d'agriculture, fonds national de péréquation et d'action
+professionnelle des chambres d'agriculture, chambre régionale, établissements ou services d'utilité agricole à compétence
+interdépartementale, centre régional de la propriété forestière, etc.) ;
+
+3° Les subventions, allocations, encouragements à diverses collectivités, oeuvres ou institutions s'occupant d'agriculture ;
+
+4° Les intérêts des emprunts ;
+
+5° Les dépenses accidentelles ou exceptionnelles.
+
+Les recettes et dépenses en capital comprennent notamment :
+
+Recettes :
+
+1° Le produit de l'aliénation des immobilisations et valeurs ;
+
+2° Les subventions d'équipement ;
+
+3° Le produit des emprunts qu'elles sont autorisées à contracter par arrêté du commissaire de la République. Toutefois,
+lorsque l'annuité de remboursement de l'emprunt pour lequel l'autorisation est demandée par une chambre d'agriculture,
+cumulée avec celle des emprunts antérieurement contractés par elle, est supérieure à 10 p. 100 du montant de la taxe pour
+frais de chambre d'agriculture, perçue à son profit au titre de l'exercice en cours, l'autorisation est donnée par arrêté du
+ministre de l'agriculture. L'arrêté du commissaire de la République ou du ministre de l'agriculture doit intervenir dans les
+deux mois à compter de la date de réception de l'accord de l'organisme prêteur. A défaut de publication d'un arrêté dans ce
+délai, de demande de modification ou de production de documents supplémentaires par le commissaire de la République ou le
+ministre de l'agriculture, la délibération de la chambre est exécutoire ;
+
+4° Le produit du remboursement des prêts et avances ;
+
+5° Le montant des dons et legs.
+
+Dépenses :
+
+1° Les acquisitions d'immobilisations ou de valeurs ;
+
+2° Les travaux neufs et les grosses réparations ;
+
+3° Le remboursement en capital des emprunts ;
+
+4° Les prêts et avances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°86-1123 1986-10-17 art. 2 JORF 18 octobre 1986
+
+_Cité par_:
+
+  - Code rural - art. R571-30 (V)
+
 
 ###### Article R*511-73
 
@@ -11011,6 +11271,46 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+
+###### Article R511-82
+
+Le président et l'agent comptable rendent compte de leur gestion dans un document commun, le compte financier, qui constate
+les résultats du budget de la chambre d'agriculture et décrit l'évolution du patrimoine.
+
+Le compte financier, établi par l'agent comptable dans les conditions prévues par le décret du 29 décembre 1962 et visé par
+le président, est soumis par ce dernier à la chambre d'agriculture qui en délibère.
+
+Il est soumis, pour approbation, au commissaire de la République, par les soins du président, avant le 1er juillet de l'année
+qui suit la clôture de l'exercice. Si dans un délai de deux mois à compter de la date de réception du compte financier par le
+commissaire de la République ce document n'a fait l'objet ni d'une approbation expresse ni d'une demande de modification, il
+est considéré comme étant approuvé.
+
+L'agent comptable le remet après son adoption par la chambre d'agriculture au trésorier-payeur général qui, après l'avoir mis
+en état d'examen, le transmet à la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°62-1587 1962-12-29
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 17 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°86-1124 1986-10-17 art. 2 JORF 18 octobre 1986
+
+_Cité par_:
+
+  - Décret n°2010-1629 du 23 décembre 2010 - art. 8 (VT)
 
 
 ##### Sous-section 2 : Opérations des budgets spéciaux.<a id=109></a>
@@ -11376,7 +11676,69 @@ _Modifié par_:
   - Décret n°86-484 du 14 mars 1986 - art. 4 () JORF 16 mars 1986
 
 
+###### Article R*511-100
+
+Les attributions et obligations dévolues aux commissaires de la République par les dispositions relatives aux chambres
+départementales d'agriculture sont exercées, en ce qui concerne la chambre d'agriculture de l'Ile-de-France, par le
+commissaire de la République des Yvelines, après consultation des commissaires de la République des autres départements
+intéressés.
+
+Le président du conseil de Paris, les présidents des conseils généraux des Yvelines, de l'Essonne, des Hauts-de-Seine, de la
+Seine-Saint-Denis, du Val-de-Marne et du Val-d'Oise peuvent assister aux séances de la chambre interdépartementale
+d'agriculture de l'Ile-de-France. Ils sont entendus chaque fois qu'ils le demandent. Ils peuvent se faire assister ou
+représenter.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°82-688 du 3 août 1982 - art. 4 () JORF 5 août 1982
+  - Décret n°86-1122 1986-10-17 art. 5 JORF 18 octobre 1986
+
+
 ##### Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer.<a id=112></a>
+
+###### Article R*511-117
+
+Les commissaires de la République de la Guadeloupe, de la Martinique et de la Réunion ont délégation permanente du ministre
+de l'agriculture pour :
+
+1° Demander la convocation de la chambre d'agriculture en session extraordinaire ;
+
+2° Approuver dans un délai de deux mois suivant leur réception les délibérations, budgets et comptes des chambres. Passé ce
+délai, ils sont exécutoires, faute d'une approbation expresse ou d'une demande de modification ;
+
+3° Autoriser les opérations immobilières et les emprunts y afférents, lorsque le coût de ces opérations ne rend pas
+nécessaire l'intervention de la commission départementale des opérations immobilières, de l'architecture et des espaces
+protégés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°82-897 du 19 octobre 1982 - art. 2 () JORF 20 octobre 1982
+  - Décret n°86-1124 1986-10-17 art. 4 JORF 18 octobre 1986
+
+_Abrogé par_:
+
+  - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
+
 
 ###### Article R*511-118
 
@@ -11589,6 +11951,63 @@ _Abrogé par_:
   - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
 
 
+###### Article R*511-123
+
+Le commissaire de la République a délégation permanente du ministre de l'agriculture pour :
+
+1° Demander la convocation de la chambre d'agriculture en session extraordinaire ;
+
+2° Approuver dans un délai de deux mois suivant la date de leur réception les délibérations, budgets et comptes de la
+chambre. Passé ce délai, ils sont exécutoires, faute d'approbation expresse ou d'une demande de modification ;
+
+3° Autoriser les opérations immobilières et les emprunts y afférents, lorsque le coût de ces opérations ne rend pas
+nécessaire l'intervention de la commission départementale des opérations immobilières, de l'architecture et des espaces
+protégés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°82-897 du 19 octobre 1982 - art. 2 () JORF 20 octobre 1982
+  - Décret n°86-1124 1986-10-17 art. 5 JORF 18 octobre 1986
+
+_Abrogé par_:
+
+  - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
+
+
+###### Article R511-124
+
+Les présidents du conseil général et du conseil régional peuvent assister aux séances de la chambre d'agriculture. Ils sont
+entendus chaque fois qu'ils le demandent. Ils peuvent se faire assister ou représenter.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°86-1122 1986-10-17 art. 6 JORF 18 octobre 1986
+
+_Abrogé par_:
+
+  - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
+
+
 #### Chapitre II : Chambres régionales<a id=113></a>
 
 ##### Section 1 : Dispositions particulières aux chambres régionales d'agriculture.<a id=114></a>
@@ -11711,6 +12130,40 @@ _Modifié par_:
 _Nouveaux textes_:
 
   - Code rural et de la pêche maritime - art. D512-7 (M)
+
+
+###### Article R*512-8
+
+Les recettes et les dépenses des chambres régionales et leur régime financier sont déterminés par décret pris sur le rapport
+du ministre de l'agriculture et du ministre chargé du budget.
+
+Les chambres départementales contribuent au financement de la chambre régionale sur les bases fixées par arrêté du
+commissaire de la République de région. Ces bases peuvent être modifiées dans la même forme.
+
+La chambre régionale d'agriculture dresse chaque année son budget primitif, qui est soumis, avant le 15 décembre, à
+l'approbation du commissaire de la République de la région où elle a son siège. Le budget primitif de la chambre régionale
+d'agriculture est exécutoire dans un délai de deux mois à compter de la date de sa réception par le commissaire de la
+République si dans ce délai il n'a fait l'objet ni d'une approbation expresse ni d'une demande de modification.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°82-688 du 3 août 1982 - art. 5 () JORF 5 août 1982
+  - Décret n°84-96 du 9 février 1984 - art. 24 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°86-1124 1986-10-17 art. 6 JORF 18 octobre 1986
+
+_Nouveaux textes_:
+
+  - Code rural et de la pêche maritime - art. D512-8 (M)
 
 
 #### Chapitre III : Assemblée permanente des chambres d'agriculture<a id=115></a>
