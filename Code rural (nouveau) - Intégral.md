@@ -1,8 +1,8 @@
 # Code rural (nouveau)  
-Version Consolidée au 1985-01-04
+Version Consolidée au 1985-01-10
 ## Contenu: 
   - [Partie législative (art. L411-1 à L815-4)](#1)
-    - [Livre IV : Baux ruraux (art. L411-1 à L471-7)](#2)
+    - [Livre IV : Baux ruraux (art. L411-1 à L481-1)](#2)
       - [Titre Ier : Statut du fermage et du métayage (art. L411-1 à L417-15)](#3)
         - [Chapitre Ier : Régime de droit commun (art. L411-1 à L411-78)](#4)
           - [Section 1 : Etablissement du contrat, durée et prix du bail (art. L411-4 à L411-24)](#5)
@@ -32,213 +32,214 @@ Version Consolidée au 1985-01-04
       - [Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer (art. L461-1 à L463-1)](#29)
         - [Chapitre Ier : Régime de droit commun (art. L461-1 à L461-28)](#30)
           - [Section 2 : Conclusion, durée, prix du bail. (art. L461-2 à L461-4)](#31)
-          - [Section 3 : Résiliation, cession et sous-location. (art. L461-7)](#32)
-          - [Section 4 : Congé, renouvellement, reprise. (art. L461-8 à L461-13)](#33)
+          - [Section 3 : Résiliation, cession et sous-location. (art. L461-5 à L461-7)](#32)
+          - [Section 4 : Congé, renouvellement, reprise. (art. L461-8 à L461-14)](#33)
           - [Section 5 : Indemnité du preneur sortant. (art. L461-15 à L461-17)](#34)
           - [Section 6 : Droit de préemption. (art. L461-18 à L461-23)](#35)
-          - [Section 7 : Dispositions diverses. (art. L461-25 à L461-28)](#36)
+          - [Section 7 : Dispositions diverses. (art. L461-24 à L461-28)](#36)
         - [Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage (art. L462-1 à L462-27)](#37)
           - [Section 1 : Régime du bail. (art. L462-1 à L462-21)](#38)
           - [Section 2 : Conversion en baux à ferme. (art. L462-22 à L462-26)](#39)
           - [Section 3 : Dispositions diverses et d'application. (art. L462-27)](#40)
         - [Chapitre III : Dispositions particulières aux baux à long terme. (art. L463-1)](#41)
       - [Titre VII : Location de jardins familiaux. (art. L471-1 à L471-7)](#42)
-    - [Livre V : Organismes professionnels agricoles (art. L515-1 à L515-5)](#43)
-      - [Titre Ier : Chambres d'agriculture (art. L515-1 à L515-5)](#44)
-        - [Chapitre V : Dispositions relatives au statut des salariés membres des chambres d'agriculture. (art. L515-1 à L515-5)](#45)
-    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. L815-1 à L815-4)](#46)
-      - [Titre Ier : Enseignement et formation professionnelle agricoles (art. L815-1 à L815-4)](#47)
-        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole publics. (art. L815-1 à L815-4)](#48)
-  - [Partie réglementaire (art. R*411-1 à R*831-15)](#49)
-    - [Livre IV : Baux ruraux (art. R*411-1 à R464-1)](#50)
-      - [Titre Ier : Statut du fermage et du métayage (art. R*411-1 à R417-3)](#51)
-        - [Chapitre Ier : Régime de droit commun (art. R*411-1 à R411-19)](#52)
-          - [Section 1 : Etablissement du contrat, durée et prix du bail (art. R*411-1 à R411-9)](#53)
-            - [Sous-section 3 : Prix du bail. (art. R*411-1 à R411-9)](#54)
-          - [Section 8 : Droit de renouvellement et droit de reprise. (art. R411-10 à R411-13)](#55)
-          - [Section 9 : Indemnité au preneur sortant. (art. R*411-18 à R411-19)](#56)
-        - [Chapitre IV : Commissions consultatives paritaires des baux ruraux (art. R*414-1 à R*414-6)](#57)
-          - [Section 1 : Commissions consultatives paritaires départementales des baux ruraux. (art. R*414-1 à R414-3)](#58)
-          - [Section 2 : Commissions consultatives paritaires régionales des baux ruraux. (art. R*414-5)](#59)
-          - [Section 3 : Commission consultative paritaire nationale des baux ruraux. (art. R*414-6)](#60)
-        - [Chapitre V : Dispositions diverses et d'application. (art. R*415-1 à R415-9)](#61)
-        - [Chapitre VI : Dispositions particulières au baux à long terme. (art. R416-1 à R416-3)](#62)
-        - [Chapitre VII : Dispositions particulières au baux à colonat partiaire ou métayage (art. R417-1 à R417-3)](#63)
-          - [Section 1 : Régime du bail. (art. R417-1)](#64)
-          - [Section 2 : Conversion en baux à ferme. (art. R417-2 à R417-3)](#65)
-      - [Titre III : Bail à domaine congéable (art. R431-1)](#66)
-      - [Titre IV : Bail à complant (art. R441-1 à R441-3)](#67)
-      - [Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer (art. R*461-1 à R464-1)](#68)
-        - [Chapitre Ier : Régime de droit commun (art. R*461-1 à R461-15)](#69)
-          - [Section 1 : Commission consultative des baux ruraux. (art. R*461-1 à R461-4)](#70)
-          - [Section 2 : Conclusion, durée, prix du bail. (art. R461-5 à R461-7)](#71)
-          - [Section 5 : Indemnité au preneur sortant. (art. R461-8 à R461-10)](#72)
-          - [Section 6 : Droit de préemption. (art. R461-11 à R461-13)](#73)
-          - [Section 7 : Dispositions diverses. (art. R461-14)](#74)
-          - [Section 8 : Dispositions diverses. (art. R461-15)](#75)
-        - [Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage (art. R*462-16 à R462-18)](#76)
-          - [Section 1 : Régime du bail. (art. R*462-16 à R462-15)](#77)
-          - [Section 2 : Conversion en baux à ferme. (art. R462-17)](#78)
-          - [Section 3 : Dispositions diverses et d'application. (art. R462-18)](#79)
-        - [Chapitre III : Dispositions particulières aux baux à long terme. (art. R463-1 à R463-3)](#80)
-        - [Chapitre IV : Dispositions d'application. (art. R464-1)](#81)
-    - [Livre V : Organismes professionnels agricoles (art. R523-9)](#82)
-      - [Titre II : Sociétés coopératives agricoles (art. R523-9)](#83)
-        - [Chapitre III : Capital social et dispositions financières (art. R523-9)](#84)
-          - [Section 4 : Participation et intéressement. (art. R523-9)](#85)
-    - [Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux (art. R*511-5 à R*564-3)](#86)
-      - [Titre Ier : Chambres d'agriculture (art. R*511-5 à R*514-7)](#87)
-        - [Chapitre Ier : Chambres départementales (art. R*511-5 à R*511-122)](#88)
-          - [Section 1 : Institution et attributions. (art. R*511-5)](#89)
-          - [Section 3 : Elections (art. R*511-13 à R*511-52)](#90)
-            - [Sous-section 2 : Listes électorales (art. R*511-13 à R*511-29)](#91)
-              - [Paragraphe 1 : Electeurs votant individuellement. (art. R*511-13 à R*511-25)](#92)
-              - [Paragraphe 2 : Groupements électeurs. (art. R*511-26 à R*511-29)](#93)
-            - [Sous-section 3 : Eligibilité et candidatures. (art. R*511-31 à R*511-35)](#94)
-            - [Sous-section 4 : Propagande. (art. R*511-36 à R*511-41)](#95)
-            - [Sous-section 6 : Opérations de vote (art. R*511-45 à R*511-49)](#96)
-              - [Paragraphe 2 : Electeurs votant individuellement. (art. R*511-45 à R*511-47)](#97)
-              - [Paragraphe 3 : Groupements électeurs. (art. R*511-48)](#98)
-              - [Paragraphe 4 : Recensement des votes. (art. R*511-49)](#99)
-            - [Sous-section 7 : Contentieux. (art. R*511-50)](#100)
-            - [Sous-section 8 : Cessation de mandat. (art. R*511-51)](#101)
-            - [Sous-section 9 : Elections partielles. (art. R*511-52)](#102)
-          - [Section 4 : Fonctionnement. (art. R*511-54 à R*511-70)](#103)
-          - [Section 5 : Régime financier (art. R*511-73 à R511-96)](#104)
-            - [Sous-section 1 : Opérations du budget général. (art. R*511-73 à R511-81)](#105)
-            - [Sous-section 2 : Opérations des budgets spéciaux. (art. R511-86 à R511-90)](#106)
-            - [Sous-section 3 : Opérations communes au budget général et aux budgets spéciaux. (art. R*511-95 à R511-96)](#107)
-          - [Section 6 : Chambre interdépartementale de l'Ile-de-France. (art. R*511-97 à R*511-98)](#108)
-          - [Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer. (art. R*511-118 à R*511-122)](#109)
-        - [Chapitre II : Chambres régionales (art. R*512-1 à R*512-7)](#110)
-          - [Section 1 : Dispositions particulières aux chambres régionales d'agriculture. (art. R*512-1 à R*512-7)](#111)
-        - [Chapitre III : Assemblée permanente des chambres d'agriculture (art. R*513-1 à R513-28)](#112)
-          - [Section 1 : Organisation et fonctionnement. (art. R*513-1 à R513-11)](#113)
-          - [Section 2 : Comité permanent général, commissions et sections spécialisées. (art. R*513-12 à R513-21)](#114)
-          - [Section 3 : Régime financier. (art. R*513-22 à R513-28)](#115)
-        - [Chapitre IV : Dispositions financières communes (art. R*514-1 à R*514-7)](#116)
-      - [Titre II : Sociétés coopératives agricoles (art. R*521-1 à R*529-2)](#117)
-        - [Chapitre Ier : Dispositions générales, constitution (art. R*521-1 à R*521-15)](#118)
-          - [Section 1 : Dispositions générales. (art. R*521-1 à R*521-5)](#119)
-          - [Section 2 : Constitution. (art. R*521-6 à R*521-15)](#120)
-        - [Chapitre II : Associés, tiers non coopérateurs (art. R*522-1 à R*522-9)](#121)
-          - [Section 1 : Associés coopérateurs. (art. R*522-1 à R*522-8)](#122)
-          - [Section 3 : Tiers non coopérateurs. (art. R*522-9)](#123)
-        - [Chapitre III : Capital social et dispositions financières (art. R*523-1 à R523-11)](#124)
-          - [Section 1 : Capital social. (art. R*523-1 à R*523-5)](#125)
-          - [Section 2 : Fonds de développement coopératif. (art. R*523-6 à R*523-7)](#126)
-          - [Section 3 : Prises de participation. (art. R523-8 à R523-11)](#127)
-        - [Chapitre IV : Administration (art. R*524-1 à R*524-42)](#128)
-          - [Section 1 : Conseil d'administration. (art. R*524-1 à R*524-9)](#129)
-          - [Section 3 : Assemblée générale. (art. R*524-12 à R*524-21)](#130)
-          - [Section 4 : Dispositions concernant les unions de coopératives. (art. R*524-23 à R*524-25)](#131)
-          - [Section 5 : Directoire et conseil de surveillance. (art. R*524-26 à R*524-42)](#132)
-        - [Chapitre V : Agrément, contrôle (art. R*525-1 à R525-17)](#133)
-          - [Section 1 : Agrément. (art. R*525-1 à R*525-12)](#134)
-          - [Section 2 : Contrôle. (art. R*525-13 à R525-17)](#135)
-        - [Chapitre VI : Dissolution, liquidation. (art. R*526-1 à R*526-4)](#136)
-        - [Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle (art. R*527-1 à R*527-11)](#137)
-          - [Section 1 : Fédérations de coopératives (art. R*527-1 à R*527-11)](#138)
-            - [Sous-section 1 : Dispositions générales. (art. R*527-1 à R*527-3)](#139)
-            - [Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision. (art. R*527-4 à R*527-11)](#140)
-        - [Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole (art. R*528-1 à R528-9)](#141)
-          - [Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément. (art. R*528-1 à R*528-7)](#142)
-          - [Section 2 : Commission départementale des structures agricoles. (art. R*528-8 à R528-9)](#143)
-        - [Chapitre IX : Dispositions pénales, dispositions d'application. (art. R*529-1 à R*529-2)](#144)
-      - [Titre III : Sociétés d'intérêt collectif agricole (art. R*531-1 à R*535-1)](#145)
-        - [Chapitre Ier : Constitution. (art. R*531-1 à R*531-5)](#146)
-        - [Chapitre II : Fonctionnement. (art. R*532-1 à R*532-5)](#147)
-        - [Chapitre III : Dispositions financières. (art. R*533-1 à R*533-3)](#148)
-        - [Chapitre IV : Transformation, dissolution, liquidation. (art. R*534-1 à R*534-4)](#149)
-        - [Chapitre V : Dispositions pénales. (art. R*535-1)](#150)
-      - [Titre IV : Sociétés mixtes d'intérêt agricole. (art. R541-1)](#151)
-      - [Titre V : Groupements de producteurs et comités économiques agricoles (art. R*551-1 à R*556-5)](#152)
-        - [Chapitre Ier : Groupements de producteurs. (art. R*551-1 à R*551-11)](#153)
-        - [Chapitre II : Comités économiques agricoles. (art. R*552-1 à R*552-15)](#154)
-        - [Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles (art. R*553-1 à R*553-17)](#155)
-          - [Section 1 : Droits d'inscription et cotisations. (art. R*553-1 à R*553-9)](#156)
-          - [Section 2 : Contrôle. (art. R*553-10 à R*553-16)](#157)
-          - [Section 3 : Dispositions diverses. (art. R*553-17)](#158)
-        - [Chapitre IV : Extension des règles édictées par les comités économiques agricoles (art. R*554-1 à R*554-29)](#159)
-          - [Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole. (art. R*554-1)](#160)
-          - [Section 2 : Procédure d'extension des règles (art. R*554-2 à R*554-29)](#161)
-            - [Sous-section 1 : Dispositions générales. (art. R*554-2 à R*554-6)](#162)
-            - [Sous-section 2 : Procédure de consultation des producteurs (art. R*554-7 à R*554-29)](#163)
-              - [Paragraphe 1 : Etablissement de la liste des producteurs. (art. R*554-7 à R*554-15)](#164)
-              - [Paragraphe 2 : Modalités de la consultation des producteurs. (art. R*554-16 à R*554-28)](#165)
-              - [Paragraphe 3 : Dispositions diverses. (art. R*554-29)](#166)
-        - [Chapitre V : Dispositions particulières aux départements d'outre-mer. (art. R*555-1 à R*555-4)](#167)
-        - [Chapitre VI : Pénalités. (art. R*556-1 à R*556-5)](#168)
-      - [Titre VI : Jardins familiaux (art. R*562-1 à R*564-3)](#169)
-        - [Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux (art. R*562-1)](#170)
-          - [Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER). (art. R*562-1)](#171)
-        - [Chapitre II : Préemption des terrains destinés à la création ou à l'aménagement de jardins familiaux (art. R*562-3)](#172)
-          - [Section 2 : Droit de préemption des collectivités locales. (art. R*562-3)](#173)
-        - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique. (art. R*563-1 à R*563-2)](#174)
-        - [Chapitre IV : Avantages divers et subventions. (art. R*564-1 à R*564-3)](#175)
-    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-38 à R*831-15)](#176)
-      - [Titre Ier : Enseignement et formation professionnelle agricoles (art. R*811-38 à R*816-4)](#177)
-        - [Chapitre Ier : Dispositions relatives à l'enseignement et à la formation professionnelle agricoles publics (art. R*811-38 à R*811-45)](#178)
-          - [Section 3 : Dispositions relatives aux établissements publics locaux d'enseignement et de formation professionnelle agricoles (art. R*811-38 à R*811-45)](#179)
-            - [Sous-section 2 : Organisation administrative (art. R*811-38 à R*811-45)](#180)
-              - [Paragraphe 3 : Les centres composant l'établissement public local (art. R*811-38 à R*811-45)](#181)
-                - [B. - Les centres d'enseignement et de formation. (art. R*811-38 à R*811-45)](#182)
-        - [Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles (art. R*811-1 à R*811-56)](#183)
-          - [Section 1 : Organisation générale (art. R*811-1 à R*811-12)](#184)
-            - [Sous-section 1 : Principes de base. (art. R*811-1 à R*811-2)](#185)
-            - [Sous-section 2 : Conseils et comités (art. R*811-3 à R*811-11)](#186)
-              - [Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale. (art. R*811-3 à R*811-9)](#187)
-              - [Paragraphe 2 : Comité de coordination. (art. R*811-10 à R*811-11)](#188)
-            - [Sous-section 3 : Promotion sociale. (art. R*811-12)](#189)
-          - [Section 2 : Reconnaissance et agrément des établissements privés (art. R*811-13 à R*811-51)](#190)
-            - [Sous-section 1 : Reconnaissance des établissements. (art. R*811-13 à R*811-31)](#191)
-              - [Paragraphe 1 : Conditions de la reconnaissance. (art. R*811-14 à R*811-22)](#192)
-              - [Paragraphe 2 : Instruction de la demande de reconnaissance. (art. R*811-23 à R*811-25)](#193)
-              - [Paragraphe 3 : Subventions et prêts. (art. R*811-26 à R*811-28)](#194)
-              - [Paragraphe 4 : Dispositions diverses. (art. R*811-29 à R*811-31)](#195)
-            - [Sous-section 2 : Agrément (art. R*811-32 à R*811-51)](#196)
-              - [Paragraphe 1 : Conditions d'octroi. (art. R*811-32 à R*811-37)](#197)
-              - [Paragraphe 2 : Dispositions financières. (art. R*811-39 à R*811-44)](#198)
-              - [Paragraphe 3 : Contrôle de l'Etat sur les établissements agrées. (art. R*811-46 à R*811-48)](#199)
-              - [Paragraphe 4 : Organisations représentatives de l'enseignement technique agricole privé. (art. R*811-49 à R*811-51)](#200)
-          - [Section 3 : Dispositions particulières aux départements d'outre-mer. (art. R*811-52 à R*811-56)](#201)
-        - [Chapitre II : Formations technologiques et professionnelles de cycle court (art. R*812-1 à R*812-6)](#202)
-          - [Section 1 : Enseignement technologique de cycle court par voie scolaire. (art. R*812-1 à R*812-4)](#203)
-          - [Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage. (art. R*812-5)](#204)
-          - [Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue. (art. R*812-6)](#205)
-        - [Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles (art. R*813-1 à R*813-12)](#206)
-          - [Section 1 : Enseignement technologique de cycle long. (art. R*813-1 à R*813-5)](#207)
-          - [Section 2 : Formation des techniciens supérieurs agricoles. (art. R*813-6 à R*813-7)](#208)
-          - [Section 3 : Dispositions communes. (art. R*813-8 à R*813-12)](#209)
-        - [Chapitre IV : Enseignement supérieur (art. R*814-1 à R*814-61)](#210)
-          - [Section 1 : Dispositions générales. (art. R*814-1 à R*814-4)](#211)
-          - [Section 2 : Enseignement supérieur agricole (art. R*814-5 à R*814-27)](#212)
-            - [Sous-section 1 : Formation des ingénieurs spécialisés en agriculture. (art. R*814-5)](#213)
-            - [Sous-section 2 : Formation des spécialistes en horticulture et des paysagistes. (art. R*814-6 à R*814-7)](#214)
-            - [Sous-section 3 : Formation des ingénieurs des industries agricoles et alimentaires. (art. R*814-8 à R*814-9)](#215)
-            - [Sous-section 4 : Formation des ingénieurs agronomes à vocation générale (art. R*814-10 à R*814-26)](#216)
-              - [Paragraphe 1 : Dispositions générales. (art. R*814-10 à R*814-19)](#217)
-              - [Paragraphe 2 : Dispositions particulières aux élèves étrangers. (art. R*814-20 à R*814-26)](#218)
-            - [Sous-section 5 : Dispositions relatives à la délivrance des diplômes. (art. R*814-27)](#219)
-          - [Section 3 : Enseignement supérieur vétérinaire (art. R*814-28 à R*814-43)](#220)
-            - [Sous-section 1 : Dispositions générales. (art. R*814-28 à R*814-29)](#221)
-            - [Sous-section 2 : Conditions d'admission des élèves. (art. R*814-30 à R*814-31)](#222)
-            - [Sous-section 3 : Enseignement et recherche. (art. R*814-32 à R*814-36)](#223)
-            - [Sous-section 4 : Administration. (art. R*814-37)](#224)
-            - [Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire. (art. R*814-38 à R*814-43)](#225)
-          - [Section 4 : Enseignement de l'agronomie des régions chaudes (art. R*814-44 à R*814-61)](#226)
-            - [Sous-section 1 : Dispositions générales. (art. R*814-44 à R*814-47)](#227)
-            - [Sous-section 2 : Administration du centre. (art. R*814-48 à R*814-57)](#228)
-            - [Sous-section 3 : Régime financier du centre. (art. R*814-58 à R*814-61)](#229)
-        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#230)
-          - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#231)
-          - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#232)
-        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-4)](#233)
-      - [Titre III : Recherche agronomique (art. R831-1 à R*831-15)](#234)
-        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#235)
-          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#236)
-          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#237)
-          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#238)
+      - [Titre VIII : Contrats d'exploitation de terres à vocation pastorale. (art. L481-1)](#43)
+    - [Livre V : Organismes professionnels agricoles (art. L515-1 à L515-5)](#44)
+      - [Titre Ier : Chambres d'agriculture (art. L515-1 à L515-5)](#45)
+        - [Chapitre V : Dispositions relatives au statut des salariés membres des chambres d'agriculture. (art. L515-1 à L515-5)](#46)
+    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. L815-1 à L815-4)](#47)
+      - [Titre Ier : Enseignement et formation professionnelle agricoles (art. L815-1 à L815-4)](#48)
+        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole publics. (art. L815-1 à L815-4)](#49)
+  - [Partie réglementaire (art. R*411-1 à R*831-15)](#50)
+    - [Livre IV : Baux ruraux (art. R*411-1 à R464-1)](#51)
+      - [Titre Ier : Statut du fermage et du métayage (art. R*411-1 à R417-3)](#52)
+        - [Chapitre Ier : Régime de droit commun (art. R*411-1 à R411-19)](#53)
+          - [Section 1 : Etablissement du contrat, durée et prix du bail (art. R*411-1 à R411-9)](#54)
+            - [Sous-section 3 : Prix du bail. (art. R*411-1 à R411-9)](#55)
+          - [Section 8 : Droit de renouvellement et droit de reprise. (art. R411-10 à R411-13)](#56)
+          - [Section 9 : Indemnité au preneur sortant. (art. R*411-18 à R411-19)](#57)
+        - [Chapitre IV : Commissions consultatives paritaires des baux ruraux (art. R*414-1 à R*414-6)](#58)
+          - [Section 1 : Commissions consultatives paritaires départementales des baux ruraux. (art. R*414-1 à R414-3)](#59)
+          - [Section 2 : Commissions consultatives paritaires régionales des baux ruraux. (art. R*414-5)](#60)
+          - [Section 3 : Commission consultative paritaire nationale des baux ruraux. (art. R*414-6)](#61)
+        - [Chapitre V : Dispositions diverses et d'application. (art. R*415-1 à R415-9)](#62)
+        - [Chapitre VI : Dispositions particulières au baux à long terme. (art. R416-1 à R416-3)](#63)
+        - [Chapitre VII : Dispositions particulières au baux à colonat partiaire ou métayage (art. R417-1 à R417-3)](#64)
+          - [Section 1 : Régime du bail. (art. R417-1)](#65)
+          - [Section 2 : Conversion en baux à ferme. (art. R417-2 à R417-3)](#66)
+      - [Titre III : Bail à domaine congéable (art. R431-1)](#67)
+      - [Titre IV : Bail à complant (art. R441-1 à R441-3)](#68)
+      - [Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer (art. R*461-1 à R464-1)](#69)
+        - [Chapitre Ier : Régime de droit commun (art. R*461-1 à R461-15)](#70)
+          - [Section 1 : Commission consultative des baux ruraux. (art. R*461-1 à R461-4)](#71)
+          - [Section 2 : Conclusion, durée, prix du bail. (art. R461-5 à R461-7)](#72)
+          - [Section 5 : Indemnité au preneur sortant. (art. R461-8 à R461-10)](#73)
+          - [Section 6 : Droit de préemption. (art. R461-11 à R461-13)](#74)
+          - [Section 7 : Dispositions diverses. (art. R461-14)](#75)
+          - [Section 8 : Dispositions diverses. (art. R461-15)](#76)
+        - [Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage (art. R*462-16 à R462-18)](#77)
+          - [Section 1 : Régime du bail. (art. R*462-16 à R462-15)](#78)
+          - [Section 2 : Conversion en baux à ferme. (art. R462-17)](#79)
+          - [Section 3 : Dispositions diverses et d'application. (art. R462-18)](#80)
+        - [Chapitre III : Dispositions particulières aux baux à long terme. (art. R463-1 à R463-3)](#81)
+        - [Chapitre IV : Dispositions d'application. (art. R464-1)](#82)
+    - [Livre V : Organismes professionnels agricoles (art. R523-9)](#83)
+      - [Titre II : Sociétés coopératives agricoles (art. R523-9)](#84)
+        - [Chapitre III : Capital social et dispositions financières (art. R523-9)](#85)
+          - [Section 4 : Participation et intéressement. (art. R523-9)](#86)
+    - [Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux (art. R*511-5 à R*564-3)](#87)
+      - [Titre Ier : Chambres d'agriculture (art. R*511-5 à R*514-7)](#88)
+        - [Chapitre Ier : Chambres départementales (art. R*511-5 à R*511-122)](#89)
+          - [Section 1 : Institution et attributions. (art. R*511-5)](#90)
+          - [Section 3 : Elections (art. R*511-13 à R*511-52)](#91)
+            - [Sous-section 2 : Listes électorales (art. R*511-13 à R*511-29)](#92)
+              - [Paragraphe 1 : Electeurs votant individuellement. (art. R*511-13 à R*511-25)](#93)
+              - [Paragraphe 2 : Groupements électeurs. (art. R*511-26 à R*511-29)](#94)
+            - [Sous-section 3 : Eligibilité et candidatures. (art. R*511-31 à R*511-35)](#95)
+            - [Sous-section 4 : Propagande. (art. R*511-36 à R*511-41)](#96)
+            - [Sous-section 6 : Opérations de vote (art. R*511-45 à R*511-49)](#97)
+              - [Paragraphe 2 : Electeurs votant individuellement. (art. R*511-45 à R*511-47)](#98)
+              - [Paragraphe 3 : Groupements électeurs. (art. R*511-48)](#99)
+              - [Paragraphe 4 : Recensement des votes. (art. R*511-49)](#100)
+            - [Sous-section 7 : Contentieux. (art. R*511-50)](#101)
+            - [Sous-section 8 : Cessation de mandat. (art. R*511-51)](#102)
+            - [Sous-section 9 : Elections partielles. (art. R*511-52)](#103)
+          - [Section 4 : Fonctionnement. (art. R*511-54 à R*511-70)](#104)
+          - [Section 5 : Régime financier (art. R*511-73 à R511-96)](#105)
+            - [Sous-section 1 : Opérations du budget général. (art. R*511-73 à R511-81)](#106)
+            - [Sous-section 2 : Opérations des budgets spéciaux. (art. R511-86 à R511-90)](#107)
+            - [Sous-section 3 : Opérations communes au budget général et aux budgets spéciaux. (art. R*511-95 à R511-96)](#108)
+          - [Section 6 : Chambre interdépartementale de l'Ile-de-France. (art. R*511-97 à R*511-98)](#109)
+          - [Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer. (art. R*511-118 à R*511-122)](#110)
+        - [Chapitre II : Chambres régionales (art. R*512-1 à R*512-7)](#111)
+          - [Section 1 : Dispositions particulières aux chambres régionales d'agriculture. (art. R*512-1 à R*512-7)](#112)
+        - [Chapitre III : Assemblée permanente des chambres d'agriculture (art. R*513-1 à R513-28)](#113)
+          - [Section 1 : Organisation et fonctionnement. (art. R*513-1 à R513-11)](#114)
+          - [Section 2 : Comité permanent général, commissions et sections spécialisées. (art. R*513-12 à R513-21)](#115)
+          - [Section 3 : Régime financier. (art. R*513-22 à R513-28)](#116)
+        - [Chapitre IV : Dispositions financières communes (art. R*514-1 à R*514-7)](#117)
+      - [Titre II : Sociétés coopératives agricoles (art. R*521-1 à R*529-2)](#118)
+        - [Chapitre Ier : Dispositions générales, constitution (art. R*521-1 à R*521-15)](#119)
+          - [Section 1 : Dispositions générales. (art. R*521-1 à R*521-5)](#120)
+          - [Section 2 : Constitution. (art. R*521-6 à R*521-15)](#121)
+        - [Chapitre II : Associés, tiers non coopérateurs (art. R*522-1 à R*522-9)](#122)
+          - [Section 1 : Associés coopérateurs. (art. R*522-1 à R*522-8)](#123)
+          - [Section 3 : Tiers non coopérateurs. (art. R*522-9)](#124)
+        - [Chapitre III : Capital social et dispositions financières (art. R*523-1 à R523-11)](#125)
+          - [Section 1 : Capital social. (art. R*523-1 à R*523-5)](#126)
+          - [Section 2 : Fonds de développement coopératif. (art. R*523-6 à R*523-7)](#127)
+          - [Section 3 : Prises de participation. (art. R523-8 à R523-11)](#128)
+        - [Chapitre IV : Administration (art. R*524-1 à R*524-42)](#129)
+          - [Section 1 : Conseil d'administration. (art. R*524-1 à R*524-9)](#130)
+          - [Section 3 : Assemblée générale. (art. R*524-12 à R*524-21)](#131)
+          - [Section 4 : Dispositions concernant les unions de coopératives. (art. R*524-23 à R*524-25)](#132)
+          - [Section 5 : Directoire et conseil de surveillance. (art. R*524-26 à R*524-42)](#133)
+        - [Chapitre V : Agrément, contrôle (art. R*525-1 à R525-17)](#134)
+          - [Section 1 : Agrément. (art. R*525-1 à R*525-12)](#135)
+          - [Section 2 : Contrôle. (art. R*525-13 à R525-17)](#136)
+        - [Chapitre VI : Dissolution, liquidation. (art. R*526-1 à R*526-4)](#137)
+        - [Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle (art. R*527-1 à R*527-11)](#138)
+          - [Section 1 : Fédérations de coopératives (art. R*527-1 à R*527-11)](#139)
+            - [Sous-section 1 : Dispositions générales. (art. R*527-1 à R*527-3)](#140)
+            - [Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision. (art. R*527-4 à R*527-11)](#141)
+        - [Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole (art. R*528-1 à R528-9)](#142)
+          - [Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément. (art. R*528-1 à R*528-7)](#143)
+          - [Section 2 : Commission départementale des structures agricoles. (art. R*528-8 à R528-9)](#144)
+        - [Chapitre IX : Dispositions pénales, dispositions d'application. (art. R*529-1 à R*529-2)](#145)
+      - [Titre III : Sociétés d'intérêt collectif agricole (art. R*531-1 à R*535-1)](#146)
+        - [Chapitre Ier : Constitution. (art. R*531-1 à R*531-5)](#147)
+        - [Chapitre II : Fonctionnement. (art. R*532-1 à R*532-5)](#148)
+        - [Chapitre III : Dispositions financières. (art. R*533-1 à R*533-3)](#149)
+        - [Chapitre IV : Transformation, dissolution, liquidation. (art. R*534-1 à R*534-4)](#150)
+        - [Chapitre V : Dispositions pénales. (art. R*535-1)](#151)
+      - [Titre IV : Sociétés mixtes d'intérêt agricole. (art. R541-1)](#152)
+      - [Titre V : Groupements de producteurs et comités économiques agricoles (art. R*551-1 à R*556-5)](#153)
+        - [Chapitre Ier : Groupements de producteurs. (art. R*551-1 à R*551-11)](#154)
+        - [Chapitre II : Comités économiques agricoles. (art. R*552-1 à R*552-15)](#155)
+        - [Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles (art. R*553-1 à R*553-17)](#156)
+          - [Section 1 : Droits d'inscription et cotisations. (art. R*553-1 à R*553-9)](#157)
+          - [Section 2 : Contrôle. (art. R*553-10 à R*553-16)](#158)
+          - [Section 3 : Dispositions diverses. (art. R*553-17)](#159)
+        - [Chapitre IV : Extension des règles édictées par les comités économiques agricoles (art. R*554-1 à R*554-29)](#160)
+          - [Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole. (art. R*554-1)](#161)
+          - [Section 2 : Procédure d'extension des règles (art. R*554-2 à R*554-29)](#162)
+            - [Sous-section 1 : Dispositions générales. (art. R*554-2 à R*554-6)](#163)
+            - [Sous-section 2 : Procédure de consultation des producteurs (art. R*554-7 à R*554-29)](#164)
+              - [Paragraphe 1 : Etablissement de la liste des producteurs. (art. R*554-7 à R*554-15)](#165)
+              - [Paragraphe 2 : Modalités de la consultation des producteurs. (art. R*554-16 à R*554-28)](#166)
+              - [Paragraphe 3 : Dispositions diverses. (art. R*554-29)](#167)
+        - [Chapitre V : Dispositions particulières aux départements d'outre-mer. (art. R*555-1 à R*555-4)](#168)
+        - [Chapitre VI : Pénalités. (art. R*556-1 à R*556-5)](#169)
+      - [Titre VI : Jardins familiaux (art. R*562-1 à R*564-3)](#170)
+        - [Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux (art. R*562-1)](#171)
+          - [Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER). (art. R*562-1)](#172)
+        - [Chapitre II : Préemption des terrains destinés à la création ou à l'aménagement de jardins familiaux (art. R*562-3)](#173)
+          - [Section 2 : Droit de préemption des collectivités locales. (art. R*562-3)](#174)
+        - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique. (art. R*563-1 à R*563-2)](#175)
+        - [Chapitre IV : Avantages divers et subventions. (art. R*564-1 à R*564-3)](#176)
+    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-38 à R*831-15)](#177)
+      - [Titre Ier : Enseignement et formation professionnelle agricoles (art. R*811-38 à R*816-4)](#178)
+        - [Chapitre Ier : Dispositions relatives à l'enseignement et à la formation professionnelle agricoles publics (art. R*811-38 à R*811-45)](#179)
+          - [Section 3 : Dispositions relatives aux établissements publics locaux d'enseignement et de formation professionnelle agricoles (art. R*811-38 à R*811-45)](#180)
+            - [Sous-section 2 : Organisation administrative (art. R*811-38 à R*811-45)](#181)
+              - [Paragraphe 3 : Les centres composant l'établissement public local (art. R*811-38 à R*811-45)](#182)
+                - [B. - Les centres d'enseignement et de formation. (art. R*811-38 à R*811-45)](#183)
+        - [Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles (art. R*811-1 à R*811-56)](#184)
+          - [Section 1 : Organisation générale (art. R*811-1 à R*811-12)](#185)
+            - [Sous-section 1 : Principes de base. (art. R*811-1 à R*811-2)](#186)
+            - [Sous-section 2 : Conseils et comités (art. R*811-3 à R*811-11)](#187)
+              - [Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale. (art. R*811-3 à R*811-9)](#188)
+              - [Paragraphe 2 : Comité de coordination. (art. R*811-10 à R*811-11)](#189)
+            - [Sous-section 3 : Promotion sociale. (art. R*811-12)](#190)
+          - [Section 2 : Reconnaissance et agrément des établissements privés (art. R*811-13 à R*811-51)](#191)
+            - [Sous-section 1 : Reconnaissance des établissements. (art. R*811-13 à R*811-31)](#192)
+              - [Paragraphe 1 : Conditions de la reconnaissance. (art. R*811-14 à R*811-22)](#193)
+              - [Paragraphe 2 : Instruction de la demande de reconnaissance. (art. R*811-23 à R*811-25)](#194)
+              - [Paragraphe 3 : Subventions et prêts. (art. R*811-26 à R*811-28)](#195)
+              - [Paragraphe 4 : Dispositions diverses. (art. R*811-29 à R*811-31)](#196)
+            - [Sous-section 2 : Agrément (art. R*811-32 à R*811-51)](#197)
+              - [Paragraphe 1 : Conditions d'octroi. (art. R*811-32 à R*811-37)](#198)
+              - [Paragraphe 2 : Dispositions financières. (art. R*811-39 à R*811-44)](#199)
+              - [Paragraphe 3 : Contrôle de l'Etat sur les établissements agrées. (art. R*811-46 à R*811-48)](#200)
+              - [Paragraphe 4 : Organisations représentatives de l'enseignement technique agricole privé. (art. R*811-49 à R*811-51)](#201)
+          - [Section 3 : Dispositions particulières aux départements d'outre-mer. (art. R*811-52 à R*811-56)](#202)
+        - [Chapitre II : Formations technologiques et professionnelles de cycle court (art. R*812-1 à R*812-6)](#203)
+          - [Section 1 : Enseignement technologique de cycle court par voie scolaire. (art. R*812-1 à R*812-4)](#204)
+          - [Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage. (art. R*812-5)](#205)
+          - [Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue. (art. R*812-6)](#206)
+        - [Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles (art. R*813-1 à R*813-12)](#207)
+          - [Section 1 : Enseignement technologique de cycle long. (art. R*813-1 à R*813-5)](#208)
+          - [Section 2 : Formation des techniciens supérieurs agricoles. (art. R*813-6 à R*813-7)](#209)
+          - [Section 3 : Dispositions communes. (art. R*813-8 à R*813-12)](#210)
+        - [Chapitre IV : Enseignement supérieur (art. R*814-1 à R*814-61)](#211)
+          - [Section 1 : Dispositions générales. (art. R*814-1 à R*814-4)](#212)
+          - [Section 2 : Enseignement supérieur agricole (art. R*814-5 à R*814-27)](#213)
+            - [Sous-section 1 : Formation des ingénieurs spécialisés en agriculture. (art. R*814-5)](#214)
+            - [Sous-section 2 : Formation des spécialistes en horticulture et des paysagistes. (art. R*814-6 à R*814-7)](#215)
+            - [Sous-section 3 : Formation des ingénieurs des industries agricoles et alimentaires. (art. R*814-8 à R*814-9)](#216)
+            - [Sous-section 4 : Formation des ingénieurs agronomes à vocation générale (art. R*814-10 à R*814-26)](#217)
+              - [Paragraphe 1 : Dispositions générales. (art. R*814-10 à R*814-19)](#218)
+              - [Paragraphe 2 : Dispositions particulières aux élèves étrangers. (art. R*814-20 à R*814-26)](#219)
+            - [Sous-section 5 : Dispositions relatives à la délivrance des diplômes. (art. R*814-27)](#220)
+          - [Section 3 : Enseignement supérieur vétérinaire (art. R*814-28 à R*814-43)](#221)
+            - [Sous-section 1 : Dispositions générales. (art. R*814-28 à R*814-29)](#222)
+            - [Sous-section 2 : Conditions d'admission des élèves. (art. R*814-30 à R*814-31)](#223)
+            - [Sous-section 3 : Enseignement et recherche. (art. R*814-32 à R*814-36)](#224)
+            - [Sous-section 4 : Administration. (art. R*814-37)](#225)
+            - [Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire. (art. R*814-38 à R*814-43)](#226)
+          - [Section 4 : Enseignement de l'agronomie des régions chaudes (art. R*814-44 à R*814-61)](#227)
+            - [Sous-section 1 : Dispositions générales. (art. R*814-44 à R*814-47)](#228)
+            - [Sous-section 2 : Administration du centre. (art. R*814-48 à R*814-57)](#229)
+            - [Sous-section 3 : Régime financier du centre. (art. R*814-58 à R*814-61)](#230)
+        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#231)
+          - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#232)
+          - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#233)
+        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-4)](#234)
+      - [Titre III : Recherche agronomique (art. R831-1 à R*831-15)](#235)
+        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#236)
+          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#237)
+          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#238)
+          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#239)
 # Partie législative<a id=1></a>
 
 ## Livre IV : Baux ruraux<a id=2></a>
@@ -741,6 +742,51 @@ _Cite_:
 _Cité par_:
 
   - Code rural - art. L416-2 (V)
+
+
+###### Article L411-15
+
+Lorsque le bailleur est une personne morale de droit public, le bail peut être conclu soit à l'amiable, soit par voie
+d'adjudication.
+
+Lorsque le bail est conclu à l'amiable, le prix du fermage doit être compris entre les maxima et les minima prévus à
+l'article L. 411-11 du présent code.
+
+Lorsque le bail est conclu par adjudication, les enchères sont arrêtées dès que le prix offert pour le fermage atteint le
+montant maximum fixé en application de l'article L. 411-11. Dans ce cas, tous les enchérisseurs peuvent se porter preneur au
+prix maximum. En cas de pluralité d'enchérisseurs à ce prix, le bailleur choisit parmi eux le bénéficiaire du nouveau bail ou
+procède par tirage au sort.
+
+Quel que soit le mode de conclusion du bail, une priorité est réservée aux exploitants qui réalisent une installation en
+bénéficiant de la dotation d'installation aux jeunes agriculteurs ou, à défaut, aux exploitants de la commune répondant aux
+conditions de capacité professionnelle et de superficie visées à l'article 188-2 du présent code, ainsi qu'à leurs
+groupements.
+
+Ces dispositions s'appliquent aux conventions pluriannuelles de pâturage visées à l'article 13 de la loi n° 72-12 du 3
+janvier 1972 relative à la mise en valeur pastorale dans les régions d'économie montagnarde.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L411-11, 188-2
+  - Loi n°72-12 du 3 janvier 1972 - art. 13 (Ab)
+
+_Créé par_:
+
+  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+
+_Modifié par_:
+
+  - Loi n°85-30 du 9 janvier 1985 - art. 37 () JORF 10 janvier 1985 rectificatif 2 mars 1985
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. L113-3 (V)
 
 
 ###### Article L411-16
@@ -5216,6 +5262,89 @@ _Cité par_:
 
 ##### Section 3 : Résiliation, cession et sous-location.<a id=32></a>
 
+###### Article L461-5
+
+Le bailleur ne peut faire résilier le bail que dans les cas suivants :
+
+a) S'il apporte la preuve :
+
+1° Soit de deux défauts de paiement ayant persisté à l'expiration d'un délai de trois mois après mise en demeure postérieure
+à l'échéance. Cette mise en demeure doit, à peine de nullité, faire mention de cette disposition ;
+
+2° Soit d'abus de jouissance du preneur de nature à compromettre la bonne exploitation du fonds ;
+
+3° Soit de la non-exploitation directe de tout ou partie du bien considéré ;
+
+b) S'il veut reprendre une partie des terres en vue de les affecter à la construction lorsque le bien rural est inclus en
+tout ou partie dans un périmètre de construction ou, en l'absence de projet d'aménagement, s'il veut reprendre des parcelles
+nécessaires pour le développement des agglomérations existantes, lorsqu'un avis favorable a été donné préalablement par la
+commission consultative des baux ruraux, le directeur départemental de l'équipement entendu. Le preneur, à raison du
+préjudice qu'il subit a droit à une indemnité d'éviction fixée par le tribunal paritaire des baux ruraux.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+
+_Modifié par_:
+
+  - Loi n°85-30 1985-01-09 art. 101 I JORF 10 janvier 1985
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. L461-11 (VD)
+  - Code rural - art. L461-21 (VD)
+  - Code rural - art. L461-27 (V)
+  - Code rural - art. L461-6 (VD)
+  - Code rural - art. R182-7 (V)
+  - Code rural - art. R461-8 (V)
+
+
+###### Article L461-6
+
+En cas de décès du preneur, son conjoint, ses ascendants et ses descendants qui participent à l'exploitation ou qui y ont
+participé effectivement et de façon continue pendant au moins un an au cours des cinq années qui ont précédé le décès
+bénéficient conjointement du bail en cours. Ce dernier peut, toutefois, être attribué par le tribunal paritaire des baux
+ruraux au conjoint ou à l'un des ayants droit réunissant les conditions précitées. En cas de demandes multiples, le tribunal
+paritaire des baux ruraux se prononce en considération des intérêts en présence et de l'aptitude des différents postulants à
+gérer l'exploitation et à s'y maintenir.
+
+Les ayants droit du preneur ont également la faculté de demander la résiliation du bail dans les six mois du décès de leur
+auteur.
+
+La même faculté est accordée au bailleur lorsque le preneur ne laisse pas de conjoint ou d'ayant droit réunissant les
+conditions énoncées au premier alinéa du présent article.
+
+La résiliation du bail peut encore être demandée par le preneur lorsque lui-même ou l'un des membres de sa famille
+indispensable au travail de la ferme est frappé d'incapacité de travail grave et permanente, lorsque la famille est privée,
+par suite de décès, d'un ou de plusieurs de ses membres indispensables au travail de la ferme ou lorsque le preneur est
+devenu propriétaire ou locataire d'une autre ferme qu'il doit exploiter lui-même.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+
+_Modifié par_:
+
+  - Loi n°85-30 1985-01-09 art. 101 I JORF 10 janvier 1985
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. L461-13 (VD)
+  - Code rural et de la pêche maritime - art. L461-18 (VT)
+
+
 ###### Article L461-7
 
 Nonobstant les dispositions de l'article 1717 du code civil, toute cession de bail est interdite ainsi que toute cession
@@ -5269,6 +5398,35 @@ _Codifié par_:
 _Cité par_:
 
   - Code rural - art. L461-11 (VD)
+
+
+###### Article L461-9
+
+Lors du renouvellement et à défaut d'accord des parties, le tribunal paritaire des baux ruraux fixe le prix du nouveau bail.
+Les autres clauses et conditions sont celles du bail précédent ; le tribunal paritaire des baux ruraux peut, toutefois, en
+tant que de besoin, modifier ces clauses à la demande d'une des parties.
+
+Le renouvellement du bail a pour effet de reporter à l'époque de sa sortie du fonds l'exercice par le preneur de son droit
+éventuel à indemnité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+
+_Modifié par_:
+
+  - Loi n°85-30 1985-01-09 art. 101 I JORF 10 janvier 1985
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. L461-21 (VD)
+  - Code rural - art. L461-27 (V)
 
 
 ###### Article L461-10
@@ -5392,6 +5550,33 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L144-4 (T)
 
 
+###### Article L461-14
+
+Le propriétaire qui entend s'opposer au renouvellement doit notifier congé au preneur dix-huit mois au moins avant
+l'expiration du bail.
+
+Le congé peut être déféré au tribunal paritaire des baux ruraux par le preneur dans un délai de quatre mois à dater de sa
+réception, sous peine de forclusion.
+
+A peine de nullité, le congé doit mentionner les motifs allégués par le propriétaire, indiquer, en cas de reprise, l'identité
+ou la raison sociale, le domicile ou le siège social, l'activité principale du ou des bénéficiaires éventuels, et reproduire
+les termes de l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+
+_Modifié par_:
+
+  - Loi n°85-30 1985-01-09 art. 101 I JORF 10 janvier 1985
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
 ##### Section 5 : Indemnité du preneur sortant.<a id=34></a>
 
 ###### Article L461-15
@@ -5404,6 +5589,27 @@ l'expiration du bail, à une indemnité due par le bailleur.
 _Créé par_:
 
   - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+###### Article L461-16
+
+Les améliorations consistant en constructions, plantations, ouvrages ou travaux de transformation du sol n'ouvrent droit à
+indemnité que si elles résultent d'une clause du bail ou si, à défaut d'accord du propriétaire, elles ont été autorisées par
+le tribunal paritaire des baux ruraux.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+
+_Modifié par_:
+
+  - Loi n°85-30 1985-01-09 art. 101 I JORF 10 janvier 1985
 
 _Codifié par_:
 
@@ -5524,6 +5730,33 @@ _Cité par_:
   - Code rural - art. L374-7 (V)
 
 
+###### Article L461-22
+
+Si l'aliénation est faite en fraude des droits du preneur ou moyennant un prix inférieur ou à des conditions plus favorables
+à l'acquéreur que celles qui ont été notifiées au preneur, le tribunal paritaire des baux ruraux peut, à la requête de ce
+dernier indépendamment de l'attribution éventuelle à son profit de dommages-intêrets, prononcer l'annulation de l'aliénation
+et le substituer au tiers acquéreur, aux conditions acceptées par ce dernier. Le preneur doit, à peine de forclusion, saisir
+le tribunal paritaire des baux ruraux dans le délai d'un an à partir du jour où il a eu connaissance de l'aliénation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+
+_Modifié par_:
+
+  - Loi n°85-30 1985-01-09 art. 101 I JORF 10 janvier 1985
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Abrogé par_:
+
+  - Loi n°2006-11 du 5 janvier 2006 - art. 98 () JORF 6 janvier 2006
+
+
 ###### Article L461-23
 
 Conformément à l'article 707 bis du code général des impôts, en cas d'éviction d'un acquéreur, l'exercice du droit de
@@ -5552,6 +5785,36 @@ _Abrogé par_:
 
 
 ##### Section 7 : Dispositions diverses.<a id=36></a>
+
+###### Article L461-24
+
+Pendant la durée du bail, le preneur peut effectuer des échanges ou prendre en location des parcelles dans le but d'assurer
+une meilleure exploitation.
+
+Le propriétaire doit être, préalablement à l'échange, informé de celui-ci par le preneur. En cas de désaccord entre les
+parties, l'échange peut être autorisé par le tribunal paritaire des baux ruraux dans la limite du quart de la surface totale
+du fonds loué.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+
+_Modifié par_:
+
+  - Loi n°85-30 1985-01-09 art. 101 I JORF 10 janvier 1985
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 3
+  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 5
+  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
+
 
 ###### Article L461-25
 
@@ -5728,6 +5991,84 @@ _Créé par_:
 _Modifié par_:
 
   - Loi n°84-741 du 1 août 1984 - art. 28 (M) JORF 2 août 1984
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+###### Article L462-5
+
+Le preneur a droit au renouvellement de son bail sauf dans les cas suivants :
+
+1° si le bailleur justifie contre celui-ci d'un motif grave et légitime ;
+
+2° si le bailleur veut reprendre le fonds pour l'exploiter personnellement d'une manière effective et permanente pendant une
+durée minimum de neuf ans ou pour y installer, avec les mêmes obligations, un de ses descendants ou un descendant de son
+conjoint, majeur ou mineur émancipé ;
+
+3° si le bailleur est une société d'aménagement foncier et d'établissement rural, agréée en application de l'article L. 141-6
+du code rural qui effectue une opération de lotissement, à moins que le preneur n'exploite une superficie d'un seul tenant
+égale à la superficie moyenne, constatée par arrêté du commissaire de la République du département, des exploitations à
+constituer dans ce lotissement par la société d'aménagement foncier et d'établissement rural pour les mêmes catégories de
+cultures. Dans ce dernier cas, la durée du bail peut être prorogée au plus jusqu'au terme de la période légale pendant
+laquelle la société d'aménagement foncier et d'établissement rural peut demeurer propriétaire.
+
+Le bailleur qui entend s'opposer au renouvellement ou le preneur qui entend y renoncer doit notifier sa décision dix-huit
+mois avant l'expiration du bail.
+
+A défaut de congé, le bail est renouvelé pour une durée minimum de neuf ans. Sauf conventions contraires, les clauses et
+conditions  du nouveau bail sont celles du bail précédent. Toutefois, à défaut d'accord entre les parties, le tribunal
+paritaire des baux ruraux statue sur les clauses et conditions contestées du nouveau bail.
+
+Au cas où il viendrait à être établi que celui qui a invoqué le droit de reprise ne se trouve pas dans les conditions
+permettant l'exploitation effective et permanente du fonds prévue au 2° ci-dessus, ou que le propriétaire n'a exercé la
+reprise du fonds ou d'une partie du fonds qu'afin de faire fraude au droit du preneur, notamment par des opérations de
+locations ou de vente, le preneur a droit, soit au maintien dans les lieux si la décision validant le congé n'a pas encore
+été exécutée, soit à la réintégration dans le fonds ou à la reprise en jouissance des parcelles avec ou sans dommages-
+intérêts, soit à des dommages-intérêts.
+
+Pour bénéficier du droit au renouvellement, le preneur doit remplir les obligations imposées au bénéficiaire de la reprise
+par le 2° ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°60-808 1960-08-05 art. 15
+
+_Créé par_:
+
+  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+
+_Modifié par_:
+
+  - Loi n°84-741 du 1 août 1984 - art. 28 (M) JORF 2 août 1984
+  - Loi n°85-30 1985-01-09 art. 101 I JORF 10 janvier 1985
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+###### Article L462-6
+
+Les dispositions de l'article L. 411-32 sont applicables aux baux à colonat partiaire dans les départements de la Guadeloupe,
+de la Martinique, de la Guyane, de la Réunion et de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L411-32
+
+_Créé par_:
+
+  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+
+_Modifié par_:
+
+  - Loi n°85-30 1985-01-09 art. 101 II JORF 10 janvier 1985
 
 _Codifié par_:
 
@@ -6126,6 +6467,32 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L462-22 (VT)
 
 
+###### Article L462-24
+
+A défaut d'accord entre les parties, le tribunal paritaire des baux ruraux de la situation des lieux, statue, en fonction des
+intérêts en présence, après avis d'une commission comprenant en nombre égal des représentants des bailleurs, des preneurs et
+de l'administration, désignés par le commissaire de la République du département au sein de la commission consultative des
+baux ruraux.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+
+_Modifié par_:
+
+  - Loi n°85-30 1985-01-09 art. 101 III JORF 10 janvier 1985
+
+_Codifié par_:
+
+  - Loi n°91-363 du 15 avril 1991
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-391 du 31 mars 2016 - art. 6
+
+
 ###### Article L462-25
 
 La conversion s'applique à l'ensemble de l'exploitation, y compris le cheptel vif et le matériel affectés à celle-ci.
@@ -6394,11 +6761,65 @@ _Cité par_:
   - Code rural - art. L471-4 (V)
 
 
-## Livre V : Organismes professionnels agricoles<a id=43></a>
+### Titre VIII : Contrats d'exploitation de terres à vocation pastorale.<a id=43></a>
 
-### Titre Ier : Chambres d'agriculture<a id=44></a>
+###### Article L481-1
 
-#### Chapitre V : Dispositions relatives au statut des salariés membres des chambres d'agriculture.<a id=45></a>
+Les terres à vocation pastorale situées dans les régions d'économie montagnarde définies en application de l'article 1er de
+la loi n° 72-12 du 3 janvier 1972 relative à la mise en valeur pastorale dans les régions d'économie montagnarde, peuvent
+donner lieu pour leur exploitation :
+
+- soit à des contrats de bail conclus dans le cadre du statut des baux ruraux ;
+
+- soit à des contrats dans le cadre d'une convention départementale adaptée aux situations locales et conclus dans les
+conditions qui seront fixées par la loi prévue à l'article 5 de la loi n° 70-1298 du 31 décembre 1970 relative au bail rural
+à long terme ;
+
+- soit à des conventions pluriannuelles de pâturages. Ces conventions peuvent prévoir les travaux d'aménagement, d'équipement
+ou d'entretien qui sont mis à la charge de chacune des parties. Elles sont conclues moyennant un loyer demeurant dans les
+limites particulières fixées pour les conventions de l'espèce par arrêté du commissaire de la République du département après
+avis de la chambre d'agriculture.
+
+L'existence d'une convention pluriannuelle de pâturage ou d'un contrat de bail rural ne fait pas obstacle à la conclusion par
+le propriétaire d'autres contrats, pour l'utilisation du fonds à des fins non agricoles, pendant la période continue
+d'enseignement, dans des conditions sauvegardant les possibilités de mise en valeur pastorale.
+
+Les dispositions du présent article ne sont pas applicables dans le département de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°70-1298 1970-12-31 art. 5
+  - Loi n°72-12 du 3 janvier 1972 - art. 1, v. init.
+
+_Créé par_:
+
+  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code forestier (nouveau) - art. L133-10 (VD)
+  - Code général des collectivités territoriales - art. L2411-10 (V)
+  - Code rural - art. L113-2 (V)
+  - Code rural - art. L113-3 (V)
+  - Code rural - art. L136-12 (V)
+  - Code rural - art. L411-15 (V)
+  - Code rural - art. L481-2 (V)
+  - Code rural - art. L481-3 (V)
+  - Code rural et de la pêche maritime - art. R142-1 (V)
+  - Code rural et de la pêche maritime - art. R480-1 (V)
+
+
+## Livre V : Organismes professionnels agricoles<a id=44></a>
+
+### Titre Ier : Chambres d'agriculture<a id=45></a>
+
+#### Chapitre V : Dispositions relatives au statut des salariés membres des chambres d'agriculture.<a id=46></a>
 
 ###### Article L515-1
 
@@ -6534,11 +6955,11 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D511-85 (V)
 
 
-## Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique<a id=46></a>
+## Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique<a id=47></a>
 
-### Titre Ier : Enseignement et formation professionnelle agricoles<a id=47></a>
+### Titre Ier : Enseignement et formation professionnelle agricoles<a id=48></a>
 
-#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole publics.<a id=48></a>
+#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole publics.<a id=49></a>
 
 ###### Article L815-1
 
@@ -6654,17 +7075,17 @@ _Abrogé par_:
   - Loi n°93-935 du 22 juillet 1993 - art. 3 (V) JORF 23 juillet 1993
 
 
-# Partie réglementaire<a id=49></a>
+# Partie réglementaire<a id=50></a>
 
-## Livre IV : Baux ruraux<a id=50></a>
+## Livre IV : Baux ruraux<a id=51></a>
 
-### Titre Ier : Statut du fermage et du métayage<a id=51></a>
+### Titre Ier : Statut du fermage et du métayage<a id=52></a>
 
-#### Chapitre Ier : Régime de droit commun<a id=52></a>
+#### Chapitre Ier : Régime de droit commun<a id=53></a>
 
-##### Section 1 : Etablissement du contrat, durée et prix du bail<a id=53></a>
+##### Section 1 : Etablissement du contrat, durée et prix du bail<a id=54></a>
 
-##### Sous-section 3 : Prix du bail.<a id=54></a>
+##### Sous-section 3 : Prix du bail.<a id=55></a>
 
 ###### Article R*411-1
 
@@ -6869,7 +7290,7 @@ _Cite_:
   - Code rural - art. L411-76 (V)
 
 
-##### Section 8 : Droit de renouvellement et droit de reprise.<a id=55></a>
+##### Section 8 : Droit de renouvellement et droit de reprise.<a id=56></a>
 
 ###### Article R411-10
 
@@ -6936,7 +7357,7 @@ _Abrogé par_:
   - Décret n°2017-1771 du 27 décembre 2017 - art. 9
 
 
-##### Section 9 : Indemnité au preneur sortant.<a id=56></a>
+##### Section 9 : Indemnité au preneur sortant.<a id=57></a>
 
 ###### Article R*411-18
 
@@ -7093,9 +7514,9 @@ _Cite_:
   - Code rural - art. R411-18 (V)
 
 
-#### Chapitre IV : Commissions consultatives paritaires des baux ruraux<a id=57></a>
+#### Chapitre IV : Commissions consultatives paritaires des baux ruraux<a id=58></a>
 
-##### Section 1 : Commissions consultatives paritaires départementales des baux ruraux.<a id=58></a>
+##### Section 1 : Commissions consultatives paritaires départementales des baux ruraux.<a id=59></a>
 
 ###### Article R*414-1
 
@@ -7247,7 +7668,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R414-4-1 (V)
 
 
-##### Section 2 : Commissions consultatives paritaires régionales des baux ruraux.<a id=59></a>
+##### Section 2 : Commissions consultatives paritaires régionales des baux ruraux.<a id=60></a>
 
 ###### Article R*414-5
 
@@ -7310,7 +7731,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-##### Section 3 : Commission consultative paritaire nationale des baux ruraux.<a id=60></a>
+##### Section 3 : Commission consultative paritaire nationale des baux ruraux.<a id=61></a>
 
 ###### Article R*414-6
 
@@ -7370,7 +7791,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-#### Chapitre V : Dispositions diverses et d'application.<a id=61></a>
+#### Chapitre V : Dispositions diverses et d'application.<a id=62></a>
 
 ###### Article R*415-1
 
@@ -7539,7 +7960,7 @@ _Abrogé par_:
   - Décret n°2017-1771 du 27 décembre 2017 - art. 9
 
 
-#### Chapitre VI : Dispositions particulières au baux à long terme.<a id=62></a>
+#### Chapitre VI : Dispositions particulières au baux à long terme.<a id=63></a>
 
 ###### Article R416-1
 
@@ -7590,9 +8011,9 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-#### Chapitre VII : Dispositions particulières au baux à colonat partiaire ou métayage<a id=63></a>
+#### Chapitre VII : Dispositions particulières au baux à colonat partiaire ou métayage<a id=64></a>
 
-##### Section 1 : Régime du bail.<a id=64></a>
+##### Section 1 : Régime du bail.<a id=65></a>
 
 ###### Article R417-1
 
@@ -7609,7 +8030,7 @@ _Cite_:
   - Code rural - art. L417-2 (V)
 
 
-##### Section 2 : Conversion en baux à ferme.<a id=65></a>
+##### Section 2 : Conversion en baux à ferme.<a id=66></a>
 
 ###### Article R417-2
 
@@ -7641,7 +8062,7 @@ _Cite_:
   - Code rural - art. L411-12 (V)
 
 
-### Titre III : Bail à domaine congéable<a id=66></a>
+### Titre III : Bail à domaine congéable<a id=67></a>
 
 ###### Article R431-1
 
@@ -7660,7 +8081,7 @@ _Cite_:
   - Code rural - art. L431-14 (V)
 
 
-### Titre IV : Bail à complant<a id=67></a>
+### Titre IV : Bail à complant<a id=68></a>
 
 ###### Article R441-1
 
@@ -7709,11 +8130,11 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-### Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer<a id=68></a>
+### Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer<a id=69></a>
 
-#### Chapitre Ier : Régime de droit commun<a id=69></a>
+#### Chapitre Ier : Régime de droit commun<a id=70></a>
 
-##### Section 1 : Commission consultative des baux ruraux.<a id=70></a>
+##### Section 1 : Commission consultative des baux ruraux.<a id=71></a>
 
 ###### Article R*461-1
 
@@ -7827,7 +8248,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-##### Section 2 : Conclusion, durée, prix du bail.<a id=71></a>
+##### Section 2 : Conclusion, durée, prix du bail.<a id=72></a>
 
 ###### Article R461-5
 
@@ -7883,7 +8304,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-##### Section 5 : Indemnité au preneur sortant.<a id=72></a>
+##### Section 5 : Indemnité au preneur sortant.<a id=73></a>
 
 ###### Article R461-8
 
@@ -7942,7 +8363,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-##### Section 6 : Droit de préemption.<a id=73></a>
+##### Section 6 : Droit de préemption.<a id=74></a>
 
 ###### Article R461-11
 
@@ -8002,7 +8423,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-##### Section 7 : Dispositions diverses.<a id=74></a>
+##### Section 7 : Dispositions diverses.<a id=75></a>
 
 ###### Article R461-14
 
@@ -8016,7 +8437,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-##### Section 8 : Dispositions diverses.<a id=75></a>
+##### Section 8 : Dispositions diverses.<a id=76></a>
 
 ###### Article R461-15
 
@@ -8033,9 +8454,9 @@ _Abrogé par_:
   - Décret n°2013-754 du 14 août 2013 - art. 11
 
 
-#### Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage<a id=76></a>
+#### Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage<a id=77></a>
 
-##### Section 1 : Régime du bail.<a id=77></a>
+##### Section 1 : Régime du bail.<a id=78></a>
 
 ###### Article R*462-16
 
@@ -8405,7 +8826,7 @@ _Abrogé par_:
   - Décret n°2016-781 du 10 juin 2016 - art. 5
 
 
-##### Section 2 : Conversion en baux à ferme.<a id=78></a>
+##### Section 2 : Conversion en baux à ferme.<a id=79></a>
 
 ###### Article R462-17
 
@@ -8427,7 +8848,7 @@ _Abrogé par_:
   - Décret n°2016-781 du 10 juin 2016 - art. 5
 
 
-##### Section 3 : Dispositions diverses et d'application.<a id=79></a>
+##### Section 3 : Dispositions diverses et d'application.<a id=80></a>
 
 ###### Article R462-18
 
@@ -8440,7 +8861,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-#### Chapitre III : Dispositions particulières aux baux à long terme.<a id=80></a>
+#### Chapitre III : Dispositions particulières aux baux à long terme.<a id=81></a>
 
 ###### Article R463-1
 
@@ -8531,7 +8952,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R463-2 (Ab)
 
 
-#### Chapitre IV : Dispositions d'application.<a id=81></a>
+#### Chapitre IV : Dispositions d'application.<a id=82></a>
 
 ###### Article R464-1
 
@@ -8550,13 +8971,13 @@ _Abrogé par_:
   - Décret n°2016-781 du 10 juin 2016 - art. 5
 
 
-## Livre V : Organismes professionnels agricoles<a id=82></a>
+## Livre V : Organismes professionnels agricoles<a id=83></a>
 
-### Titre II : Sociétés coopératives agricoles<a id=83></a>
+### Titre II : Sociétés coopératives agricoles<a id=84></a>
 
-#### Chapitre III : Capital social et dispositions financières<a id=84></a>
+#### Chapitre III : Capital social et dispositions financières<a id=85></a>
 
-##### Section 4 : Participation et intéressement.<a id=85></a>
+##### Section 4 : Participation et intéressement.<a id=86></a>
 
 ###### Article R523-9
 
@@ -8576,13 +8997,13 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-## Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux<a id=86></a>
+## Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux<a id=87></a>
 
-### Titre Ier : Chambres d'agriculture<a id=87></a>
+### Titre Ier : Chambres d'agriculture<a id=88></a>
 
-#### Chapitre Ier : Chambres départementales<a id=88></a>
+#### Chapitre Ier : Chambres départementales<a id=89></a>
 
-##### Section 1 : Institution et attributions.<a id=89></a>
+##### Section 1 : Institution et attributions.<a id=90></a>
 
 ###### Article R*511-5
 
@@ -8607,11 +9028,11 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-##### Section 3 : Elections<a id=90></a>
+##### Section 3 : Elections<a id=91></a>
 
-##### Sous-section 2 : Listes électorales<a id=91></a>
+##### Sous-section 2 : Listes électorales<a id=92></a>
 
-##### Paragraphe 1 : Electeurs votant individuellement.<a id=92></a>
+##### Paragraphe 1 : Electeurs votant individuellement.<a id=93></a>
 
 ###### Article R*511-13
 
@@ -8782,7 +9203,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R511-22 (V)
 
 
-##### Paragraphe 2 : Groupements électeurs.<a id=93></a>
+##### Paragraphe 2 : Groupements électeurs.<a id=94></a>
 
 ###### Article R*511-26
 
@@ -8923,7 +9344,7 @@ _Cité par_:
   - Code rural - art. R511-53 (V)
 
 
-##### Sous-section 3 : Eligibilité et candidatures.<a id=94></a>
+##### Sous-section 3 : Eligibilité et candidatures.<a id=95></a>
 
 ###### Article R*511-31
 
@@ -9036,7 +9457,7 @@ _Modifié par_:
   - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
 
 
-##### Sous-section 4 : Propagande.<a id=95></a>
+##### Sous-section 4 : Propagande.<a id=96></a>
 
 ###### Article R*511-36
 
@@ -9233,9 +9654,9 @@ _Modifié par_:
   - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
 
 
-##### Sous-section 6 : Opérations de vote<a id=96></a>
+##### Sous-section 6 : Opérations de vote<a id=97></a>
 
-##### Paragraphe 2 : Electeurs votant individuellement.<a id=97></a>
+##### Paragraphe 2 : Electeurs votant individuellement.<a id=98></a>
 
 ###### Article R*511-45
 
@@ -9341,7 +9762,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D571-2 (M)
 
 
-##### Paragraphe 3 : Groupements électeurs.<a id=98></a>
+##### Paragraphe 3 : Groupements électeurs.<a id=99></a>
 
 ###### Article R*511-48
 
@@ -9388,7 +9809,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R511-38 (V)
 
 
-##### Paragraphe 4 : Recensement des votes.<a id=99></a>
+##### Paragraphe 4 : Recensement des votes.<a id=100></a>
 
 ###### Article R*511-49
 
@@ -9418,7 +9839,7 @@ _Modifié par_:
   - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
 
 
-##### Sous-section 7 : Contentieux.<a id=100></a>
+##### Sous-section 7 : Contentieux.<a id=101></a>
 
 ###### Article R*511-50
 
@@ -9450,7 +9871,7 @@ _Modifié par_:
   - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
 
 
-##### Sous-section 8 : Cessation de mandat.<a id=101></a>
+##### Sous-section 8 : Cessation de mandat.<a id=102></a>
 
 ###### Article R*511-51
 
@@ -9499,7 +9920,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D513-10 (V)
 
 
-##### Sous-section 9 : Elections partielles.<a id=102></a>
+##### Sous-section 9 : Elections partielles.<a id=103></a>
 
 ###### Article R*511-52
 
@@ -9552,7 +9973,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R511-51 (V)
 
 
-##### Section 4 : Fonctionnement.<a id=103></a>
+##### Section 4 : Fonctionnement.<a id=104></a>
 
 ###### Article R*511-54
 
@@ -9902,9 +10323,9 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-##### Section 5 : Régime financier<a id=104></a>
+##### Section 5 : Régime financier<a id=105></a>
 
-##### Sous-section 1 : Opérations du budget général.<a id=105></a>
+##### Sous-section 1 : Opérations du budget général.<a id=106></a>
 
 ###### Article R*511-73
 
@@ -10170,7 +10591,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-##### Sous-section 2 : Opérations des budgets spéciaux.<a id=106></a>
+##### Sous-section 2 : Opérations des budgets spéciaux.<a id=107></a>
 
 ###### Article R511-86
 
@@ -10282,7 +10703,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-##### Sous-section 3 : Opérations communes au budget général et aux budgets spéciaux.<a id=107></a>
+##### Sous-section 3 : Opérations communes au budget général et aux budgets spéciaux.<a id=108></a>
 
 ###### Article R*511-95
 
@@ -10410,7 +10831,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-##### Section 6 : Chambre interdépartementale de l'Ile-de-France.<a id=108></a>
+##### Section 6 : Chambre interdépartementale de l'Ile-de-France.<a id=109></a>
 
 ###### Article R*511-97
 
@@ -10460,7 +10881,7 @@ _Modifié par_:
   - Décret n°82-688 du 3 août 1982 - art. 4 () JORF 5 août 1982
 
 
-##### Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer.<a id=109></a>
+##### Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer.<a id=110></a>
 
 ###### Article R*511-118
 
@@ -10673,9 +11094,9 @@ _Abrogé par_:
   - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
 
 
-#### Chapitre II : Chambres régionales<a id=110></a>
+#### Chapitre II : Chambres régionales<a id=111></a>
 
-##### Section 1 : Dispositions particulières aux chambres régionales d'agriculture.<a id=111></a>
+##### Section 1 : Dispositions particulières aux chambres régionales d'agriculture.<a id=112></a>
 
 ###### Article R*512-1
 
@@ -10797,9 +11218,9 @@ _Nouveaux textes_:
   - Code rural et de la pêche maritime - art. D512-7 (M)
 
 
-#### Chapitre III : Assemblée permanente des chambres d'agriculture<a id=112></a>
+#### Chapitre III : Assemblée permanente des chambres d'agriculture<a id=113></a>
 
-##### Section 1 : Organisation et fonctionnement.<a id=113></a>
+##### Section 1 : Organisation et fonctionnement.<a id=114></a>
 
 ###### Article R*513-1
 
@@ -11047,7 +11468,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-##### Section 2 : Comité permanent général, commissions et sections spécialisées.<a id=114></a>
+##### Section 2 : Comité permanent général, commissions et sections spécialisées.<a id=115></a>
 
 ###### Article R*513-12
 
@@ -11242,7 +11663,7 @@ _Codifié par_:
   - Décret n°81-277 1981-03-18
 
 
-##### Section 3 : Régime financier.<a id=115></a>
+##### Section 3 : Régime financier.<a id=116></a>
 
 ###### Article R*513-22
 
@@ -11397,7 +11818,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-#### Chapitre IV : Dispositions financières communes<a id=116></a>
+#### Chapitre IV : Dispositions financières communes<a id=117></a>
 
 ###### Article R*514-1
 
@@ -11584,11 +12005,11 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-### Titre II : Sociétés coopératives agricoles<a id=117></a>
+### Titre II : Sociétés coopératives agricoles<a id=118></a>
 
-#### Chapitre Ier : Dispositions générales, constitution<a id=118></a>
+#### Chapitre Ier : Dispositions générales, constitution<a id=119></a>
 
-##### Section 1 : Dispositions générales.<a id=119></a>
+##### Section 1 : Dispositions générales.<a id=120></a>
 
 ###### Article R*521-1
 
@@ -11748,7 +12169,7 @@ _Cite_:
   - Code rural R525-12
 
 
-##### Section 2 : Constitution.<a id=120></a>
+##### Section 2 : Constitution.<a id=121></a>
 
 ###### Article R*521-6
 
@@ -12065,9 +12486,9 @@ _Codifié par_:
   - Décret n°81-277 1981-03-18
 
 
-#### Chapitre II : Associés, tiers non coopérateurs<a id=121></a>
+#### Chapitre II : Associés, tiers non coopérateurs<a id=122></a>
 
-##### Section 1 : Associés coopérateurs.<a id=122></a>
+##### Section 1 : Associés coopérateurs.<a id=123></a>
 
 ###### Article R*522-1
 
@@ -12318,7 +12739,7 @@ _Cite_:
   - Code rural R523-5
 
 
-##### Section 3 : Tiers non coopérateurs.<a id=123></a>
+##### Section 3 : Tiers non coopérateurs.<a id=124></a>
 
 ###### Article R*522-9
 
@@ -12347,9 +12768,9 @@ _Cité par_:
   - Code rural - art. R582-15 (V)
 
 
-#### Chapitre III : Capital social et dispositions financières<a id=124></a>
+#### Chapitre III : Capital social et dispositions financières<a id=125></a>
 
-##### Section 1 : Capital social.<a id=125></a>
+##### Section 1 : Capital social.<a id=126></a>
 
 ###### Article R*523-1
 
@@ -12534,7 +12955,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R523-9 (V)
 
 
-##### Section 2 : Fonds de développement coopératif.<a id=126></a>
+##### Section 2 : Fonds de développement coopératif.<a id=127></a>
 
 ###### Article R*523-6
 
@@ -12611,7 +13032,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-##### Section 3 : Prises de participation.<a id=127></a>
+##### Section 3 : Prises de participation.<a id=128></a>
 
 ###### Article R523-8
 
@@ -12720,9 +13141,9 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-#### Chapitre IV : Administration<a id=128></a>
+#### Chapitre IV : Administration<a id=129></a>
 
-##### Section 1 : Conseil d'administration.<a id=129></a>
+##### Section 1 : Conseil d'administration.<a id=130></a>
 
 ###### Article R*524-1
 
@@ -12988,7 +13409,7 @@ _Cite_:
   - Décret n°1935-08-08 art. 6
 
 
-##### Section 3 : Assemblée générale.<a id=130></a>
+##### Section 3 : Assemblée générale.<a id=131></a>
 
 ###### Article R*524-12
 
@@ -13257,7 +13678,7 @@ _Cité par_:
   - Code rural - art. R523-9 (V)
 
 
-##### Section 4 : Dispositions concernant les unions de coopératives.<a id=131></a>
+##### Section 4 : Dispositions concernant les unions de coopératives.<a id=132></a>
 
 ###### Article R*524-23
 
@@ -13338,7 +13759,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-##### Section 5 : Directoire et conseil de surveillance.<a id=132></a>
+##### Section 5 : Directoire et conseil de surveillance.<a id=133></a>
 
 ###### Article R*524-26
 
@@ -13738,9 +14159,9 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-#### Chapitre V : Agrément, contrôle<a id=133></a>
+#### Chapitre V : Agrément, contrôle<a id=134></a>
 
-##### Section 1 : Agrément.<a id=134></a>
+##### Section 1 : Agrément.<a id=135></a>
 
 ###### Article R*525-1
 
@@ -14108,7 +14529,7 @@ _Modifié par_:
   - Décret n°84-96 du 9 février 1984 - art. 32 () JORF 11 février 1984 en vigueur le 15 février 1984
 
 
-##### Section 2 : Contrôle.<a id=135></a>
+##### Section 2 : Contrôle.<a id=136></a>
 
 ###### Article R*525-13
 
@@ -14242,7 +14663,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-#### Chapitre VI : Dissolution, liquidation.<a id=136></a>
+#### Chapitre VI : Dissolution, liquidation.<a id=137></a>
 
 ###### Article R*526-1
 
@@ -14344,11 +14765,11 @@ _Modifié par_:
   - Décret n°84-96 du 9 février 1984 - art. 36 () JORF 11 février 1984 en vigueur le 15 février 1984
 
 
-#### Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle<a id=137></a>
+#### Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle<a id=138></a>
 
-##### Section 1 : Fédérations de coopératives<a id=138></a>
+##### Section 1 : Fédérations de coopératives<a id=139></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=139></a>
+##### Sous-section 1 : Dispositions générales.<a id=140></a>
 
 ###### Article R*527-1
 
@@ -14435,7 +14856,7 @@ _Cite_:
   - Loi n°1901-07-01
 
 
-##### Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision.<a id=140></a>
+##### Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision.<a id=141></a>
 
 ###### Article R*527-4
 
@@ -14648,9 +15069,9 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-#### Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole<a id=141></a>
+#### Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole<a id=142></a>
 
-##### Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément.<a id=142></a>
+##### Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément.<a id=143></a>
 
 ###### Article R*528-1
 
@@ -14852,7 +15273,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-##### Section 2 : Commission départementale des structures agricoles.<a id=143></a>
+##### Section 2 : Commission départementale des structures agricoles.<a id=144></a>
 
 ###### Article R*528-8
 
@@ -14937,7 +15358,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-#### Chapitre IX : Dispositions pénales, dispositions d'application.<a id=144></a>
+#### Chapitre IX : Dispositions pénales, dispositions d'application.<a id=145></a>
 
 ###### Article R*529-1
 
@@ -14989,9 +15410,9 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-### Titre III : Sociétés d'intérêt collectif agricole<a id=145></a>
+### Titre III : Sociétés d'intérêt collectif agricole<a id=146></a>
 
-#### Chapitre Ier : Constitution.<a id=146></a>
+#### Chapitre Ier : Constitution.<a id=147></a>
 
 ###### Article R*531-1
 
@@ -15091,7 +15512,7 @@ _Cité par_:
   - Code rural - art. R583-11 (V)
 
 
-#### Chapitre II : Fonctionnement.<a id=147></a>
+#### Chapitre II : Fonctionnement.<a id=148></a>
 
 ###### Article R*532-1
 
@@ -15215,7 +15636,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-#### Chapitre III : Dispositions financières.<a id=148></a>
+#### Chapitre III : Dispositions financières.<a id=149></a>
 
 ###### Article R*533-1
 
@@ -15287,7 +15708,7 @@ _Cite_:
   - Loi n°1906-04-30
 
 
-#### Chapitre IV : Transformation, dissolution, liquidation.<a id=149></a>
+#### Chapitre IV : Transformation, dissolution, liquidation.<a id=150></a>
 
 ###### Article R*534-1
 
@@ -15385,7 +15806,7 @@ _Cite_:
   - Code rural 656, 732
 
 
-#### Chapitre V : Dispositions pénales.<a id=150></a>
+#### Chapitre V : Dispositions pénales.<a id=151></a>
 
 ###### Article R*535-1
 
@@ -15408,7 +15829,7 @@ _Cite_:
   - Code rural R531-4
 
 
-### Titre IV : Sociétés mixtes d'intérêt agricole.<a id=151></a>
+### Titre IV : Sociétés mixtes d'intérêt agricole.<a id=152></a>
 
 ###### Article R541-1
 
@@ -15450,9 +15871,9 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-### Titre V : Groupements de producteurs et comités économiques agricoles<a id=152></a>
+### Titre V : Groupements de producteurs et comités économiques agricoles<a id=153></a>
 
-#### Chapitre Ier : Groupements de producteurs.<a id=153></a>
+#### Chapitre Ier : Groupements de producteurs.<a id=154></a>
 
 ###### Article R*551-1
 
@@ -15705,7 +16126,7 @@ _Nouveaux textes_:
   - Code rural et de la pêche maritime - art. D551-11, v. 0.1 (M)
 
 
-#### Chapitre II : Comités économiques agricoles.<a id=154></a>
+#### Chapitre II : Comités économiques agricoles.<a id=155></a>
 
 ###### Article R*552-1
 
@@ -15980,9 +16401,9 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-#### Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles<a id=155></a>
+#### Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles<a id=156></a>
 
-##### Section 1 : Droits d'inscription et cotisations.<a id=156></a>
+##### Section 1 : Droits d'inscription et cotisations.<a id=157></a>
 
 ###### Article R*553-1
 
@@ -16160,7 +16581,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-##### Section 2 : Contrôle.<a id=157></a>
+##### Section 2 : Contrôle.<a id=158></a>
 
 ###### Article R*553-10
 
@@ -16324,7 +16745,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R556-3 (Ab)
 
 
-##### Section 3 : Dispositions diverses.<a id=158></a>
+##### Section 3 : Dispositions diverses.<a id=159></a>
 
 ###### Article R*553-17
 
@@ -16348,9 +16769,9 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-#### Chapitre IV : Extension des règles édictées par les comités économiques agricoles<a id=159></a>
+#### Chapitre IV : Extension des règles édictées par les comités économiques agricoles<a id=160></a>
 
-##### Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole.<a id=160></a>
+##### Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole.<a id=161></a>
 
 ###### Article R*554-1
 
@@ -16392,9 +16813,9 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-##### Section 2 : Procédure d'extension des règles<a id=161></a>
+##### Section 2 : Procédure d'extension des règles<a id=162></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=162></a>
+##### Sous-section 1 : Dispositions générales.<a id=163></a>
 
 ###### Article R*554-2
 
@@ -16550,9 +16971,9 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-##### Sous-section 2 : Procédure de consultation des producteurs<a id=163></a>
+##### Sous-section 2 : Procédure de consultation des producteurs<a id=164></a>
 
-##### Paragraphe 1 : Etablissement de la liste des producteurs.<a id=164></a>
+##### Paragraphe 1 : Etablissement de la liste des producteurs.<a id=165></a>
 
 ###### Article R*554-7
 
@@ -16837,7 +17258,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-##### Paragraphe 2 : Modalités de la consultation des producteurs.<a id=165></a>
+##### Paragraphe 2 : Modalités de la consultation des producteurs.<a id=166></a>
 
 ###### Article R*554-16
 
@@ -17333,7 +17754,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-##### Paragraphe 3 : Dispositions diverses.<a id=166></a>
+##### Paragraphe 3 : Dispositions diverses.<a id=167></a>
 
 ###### Article R*554-29
 
@@ -17364,7 +17785,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-#### Chapitre V : Dispositions particulières aux départements d'outre-mer.<a id=167></a>
+#### Chapitre V : Dispositions particulières aux départements d'outre-mer.<a id=168></a>
 
 ###### Article R*555-1
 
@@ -17466,7 +17887,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-#### Chapitre VI : Pénalités.<a id=168></a>
+#### Chapitre VI : Pénalités.<a id=169></a>
 
 ###### Article R*556-1
 
@@ -17598,11 +18019,11 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
-### Titre VI : Jardins familiaux<a id=169></a>
+### Titre VI : Jardins familiaux<a id=170></a>
 
-#### Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux<a id=170></a>
+#### Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux<a id=171></a>
 
-##### Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER).<a id=171></a>
+##### Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER).<a id=172></a>
 
 ###### Article R*562-1
 
@@ -17639,9 +18060,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D572-10 (V)
 
 
-#### Chapitre II : Préemption des terrains destinés à la création ou à l'aménagement de jardins familiaux<a id=172></a>
+#### Chapitre II : Préemption des terrains destinés à la création ou à l'aménagement de jardins familiaux<a id=173></a>
 
-##### Section 2 : Droit de préemption des collectivités locales.<a id=173></a>
+##### Section 2 : Droit de préemption des collectivités locales.<a id=174></a>
 
 ###### Article R*562-3
 
@@ -17672,7 +18093,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 MARS 1981 en vigueur le 15 novembre 1980
 
 
-#### Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique.<a id=174></a>
+#### Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique.<a id=175></a>
 
 ###### Article R*563-1
 
@@ -17722,7 +18143,7 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 MARS 1981 en vigueur le 15 novembre 1980
 
 
-#### Chapitre IV : Avantages divers et subventions.<a id=175></a>
+#### Chapitre IV : Avantages divers et subventions.<a id=176></a>
 
 ###### Article R*564-1
 
@@ -17806,19 +18227,19 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 MARS 1981 en vigueur le 15 novembre 1980
 
 
-## Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique<a id=176></a>
+## Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique<a id=177></a>
 
-### Titre Ier : Enseignement et formation professionnelle agricoles<a id=177></a>
+### Titre Ier : Enseignement et formation professionnelle agricoles<a id=178></a>
 
-#### Chapitre Ier : Dispositions relatives à l'enseignement et à la formation professionnelle agricoles publics<a id=178></a>
+#### Chapitre Ier : Dispositions relatives à l'enseignement et à la formation professionnelle agricoles publics<a id=179></a>
 
-##### Section 3 : Dispositions relatives aux établissements publics locaux d'enseignement et de formation professionnelle agricoles<a id=179></a>
+##### Section 3 : Dispositions relatives aux établissements publics locaux d'enseignement et de formation professionnelle agricoles<a id=180></a>
 
-##### Sous-section 2 : Organisation administrative<a id=180></a>
+##### Sous-section 2 : Organisation administrative<a id=181></a>
 
-##### Paragraphe 3 : Les centres composant l'établissement public local<a id=181></a>
+##### Paragraphe 3 : Les centres composant l'établissement public local<a id=182></a>
 
-##### B. - Les centres d'enseignement et de formation.<a id=182></a>
+##### B. - Les centres d'enseignement et de formation.<a id=183></a>
 
 ###### Article R*811-38
 
@@ -17901,11 +18322,11 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D811-24-1 (V)
 
 
-#### Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles<a id=183></a>
+#### Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles<a id=184></a>
 
-##### Section 1 : Organisation générale<a id=184></a>
+##### Section 1 : Organisation générale<a id=185></a>
 
-##### Sous-section 1 : Principes de base.<a id=185></a>
+##### Sous-section 1 : Principes de base.<a id=186></a>
 
 ###### Article R*811-1
 
@@ -17968,9 +18389,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Conseils et comités<a id=186></a>
+##### Sous-section 2 : Conseils et comités<a id=187></a>
 
-##### Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale.<a id=187></a>
+##### Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale.<a id=188></a>
 
 ###### Article R*811-3
 
@@ -18434,7 +18855,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Paragraphe 2 : Comité de coordination.<a id=188></a>
+##### Paragraphe 2 : Comité de coordination.<a id=189></a>
 
 ###### Article R*811-10
 
@@ -18556,7 +18977,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R811-24 (V)
 
 
-##### Sous-section 3 : Promotion sociale.<a id=189></a>
+##### Sous-section 3 : Promotion sociale.<a id=190></a>
 
 ###### Article R*811-12
 
@@ -18607,9 +19028,9 @@ _Nouveaux textes_:
   - Code rural R811-3
 
 
-##### Section 2 : Reconnaissance et agrément des établissements privés<a id=190></a>
+##### Section 2 : Reconnaissance et agrément des établissements privés<a id=191></a>
 
-##### Sous-section 1 : Reconnaissance des établissements.<a id=191></a>
+##### Sous-section 1 : Reconnaissance des établissements.<a id=192></a>
 
 ###### Article R*811-13
 
@@ -18635,7 +19056,7 @@ _Abrogé par_:
   - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
 
 
-##### Paragraphe 1 : Conditions de la reconnaissance.<a id=192></a>
+##### Paragraphe 1 : Conditions de la reconnaissance.<a id=193></a>
 
 ###### Article R*811-14
 
@@ -18903,7 +19324,7 @@ _Abrogé par_:
   - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
 
 
-##### Paragraphe 2 : Instruction de la demande de reconnaissance.<a id=193></a>
+##### Paragraphe 2 : Instruction de la demande de reconnaissance.<a id=194></a>
 
 ###### Article R*811-23
 
@@ -18994,7 +19415,7 @@ _Abrogé par_:
   - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
 
 
-##### Paragraphe 3 : Subventions et prêts.<a id=194></a>
+##### Paragraphe 3 : Subventions et prêts.<a id=195></a>
 
 ###### Article R*811-26
 
@@ -19088,7 +19509,7 @@ _Abrogé par_:
   - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
 
 
-##### Paragraphe 4 : Dispositions diverses.<a id=195></a>
+##### Paragraphe 4 : Dispositions diverses.<a id=196></a>
 
 ###### Article R*811-29
 
@@ -19152,9 +19573,9 @@ _Abrogé par_:
   - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
 
 
-##### Sous-section 2 : Agrément<a id=196></a>
+##### Sous-section 2 : Agrément<a id=197></a>
 
-##### Paragraphe 1 : Conditions d'octroi.<a id=197></a>
+##### Paragraphe 1 : Conditions d'octroi.<a id=198></a>
 
 ###### Article R*811-32
 
@@ -19382,7 +19803,7 @@ _Abrogé par_:
   - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
 
 
-##### Paragraphe 2 : Dispositions financières.<a id=198></a>
+##### Paragraphe 2 : Dispositions financières.<a id=199></a>
 
 ###### Article R*811-39
 
@@ -19550,7 +19971,7 @@ _Cité par_:
   - Code rural - art. R811-38 (V)
 
 
-##### Paragraphe 3 : Contrôle de l'Etat sur les établissements agrées.<a id=199></a>
+##### Paragraphe 3 : Contrôle de l'Etat sur les établissements agrées.<a id=200></a>
 
 ###### Article R*811-46
 
@@ -19630,7 +20051,7 @@ _Abrogé par_:
   - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
 
 
-##### Paragraphe 4 : Organisations représentatives de l'enseignement technique agricole privé.<a id=200></a>
+##### Paragraphe 4 : Organisations représentatives de l'enseignement technique agricole privé.<a id=201></a>
 
 ###### Article R*811-49
 
@@ -19721,7 +20142,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R811-26 (V)
 
 
-##### Section 3 : Dispositions particulières aux départements d'outre-mer.<a id=201></a>
+##### Section 3 : Dispositions particulières aux départements d'outre-mer.<a id=202></a>
 
 ###### Article R*811-52
 
@@ -19854,9 +20275,9 @@ _Abrogé par_:
   - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
 
 
-#### Chapitre II : Formations technologiques et professionnelles de cycle court<a id=202></a>
+#### Chapitre II : Formations technologiques et professionnelles de cycle court<a id=203></a>
 
-##### Section 1 : Enseignement technologique de cycle court par voie scolaire.<a id=203></a>
+##### Section 1 : Enseignement technologique de cycle court par voie scolaire.<a id=204></a>
 
 ###### Article R*812-1
 
@@ -19990,7 +20411,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage.<a id=204></a>
+##### Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage.<a id=205></a>
 
 ###### Article R*812-5
 
@@ -20013,7 +20434,7 @@ _Créé par_:
   - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
 
 
-##### Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue.<a id=205></a>
+##### Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue.<a id=206></a>
 
 ###### Article R*812-6
 
@@ -20040,9 +20461,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R812-16 (V)
 
 
-#### Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles<a id=206></a>
+#### Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles<a id=207></a>
 
-##### Section 1 : Enseignement technologique de cycle long.<a id=207></a>
+##### Section 1 : Enseignement technologique de cycle long.<a id=208></a>
 
 ###### Article R*813-1
 
@@ -20190,7 +20611,7 @@ _Cité par_:
   - Code rural - art. R813-61 (V)
 
 
-##### Section 2 : Formation des techniciens supérieurs agricoles.<a id=208></a>
+##### Section 2 : Formation des techniciens supérieurs agricoles.<a id=209></a>
 
 ###### Article R*813-6
 
@@ -20250,7 +20671,7 @@ _Créé par_:
   - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
 
 
-##### Section 3 : Dispositions communes.<a id=209></a>
+##### Section 3 : Dispositions communes.<a id=210></a>
 
 ###### Article R*813-8
 
@@ -20381,9 +20802,9 @@ _Cité par_:
   - Code rural - art. R813-57 (V)
 
 
-#### Chapitre IV : Enseignement supérieur<a id=210></a>
+#### Chapitre IV : Enseignement supérieur<a id=211></a>
 
-##### Section 1 : Dispositions générales.<a id=211></a>
+##### Section 1 : Dispositions générales.<a id=212></a>
 
 ###### Article R*814-1
 
@@ -20498,9 +20919,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Enseignement supérieur agricole<a id=212></a>
+##### Section 2 : Enseignement supérieur agricole<a id=213></a>
 
-##### Sous-section 1 : Formation des ingénieurs spécialisés en agriculture.<a id=213></a>
+##### Sous-section 1 : Formation des ingénieurs spécialisés en agriculture.<a id=214></a>
 
 ###### Article R*814-5
 
@@ -20541,7 +20962,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Formation des spécialistes en horticulture et des paysagistes.<a id=214></a>
+##### Sous-section 2 : Formation des spécialistes en horticulture et des paysagistes.<a id=215></a>
 
 ###### Article R*814-6
 
@@ -20594,7 +21015,7 @@ _Créé par_:
   - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
 
 
-##### Sous-section 3 : Formation des ingénieurs des industries agricoles et alimentaires.<a id=215></a>
+##### Sous-section 3 : Formation des ingénieurs des industries agricoles et alimentaires.<a id=216></a>
 
 ###### Article R*814-8
 
@@ -20639,9 +21060,9 @@ _Créé par_:
   - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
 
 
-##### Sous-section 4 : Formation des ingénieurs agronomes à vocation générale<a id=216></a>
+##### Sous-section 4 : Formation des ingénieurs agronomes à vocation générale<a id=217></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=217></a>
+##### Paragraphe 1 : Dispositions générales.<a id=218></a>
 
 ###### Article R*814-10
 
@@ -20961,7 +21382,7 @@ _Cité par_:
   - Code rural - art. R814-18 (V)
 
 
-##### Paragraphe 2 : Dispositions particulières aux élèves étrangers.<a id=218></a>
+##### Paragraphe 2 : Dispositions particulières aux élèves étrangers.<a id=219></a>
 
 ###### Article R*814-20
 
@@ -21116,7 +21537,7 @@ _Créé par_:
   - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
 
 
-##### Sous-section 5 : Dispositions relatives à la délivrance des diplômes.<a id=219></a>
+##### Sous-section 5 : Dispositions relatives à la délivrance des diplômes.<a id=220></a>
 
 ###### Article R*814-27
 
@@ -21144,9 +21565,9 @@ _Créé par_:
   - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
 
 
-##### Section 3 : Enseignement supérieur vétérinaire<a id=220></a>
+##### Section 3 : Enseignement supérieur vétérinaire<a id=221></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=221></a>
+##### Sous-section 1 : Dispositions générales.<a id=222></a>
 
 ###### Article R*814-28
 
@@ -21206,7 +21627,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Conditions d'admission des élèves.<a id=222></a>
+##### Sous-section 2 : Conditions d'admission des élèves.<a id=223></a>
 
 ###### Article R*814-30
 
@@ -21280,7 +21701,7 @@ _Cite_:
   - Code rural R814-30, R814-43
 
 
-##### Sous-section 3 : Enseignement et recherche.<a id=223></a>
+##### Sous-section 3 : Enseignement et recherche.<a id=224></a>
 
 ###### Article R*814-32
 
@@ -21434,7 +21855,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 4 : Administration.<a id=224></a>
+##### Sous-section 4 : Administration.<a id=225></a>
 
 ###### Article R*814-37
 
@@ -21463,7 +21884,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire.<a id=225></a>
+##### Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire.<a id=226></a>
 
 ###### Article R*814-38
 
@@ -21695,9 +22116,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 4 : Enseignement de l'agronomie des régions chaudes<a id=226></a>
+##### Section 4 : Enseignement de l'agronomie des régions chaudes<a id=227></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=227></a>
+##### Sous-section 1 : Dispositions générales.<a id=228></a>
 
 ###### Article R*814-44
 
@@ -21834,7 +22255,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Administration du centre.<a id=228></a>
+##### Sous-section 2 : Administration du centre.<a id=229></a>
 
 ###### Article R*814-48
 
@@ -22214,7 +22635,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 3 : Régime financier du centre.<a id=229></a>
+##### Sous-section 3 : Régime financier du centre.<a id=230></a>
 
 ###### Article R*814-58
 
@@ -22337,9 +22758,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public<a id=230></a>
+#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public<a id=231></a>
 
-##### Section 1 : Dispositions communes.<a id=231></a>
+##### Section 1 : Dispositions communes.<a id=232></a>
 
 ###### Article R*815-1
 
@@ -22417,7 +22838,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Dispositions relatives aux établissements d'enseignement technologique.<a id=232></a>
+##### Section 2 : Dispositions relatives aux établissements d'enseignement technologique.<a id=233></a>
 
 ###### Article R*815-4
 
@@ -22442,7 +22863,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-#### Chapitre VI : Dispositions relatives aux examens et concours publics.<a id=233></a>
+#### Chapitre VI : Dispositions relatives aux examens et concours publics.<a id=234></a>
 
 ###### Article R*816-1
 
@@ -22551,11 +22972,11 @@ _Transféré par_:
   - Décret n°92-433 du 7 mai 1992 - art. 4 () JORF 14 mai 1992
 
 
-### Titre III : Recherche agronomique<a id=234></a>
+### Titre III : Recherche agronomique<a id=235></a>
 
-#### Chapitre Ier : Institut national de la recherche agronomique<a id=235></a>
+#### Chapitre Ier : Institut national de la recherche agronomique<a id=236></a>
 
-##### Section 1 : Dispositions générales.<a id=236></a>
+##### Section 1 : Dispositions générales.<a id=237></a>
 
 ###### Article R831-1
 
@@ -22657,7 +23078,7 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=237></a>
+##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=238></a>
 
 ###### Article R*831-3
 
@@ -23062,7 +23483,7 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-##### Section 3 : Dispositions diverses.<a id=238></a>
+##### Section 3 : Dispositions diverses.<a id=239></a>
 
 ###### Article R*831-14
 
