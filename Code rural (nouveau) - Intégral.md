@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1992-02-08
+Version Consolidée au 1992-05-14
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L263-10)](#2)
@@ -723,7 +723,7 @@ Version Consolidée au 1992-02-08
         - [Chapitre IV : Avantages divers et subventions (art. R564-1 à R564-3)](#720)
     - [Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux (art.  à R564-3)](#721)
     - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-1 à R832-19)](#722)
-      - [Titre Ier : Enseignement et formation professionnelle agricoles (art. R*811-1 à R*816-4)](#723)
+      - [Titre Ier : Enseignement et formation professionnelle agricoles (art. R*811-1 à R*816-3)](#723)
         - [Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles (art. R*811-1 à R*811-12)](#724)
           - [Section 1 : Organisation générale (art. R*811-1 à R*811-12)](#725)
             - [Sous-section 1 : Principes de base. (art. R*811-1 à R*811-2)](#726)
@@ -762,7 +762,7 @@ Version Consolidée au 1992-02-08
         - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#759)
           - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#760)
           - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#761)
-        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-4)](#762)
+        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-3)](#762)
       - [Titre II : Développement agricole (art. R*821-1 à R825-4)](#763)
         - [Chapitre Ier : Actions de développement agricole. (art. R*821-1 à R*821-4)](#764)
         - [Chapitre II : Convention avec l'association nationale pour le développement agricole. (art. R*822-1 à R*822-4)](#765)
@@ -67626,34 +67626,57 @@ _Abrogé par_:
 
 ###### Article R*816-1
 
-Toute fraude, tentative de fraude, ou fausse déclaration commise lors de l'inscription à l'un des examens ou concours publics
-organisés par le ministre de l'agriculture ou placés sous la présidence d'un fonctionnaire désigné par lui, entraîne pour son
-auteur la nullité de cet examen ou de ce concours. Il'en est de même en cas de fraude, de tentative de fraude ou de fausse
-déclAration commise au cours de cet examen ou de ce concours.
+Toute fraude, tentative de fraude ou fausse déclaration commise lors de l'inscription à l'un des examens ou concours publics
+organisés par le ministre de l'agriculture ou placés sous la présidence d'un fonctionnaire désigné par lui entraîne pour son
+auteur l'annulation de l'examen ou du concours.
 
-En cas de flagrant délit, le président du jury ou son délégué peut exclure immédiatement le candidat et prononcer la nullité
-de son examen ou de son concours. Il peut également prononcer la nullité de l'examen ou du concours du ou des complices. Dans
-tous les autres cas, l'annulation est prononcée par le ministre de l'agriculture.
+Il en est de même de toute fraude ou tentative de fraude commise au cours d'un examen ou d'un concours. Toutefois, si l'acte
+a été commis au cours d'une épreuve de contrôle continu, il entraîne l'annulation de l'épreuve terminale correspondante.
+
+La décision d'annulation est prise sur rapport et proposition du président du jury, et après que le rapport 811 été
+communiqué à l'intéressé, soit par le directeur région de l'agriculture, soit par le ministre de l'agriculture selon que
+l'examen ou le concours a été organisé par l'une ou l'autre de ces autorités.
+
+En cas de flagrant délit, le président du jury ou son délégué peut exclure immédiatement le candidat des épreuves, et
+proposer l'annulation de l'examen ou du concours dans les conditions de l'alinéa précédent.
+
+Les mêmes mesures peuvent être prises à l'encontre des complices de la fraude ou tentative de fraude.
+
+La décision, qui doit être motivée, est notifiée au candidat en cause, avec copie adressée au chef d'établissement fréquenté
+en dernier lieu par celui-ci.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R811-174
 
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-433 du 7 mai 1992 - art. 1 () JORF 14 mai 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
 ###### Article R*816-2
 
-Dans tous les cas prévus à l'article R. 816-1, le ministre de l'agriculture peut, après étude du rapport relatif à la fraude
-ou tentative de fraude, prononcer une peine allant jusqu'à l'interdiction de subir pendant deux ans au plus tout examen ou
-concours public organisé par lui ou placé sous la présidence d'un fonctionnaire désigné par lui. Cette décision est notifiée
-au candidat en faute, avec copie adressée au chef d'établissement fréquenté en dernier lieu par celui-ci.
+Dans les cas où la gravité des faits l'exige, l'annulation de l'examen ou du concours peut être assortie de l'interdiction de
+subir pendant deux ans ou plus tout examen ou concours public organisé par le ministre de l'agriculture ou placé sous la
+présidence d'un fonctionnaire désigné par lui. Dans ce cas, la décision d'annulation et d'interdiction est prise par le
+ministre de l'agriculture, sur rapport et proposition du président du jury et après que le rapport ait été communiqué à
+l'intéressé Elle est motivée et notifiée à l'intéressé dans les conditions prévues à l'article R. 816-1.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R811-175
 
 _Cite_:
 
@@ -67663,72 +67686,59 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-433 du 7 mai 1992 - art. 2 () JORF 14 mai 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
 ###### Article R*816-3
 
-Dans le cas où un examen ou un concours comporte deux ou plusieurs parties, l'annulation de l'une des parties, prononcée en
-application de l'article R. 816-1, entraîne la nullité de l'ensemble des résultats et des dispenses d'épreuves précédemment
-obtenus dans cet examen ou concours.
+Dans tous les cas, il peut être fait appel, dans le délai de huit jours, des décisions prises en application des articles R.
+816-1 et R. 816-2.
 
-**Liens relatifs à cet article**
+La réclamation est examiné par une commission ainsi composée :
 
-_Cite_:
+- une personnalité qualifiée, choisie en raison de son expérience des examens et concours, président ;
 
-  - Code rural R816-1
+- un directeur d'établissement agricole public préparant à l'examen ou au concours en cause ;
 
-_Codifié par_:
+- un directeur d'établissement agricole privé sous contrat de même niveau.
 
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°92-433 du 7 mai 1992 - art. 3 () JORF 14 mai 1992
-
-
-###### Article R*816-4
-
-Il peut être fait appel, dans le délai de huit jours, de la décision du président du jury prise en cas de flagrant délit.
-
-L'appel est porté devant le président d'une commission ainsi composée :
-
-Le chef du centre des examens et concours contrôlés par le ministre de l'agriculture, président ;
-
-Un directeur d'établissement agricole public préparant à l'examen ou au concours en cause ;
-
-Un directeur d'établissement agricole privé de même niveau.
-
-Ces deux directeurs sont désignés par le ministre de l'agriculture.
+Les membres de la commission sont désignés par le ministre de l'agriculture.
 
 La commission est convoquée par son président qui, par lettre recommandée avec demande d'avis de réception, informe le
-président du jury et l'auteur de l'appel, de la date et du lieu de la réunion de la commission.
+président du jury et l'auteur de l'appel de la date et du lieu de la réunion de la commission.
 
 Le président du jury et l'auteur de l'appel peuvent formuler oralement ou par écrit leurs observations devant la commission.
 
-Il est tenu procès-verbal des dires des intéressés.
-
-La commission émet un avis motivé et l'adresse avec les propositions au ministre de l'agriculture qui statue.
+Il est tenu procès-verbal des dires des intéressés. La commission émet un avis motivé et l'adresse avec ses propositions au
+ministre de l'agriculture qui statue.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R811-176
+
+_Cite_:
+
+  - Code rural R816-1, R816-2
 
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-433 du 7 mai 1992 - art. 4 () JORF 20 mai 1992
 
-_Transféré par_:
+_Abrogé par_:
 
-  - Décret n°92-433 du 7 mai 1992 - art. 4 () JORF 14 mai 1992
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
 ### Titre II : Développement agricole<a id=763></a>
