@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1993-08-20
+Version Consolidée au 1993-09-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -946,7 +946,7 @@ Version Consolidée au 1993-08-20
         - [Chapitre III : Assemblée permanente des chambres d'agriculture (art. R*513-2 à R513-28)](#943)
           - [Section 1 : Organisation et fonctionnement. (art. R*513-2 à R513-11)](#944)
           - [Section 2 : Comité permanent général, commissions et sections spécialisées. (art. R513-12 à R513-21)](#945)
-          - [Section 3 : Régime financier. (art. R*513-22 à R513-28)](#946)
+          - [Section 3 : Régime financier. (art. R513-22 à R513-28)](#946)
         - [Chapitre IV : Dispositions financières communes (art. R*514-1 à R*514-7)](#947)
       - [Titre II : Sociétés coopératives agricoles (art. R*521-2 à R529-1)](#948)
         - [Chapitre Ier : Dispositions générales, constitution (art. R*521-2 à R521-15)](#949)
@@ -91971,15 +91971,16 @@ _Modifié par_:
 
 ##### Section 3 : Régime financier.<a id=946></a>
 
-###### Article R*513-22
+###### Article R513-22
 
 Le budget de l'assemblée permanente des chambres d'agriculture est préparé par le comité permanent.
 
-Il est adopté par l'assemblée permanente dans les conditions prévues aux articles R. 511-71 et R. 513-1 et doit être soumis,
-avant le 15 mai de l'année qui précède l'exercice auquel il s'applique, à l'approbation du ministre de l'agriculture et du
-ministre chargé du budget.
+Il est adopté par l'assemblée permanente dans les conditions prévues aux articles R. 511-71 (alinéa 1) et R. 513-1. Il est
+soumis, avant le 15 décembre de l'année qui précède l'exercice auquel il s'applique, à l'approbation du ministre chargé de
+l'agriculture et du ministre chargé du budget. En cours d'exercice, toute décision modificative leur est soumise avant le 15
+juin.
 
-En cours d'exercice, une décision modificative peut être présentée à la même date.
+Le budget et les décisions modificatives sont exécutoires dans les conditions prévues à l'article R. 511-71 (alinéa 2).
 
 **Liens relatifs à cet article**
 
@@ -91993,7 +91994,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°93-1033 du 26 août 1993 - art. 1 () JORF 2 septembre 1993
 
 
 ###### Article R513-23
