@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1989-11-04
+Version Consolidée au 1989-12-17
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L262-1)](#2)
@@ -418,9 +418,9 @@ Version Consolidée au 1989-11-04
           - [Section 3 : Droit de passage. (art. R*235-29)](#415)
         - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R*236-2 à R*236-120)](#416)
           - [Section 1 : Dispositions générales (art. R*236-2 à R*236-66)](#417)
-            - [Sous-section 1 : Temps et heures d'interdiction (art. R*236-6 à R*236-22)](#418)
+            - [Sous-section 1 : Temps et heures d'interdiction (art. R*236-6 à R236-20)](#418)
               - [Paragraphe 1 : Temps d'interdiction. (art. R*236-6 à R*236-17)](#419)
-              - [Paragraphe 2 : Heures d'interdiction. (art. R*236-18 à R*236-22)](#420)
+              - [Paragraphe 2 : Heures d'interdiction. (art. R*236-18 à R236-20)](#420)
             - [Sous-section 2 : Taille minimale des poissons. (art. R*236-23 à R*236-26)](#421)
             - [Sous-section 3 : Nombre de captures autorisées, conditions de capture. (art. R*236-27 à R*236-29)](#422)
             - [Sous-section 4 : Procédés et modes de pêche autorisés. (art. R*236-30 à R*236-39)](#423)
@@ -36012,12 +36012,12 @@ _Créé par_:
 Dans les eaux de la 1re catégorie mentionnées à l'article L. 236-5 (10°, a), toute pêche est interdite en dehors des temps
 d'ouverture fixés ainsi qu'il suit :
 
-1° Du premier samedi de mars au premier dimanche d'octobre, dans les départements suivants : Alpes-de-Haute-Provence, Hautes-
-Alpes, Alpes-Maritimes, Bouches-du-Rhône, Drôme, Isère, Savoie, Haute-Savoie et Var ;
+1° Du premier samedi de mars au premier dimanche d'octobre, dans les départements suivants : Ain, Alpes-de-Haute-Provence,
+Hautes-Alpes, Alpes-Maritimes, Bouches-du-Rhône, Drôme, Isère, Savoie, Haute-Savoie et Var ;
 
-2° Du troisième samedi de mars au premier dimanche d'octobre, dans les départements suivants : Ain, Aisne, Ardennes, Aube,
-Doubs, Essonne, Eure, Hauts-de-Seine, Jura, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle, Nord, Oise, Paris, Pas-
-de-Calais, Haute-Saône, Seine-Maritime, Seine-et-Marne, Seine-Saint-Denis, Somme, Bas-Rhin, Haut-Rhin, Vosges, territoire de
+2° Du troisième samedi de mars au premier dimanche d'octobre, dans les départements suivants : Aisne, Ardennes, Aube, Doubs,
+Essonne, Eure, Hauts-de-Seine, Jura, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle, Nord, Oise, Paris, Pas-de-
+Calais, Haute-Saône, Seine-Maritime, Seine-et-Marne, Seine-Saint-Denis, Somme, Bas-Rhin, Haut-Rhin, Vosges, territoire de
 Belfort, Val-d'Oise, Val-de-Marne et Yvelines ;
 
 3° Du troisième samedi de mars au troisième dimanche de septembre, dans les départements suivants : Côte-d'Or, Nièvre, Rhône,
@@ -36034,17 +36034,13 @@ _Cite_:
 
   - Code rural L236-5, R236-9 à R236-12
 
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 1 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°89-898 du 14 décembre 1989 - art. 1 () JORF 17 décembre 1989
 
 
 ###### Article R*236-7
@@ -36068,8 +36064,10 @@ dehors des temps d'ouverture suivants :
 
 4° Pour l'esturgeon, du 1er janvier au 31 mai ;
 
-5° Pour les truites autres que la truite de mer, l'omble ou saumon de fontaine, l'omble chevalier, le cristivomer, durant le
-temps d'ouverture de la pêche dans les eaux de la 1re catégorie du département concerné ;
+5° Pour la truite fario, l'omble ou saumon de fontaine, l'omble chevalier et le cristivomer, ainsi que pour la truite arc-en-
+ciel dans les cours d'eau ou parties de cours d'eau classés comme cours d'eau à saumon ou comme cours d'eau à truite de mer
+en application de l'article R. 236-27, durant le temps d'ouverture de la pêche dans les eaux de la 1re catégorie du
+département concerné ;
 
 6° Pour le saumon, la truite de mer, l'ombre commun, les écrevisses autres que l'écrevisse américaine, les grenouilles verte
 et rousse, durant les temps d'ouverture fixés aux articles R. 236-9 à R. 236-12.
@@ -36078,19 +36076,15 @@ et rousse, durant les temps d'ouverture fixés aux articles R. 236-9 à R. 236-1
 
 _Cite_:
 
-  - Code rural L236-5, R236-9, R236-9 à R236-12
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 2 (M)
+  - Code rural L236-5, R236-9, R236-27, R236-9 à R236-12
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°89-898 du 14 décembre 1989 - art. 2 () JORF 17 décembre 1989
 
 _Cité par_:
 
@@ -36450,26 +36444,6 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-###### Article R*236-20
-
-Les filets et engins ne peuvent être placés, manoeuvrés ou, sauf en cas de force majeure, relevés que pendant les heures où
-la pêche est autorisée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 15 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-
 ###### Article R*236-21
 
 Les filets et engins de toute nature doivent être retirés de l'eau du samedi dix-huit heures au lundi six heures, à
@@ -36531,6 +36505,38 @@ _Nouveaux textes_:
   - Code de l'environnement R236-22
 
 
+###### Article R236-20
+
+Les membres des associations agréées départementales ou interdépartementales de pêcheurs professionnels en eau douce peuvent
+placer, manoeuvrer et relever leurs filets et engins deux heures avant le lever du soleil et deux heures après son coucher,
+ou à toute heure dans les cas prévus aux 3° et 4° de l'article R. 236-19.
+
+Les autres pêcheurs ne peuvent placer, manoeuvrer ou relever leurs filets et engins que pendant les heures où la pêche est
+autorisée en application des dispositions des articles R. 236-18 et R. 236-19.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R236-19, R236-18
+
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Modifié par_:
+
+  - Décret n°89-898 du 14 décembre 1989 - art. 3 () JORF 17 décembre 1989
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R236-20
+
+
 ##### Sous-section 2 : Taille minimale des poissons.<a id=421></a>
 
 ###### Article R*236-23
@@ -36548,7 +36554,7 @@ après leur capture si leur longueur est inférieure à :
 
 0,35 mètre pour la truite de mer et le cristivomer ;
 
-0,35 mètre pour le sandre dans les eaux de la 2e catégorie ;
+0,40 mètre pour le sandre dans les eaux de la 2e catégorie ;
 
 0,30 mètre pour les aloses, l'ombre commun et le corégone ;
 
@@ -36564,17 +36570,13 @@ après leur capture si leur longueur est inférieure à :
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 18 (M)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°89-898 du 14 décembre 1989 - art. 4 () JORF 17 décembre 1989
 
 
 ###### Article R*236-24
@@ -36736,11 +36738,11 @@ _Créé par_:
 ###### Article R*236-30
 
 Dans les eaux de la 1re catégorie, les membres des associations agréées de pêche et de pisciculture ne peuvent pêcher qu'au
-moyen de la ligne montée sur canne munie de deux hameçons au plus, de la vermée, de la balance à écrevisses et des engins
-définis au premier alinéa de l'article R. 236-35. Une seule ligne et un maximum de six balances sont autorisés par pêcheur.
-Toutefois, l'emploi de deux lignes montées sur cannes est autorisé dans les eaux mentionnées à l'article L. 235-1 et l'emploi
-de trois lignes montées sur cannes est autorisé dans les plans d'eau dont la superficie est supérieure à 50 hectares et où le
-droit de pêche appartient à l'Etat. Les lignes doivent être disposées à proximité du pêcheur.
+moyen de la ligne montée sur canne munie de deux hameçons au plus ou de trois mouches artificielles au plus, de la vermée, de
+la balance à écrevisses et des engins définis au premier alinéa de l'article R. 236-35. Une seule ligne et un maximum de six
+balances sont autorisés par pêcheur. Toutefois, l'emploi de trois lignes montées sur canne et munies chacune de deux hameçons
+au plus ou de trois mouches artificielles au plus est autorisé dans les eaux mentionnées à l'article L. 235-1 et dans les
+plans d'eau dont la liste est fixée par le préfet. Les lignes doivent être disposées à proximité du pêcheur.
 
 La pêche aux engins et aux filets dans les eaux de la 1re catégorie est interdite. Toutefois, les membres des associations
 agréées de pêcheurs professionnels en eau douce peuvent pêcher dans les plans d'eau dont la liste est fixée par le ministre
@@ -36754,25 +36756,21 @@ _Cite_:
 
   - Code rural L232-9, L235-1, R236-35, R236-34
 
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 25 (M)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°89-898 du 14 décembre 1989 - art. 5 () JORF 17 décembre 1989
 
 
 ###### Article R*236-31
 
 Dans les eaux de la 2e catégorie, les membres des associations agréées de pêche et de pisciculture peuvent pêcher au moyen :
 
-1° De lignes montées sur canne et munies de deux hameçons au plus, avec un maximum de quatre lignes par pêcheur. Les lignes
-doivent être disposées à proximité du pêcheur ;
+1° De lignes montées sur canne et munies chacune de deux hameçons au plus ou de trois mouches artificielles au plus, avec un
+maximum de quatre lignes par pêcheur. Les lignes doivent être disposées à proximité du pêcheur ;
 
 2° De la vermée et de la balance à écrevisses ou à crevettes avec un maximum de six balances par pêcheur ;
 
@@ -36786,24 +36784,25 @@ _Cite_:
 
   - Code rural R236-35
 
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 26 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°89-898 du 14 décembre 1989 - art. 6 () JORF 17 décembre 1989
+
+_Abrogé par_:
+
+  - Décret n°94-978 du 10 novembre 1994 - art. 19 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 
 ###### Article R*236-32
 
-Dans les eaux de la 2e catégorie mentionnées au 1° de l'article L. 235-1, les membres des associations départementales
-agréées de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public peuvent pêcher au moyen d'engins et de
-filets dont la nature, les dimensions et le nombre sont définis dans le cadre de la location du droit de pêche de l'Etat.
+Dans les eaux de la 2e catégorie mentionnées au 1° de l'article L. 235-1 du code rural, les membres des associations
+départementales agréées de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public peuvent pêcher au moyen
+d'engins, de filets et de lignes dont la nature, les dimensions et le nombre sont définis dans le cadre de la location du
+droit de pêche de l'Etat.
 
 Seuls peuvent être autorisés :
 
@@ -36815,7 +36814,7 @@ mètres, ou un filet de type Coul de 1,50 mètre de diamètre maximum ;
 
 3° Trois nasses ;
 
-4° Six bosselles à anguilles ;
+4° Six bosselles à anguilles ou six nasses de type anguillère ou à lamproie ;
 
 5° Six balances à écrevisses ou à crevettes ;
 
@@ -36823,7 +36822,9 @@ mètres, ou un filet de type Coul de 1,50 mètre de diamètre maximum ;
 
 7° Trois lignes de traînes munies au plus de deux hameçons chacune ;
 
-8° Un tamis à civelle d'un diamètre et d'une profondeur inférieurs à 0,50 mètre.
+8° Un tamis à civelle d'un diamètre et d'une profondeur inférieurs à 0,50 mètre ;
+
+9° Quatre lignes montées sur canne et munies chacune de deux hameçons au plus ou de trois mouches artificielles au plus.
 
 **Liens relatifs à cet article**
 
@@ -36831,17 +36832,13 @@ _Cite_:
 
   - Code rural L235-1
 
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 27 (M)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°89-898 du 14 décembre 1989 - art. 7 () JORF 17 décembre 1989
 
 
 ###### Article R*236-33
@@ -36880,10 +36877,10 @@ _Abrogé par_:
 ###### Article R*236-34
 
 Dans les eaux de la 2e catégorie, les membres des associations agréées de pêcheurs professionnels en eau douce peuvent pêcher
-au moyen d'engins et de filets dont la nature, les dimensions et le nombre sont définis soit dans le cadre de la location du
-droit de pêche de l'Etat dans les eaux mentionnées à l'article L. 235-1, soit par arrêté du préfet pour tout ou partie des
-eaux non mentionnées à l'article L. 235-1, soit par l'autorisation de vidange de plan d'eau délivrée en application de
-l'article L. 232-9.
+au moyen d'engins, de filets et de lignes dont la nature, les dimensions et le nombre sont définis soit dans le cadre de la
+location du droit de pêche de l'Etat dans les eaux mentionnées à l'article L. 235-1, soit par arrêté du préfet pour tout ou
+partie des eaux non mentionnées à l'article L. 235-1, soit par l'autorisation de vidange de plan d'eau délivrée en
+application de l'article L. 232-9.
 
 Seul peut être autorisé l'usage des engins et filets suivants :
 
@@ -36916,7 +36913,9 @@ utilisés ;
 
 14° Lignes de traîne ;
 
-15° Tamis à civelle de 1,20 mètre de diamètre et de 1,30 mètre de profondeur au plus.
+15° Tamis à civelle de 1,20 mètre de diamètre et de 1,30 mètre de profondeur au plus ;
+
+16° Quatre lignes montées sur canne et munies chacune de deux hameçons au plus ou de trois mouches artificielles au plus.
 
 **Liens relatifs à cet article**
 
@@ -36924,17 +36923,13 @@ _Cite_:
 
   - Code rural L235-1, L232-9
 
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 29 (M)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°89-898 du 14 décembre 1989 - art. 8 () JORF 17 décembre 1989
 
 
 ###### Article R*236-35
@@ -36987,8 +36982,8 @@ b) Pour les espèces autres que celles désignées au a et au c :
 
 27 millimètres ;
 
-c) Pour l'anguille, le goujon, la loche, le vairon, la vandoise, l'ablette, les lamproies ainsi que pour les espèces
-susceptibles de provoquer des déséquilibres biologiques : 10 millimètres.
+c) Pour l'anguille, le goujon, la loche, le vairon, la vandoise, l'ablette, les lamproies, le gardon, le chevesne et la brème
+ainsi que pour les espèces susceptibles de provoquer des déséquilibres biologiques : 10 millimètres.
 
 Pour la pêche de la civelle, la dimension de la maille des tamis peut être inférieure à 10 millimètres.
 
@@ -36997,21 +36992,23 @@ diagonale ne doit pas dépasser 0,30 mètre.
 
 Le diamètre de l'orifice d'entrée des bosselles à anguilles ne doit pas excéder 40 millimètres.
 
-Les nasses à écrevisses américaines ne doivent pas avoir plus de 0,30 mètre de diamètre et 0,50 mètre de longueur.
+Les nasses à écrevisses américaines dont l'emploi est autorisé en application de l'article R. 236-35 du code rural aux
+membres des associations agréées de pêche et de pisciculture ne doivent pas avoir plus de 0,30 mètre de diamètre et de 0,50
+mètre de longueur.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret n°85-1385 du 23 décembre 1985 - art. 31 (M)
+  - Code rural R236-35
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°89-898 du 14 décembre 1989 - art. 9 () JORF 17 décembre 1989
 
 
 ###### Article R*236-37
@@ -37058,10 +37055,12 @@ Ils ne peuvent, à l'exception des lignes dormantes, être employés simultaném
 même par des pêcheurs différents, que s'ils sont séparés par une distance égale à trois fois au moins la longueur du plus
 long de ces filets ou engins.
 
-La longueur des filets mobiles, et notamment des araignées, mesurés à terre et développés en ligne droite, ne peut dépasser
-les deux tiers de la largeur mouillée du cours d'eau.
+La longueur des filets mobiles et notamment des araignées mesurés à terre et développés en ligne droite ne peut dépasser les
+deux tiers de la largeur mouillée du cours d'eau ; toutefois, le préfet peut porter cette longueur aux quatre cinquièmes de
+la largeur mouillée du cours d'eau lorsque l'irrégularité des courants est de nature à entraver notablement l'exercice normal
+de la pêche.
 
-Lorsqu'il existe un chenal naturel ou balisé, la largeur de celui-ci est substituée à la largeur mouillée du cours d'eau pour
+Lorsqu'il existe un chenal naturel, la largeur de celui-ci est substituée à la largeur mouillée du cours d'eau pour
 l'application des dispositions précédentes.
 
 Le jalonnement des filets, dans les eaux mentionnées au 1° de l'article L. 235-1, est réglementé par le cahier des charges
@@ -37075,17 +37074,21 @@ _Cite_:
 
   - Code rural L235-1
 
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 33 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°89-898 du 14 décembre 1989 - art. 10 () JORF 17 décembre 1989
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R236-38
 
 
 ###### Article R*236-39
@@ -37219,22 +37222,22 @@ _Créé par_:
 
 ###### Article R*236-43
 
-Il est interdit d'utiliser des hameçons à branches multiples dont la distance entre extrémités de pointes est supérieure à 20
-millimètres.
+Il est interdit d'utiliser des hameçons à plus de deux branches dont la distance entre extrémités de pointes est supérieure à
+20 mm.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 38 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°89-898 du 14 décembre 1989 - art. 11 () JORF 17 décembre 1989
+
+_Abrogé par_:
+
+  - Décret n°2002-965 du 2 juillet 2002 - art. 11 (V) JORF 9 juillet 2002
 
 
 ###### Article R*236-44
@@ -37271,23 +37274,19 @@ Cette interdiction ne s'applique pas :
 2° A certains cours d'eau, canaux et plans d'eau désignés par arrêté du préfet.
 
 Pendant la période d'interdiction spécifique de la pêche du brochet, l'emploi de l'épervier ainsi que des nasses et verveux,
-à l'exception des nasses anguillères et des bosselles à anguilles, est interdit dans les eaux classées dans la deuxième
-catégorie sauf pour la pêche d'autres espèces pratiquée par les membres des associations agréées de pêcheurs professionnels
-en eau douce.
+à l'exception des bosselles à anguilles et des nasses de type anguillère ou à lamproie, est interdit dans les eaux classées
+dans la deuxième catégorie sauf pour la pêche d'autres espèces pratiquée par les membres des associations agréées de pêcheurs
+professionnels en eau douce.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 40 (M)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°89-898 du 14 décembre 1989 - art. 12 () JORF 17 décembre 1989
 
 
 ###### Article R*236-46
