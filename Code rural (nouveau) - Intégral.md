@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1992-07-01
+Version Consolidée au 1992-07-07
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L263-10)](#2)
@@ -3074,19 +3074,19 @@ montant maximum est fixé par décret en Conseil d'Etat.
 Pour obtenir la validation départementale du permis de chasser, le demandeur doit être membre de la fédération des chasseurs
 correspondante.
 
+Pour obtenir la validation nationale du permis de chasser, le demandeur doit être membre de la fédération des chasseurs d'un
+département. Lorsqu'il souhaite chasser dans un autre département, il doit préalablement adhérer à la fédération de ce
+département.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°74-1114 du 27 décembre 1974 - art. 22, v. init.
-
-_Créé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
 
 _Codifié par_:
 
   - Loi n°91-363 1991-04-15
+
+_Modifié par_:
+
+  - Loi n°92-613 du 6 juillet 1992 - art. 16 (V) JORF 7 juillet 1992
 
 _Cité par_:
 
@@ -3975,22 +3975,35 @@ _Cite_:
 
 ###### Article L226-5
 
-Les conditions d'application des articles L. 226-1 à L. 226-4, et notamment les modalités de l'évaluation des dommages qui
-doivent être réparés par l'Office national de la chasse sont déterminés par décret en Conseil d'Etat.
+Pour chaque département, la participation de l'Office national de la chasse à l'indemnisation des dégâts est constituée :
+
+a) Du produit des taxes mentionnées à l'article L. 225-4 perçues dans le département ;
+
+b) D'un prélèvement sur chaque redevance cynégétique départementale perçue dans le département ;
+
+c) D'un prélèvement sur chaque redevance cynégétique nationale, réparti entre les départements au prorata de leur surface
+respective.
+
+Les taux des prélèvements visés aux b et c ci-dessus sont fixés par un arrêté conjoint du ministre chargé de la chasse et du
+ministre chargé du budget.
+
+Lorsque la participation de l'office ne suffit pas à couvrir le montant des dégâts indemnisables, la fédération
+départementale des chasseurs prend à sa charge le surplus de l'indemnisation. Elle en répartit le montant entre ses adhérents
+par une participation personnelle des chasseurs de grand gibier et par une participation pour chaque dispositif de marquage
+du gibier.
+
+Les conditions d'application des articles L. 226-1 à L. 226-4 et du présent article, notamment les modalités de l'évaluation
+des dommages, sont déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°68-1172 du 27 décembre 1968 - art. 14, v. init.
-
-_Créé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
 
 _Codifié par_:
 
   - Loi n°91-363 1991-04-15
+
+_Modifié par_:
+
+  - Loi n°92-613 du 6 juillet 1992 - art. 16 (V) JORF 7 juillet 1992
 
 _Cité par_:
 
