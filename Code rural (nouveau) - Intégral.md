@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1984-02-02
+Version Consolidée au 1984-02-15
 ## Contenu: 
   - [Partie législative (art. L411-2 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-2 à L471-7)](#2)
@@ -106,8 +106,8 @@ Version Consolidée au 1984-02-02
             - [Sous-section 3 : Opérations communes au budget général et aux budgets spéciaux. (art. R*511-95 à R511-96)](#103)
           - [Section 6 : Chambre interdépartementale de l'Ile-de-France. (art. R*511-97 à R*511-98)](#104)
           - [Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer. (art. R*511-118 à R*511-122)](#105)
-        - [Chapitre II : Chambres régionales (art. R*512-2 à R*512-7)](#106)
-          - [Section 1 : Dispositions particulières aux chambres régionales d'agriculture. (art. R*512-2 à R*512-7)](#107)
+        - [Chapitre II : Chambres régionales (art. R*512-1 à R*512-7)](#106)
+          - [Section 1 : Dispositions particulières aux chambres régionales d'agriculture. (art. R*512-1 à R*512-7)](#107)
         - [Chapitre III : Assemblée permanente des chambres d'agriculture (art. R*513-1 à R513-28)](#108)
           - [Section 1 : Organisation et fonctionnement. (art. R*513-1 à R513-11)](#109)
           - [Section 2 : Comité permanent général, commissions et sections spécialisées. (art. R*513-12 à R513-21)](#110)
@@ -130,16 +130,16 @@ Version Consolidée au 1984-02-02
           - [Section 4 : Dispositions concernant les unions de coopératives. (art. R*524-23 à R*524-25)](#127)
           - [Section 5 : Directoire et conseil de surveillance. (art. R*524-26 à R*524-42)](#128)
         - [Chapitre V : Agrément, contrôle (art. R*525-1 à R525-17)](#129)
-          - [Section 1 : Agrément. (art. R*525-1 à R*525-11)](#130)
+          - [Section 1 : Agrément. (art. R*525-1 à R*525-12)](#130)
           - [Section 2 : Contrôle. (art. R*525-13 à R525-17)](#131)
-        - [Chapitre VI : Dissolution, liquidation. (art. R*526-1 à R*526-3)](#132)
+        - [Chapitre VI : Dissolution, liquidation. (art. R*526-1 à R*526-4)](#132)
         - [Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle (art. R*527-1 à R*527-11)](#133)
           - [Section 1 : Fédérations de coopératives (art. R*527-1 à R*527-11)](#134)
             - [Sous-section 1 : Dispositions générales. (art. R*527-1 à R*527-3)](#135)
             - [Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision. (art. R*527-4 à R*527-11)](#136)
         - [Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole (art. R*528-1 à R528-9)](#137)
           - [Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément. (art. R*528-1 à R*528-7)](#138)
-          - [Section 2 : Commission départementale des structures agricoles. (art. R*528-10 à R528-9)](#139)
+          - [Section 2 : Commission départementale des structures agricoles. (art. R*528-8 à R528-9)](#139)
         - [Chapitre IX : Dispositions pénales, dispositions d'application. (art. R*529-1 à R*529-2)](#140)
       - [Titre III : Sociétés d'intérêt collectif agricole (art. R*531-1 à R*535-1)](#141)
         - [Chapitre Ier : Constitution. (art. R*531-1 à R*531-5)](#142)
@@ -8576,6 +8576,40 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
+###### Article R*511-61
+
+En cas de démission de l'ensemble des membres de la chambre, de dissolution, d'annulation des élections ou d'empêchement
+collectif des membres de la chambre, une délégation spéciale de trois membres est chargée de l'administration de la chambre
+jusqu'à l'installation de ses nouveaux membres. Cette délégation est choisie parmi les électeurs mentionnés à l'article R.
+511-12.
+
+La délégation spéciale est nommée par arrêté du commissaire de la République intervenant dans les quinze jours de la
+constatation d'une absence totale de membres de la chambre d'agriculture.
+
+La délégation spéciale élit son président. Les pouvoirs de cette délégation spéciale sont limités aux actes d'administration
+conservatoires et urgents. En aucun cas il n'est permis au président de la délégation d'engager les finances de la chambre
+au-delà des ressources disponibles de l'exercice courant. La délégation ne prend aucune décision définitive concernant le
+personnel, sauf celles imposées par les textes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R511-12
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 13 () JORF 11 février 1984 en vigueur le 15 février 1984
+
+
 ###### Article R*511-62
 
 En cas de réduction d'un tiers au moins du nombre des membres de la chambre et dans l'attente d'élections dans les conditions
@@ -8872,6 +8906,56 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
+###### Article R511-75
+
+Le budget général est établi, voté et définitivement arrêté dans les conditions prévues aux articles R. 511-71, R. 511-72 et
+R. 511-73.
+
+Il est soumis au commissaire de la République avant le 30 novembre de l'année précédant celle pour laquelle il est établi.
+
+Une décision modificative du budget de l'exercice est présentée au commissaire de la République avant le 15 septembre de
+l'année au titre de laquelle le budget primitif a été établi.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R511-71, R511-72, R511-73
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 15 () JORF 11 février 1984 en vigueur le 15 février 1984
+
+
+###### Article R511-76
+
+La chambre d'agriculture peut, par délibération spéciale, donner pouvoir à son bureau de se prononcer en ses lieu et place
+sur toute modification du budget général proposée par le président, pendant l'intervalle des sessions. Cette délégation de
+pouvoirs est mentionnée dans la décision de modification qui est soumise à l'approbation du commissaire de la République.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 16 () JORF 11 février 1984 en vigueur le 15 février 1984
+
+
 ###### Article R511-77
 
 Le produit de la taxe perçue au bénéfice de la chambre d'agriculture figure en son intégralité au budget général de ladite
@@ -9024,6 +9108,38 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+
+###### Article R511-89
+
+Les budgets spéciaux des établissements et services d'utilité agricole sont préparés chaque année par le président de la
+chambre d'agriculture, assisté par le comité de direction défini à l'article R. 511-87 lorsque la chambre en a décidé la
+création. Ils sont votés par la chambre d'agriculture.
+
+Toutefois, les budgets spéciaux des établissements ou services mentionnés au quatrième alinéa de l'article R. 511-87 sont
+préparés par le président du comité de direction et votés par ledit comité, la chambre d'agriculture votant sa contribution
+au fonctionnement de l'établissement ou du service. 
+
+Les budgets spéciaux ci-dessus mentionnés sont soumis par le président de la chambre d'agriculture, avant le 30 novembre, à
+l'approbation du commissaire de la République.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R511-87
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 18 () JORF 11 février 1984 en vigueur le 15 février 1984
 
 
 ###### Article R511-90
@@ -9456,6 +9572,34 @@ _Abrogé par_:
 #### Chapitre II : Chambres régionales<a id=106></a>
 
 ##### Section 1 : Dispositions particulières aux chambres régionales d'agriculture.<a id=107></a>
+
+###### Article R*512-1
+
+Une chambre régionale d'agriculture, ayant le même statut d'établissement public que les chambres départementales, constitue
+pour chaque région, auprès des pouvoirs publics, l'organe consultatif et professionnel des intérêts agricoles.
+
+Le siège de cette chambre se trouve, selon le cas, soit au chef-lieu de la région, soit au siège désigné par arrêté du
+commissaire de la République de région sur proposition de la chambre régionale intéressée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°82-688 du 3 août 1982 - art. 5 () JORF 5 août 1982
+  - Décret n°84-96 du 9 février 1984 - art. 23 () JORF 11 février 1984 en vigueur le 15 février 1984
+
+_Nouveaux textes_:
+
+  - Code rural et de la pêche maritime - art. D512-1 (V)
+
 
 ###### Article R*512-2
 
@@ -12445,6 +12589,49 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
+###### Article R*525-2
+
+Sont agréées par arrêté du commissaire de la République du département de leur siège social, après avis de la commission
+départementale des structures, les coopératives dont la circonscription est au plus égale à celle du département ou dont la
+circonscription s'étend au plus à un arrondissement d'un département voisin.
+
+Sont agréées par arrêté du commissaire de la République de la région de leur siège social, après avis des commissions
+départementales des structures de tous les départements intéressés, les coopératives agricoles dont la circonscription est au
+plus égale à celle de la région ou dont la circonscription s'étend au plus à un arrondissement d'une région voisine et dont
+l'agrément ne relève pas de l'autorité départementale.
+
+Sont agréées par arrêté du ministre de l'agriculture, après avis de la commission centrale d'agrément prévue à l'article R.
+528-2, les unions de coopératives agricoles et les unions mixtes prévues par l'article R. 521-4 ainsi que toutes les sociétés
+coopératives agricoles qui n'entrent pas dans les cas prévus par les deux alinéas précédents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 26 () JORF 11 février 1984 en vigueur le 15 février 1984
+
+_Cité par_:
+
+  - Décret n°97-1202 du 19 décembre 1997 - art. Annexe (V)
+  - Code rural - art. R521-5 (V)
+  - Code rural - art. R525-1 (V)
+  - Code rural - art. R525-5-1 (V)
+  - Code rural - art. R582-30 (V)
+  - Code rural et de la pêche maritime - art. R525-4 (V)
+
+_Cite_:
+
+  - Code rural R528-2, R521-4
+
+
 ###### Article R*525-3
 
 Un mois avant la réunion constitutive de toute société coopérative ou union de coopératives, le fondateur doit déclarer son
@@ -12466,6 +12653,50 @@ _Créé par_:
 _Cité par_:
 
   - Code rural et de la pêche maritime - art. R525-2 (V)
+
+
+###### Article R*525-4
+
+Les demandes d'agrément des unions de coopératives agricoles, ainsi que celles des sociétés coopératives agricoles dont
+l'agrément doit être prononcé par arrêté du ministre de l'agriculture, sont adressées au secrétariat de la commission
+centrale d'agrément.
+
+Le secrétariat de la commission centrale enregistre la demande dès qu'un dossier comprenant les pièces mentionnées à
+l'article R. 525-5 a été régulièrement constitué. Dans les huit jours qui suivent cet enregistrement, il envoie au président
+du conseil d'administration du groupement coopératif un accusé de réception portant mention de la date de dépôt.
+
+Les demandes d'agrément des sociétés coopératives agricoles dont l'agrément doit être prononcé par arrêté du commissaire de
+la République de région sont adressées à l'ingénieur général chargé de la région où se trouve le siège social de la société.
+
+Les demandes d'agrément des sociétés coopératives agricoles, dont l'agrément doit être prononcé par arrêté du commissaire de
+la République du département, sont adressées au secrétariat de la commission départementale des structures où se trouve le
+siège social de la société.
+
+Le directeur départemental de l'agriculture enregistre la demande et en accuse réception dans les mêmes conditions que celles
+prévues au deuxième alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 27 () JORF 11 février 1984 en vigueur le 15 février 1984
+
+_Cité par_:
+
+  - Code rural - art. R525-5-1 (V)
+  - Code rural - art. R582-31 (V)
+
+_Cite_:
+
+  - Code rural R525-5
 
 
 ###### Article R*525-5
@@ -12497,6 +12728,112 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
+###### Article R*525-6
+
+Le ministre notifie sa décision au président du conseil d'administration de la coopérative intéressée dans le délai de quatre
+mois à compter de la date de dépôt indiquée à l'article R. 525-4.
+
+Le commissaire de la République de la région ou du département notifie sa décision au président du conseil d'administration
+de la coopérative intéressée dans le délai de deux mois à compter de la date de dépôt indiquée à l'article R. 525-4. Toute
+modification aux statuts doit être portée, dans le mois suivant l'adoption de cette modification, à la connaissance de
+l'autorité qualifiée pour accorder l'agrément.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R525-4
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 28 () JORF 11 février 1984 en vigueur le 15 février 1984
+
+_Cité par_:
+
+  - Code rural - art. R525-8 (V)
+  - Code rural - art. R582-32 (V)
+
+
+###### Article R*525-7
+
+L'agrément est considéré comme acquis aux organismes qui en ont régulièrement fait la demande et qui ont déposé les pièces
+nécessaires pour l'examen de leur dossier au secrétariat de la commission d'agrément compétente ou auprès de l'ingénieur
+général du génie rural, des eaux et des forêts, chargé de la région si aucune notification de décision ne leur a été adressée
+dans le délai de deux mois à partir de la date de ce dépôt. Ce délai est porté à quatre mois pour les coopératives relevant
+de la commission centrale d'agrément et pour les unions de coopératives.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 29 () JORF 11 février 1984 en vigueur le 15 février 1984
+
+_Cité par_:
+
+  - Code rural - art. R582-33 (V)
+
+
+###### Article R*525-8
+
+La décision de refus d'agrément mentionnée au quatrième alinéa de l'article L. 525-1 est prise, selon les cas, par le
+commissaire de la République de la région après avis des commissions départementales des structures agricoles ou par le
+commissaire de la République du département après avis de la commission départementale des structures agricoles. La
+composition et les attributions de ce conseil et de ces commissions font l'objet des dispositions du chapitre VIII du présent
+titre.
+
+L'agrément ne peut être refusé que dans le cas d'irrégularité des formalités de constitution, de maintien de statuts non
+conformes aux statuts types élaborés par le conseil supérieur de la coopération agricole et homologués par le ministre de
+l'agriculture et dans le cas où la coopérative n'observerait pas les prescriptions législatives ou réglementaires qui lui
+sont applicables.
+
+L'agrément peut être refusé, outre les cas prévus à l'alinéa précédent, lorsque deux coopératives de même objet fonctionnent
+déjà dans le secteur intéressé.
+
+En cas de refus d'agrément par le commissaire de la République du département ou par le commissaire de la République de
+région, les organismes intéressés peuvent dans le délai de deux mois à compter de la notification du refus, formuler un
+recours devant le ministre de l'agriculture qui se prononce dans le délai de quatre mois après avis du conseil supérieur de
+la coopération agricole, ou, dans les conditions prévues à l'article R. 528-2, par la commission centrale d'agrément
+mentionnée au même article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 30 () JORF 11 février 1984 en vigueur le 15 février 1984
+
+_Cité par_:
+
+  - Code rural - art. R582-34 (V)
+
+_Cite_:
+
+  - Code rural L525-1, R528-2
+
+
 ###### Article R*525-9
 
 En outre, dans le cas où deux coopératives de même objet fonctionnent déjà dans le secteur intéressé tout arrêté préfectoral
@@ -12521,6 +12858,36 @@ _Cité par_:
   - Code rural - art. R582-35 (V)
 
 
+###### Article R*525-10
+
+La décision de retrait d'agrément mentionnée au quatrième alinéa de l'article L. 525-1 est prise, selon les cas, par le
+commissaire de la République de la région après avis des commissions départementales des structures agricoles ou par le
+commissaire de la République du département après avis de la commission départementale des structures agricoles.
+
+L'agrément donné est retiré après avis de l'organisme ou des organismes consultatifs compétents si la coopérative ou l'union
+cesse ultérieurement d'appliquer les prescriptions qui lui sont applicables ou si elle étend son objet ou sa circonscription
+sans l'accord de l'autorité chargée de l'agrément. L'agrément peut également être retiré dans les conditions fixées à
+l'article R. 525-14.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L525-1, R525-14
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 31 () JORF 11 février 1984 en vigueur le 15 février 1984
+
+
 ###### Article R*525-11
 
 Les décisions d'agrément, de refus, ou de retrait d'agrément sont communiquées, dans le délai d'un mois à compter du jour où
@@ -12541,6 +12908,31 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+
+###### Article R*525-12
+
+Les listes de sociétés coopératives et unions de coopératives agréées et de celles ayant fait l'objet d'un retrait d'agrément
+sont publiées, dans un délai de six mois, à dater de l'agrément ou du retrait d'agrément, soit au Journal officiel, soit au
+recueil des actes administratifs de la région ou du département, selon que l'agrément ou le retrait d'agrément a été prononcé
+par le ministre de l'agriculture, le commissaire de la République de la région ou le commissaire de la République du
+département.
+
+Un numéro d'immatriculation est attribué à chaque organisme agréé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 32 () JORF 11 février 1984 en vigueur le 15 février 1984
 
 
 ##### Section 2 : Contrôle.<a id=131></a>
@@ -12564,6 +12956,100 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+
+###### Article R*525-14
+
+Lorsque le contrôle institué par l'article précédent fait apparaître soit l'inaptitude des administrateurs, soit la violation
+des dispositions législatives, réglementaires ou statutaires, soit la méconnaissance des intérêts du groupement, une
+assemblée générale extraordinaire peut être convoquée par le commissaire de la République du département pour les sociétés
+coopératives agréées par lui et par le commissaire de la République de la région dans les autres cas pour les sociétés
+coopératives agréées par lui et par le ministre de l'agriculture pour les autres sociétés coopératives.
+
+Dans le cas où les mesures décidées par l'assemblée apparaissent inopérantes, le ministre de l'agriculture peut prononcer,
+après avis du conseil supérieur de la coopération agricole, la dissolution du conseil d'administration et nommer une
+commission administrative provisoire. Cette nomination est faite sur la proposition de la caisse nationale de crédit agricole
+lorsqu'il s'agit d'une coopérative ou d'une union ayant obtenu soit une avance de l'Etat, représenté par la caisse nationale
+de crédit agricole, soit un prêt d'une caisse de crédit agricole mutuel.
+
+Si, après un délai d'un an suivant la désignation du nouveau conseil, le fonctionnement normal de la société coopérative n'a
+pas été rétabli, une décision de retrait d'agrément peut être prise à son égard par le ministre de l'agriculture, après avis
+du conseil supérieur de la coopération agricole.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R525-13
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 33 () JORF 11 février 1984 en vigueur le 15 février 1984
+
+
+###### Article R525-15
+
+En vue de permettre le contrôle prévu à l'article R. 525-13, les sociétés coopératives agricoles et les unions de
+coopératives agricoles doivent, chaque année, et dans le délai d'un mois à compter de la date de la réunion de l'assemblée
+générale qui a approuvé les comptes de l'exercice écoulé, faire parvenir à l'autorité qui les a agréées les pièces
+suivantes :
+
+1. La copie intégrale du procès-verbal de l'assemblée générale ;
+
+2. La copie des documents mis à la disposition des associés coopérateurs avant l'assemblée générale : bilan de l'exercice
+écoulé, rapports du conseil d'administration et des commissaires aux comptes ;
+
+3. Un état indiquant le nombre des associés coopérateurs ainsi que le nom des administrateurs, des commissaires aux comptes,
+du directeur, des personnes autorisées à signer pour la société et, éventuellement, des gérants d'annexe.
+
+Toutes ces pièces doivent être certifiées conformes par le président du conseil d'administration ou son représentant.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R525-13
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 34 () JORF 11 février 1984 en vigueur le 15 février 1984
+
+
+###### Article R525-16
+
+Les unions de coopératives agricoles et les sociétés coopératives agricoles qui sont agréées par arrêté du ministre de
+l'agriculture ou par arrêté du commissaire de la République de région doivent fournir, dans le même délai, les mêmes pièces
+de contrôle au commissaire de la République du département où se trouve leur siège social.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 35 () JORF 11 février 1984 en vigueur le 15 février 1984
 
 
 ###### Article R525-17
@@ -12656,6 +13142,33 @@ _Cité par_:
 
   - Code rural - art. R582-42 (V)
   - Code rural et de la pêche maritime - art. R523-5 (VD)
+
+
+###### Article R*526-4
+
+L'assentiment de l'autorité administrative mentionné au a de l'article L. 526-2 est donné par l'autorité qui aurait été
+compétente, en application de l'article R. 525-2, pour prononcer l'agrément.
+
+L'assentiment de l'autorité administrative mentionnée au b du même article est donné par le ministre de l'agriculture, par le
+ministre de l'économie et par le ministre du budget.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L526-2, R525-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 36 () JORF 11 février 1984 en vigueur le 15 février 1984
 
 
 #### Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle<a id=133></a>
@@ -13167,6 +13680,31 @@ _Créé par_:
 
 
 ##### Section 2 : Commission départementale des structures agricoles.<a id=139></a>
+
+###### Article R*528-8
+
+La commission départementale des structures agricoles est compétente pour délibérer en matière d'agrément des sociétés
+coopératives agricoles lorsque cet agrément est de la compétence du commissaire de la République du département, conformément
+à l'article R. 525-2.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R525-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°84-96 du 9 février 1984 - art. 37 () JORF 11 février 1984 en vigueur le 15 février 1984
+
 
 ###### Article R*528-10
 
