@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1988-03-03
+Version Consolidée au 1988-05-06
 ## Contenu: 
   - [Partie législative (art. L411-1 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-1 à L481-1)](#2)
@@ -91,7 +91,7 @@ Version Consolidée au 1988-03-03
           - [Section 4 : Participation et intéressement. (art. R523-9)](#88)
     - [Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux (art. R*511-1 à R*564-3)](#89)
       - [Titre Ier : Chambres d'agriculture (art. R*511-1 à R*514-7)](#90)
-        - [Chapitre Ier : Chambres départementales (art. R*511-1 à R511-124)](#91)
+        - [Chapitre Ier : Chambres départementales (art. R*511-1 à R*511-116)](#91)
           - [Section 1 : Institution et attributions. (art. R*511-1 à R511-4)](#92)
           - [Section 2 : Composition. (art. R*511-6 à R*511-7)](#93)
           - [Section 3 : Elections (art. R*511-8 à R*511-53)](#94)
@@ -119,7 +119,7 @@ Version Consolidée au 1988-03-03
           - [Section 6 : Chambre interdépartementale de l'Ile-de-France. (art. R*511-97 à R*511-100)](#116)
           - [Section 7 : Etablissements et services d'utilité agricole interchambres d'agriculture. (art. R511-102 à R511-110)](#117)
           - [Section 8 : Dispositions communes aux chambres départementales d'agriculture et aux établissements et services d'utilité agricole interchambres d'agriculture. (art. R511-111 à R511-112)](#118)
-          - [Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer. (art. R*511-117 à R511-124)](#119)
+          - [Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer. (art. R*511-113 à R*511-116)](#119)
         - [Chapitre II : Chambres régionales (art. R*512-1 à R512-11)](#120)
           - [Section 1 : Dispositions particulières aux chambres régionales d'agriculture. (art. R*512-1 à R*512-8)](#121)
           - [Section 2 : Dispositions financières particulières relatives aux chambres régionales d'agriculture. (art. R512-9 à R512-11)](#122)
@@ -12848,67 +12848,17 @@ _Modifié par_:
 
 ##### Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer.<a id=119></a>
 
-###### Article R*511-117
+###### Article R*511-113
 
-Les commissaires de la République de la Guadeloupe, de la Martinique et de la Réunion ont délégation permanente du ministre
-de l'agriculture pour :
-
-1° Demander la convocation de la chambre d'agriculture en session extraordinaire ;
-
-2° Approuver dans un délai de deux mois suivant leur réception les délibérations, budgets et comptes des chambres. Passé ce
-délai, ils sont exécutoires, faute d'une approbation expresse ou d'une demande de modification ;
-
-3° Autoriser les opérations immobilières et les emprunts y afférents, lorsque le coût de ces opérations ne rend pas
-nécessaire l'intervention de la commission départementale des opérations immobilières, de l'architecture et des espaces
-protégés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°82-897 du 19 octobre 1982 - art. 2 () JORF 20 octobre 1982
-  - Décret n°86-1124 1986-10-17 art. 4 JORF 18 octobre 1986
-
-_Abrogé par_:
-
-  - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
-
-
-###### Article R*511-118
-
-La chambre départementale d'agriculture est composée :
-
-1. De membres élus au scrutin de liste départemental, par les chefs d'exploitation et assimilés mentionnés au 1° de l'article
-R. 511-120. Ces membres sont élus par deux collèges distincts :
-
-a) Celui des électeurs exploitant moins de 10 hectares, à raison de six ;
-
-b) Celui des électeurs exploitant 10 hectares et plus, à raison de six ;
-
-2. D'un membre élu au scrutin de liste départemental, par les propriétaires ou usufruitiers mentionnés au 2° de l'article R.
-511-120.
-
-3. De quatre membres élus au scrutin de liste départemental, par les salariés mentionnés au 2° de l'article R. 511-120.
-
-4.  De cinq membres élus au scrutin de liste départemental, par les groupements professionnels agricoles suivants :
-coopératives agricoles et caisses locales d'assurances mutuelles agricoles, à l'exclusion de leurs unions et fédérations.
-
-5. D'un membre élu par les organisations syndicales à vocation générale d'exploitants agricoles ou de jeunes agriculteurs, à
-l'exclusion de leurs unions et fédérations.
+Les trois membres mentionnés à l'article R. 511-6, 5 (b) sont élus par les autres sociétés coopératives agricoles, leurs
+unions et fédérations, ainsi que par les sociétés d'intérêt collectif agricole ayant pour objet d'assurer des services dans
+l'intérêt des agriculteurs.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R511-120
+  - Code rural R511-6
 
 _Codifié par_:
 
@@ -12921,90 +12871,19 @@ _Créé par_:
 _Modifié par_:
 
   - Décret n°82-897 du 19 octobre 1982 - art. 2 () JORF 20 octobre 1982
-
-_Abrogé par_:
-
   - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
 
 
-###### Article R*511-119
+###### Article R*511-114
 
-Des membres associés, au nombre maximum de cinq, participent aux sessions de la chambre d'agriculture avec voix consultative.
-Parmi ceux-ci figurent :
-
-Un maire désigné par le conseil général ;
-
-Un représentant du secteur des industries et du commerce désigné par la ou les chambres de commerce et d'industrie du
-département ;
-
-Un représentant des artisans ruraux désigné par la chambre des métiers du département ;
-
-Un représentant des salariés du secteur des industries agricoles et alimentaires désigné par le commissaire de la République
-sur proposition des organisations syndicales les plus représentatives au plan départemental.
-
-La chambre d'agriculture peut désigner, au scrutin secret, un cinquième membre associé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°82-897 du 19 octobre 1982 - art. 2 () JORF 20 octobre 1982
-
-_Abrogé par_:
-
-  - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
-
-
-###### Article R*511-120
-
-Sont électeurs, à la condition d'être inscrits sur une liste électorale établie conformément à la partie législative du titre
-Ier, chapitres I et II, du livre Ier du code électoral :
-
-1. Les chefs d'exploitation ayant la qualité de propriétaire, de fermier ou de métayer et leurs conjoints, les aides
-familiaux mentionnés à l'article 1106-1 (I, 2°) du code rural, ainsi que les associés d'exploitation prévus par la loi n°
-73-650 du 13 juillet 1973, lorsque ces personnes, exerçant une activité agricole à titre principal, satisfont à l'une des
-conditions suivantes :
-
-a) être au nombre des bénéficiaires du régime d'assurance maladie, invalidité et maternité, des exploitants agricoles,
-applicable aux départements d'outre-mer ;
-
-b) être parmi les personnes mentionnées à l'article 6, 2e alinéa, du décret n° 61-294 du 31 mars 1961 modifié.
-
-Sont également électeurs dans la catégorie des chefs d'exploitation mentionnés ci-dessus, lorsqu'ils consacrent leur activité
-principale à cette exploitation agricole, les membres de toute société, quelles qu'en soient la forme et la dénomination,
-ayant pour objet la gestion d'une exploitation agricole et qui ne figure pas sur la liste des groupements, professionnels
-agricoles ; il en est de même pour leurs conjoints, leurs aides familiaux et leurs associés d'exploitation.
-
-2. Les personnes qui, ayant ou non la qualité d'exploitant, sont propriétaires ou usufruitiers dans le département, de
-parcelles soumises aux dispositions relatives, soit au colonat partiaire, soit au statut du fermage, applicables dans le
-département de la Guyane.
-
-3. Les salariés qui exercent une activité professionnelle qui entraînerait leur affiliation aux assurances sociales
-agricoles, si elle était exercée en métropole et qui remplissent les conditions d'activité professionnelle exigées pour
-l'ouverture des droits aux prestations de l'assurance maladie.
-
-Sont également électeurs les ressortissants des Etats membres de la Communauté économique européenne qui appartiennent à
-l'une des catégories définies au présent article et remplissent les conditions requises pour être inscrits sur les listes
-électorales en application des dispositions du titre Ier du livre Ier du code électoral, à l'exclusion des conditions
-concernant la nationalité. Ces personnes ne doivent toutefois pas avoir encouru de condamnations qui, si elles étaient
-prononcées par une juridiction française, mettraient obstacle à l'inscription sur la liste électorale établie conformément
-aux dispositions du code électoral.
+Outre les personnes mentionnées au 2° de l'article R. 511-8, sont électeurs, au titre du collège mentionné à l'article R.
+511-6, 2°, les propriétaires et usufruitiers de parcelles soumises aux dispositions relatives au colonat partiaire.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural 1106-1
-  - Décret n°61-294 du 31 mars 1961 - art. 6 (M)
-  - Loi n°73-650 1973-07-13
+  - Code rural R511-8, R511-6
 
 _Codifié par_:
 
@@ -13017,35 +12896,62 @@ _Créé par_:
 _Modifié par_:
 
   - Décret n°82-897 du 19 octobre 1982 - art. 2 () JORF 20 octobre 1982
-
-_Abrogé par_:
-
   - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
 
 
-###### Article R*511-121
+###### Article R*511-115
 
-Les électeurs qui votent au nom des groupements professionnels mentionnés à l'article R. 511-118 sont :
+Les préfets ont délégation permanente du ministre de l'agriculture pour demander la convocation de la chambre d'agriculture
+en session extraordinaire.
 
-a) Pour les coopératives agricoles, les personnes désignées par les conseils d'administration de ces organismes et pour les
-organismes d'assurances mutuelles agricoles, les présidents des caisses locales ;
+**Liens relatifs à cet article**
 
-Pour les coopératives agricoles, ces personnes sont désignées à raison d'une par tranche de 25 adhérents jusqu'à 100 membres
-adhérents, puis d'une par tranche de 50 adhérents de 101 à 1.000 adhérents, puis d'une par tranche de 100 adhérents au-dessus
-de 1.000 adhérents. Toute fraction de tranche comptant pour une tranche entière.
+_Codifié par_:
 
-Tout adhérent peut, en vue de sa désignation, poser sa candidature auprès du président du groupement, les adhérents ayant été
-préalablement informés des modalités et de la date de cette désignation.
+  - Décret n°81-277 1981-03-18
 
-Le nombre maximal d'électeurs est de 100 par organisme et par département.
+_Créé par_:
 
-b) Pour les organisations syndicales mentionnées au 5° de l'article R. 511-118, les présidents de ces organismes.
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°82-897 du 19 octobre 1982 - art. 2 () JORF 20 octobre 1982
+  - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
+
+
+###### Article R*511-116
+
+Par dérogation aux dispositions de l'article R. 511-6, la chambre d'agriculture de la Guyane est composée :
+
+1. De membres élus, au scrutin de liste départemental, par les chefs d'exploitation et assimilés mentionnés à l'article R.
+511-8, 1°. Ces membres sont élus par deux collèges distincts :
+
+a) Celui des électeurs exploitant moins de 10 ha, à raison de 7 ;
+
+b) Celui des électeurs exploitant plus de 10 ha, à raison de 5.
+
+2. D'un membre élu, au scrutin de liste départemental, par les propriétaires ou usufruitiers mentionnés à l'article R. 511-8,
+2°.
+
+3. De deux membres élus, au scrutin de liste départemental, par les salariés mentionnés à l'article R. 511-8, 3°.
+
+4. D'un membre élu, au scrutin de liste départemental, par les anciens exploitants et assimilés mentionnés à l'article R.
+511-8, 4°.
+
+5. De trois membres élus, au scrutin de liste départemental, par les sociétés coopératives agricoles et les sociétés
+d'intérêt collectif agricole, ainsi que leurs unions et fédérations.
+
+6. D'un membre élu par les caisses d'assurances mutuelles agricoles.
+
+7. De deux membres élus par les organisations syndicales à vocation générale d'exploitants agricoles ou de jeunes
+agriculteurs, y compris leurs unions et fédérations.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R511-118
+  - Code rural R511-6, R511-8
 
 _Codifié par_:
 
@@ -13058,95 +12964,6 @@ _Créé par_:
 _Modifié par_:
 
   - Décret n°82-897 du 19 octobre 1982 - art. 2 () JORF 20 octobre 1982
-
-_Abrogé par_:
-
-  - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
-
-
-###### Article R*511-122
-
-La commission départementale mentionnée à l'article R. 511-21 comprend, outre les membres prévus à cet article et pour les
-travaux relatifs à l'établissement des listes des électeurs votant individuellement, un membre du conseil d'administration de
-la caisse générale de sécurité sociale représentant les agriculteurs auprès de cet organisme, désigné par ce conseil.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R511-21
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°82-897 du 19 octobre 1982 - art. 2 () JORF 20 octobre 1982
-
-_Abrogé par_:
-
-  - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
-
-
-###### Article R*511-123
-
-Le commissaire de la République a délégation permanente du ministre de l'agriculture pour :
-
-1° Demander la convocation de la chambre d'agriculture en session extraordinaire ;
-
-2° Approuver dans un délai de deux mois suivant la date de leur réception les délibérations, budgets et comptes de la
-chambre. Passé ce délai, ils sont exécutoires, faute d'approbation expresse ou d'une demande de modification ;
-
-3° Autoriser les opérations immobilières et les emprunts y afférents, lorsque le coût de ces opérations ne rend pas
-nécessaire l'intervention de la commission départementale des opérations immobilières, de l'architecture et des espaces
-protégés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°82-897 du 19 octobre 1982 - art. 2 () JORF 20 octobre 1982
-  - Décret n°86-1124 1986-10-17 art. 5 JORF 18 octobre 1986
-
-_Abrogé par_:
-
-  - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
-
-
-###### Article R511-124
-
-Les présidents du conseil général et du conseil régional peuvent assister aux séances de la chambre d'agriculture. Ils sont
-entendus chaque fois qu'ils le demandent. Ils peuvent se faire assister ou représenter.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°86-1122 1986-10-17 art. 6 JORF 18 octobre 1986
-
-_Abrogé par_:
-
   - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
 
 
