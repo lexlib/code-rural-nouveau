@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1995-03-11
+Version Consolidée au 1995-03-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -510,7 +510,7 @@ Version Consolidée au 1995-03-11
           - [Section 2 : Initiatives publiques. (art. R*125-5 à R125-9)](#507)
           - [Section 3 : Dispositions communes. (art. R*125-13 à R125-14)](#508)
         - [Chapitre VI : Aménagement agricole et forestier (art. R*126-1 à R126-35)](#509)
-          - [Section 1 : Interdiction et réglementation des plantations et des semis d'essences forestières. (art. R*126-1 à R*126-10)](#510)
+          - [Section 1 : Interdiction et réglementation des plantations et des semis d'essences forestières. (art. R*126-1 à R*126-10-1)](#510)
           - [Section 2 : Périmètres d'actions forestières. (art. R*126-11 à R*126-16)](#511)
           - [Section 3 : Zones dégradées. (art. R*126-17 à R*126-20)](#512)
           - [Section 4 : Aménagement foncier agricole et forestier. (art. R*126-21 à R*126-32)](#513)
@@ -49205,7 +49205,8 @@ communale ou intercommunale d'aménagement foncier, constituée dans les conditi
 propose un projet de création de périmètres à l'intérieur desquels :
 
 1° Soit tous semis et plantations d'essences forestières, ou les semis et plantations de certaines essences forestières
-seulement, sont interdits, sans exception possible ;
+seulement, sont interdits, sans exception possible autre, éventuellement, que des semis ou plantations destinés à la création
+de boisements linéaires ou à l'installation de sujets isolés ;
 
 2° Soit tous semis et plantations d'essences forestières, ou les semis et plantations de certaines essences forestières
 seulement, sont subordonnés à l'absence d'opposition du préfet, qui a la faculté de les interdire ou de les réglementer.
@@ -49223,17 +49224,13 @@ _Cite_:
   - Code rural L126-1, L121-2 à L121-5
   - Code civil - art. 671 (V)
 
-_Anciens textes_:
-
-  - Décret n°86-1420 du 31 décembre 1986 - art. 2 (Ab)
-
 _Codifié par_:
 
   - Décret n°92-1290 1992-12-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
+  - Décret n°95-296 du 15 mars 1995 - art. 1 () JORF 17 mars 1995
 
 _Cité par_:
 
@@ -49242,11 +49239,13 @@ _Cité par_:
 
 ###### Article R*126-4
 
-Le projet de la commission communale ou intercommunale est soumis à enquête publique ouverte et organisée dans les conditions
-de l'article R. 121-21.
+Le projet de réglementation des boisements élaboré par la commission communale ou intercommunale d'aménagement foncier est
+soumis à enquête publique ouverte et organisée dans les formes prévues par l'article R. 121-21.
 
-En outre, l'avis d'enquête publique est notifié à chacune des personnes qui, selon les énonciations cadastrales, est
-propriétaire d'une ou de plusieurs parcelles comprises dans le ou les périmètres définis à l'article précédent.
+Toutefois, l'avis mentionné au cinquième alinéa de l'article R. 121-21 est également porté à la connaissance du public par
+une publication en caractères apparents dans deux journaux diffusés dans le département et rappelée dans les mêmes conditions
+dans les huit premiers jours de l'enquête ; en outre, le délai préalable à courir entre la publicité et l'ouverture de
+l'enquête est porté à trois mois au moins.
 
 Le dossier d'enquête comprend les pièces suivantes :
 
@@ -49267,17 +49266,13 @@ _Cite_:
 
   - Code rural R121-21, L126-1, R126-3
 
-_Anciens textes_:
-
-  - Décret n°86-1420 du 31 décembre 1986 - art. 3 (Ab)
-
 _Codifié par_:
 
   - Décret n°92-1290 1992-12-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
+  - Décret n°95-296 du 15 mars 1995 - art. 2 () JORF 17 mars 1995
 
 
 ###### Article R*126-5
@@ -49485,6 +49480,31 @@ _Créé par_:
 _Cité par_:
 
   - Code rural - art. R126-9 (V)
+
+
+###### Article R*126-10-1
+
+Les périmètres d'interdiction et de réglementation fixés en application des articles R. 126-1 et R. 126-7 du code rural sont
+reportés dans les plans d'occupation des sols dans les conditions prévues à l'article R. 123-19 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°86-1420 du 31 décembre 1986 - art. 8 (M)
+
+_Codifié par_:
+
+  - Décret n°92-1290 1992-12-11
+
+_Créé par_:
+
+  - Décret n°95-296 du 15 mars 1995 - art. 3 () JORF 17 mars 1995
+
+_Cite_:
+
+  - Code de l'urbanisme R123-19
+  - Code rural R126-1, R126-7
 
 
 ##### Section 2 : Périmètres d'actions forestières.<a id=511></a>
