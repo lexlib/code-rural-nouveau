@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1985-03-05
+Version Consolidée au 1985-03-25
 ## Contenu: 
   - [Partie législative (art. L411-1 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-1 à L481-1)](#2)
@@ -15805,6 +15805,38 @@ _Créé par_:
 _Cité par_:
 
   - Code rural - art. R583-11 (V)
+
+
+###### Article R531-6
+
+La mission dévolue au commissaire aux comptes par les articles 25 et 26 du décret n° 85-295 du 1er mars 1985, pris pour
+l'application de la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable des difficultés des
+entreprises, est assurée dans les sociétés d'intérêt collectif agricole qui n'ont pas la forme commerciale et dont le chiffre
+d'affaires hors taxes dépasse 500 000 F à la clôture de l'exercice social, soit par un commissaire aux comptes inscrit, soit
+par une fédération de coopératives agricoles agréée conformément à l'article L. 527-1. Le commissaire aux comptes inscrit ou
+la fédération agréée exerce, chacun en ce qui le concerne, le commissariat aux comptes dans les conditions prévues à
+l'article R. 524-10.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L527-1, R524-10
+  - Loi n°84-148 1984-03-01
+  - Décret n°85-295 du 1 mars 1985 - art. 25 (M)
+  - Décret n°85-295 du 1 mars 1985 - art. 26 (M)
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°85-295 du 1 mars 1985 - art. 32 () JORF 5 mars 1985
+
+_Cité par_:
+
+  - Code rural - art. R583-12 (V)
 
 
 ###### Article R531-7
