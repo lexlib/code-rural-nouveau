@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1986-03-16
+Version Consolidée au 1986-07-30
 ## Contenu: 
   - [Partie législative (art. L411-1 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-1 à L481-1)](#2)
@@ -55,11 +55,11 @@ Version Consolidée au 1986-03-16
   - [Partie réglementaire (art. R*411-1 à R832-19)](#52)
     - [Livre IV : Baux ruraux (art. R*411-1 à R464-1)](#53)
       - [Titre Ier : Statut du fermage et du métayage (art. R*411-1 à R417-3)](#54)
-        - [Chapitre Ier : Régime de droit commun (art. R*411-1 à R411-19)](#55)
+        - [Chapitre Ier : Régime de droit commun (art. R*411-1 à R411-27)](#55)
           - [Section 1 : Etablissement du contrat, durée et prix du bail (art. R*411-1 à R411-9)](#56)
             - [Sous-section 3 : Prix du bail. (art. R*411-1 à R411-9)](#57)
           - [Section 8 : Droit de renouvellement et droit de reprise. (art. R411-10 à R411-13)](#58)
-          - [Section 9 : Indemnité au preneur sortant. (art. R*411-18 à R411-19)](#59)
+          - [Section 9 : Indemnité au preneur sortant. (art. R*411-18 à R411-27)](#59)
         - [Chapitre IV : Commissions consultatives paritaires des baux ruraux (art. R*414-1 à R*414-6)](#60)
           - [Section 1 : Commissions consultatives paritaires départementales des baux ruraux. (art. R*414-1 à R414-3)](#61)
           - [Section 2 : Commissions consultatives paritaires régionales des baux ruraux. (art. R*414-5)](#62)
@@ -7677,6 +7677,193 @@ _Codifié par_:
 _Cite_:
 
   - Code rural - art. R411-18 (V)
+
+
+###### Article R411-20
+
+Le comité technique départemental prévu au 3 du I de l'article L. 411-73 est placé sous la présidence du commissaire de la
+République ou de son représentant. Il comprend, en outre, cinq représentants de la profession agricole ou leurs suppléants
+désignés par le commissaire de la République sur proposition des représentants élus de la commission consultative paritaire
+départementale des baux ruraux. Ces membres et suppléants ne peuvent être assesseurs, titulaires ou suppléants d'un tribunal
+paritaire des baux ruraux.
+
+La durée du mandat des membres et de leurs suppléants est de cinq ans.
+
+Assistent de droit aux séances du comité avec voix consultative :
+
+1° Le président de la caisse régionale de crédit agricole ou son représentant ;
+
+2° Deux personnalités qualifiées désignées par le commissaire de la République sur proposition de la chambre départementale
+d'agriculture ;
+
+3° Trois fonctionnaires désignés par le commissaire de la République ou leurs représentants.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L411-73
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°86-881 1986-07-28 art. 1 JORF 30 juillet 1986
+
+
+###### Article R411-21
+
+Le comité technique ne peut se réunir que si trois au moins des membres représentant la profession agricole sont présents. Si
+le quorum n'est pas atteint, une seconde réunion du comité technique a lieu dans les quinze jours. Il siège alors
+valablement, quel que soit le nombre des présents.
+
+Les votes sont acquis à la majorité des voix. En cas de partage, celle du président est prépondérante.
+
+Le comité technique peut entendre toute personne dont il estime l'audition utile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°86-881 1986-07-28 art. 1 JORF 30 juillet 1986
+
+
+###### Article R411-22
+
+Dans le cas prévu au 3 du I de l'article L. 411-73, le preneur notifie sa proposition de travaux d'amélioration au bailleur
+ainsi qu'au comité technique départemental du siège de l'exploitation.
+
+En cas de refus du bailleur d'exécuter les travaux ou s'il ne répond pas dans les deux mois qui suivent la notification de la
+proposition du preneur, celui-ci saisit le comité par lettre recommandée avec demande d'avis de réception postal adressée au
+commissaire de la République.
+
+A l'appui de sa saisine, le preneur doit fournir le descriptif et le devis des travaux envisagés, ainsi que toutes les
+informations utiles au comité pour l'application des dispositions de l'article R. 411-25, à moins qu'il n'ait déjà transmis
+ces pièces au comité.
+
+Le commissaire de la République enregistre la saisine du preneur et en informe le bailleur par lettre recommandée avec
+demande d'avis de réception postal.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L411-73, R411-25
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°86-881 1986-07-28 art. 1 JORF 30 juillet 1986
+
+
+###### Article R411-23
+
+Le commissaire de la République avertit les parties de la date d'examen du projet de travaux. Sur leur demande écrite
+préalable, le comité technique départemental doit les entendre, éventuellement assistées ou représentées par une personne de
+leur choix.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°86-881 1986-07-28 art. 1 JORF 30 juillet 1986
+
+
+###### Article R411-24
+
+Le comité technique départemental favorise toute solution amiable pouvant satisfaire les parties.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°86-881 1986-07-28 art. 1 JORF 30 juillet 1986
+
+
+###### Article R411-25
+
+Le comité technique départemental émet un avis motivé qui prend en considération :
+
+1° Les améliorations que les travaux envisagés peuvent apporter au fonds loué ;
+
+2° L'utilité économique et technique des travaux compte tenu des orientations régionales de production, leur rentabilité pour
+l'exploitation et leurs répercussions sur les conditions de travail ;
+
+3° La localisation et l'emprise des travaux en tenant compte, en particulier, de l'incidence du projet tant sur le fonds loué
+et l'exploitation que sur les fonds voisins et l'environnement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°86-881 1986-07-28 art. 1 JORF 30 juillet 1986
+
+_Cité par_:
+
+  - Code rural - art. R411-22 (V)
+
+
+###### Article R411-26
+
+Le comité technique départemental dispose d'un délai de deux mois pour rendre son avis à compter de la saisine ou de la
+réception des pièces qu'il a demandées lorsqu'il a estimé le dossier incomplet.
+
+L'avis ainsi émis est notifié au preneur et au bailleur par le commissaire de la République dans un délai de quinze jours à
+compter de son adoption par lettre recommandée avec demande d'avis de réception postal.
+
+Le comité technique peut proposer des modifications au projet présenté, à sa localisation et à son assiette. Dans ce cas, son
+avis est considéré comme favorable si le preneur notifie son accord sur les modifications proposées au commissaire de la
+République et au bailleur dans un délai d'un mois après la notification de cet avis.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°86-881 1986-07-28 art. 1 JORF 30 juillet 1986
+
+
+###### Article R411-27
+
+Lorsque le comité technique départemental donne un avis favorable aux travaux, le bailleur dispose d'un délai de deux mois à
+compter de la notification de cet avis pour saisir le tribunal paritaire des baux ruraux.
+
+En cas de modifications au projet, ce délai court à compter de la notification de l'accord donné par le preneur à ces
+modifications.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°86-881 1986-07-28 art. 1 JORF 30 juillet 1986
 
 
 #### Chapitre IV : Commissions consultatives paritaires des baux ruraux<a id=60></a>
