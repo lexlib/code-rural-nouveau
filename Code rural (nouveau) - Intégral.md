@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1992-07-14
+Version Consolidée au 1992-10-17
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L263-10)](#2)
@@ -398,7 +398,7 @@ Version Consolidée au 1992-07-14
         - [Chapitre V : Plan de chasse. (art. R*225-1 à R*225-14)](#395)
         - [Chapitre VI : Indemnisation des dégâts de gibier (art. R*226-1 à R*226-29)](#396)
           - [Section 1 : Indemnisation par l'Office national de la chasse des dégâts causés par les sangliers et les grands gibiers (art. R*226-1 à R*226-19)](#397)
-            - [Sous-section 1 : Compte d'indemnisation. (art. R*226-1 à R*226-5)](#398)
+            - [Sous-section 1 : Compte d'indemnisation. (art. R*226-1 à R226-2)](#398)
             - [Sous-section 2 : Conditions d'attribution de l'indemnisation pour dégâts de gibier (art. R*226-6 à R*226-19)](#399)
               - [Paragraphe 1 : Commission nationale d'indemnisation. (art. R*226-6 à R*226-7)](#400)
               - [Paragraphe 2 : Commission départementale d'indemnisation. (art. R*226-8 à R*226-11)](#401)
@@ -25765,58 +25765,67 @@ _Créé par_:
 
 ###### Article R*221-33
 
-Les cotisations que doivent acquitter les membres des fédérations, par application des dispositions de l'article L. 223-10,
-sont fixées par l'assemblée générale de chaque fédération, conformément aux dispositions prévues par un arrêté du ministre
-chargé de la chasse relatif au statut des fédérations départementales des chasseurs, en fonction d'un montant moyen national
-fixé par le collège des présidents des fédérations réuni chaque année à cet effet en assemblée générale.
+Les cotisations que doivent acquitter les membres des fédérations par application de l'article L. 223-10 sont fixées par
+l'assemblée générale de chaque fédération conformément aux dispositions prévues par les statuts.
 
-Le produit des cotisations statutaires versées aux fédérations départementales des chasseurs est utilisé par chacune d'elles
-pour son fonctionnement et pour la couverture des dépenses relatives à l'ensemble des actions énumérées à l'article L. 221-2.
+Les cotisations comprennent :
+
+1° Une participation utilisée par chaque fédération pour le financement de son fonctionnement et des actions énumérées à
+l'article L. 221-2 dont le montant est fixé comme suit :
+
+a) Le montant de la participation exigible des chasseurs qui adhèrent à une fédération en vue d'obtenir le visa de leur
+permis de chasser conformément aux dispositions de l'article L. 223-10 est égal au montant national minimum fixé par le
+collège des présidents de fédération réuni chaque année à cet effet en assemblée générale, augmenté au maximum de 66 p. 100 ;
+
+b) Le montant de la participation exigible des chasseurs déjà titulaires d'une validation nationale et tenus d'adhérer en
+application des dispositions de la deuxième phrase du troisième alinéa de l'article L. 223-16 ne peut être inférieur à 10 F
+ni excéder le montant de l'augmentation décidée dans le département en application du a ci-dessus.
+
+2° Le cas échéant, les participations prévues au troisième alinéa de l'article L. 226-5 pour contribuer à l'indemnisation des
+dégâts de grand gibier.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural L223-10, L221-2
-
-_Anciens textes_:
-
-  - Décret n°72-334 1972-04-27 art. 23 al. 1, al. 2
+  - Code rural L223-10, L221-2, L223-16, L226-5
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°92-1151 du 15 octobre 1992 - art. 1 () JORF 17 octobre 1992
 
 
 ###### Article R*221-34
 
-Les fédérations fixent dans leur règlement intérieur les modalités de répartition entre leurs membres, en fonction des
-espèces chassées, de la contribution due en application du troisième alinéa de l'article R. 226-3.
+I. - La participation personnelle exigible des chasseurs de grand gibier peut être fonction des espèces chassées.
 
-Le montant de la contribution due au titre d'un exercice est intégralement versé à l'Office national de la chasse avant le 31
-décembre de l'exercice suivant pour abonder le compte d'indemnisation.
+II. - La participation exigible pour chaque dispositif de marquage du gibier peut être fonction :
+
+a) Des espèces chassées ;
+
+b) Du lieu de prélèvement du gibier. Elle doit être identique dans une même unité de gestion.
+
+Lorsqu'il n'est pas régi par les dispositions de l'article R. 225-10, le dispositif de marquage est agréé par le ministre
+chargé de la chasse. Il doit être à la diligence et sous la responsabilité du chasseur, daté du jour de la capture et apposé
+sur l'animal abattu préalablement à tout transport et sur les lieux mêmes de sa capture.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R226-3
-
-_Anciens textes_:
-
-  - Décret n°72-334 1972-04-27 art. 23 al. 3, al. 4
+  - Code rural R225-10
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°92-1151 du 15 octobre 1992 - art. 1 () JORF 17 octobre 1992
 
 
 ###### Article R*221-35
@@ -29759,27 +29768,28 @@ _Créé par_:
 ###### Article R*223-23
 
 Le versement de la redevance cynégétique nationale valide le permis pour tout le territoire national, y compris les zones
-définies à l'article L. 222-27.
+définies à l'article L. 222-27, sous réserve que le titulaire du permis adhère à la fédération départementale des chasseurs
+du lieu de chasse.
+
+Cette adhésion est souscrite :
+
+1° Antérieurement au visa pour la première adhésion conformément à l'article R. 223-14 ;
+
+2° A tout moment, préalablement à tout acte de chasse dans le département concerné pour les autres adhésions.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural L222-27
-
-_Anciens textes_:
-
-  - Décret n°72-876 1975-09-25 art. 2
-  - Décret n°75-543 du 30 juin 1975 - art. 1 (M)
-  - Décret n°75-544 1975-06-30 art. 7 al. 1
+  - Code rural L222-27, R223-14
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°92-1151 du 15 octobre 1992 - art. 2 () JORF 17 octobre 1992
 
 
 ###### Article R*223-24
@@ -31177,84 +31187,25 @@ _Anciens textes_:
   - Décret n°75-442 1975-06-30 art. 1 al. 1
 
 
-###### Article R*226-2
-
-Le compte d'indemnisation prévu à l'article R. 226-1 comporte :
-
-1° En recettes :
-
-a) Une part des redevances mentionnées aux articles L. 223-16 à L. 223-18 fixée par un arrêté conjoint du ministre de
-l'économie, des finances et du budget et du ministre chargé de la chasse ;
-
-b) Les taxes versées par les bénéficiaires de plans de chasse individuels ;
-
-c) Le produit des contributions imposées aux fédérations départementales des chasseurs en application du troisième alinéa de
-l'article R. 226-3.
-
-2° En dépenses :
-
-Les indemnités versées aux victimes des dégâts causés par les sangliers et les espèces de gibier inscrites au plan de chasse
-ainsi que les frais entraînés par cette indemnisation, en particulier pour la rémunération des estimateurs.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R226-1, L223-16 à L223-18, R226-3
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. R228-12 (V)
-
-
 ###### Article R*226-3
 
-Les ressources du compte d'indemnisation définies au 1°, b et c, de l'article R. 226-2 sont affectées pour chaque département
-à la couverture des dépenses prévues au 2° du même article pour ce département.
-
-Lorsque, pour un département, les ressources ainsi affectées ne suffisent pas à couvrir les dépenses, le déficit constaté est
-comblé selon les modalités prévues à l'article R. 226-4 par prélèvement sur les ressources provenant des redevances
-cynégétiques nationales sur le compte de réserves prévu à l'article R. 226-5 et sur les ressources disponibles dans les
-départements non déficitaires après indemnisation des dégâts, la répartition de cette charge supplémentaire s'effectuant
-alors au prorata des ressources disponibles.
-
-Lorsque, dans un département, le déficit en fin d'exercice excède le droit de tirage défini à l'alinéa ci-après, la
-fédération départementale des chasseurs est tenue de verser au compte d'indemnisation de l'Office national de la chasse,
-avant le 31 décembre de l'exercice suivant, une contribution destinée à couvrir la différence entre le déficit et le droit de
-tirage, dans une proportion fixée chaque année par arrêté du ministre chargé de la chasse et du ministre chargé du budget en
-vue d'assurer l'équilibre du compte d'indemnisation et qui ne peut être inférieure à 60 p. 100 ni supérieure à 80 p. 100 de
-cette différence. La contribution est majorée de 10 p. 100 si le paiement intervient après l'échéance.
-
-Le droit de tirage est égal, pour un département, au produit des ressources du compte d'indemnisation définies au 1° b de
-l'article R. 226-2, à l'exception de celles qui proviennent des départements du Bas-Rhin, du Haut-Rhin, de la Moselle et des
-départements d'outre-mer, par le rapport de superficie du département intéressé à celle du territoire national, déduction
-faite des mêmes départements.
+Pour chaque département, la participation de l'Office national de la chasse à l'indemnisation des dégâts, définie à l'article
+L. 226-5, peut être abondée, le cas échéant, par un prélèvement sur le compte de réserve mentionné à l'article R. 226-5
+réparti entre les départements au prorata de leur surface respective.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R226-2, R226-4, R226-5
-
-_Anciens textes_:
-
-  - Décret n°75-442 1975-06-30 art. 2
+  - Code rural L226-5, R226-5
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°92-1151 du 15 octobre 1992 - art. 3 () JORF 17 octobre 1992
 
 _Cité par_:
 
@@ -31264,52 +31215,77 @@ _Cité par_:
 
 ###### Article R*226-4
 
-En fin d'exercice, le conseil d'administration de l'Office national de la chasse détermine :
+Lorsque dans un département le montant des dépenses d'indemnisation en fin d'exercice excède la participation de l'Office
+national de la chasse, la fédération départementale des chasseurs est tenue de verser au compte d'indemnisation de l'Office
+national de la chasse, avant le 31 décembre de l'exercice suivant, la différence entre le montant des indemnisations et la
+participation de l'office. La contribution est majorée de 10 p. 100 si le paiement intervient après l'échéance.
 
-a) Les sommes à prélever sur les ressources mentionnées au second alinéa de l'article R. 226-3 pour la couverture des
-déficits des départements ;
+**Liens relatifs à cet article**
 
-b) Le montant des contributions à faire verser par les fédérations départementales des chasseurs qui se trouvent dans la
-situation mentionnée au troisième alinéa de l'article R. 226-3.
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Modifié par_:
+
+  - Décret n°92-1151 du 15 octobre 1992 - art. 3 () JORF 17 octobre 1992
+
+
+###### Article R*226-5
+
+Le compte de réserve est alimenté par les participations de l'Office national de la chasse non utilisées au cours de l'année
+précédente, déduction faite des sommes consacrées par le conseil d'administration de l'office à des actions techniques
+d'intérêt général concernant les dégâts de grand gibier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Modifié par_:
+
+  - Décret n°92-1151 du 15 octobre 1992 - art. 3 () JORF 17 octobre 1992
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. R228-12 (V)
+
+
+###### Article R226-2
+
+Le compte d'indemnisation prévu à l'article R. 226-1 comporte :
+
+1° En recettes :
+
+a) Une part des redevances cynégétiques départementales et nationales fixée par un arrêté conjoint du ministre chargé du
+budget et du ministre chargé de la chasse ;
+
+b) Les taxes versées par les bénéficiaires de plans de chasse individuels ;
+
+c) Le produit des contributions imposées aux fédérations départementales des chasseurs en application de l'article R. 226-4 ;
+
+2° En dépenses :
+
+a) Les indemnités versées aux victimes des dégâts mentionnés à l'article L. 226-1 ;
+
+b) Les frais entraînés par cette indemnisation, en particulier pour la rémunération des estimateurs ;
+
+c) Les actions techniques d'intérêt général concernant les dégâts de grand gibier.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R226-3
-
-_Anciens textes_:
-
-  - Décret n°75-442 1975-06-30 art. 3
+  - Code rural R226-1, R226-4, L226-1
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-
-###### Article R*226-5
-
-Les ressources disponibles en fin d'exercice sont versées à un compte de réserves. Elles peuvent éventuellement concourir au
-financement d'actions techniques d'intérêt général. Le conseil d'administration de l'Office national de la chasse détermine
-le montant des sommes à inscrire à cet effet au budget de l'établissement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°75-442 1975-06-30 art. 4
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°92-1151 du 15 octobre 1992 - art. 3 () JORF 17 octobre 1992
 
 _Cité par_:
 
@@ -31472,8 +31448,8 @@ _Créé par_:
 La commission, sur proposition de l'Office national de la chasse, dresse une liste d'estimateurs chargés des missions prévues
 aux articles R. 226-13 et R. 226-14.
 
-Les modalités de rémunération des estimateurs sont déterminées par arrêté conjoint du ministre chargé de la chasse et du
-ministre de l'économie, des finances et du budget.
+Les modalités de rémunération des estimateurs et de remboursement de leurs frais sont déterminées par arrêté conjoint du
+ministre chargé de la chasse et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
@@ -31481,17 +31457,13 @@ _Cite_:
 
   - Code rural R226-13, R226-14
 
-_Anciens textes_:
-
-  - Décret n°75-442 1975-06-30 art. 8
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°92-1151 du 15 octobre 1992 - art. 4 () JORF 17 octobre 1992
 
 
 ###### Article R*226-11
