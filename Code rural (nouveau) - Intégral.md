@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1993-03-28
+Version Consolidée au 1993-03-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -685,7 +685,7 @@ Version Consolidée au 1993-03-28
           - [Section 1 : Conseil supérieur de la pêche (art. R*234-1 à R234-21)](#682)
             - [Sous-section 1 : Dispositions générales. (art. R*234-1 à R*234-4)](#683)
             - [Sous-section 2 : Administration du conseil supérieur de la pêche (art. R*234-5 à R*234-15)](#684)
-              - [Paragraphe 1 : Le conseil d'administration. (art. R*234-6 à R*234-11)](#685)
+              - [Paragraphe 1 : Le conseil d'administration. (art. R*234-7 à R234-6)](#685)
               - [Paragraphe 2 : Le directeur général. (art. R*234-12 à R*234-13)](#686)
               - [Paragraphe 3 : Les gardes-pêche. (art. R*234-14 à R*234-15)](#687)
             - [Sous-section 3 : Dispositions financières et comptables (art. R*234-16 à R234-21)](#688)
@@ -63119,86 +63119,7 @@ _Nouveaux textes_:
 
 ##### Paragraphe 1 : Le conseil d'administration.<a id=685></a>
 
-###### Article R*234-6
-
-Le conseil d'administration du Conseil supérieur de la pêche comprend vingt-six membres, à savoir :
-
-1° Le directeur de la protection de la nature, président ;
-
-2° Neuf représentants des administrations intéressées nommément désignés :
-
-a) Un représentant du ministre, chargé de la pêche en eau douce ;
-
-b) Un représentant du garde des sceaux, ministre de la justice ;
-
-c) Un représentant du ministre, chargé des collectivités locales ;
-
-d) Un représentant du ministre, chargé du budget ;
-
-e) Un représentant du ministre, chargé du domaine ;
-
-f) Un représentant du ministre, chargé de l'agriculture ;
-
-g) Un représentant du ministre, chargé du tourisme ;
-
-h) Un représentant du ministre, chargé des voies navigables ;
-
-i) Un représentant du ministre, chargé de la mer ;
-
-3° Un représentant du Centre national du machinisme agricole, du génie rural, des eaux et des forêts ;
-
-4° Dix représentants des fédérations départementales des associations agréées de pêche et de pisciculture, élus pour cinq ans
-par les présidents desdites fédérations et parmi eux dans les conditions fixées par arrêté du ministre chargé de la pêche en
-eau douce ;
-
-5° Un représentant des associations agréées des pêcheurs professionnels, élu pour cinq ans par les présidents desdites
-associations et parmi eux dans les conditions fixées par arrêté du ministre chargé de la pêche en eau douce ;
-
-6° Un représentant des associations départementales agréées de pêcheurs amateurs aux engins et aux filets sur les eaux du
-domaine public, élu pour cinq ans par les présidents desdites associations et parmi eux dans les conditions fixées par arrêté
-du ministre chargé de la pêche en eau douce ;
-
-7° Un représentant du personnel, élu pour cinq ans par le personnel du Conseil supérieur de la pêche sur des listes
-présentées par les organisations syndicales habilitées à désigner des représentants au comité technique paritaire du Conseil
-supérieur de la pêche ;
-
-8° Deux personnalités qualifiées en raison de leur compétence en matière de gestion des milieux naturels aquatiques,
-désignées pour cinq ans par le ministre chargé de la pêche en eau douce, dont l'une sur proposition du collège des présidents
-de fédérations départementales des associations agréées de pêche et de pisciculture.
-
-Peuvent être appelées à siéger avec voix consultative dix personnalités nommées pour cinq ans par le ministre chargé de la
-pêche en eau douce, et choisies notamment parmi les représentants des collectivités territoriales, les techniciens des
-questions de pêche et de pisciculture et de gestion des milieux naturels aquatiques, les représentants des associations de
-protection de la nature, des propriétaires riverains et des fabricants et détaillants d'articles de pêche.
-
-En outre, le président peut appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence
-utile compte tenu de l'ordre du jour.
-
-Le directeur général du Conseil supérieur de la pêche, le contrôleur financier et l'agent comptable assistent aux séances du
-conseil d'administration avec voix consultative.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1398 du 27 décembre 1985 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-
 ###### Article R*234-7
-
-En cas d'absence ou d'empêchement, le président peut demander à l'un des membres du conseil d'administration d'assurer la
-présidence.
-
-Les membres du conseil d'administration mentionnés aux 2° et 3° de l'article R. 234-6 peuvent se faire remplacer par un
-suppléant nommément désigné dans les mêmes conditions.
 
 Les membres élus du conseil d'administration sont remplacés, en cas d'absence ou d'empêchement, par des suppléants élus dans
 les mêmes conditions.
@@ -63213,17 +63134,21 @@ _Cite_:
 
   - Code rural R234-6
 
-_Anciens textes_:
-
-  - Décret n°85-1398 du 27 décembre 1985 - art. 6 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°93-741 du 29 mars 1993 - art. 2 () JORF 30 mars 1993
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R234-7
 
 
 ###### Article R*234-8
@@ -63306,8 +63231,8 @@ _Nouveaux textes_:
 
 Le conseil d'administration délibère notamment sur les points suivants :
 
-1° L'orientation de la politique du Conseil supérieur de la pêche, les programmes pluriannuels d'activités et
-d'investissements ;
+1° L'orientation de la politique du Conseil supérieur de la pêche, le projet d'établissement, les programmes pluriannuels
+d'activités et d'investissements ;
 
 2° Le règlement intérieur. Ce règlement précise la composition, les attributions et les règles de fonctionnement des
 commissions du conseil d'administration appelées à préparer ses délibérations ;
@@ -63334,21 +63259,27 @@ locations d'une durée supérieure à neuf ans ;
 
 12° Les actions en justice ;
 
-13° L'organisation et les missions des délégations régionales du Conseil supérieur de la pêche.
+13° L'organisation et les missions des délégations régionales du Conseil supérieur de la pêche ;
+
+14° Les conditions générales d'attribution des aides et subventions.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1398 du 27 décembre 1985 - art. 9 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°93-741 du 29 mars 1993 - art. 3 () JORF 30 mars 1993
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R234-10
 
 
 ###### Article R*234-11
@@ -63357,11 +63288,11 @@ Les délibérations du conseil d'administration sont exécutoires de plein droit
 leur réception par le ministre chargé de la pêche en eau douce, à moins que, dans ce délai, et à l'exception de celles
 mentionnées au 6° de l'article R. 234-10, le ministre n'y fasse opposition.
 
-Toutefois, les délibérations portant sur les matières énumérées aux 3°, 4° et 8° de l'article R. 234-10 ne deviennent
-exécutoires qu'à l'issue du délai d'un mois suivant la réception du procès-verbal par le ministre chargé de la pêche en eau
-douce et par le ministre chargé du budget sauf opposition expresse de l'un d'entre eux. Les délibérations portant sur les
-matières énumérées aux 7° et 10° de l'article R. 234-10 ne sont exécutoires qu'après approbation par arrêté conjoint du
-ministre chargé de la pêche en eau douce, du ministre chargé des finances et du ministre chargé du budget.
+Toutefois, les délibérations portant sur les matières énumérées aux 1°, 3°, 4°, 8° et 14° de l'article R. 234-10 ne
+deviennent exécutoires qu'à l'issue du délai d'un mois suivant la réception du procès-verbal par le ministre chargé de la
+pêche en eau douce et par le ministre chargé du budget sauf opposition expresse de l'un d'entre eux. Les délibérations
+portant sur les matières énumérées aux 7° et 10° de l'article R. 234-10 ne sont exécutoires qu'après approbation par arrêté
+conjoint du ministre chargé de la pêche en eau douce, du ministre chargé des finances et du ministre chargé du budget.
 
 Le directeur général peut prendre les décisions modificatives ne comportant pas de variations du montant du budget ou du
 niveau des effectifs ni de virements de crédits entre la section de fonctionnement et les opérations en capital ou entre les
@@ -63374,21 +63305,123 @@ _Cite_:
 
   - Code rural R234-10
 
-_Anciens textes_:
+_Codifié par_:
 
-  - Décret n°85-1398 du 27 décembre 1985 - art. 10 (Ab)
+  - Décret n°89-805 1989-10-27
+
+_Modifié par_:
+
+  - Décret n°93-741 du 29 mars 1993 - art. 4 () JORF 30 mars 1993
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. R234-10 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R234-11
+
+
+###### Article R234-6
+
+Le conseil d'administration du Conseil supérieur de la pêche comprend trente membres :
+
+1° Neuf représentants de l'Etat nommément désignés par le ministre chargé de la pêche en eau douce :
+
+a) Un représentant du ministre chargé de la pêche en eau douce ;
+
+b) Un représentant du ministre chargé de la protection de la nature ;
+
+c) Un représentant du ministre chargé du budget ;
+
+d) Un représentant du ministre chargé des pêches maritimes ;
+
+e) Un représentant du ministre chargé du tourisme ;
+
+f) Un représentant du ministre chargé de la justice ;
+
+g) Un représentant du ministre chargé du domaine ;
+
+h) Un représentant du ministre chargé des voies navigables ;
+
+i) Un représentant du ministre de l'agriculture ;
+
+2° Deux personnalités qualifiées en raison de leur compétence en matière de gestion des milieux naturels aquatiques,
+désignées pour cinq ans par le ministre chargé de la pêche en eau douce sur proposition, pour l'une, des représentants des
+pêcheurs.
+
+3° Douze représentants des pêcheurs :
+
+a) Dix représentants des fédérations départementales des associations agréées de pêche et de pisciculture, élus pour cinq ans
+par les présidents desdites fédérations et parmi eux, dans les conditions fixées par arrêté du ministre chargé de la pêche en
+eau douce ;
+
+b) Un représentant des associations départementales agréées de pêcheurs amateurs aux engins et aux filets sur les eaux du
+domaine public, élu pour cinq ans par les présidents desdites associations et parmi eux, dans les conditions fixées par
+arrêté du ministre chargé de la pêche en eau douce ;
+
+c) Un représentant des associations agréées des pêcheurs professionnels en eau douce élu pour cinq ans par les présidents
+desdites associations et parmi eux, dans les conditions fixées par arrêté du ministre chargé de la pêche en eau douce.
+
+4° Un représentant des propriétaires de piscicultures autorisées pour la valorisation touristique, désigné pour cinq ans par
+le ministre chargé de la pêche en eau douce.
+
+5° Un représentant de la salmoniculture, désigné pour cinq ans par le ministre chargé de la pêche en eau douce.
+
+6° Deux représentants d'associations agréées au titre de l'article L. 252-1 du code rural, désignés pour cinq ans par le
+ministre chargé de la protection de la nature.
+
+7° Deux représentants du personnel, élus pour cinq ans par le personnel du Conseil supérieur de la pêche sur des listes
+présentées par les organisations syndicales habilitées à désigner des représentants au comité technique paritaire du Conseil
+supérieur de la pêche.
+
+8° Un représentant des collectivités territoriales, désigné pour cinq ans par le collège des représentants des collectivités
+territoriales du Comité national de l'eau.
+
+Peuvent être appelées à sièger avec voix consultative six personnalités nommées pour cinq ans par le ministre chargé de la
+pêche en eau douce et choisies notamment parmi les techniciens des questions de pêche et piscicultures et de gestion des
+milieux naturels aquatiques, les représentants des propriétaires riverains et des fabricants et détaillants d'articles de
+pêche.
+
+En outre, le président peut appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence
+utile compte tenu de l'ordre du jour.
+
+Le président du conseil d'administration est nommé par décret parmi les membres du conseil d'administration, sur proposition
+du ministre chargé de la pêche en eau douce.
+
+Le conseil d'administration désigne deux vice-présidents ; le premier parmi les représentants des pêcheurs, le second parmi
+tous ses membres. En cas d'absence ou d'empêchement le président est remplacé par le premier vice-président ou, si ce dernier
+est lui-même absent ou empêché, par le second vice-président.
+
+Le directeur général du conseil supérieur de la pêche, le contrôleur financier, l'agent comptable et le commissaire du
+Gouvernement désigné par le ministre chargé de la pêche en eau douce assistent aux séances du conseil d'administration avec
+voix consultative.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L252-1
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°93-741 du 29 mars 1993 - art. 1 () JORF 30 mars 1993
 
-_Cité par_:
+_Abrogé par_:
 
-  - Code rural et de la pêche maritime - art. R234-10 (V)
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R234-6
 
 
 ##### Paragraphe 2 : Le directeur général.<a id=686></a>
