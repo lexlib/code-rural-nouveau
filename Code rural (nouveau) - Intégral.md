@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1988-10-14
+Version Consolidée au 1988-10-20
 ## Contenu: 
   - [Partie législative (art. L411-1 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-1 à L481-1)](#2)
@@ -202,7 +202,7 @@ Version Consolidée au 1988-10-14
         - [Chapitre II : Formations technologiques et professionnelles de cycle court (art. R*812-1 à R*812-6)](#199)
           - [Section 1 : Enseignement technologique de cycle court par voie scolaire. (art. R*812-1 à R*812-4)](#200)
           - [Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage. (art. R*812-5)](#201)
-          - [Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue. (art. R*812-6)](#202)
+          - [Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue et des formations alternées. (art. R*812-6)](#202)
         - [Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles (art. R*813-1 à R*813-12)](#203)
           - [Section 1 : Enseignement technologique de cycle long. (art. R*813-1 à R*813-5)](#204)
           - [Section 2 : Formation des techniciens supérieurs agricoles. (art. R*813-6 à R*813-7)](#205)
@@ -21990,11 +21990,14 @@ Certificat d'aptitude professionnelle agricole ;
 
 Brevet d'études professionnelles agricoles.
 
+La durée d'études fixée à l'alinéa précédent peut, dans les cas et selon les conditions fixées par arrêté du ministre chargé
+de l'agriculture, être réduite à un an pour tenir compte de la formation antérieure des intéressés.
+
 Ces diplômes sont délivrés dans les conditions fixés par arrêté du ministre de l'agriculture soit à la suite d'examens
 publics, soit selon d'autres modalités.
 
-Les candidats ne peuvent se présenter à ces examens publics que s'ils ont suivi la formation correspondante définie par
-arrêté du ministre de l'agriculture.
+Les candidats n'ayant pas atteint l'âge de la majorité ne peuvent se présenter à ces examens publics que s'ils ont suivi la
+formation correspondante définie par arrêté du ministre chargé de l'agriculture.
 
 Ces diplômes sont respectivement les équivalents du certificat d'aptitude professionnelle et du brevet d'études
 professionnelles délivrés par le ministère de l'éducation nationale.
@@ -22005,13 +22008,9 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
 _Modifié par_:
 
-  - Décret n°84-195 1984-03-19 art. 1 JORF 21 mars 1984
+  - Décret n°88-995 du 14 octobre 1988 - art. 1 () JORF 20 octobre 1988
 
 _Cité par_:
 
@@ -22035,11 +22034,16 @@ _Anciens textes_:
 
   - Code rural R814-2
 
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
 
 ###### Article R*812-3
 
-En vue de l'adaptation à l'emploi, le brevet d'études professionnelles agricoles peut être complété par des certificats de
-spécialisation créés et délivrés dans des conditions précisées par arrêté du ministre de l'agriculture.
+En vue de l'adaptation à l'emploi, le certificat d'aptitude professionnelle agricole et le brevet d'études professionnelles
+agricoles peuvent être complétés, le premier par une mention complémentaire, le second par un certificat de spécialisation,
+créés et délivrés dans les conditions précisées par arrêté du ministre chargé de l'agriculture.
 
 **Liens relatifs à cet article**
 
@@ -22063,9 +22067,13 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°88-995 du 14 octobre 1988 - art. 2 () JORF 20 octobre 1988
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
 ###### Article R*812-4
@@ -22101,40 +22109,61 @@ _Abrogé par_:
 
 La formation professionnelle agricole par la voie de l'apprentissage est assurée dans les centres agricoles publics ou privés
 de formation d'apprentis, conformément aux dispositions du titre Ier du livre Ier du code du travail. Elle est sanctionnée
-par le certificat d'aptitude professionnelle agricole prévu à l'article R. 812-2.
+par l'un des diplômes ou titres prévus aux articles R. 812-2 et R. 812-3.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R811-156
 
 _Cite_:
 
-  - Code rural R812-2
+  - Code rural R812-2, R812-3
 
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°88-995 du 14 octobre 1988 - art. 3 () JORF 20 octobre 1988
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue.<a id=202></a>
+##### Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue et des formations alternées.<a id=202></a>
 
 ###### Article R*812-6
 
-Les diplômes sanctionnant l'enseignement technologique agricole de cycle court peuvent également être délivrés au titre de la
-formation professionnelle continue et préparés dans des établissements publics ou privés ayant passé des conventions avec le
-ministre de l'agriculture en application du livre IX du code du travail.
+La formation prévue à l'avant-dernier alinéa de l'article R. 812-2 et sanctionnée par l'un des titres ou diplômes prévus aux
+articles R. 812-2 et R. 812-3 peut être dispensée au titre de la formation professionnelle continue ou des formations
+alternées prévues par le titre IX du code du travail.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R811-157
+
+_Cite_:
+
+  - Code rural R812-2, R812-3
 
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°88-995 du 14 octobre 1988 - art. 4 () JORF 20 octobre 1988
+  - Décret n°88-995 du 14 octobre 1988 - art. 5 () JORF 20 octobre 1988
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 _Cité par_:
 
@@ -22270,21 +22299,32 @@ _Abrogé par_:
 ###### Article R*813-5
 
 L'enseignement technologique agricole de cycle long peut également préparer au baccalauréat série D' (sciences agronomiques
-et techniques) créé par le décret du 10 janvier 1969.
+et techniques) créé par le décret du 10 janvier 1969 et aux baccalauréats professionnel et technologique prévus par la loi n°
+85-1371 du 23 décembre 1985.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R811-136
+  - Code rural R811-154
 
 _Cite_:
 
   - Décret n°69-35 1969-01-10
+  - Loi n°85-1371 1985-12-23
 
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°88-995 du 14 octobre 1988 - art. 6 () JORF 20 octobre 1988
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 _Cité par_:
 
@@ -22333,50 +22373,70 @@ _Abrogé par_:
 ###### Article R*813-7
 
 La formation de technicien supérieur agricole dure deux ans. Cette durée peut toutefois être réduite à un an pour les
-candidats titulaires du baccalauréat de la série D' ou répondant aux conditions prévues par le décret du 14 novembre 1977
-relatif à l'accès aux grandes écoles et aux établissements d'enseignement supérieur des candidats titulaires d'un diplôme
-attestant une qualification professionnelle.
+candidats justifiant d'un diplôme figurant sur une liste fixée par arrêté du ministre chargé de l'agriculture ou répondant
+aux conditions prévues par le décret n° 77-1247 du 14 novembre 1977 relatif à l'accès aux grandes écoles et aux
+établissements d'enseignement supérieur des candidats titulaires d'un diplôme attestant une qualification professionnelle.
 
 Cette formation est sanctionnée par la délivrance du brevet de technicien supérieur agricole avec mention d'une option et,
 éventuellement, d'une sous-option, soit à la suite d'examens publics, soit selon d'autres modalités.
 
+Peuvent également se présenter aux examens des candidats n'ayant pas suivi les formations correspondantes mais justifiant
+avoir occupé pendant trois ans au moins un emploi correspondant, au sens des articles R. 813-1 à R. 813-5, à une
+qualification de technicien agricole.
+
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R811-138
 
 _Cite_:
 
+  - Code rural R813-1 à R813-5
   - Décret n°77-1247 1977-11-14
 
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°88-995 1988-10-14 art. 7 I, II JORF 20 octobre 1988
+  - Décret n°88-995 du 14 octobre 1988 - art. 7 () JORF 20 octobre 1988
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
 ##### Section 3 : Dispositions communes.<a id=206></a>
 
 ###### Article R*813-8
 
-Le brevet de technicien agricole et le brevet de technicien supérieur agricole prévus aux articles R. 813-4 et R. 813-7
-peuvent également être préparés au titre de la formation professionnelle continue et préparés dans des établissements publics
-ou privés ayant passé des conventions avec le ministre de l'agriculture en application des dispositions du livre IX du code
-du travail.
+La formation prévue par les articles R. 813-1 à R. 813-7 et sanctionnée par le brevet de technicien agricole, le baccalauréat
+professionnel et le brevet de technicien supérieur agricole prévus aux articles R. 813-4, R. 813-5, R. 813-7, ainsi que par
+les certificats de spécialisation prévus à l'article R. 813-11, peut être dispensée au titre de l'apprentissage, de la
+formation professionnelle continue ou des formations alternées prévues par les livres Ier et IX du code du travail. Sa durée
+est alors fixée par arrêté du ministre chargé de l'agriculture, compte tenu du niveau de qualification et de formation des
+intéressés ; elle ne peut être inférieure à un an ni supérieure à trois ans.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R813-4, R813-7
+  - Code rural R813-1 à R813-7, R813-4, R813-5, R813-11
 
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°88-995 du 14 octobre 1988 - art. 8 () JORF 20 octobre 1988
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
 ###### Article R*813-9
@@ -22413,22 +22473,29 @@ Le brevet de technicien agricole est l'équivalent des brevets de technicien dé
 valoir dispense du baccalauréat en vue de l'inscription dans une unité d'enseignement et de recherche à caractère
 scientifique d'une université.
 
+Le brevet de technicien supérieur agricole, diplôme national de l'enseignement supérieur, est l'équivalent du brevet de
+technicien supérieur délivré par le ministre chargé de l'éducation nationale.
+
 Le brevet de technicien supérieur agricole est l'équivalent du brevet de technicien supérieur délivré par le ministère de
 l'éducation nationale.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R811-114
+
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
 _Modifié par_:
 
-  - Décret n°84-195 1984-03-19 art. 2 JORF 21 mars 1984
+  - Décret n°88-995 du 14 octobre 1988 - art. 9 () JORF 20 octobre 1988
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
 ###### Article R*813-11
@@ -22494,20 +22561,28 @@ _Cité par_:
 
 L'enseignement supérieur assure aux titulaires du baccalauréat ou de titres reconnus équivalents la formation d'ingénieurs
 agronomes, de docteurs vétérinaires, d'ingénieurs spécialisés en agriculture, d'ingénieurs des industries agricoles et
-alimentaires, de spécialistes en horticulture et de paysagistes.
+alimentaires, de spécialistes en horticulture et de paysagistes ainsi que de techniciens supérieurs.
 
 En outre, il contribue au perfectionnement des ingénieurs et participe à la promotion supérieure du travail en agriculture,
 notamment par des concours spéciaux, dans des conditions fixées par décret.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-1
+
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°88-975 1988-10-14 art. 10 JORF 20 octobre 1988
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 _Cité par_:
 
