@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1990-07-24
+Version Consolidée au 1990-09-01
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L262-1)](#2)
@@ -37240,19 +37240,18 @@ Il est interdit d'utiliser comme appât ou comme amorce :
 Le préfet peut également interdire tous appâts et amorces dont il estime l'emploi de nature à mettre en péril le patrimoine
 piscicole.
 
+Toutefois, le préfet peut autoriser l'emploi de ces appâts, sans amorçage, dans les plans d'eau ainsi que dans les cours
+d'eau ou parties de cours d'eau dont le débit moyen inter-annuel est supérieur à 2,5 mètres cubes par seconde.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 42 (M)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°90-766 du 28 août 1990 - art. 1 () JORF 1er septembre 1990
 
 
 ###### Article R*236-48
