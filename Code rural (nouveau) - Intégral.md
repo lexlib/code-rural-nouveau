@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1988-08-14
+Version Consolidée au 1988-09-15
 ## Contenu: 
   - [Partie législative (art. L411-1 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-1 à L481-1)](#2)
@@ -190,84 +190,67 @@ Version Consolidée au 1988-08-14
           - [Section 2 : Droit de préemption des collectivités locales. (art. R*562-2 à R*562-3)](#187)
         - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique. (art. R*563-1 à R*563-2)](#188)
         - [Chapitre IV : Avantages divers et subventions. (art. R*564-1 à R*564-3)](#189)
-    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-38 à R832-19)](#190)
-      - [Titre Ier : Enseignement et formation professionnelle agricoles (art. R*811-38 à R*816-4)](#191)
-        - [Chapitre Ier : Dispositions relatives à l'enseignement et à la formation professionnelle agricoles publics (art. R*811-38 à R*811-45)](#192)
-          - [Section 3 : Dispositions relatives aux établissements publics locaux d'enseignement et de formation professionnelle agricoles (art. R*811-38 à R*811-45)](#193)
-            - [Sous-section 2 : Organisation administrative (art. R*811-38 à R*811-45)](#194)
-              - [Paragraphe 3 : Les centres composant l'établissement public local (art. R*811-38 à R*811-45)](#195)
-                - [B. - Les centres d'enseignement et de formation. (art. R*811-38 à R*811-45)](#196)
-        - [Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles (art. R*811-1 à R*811-56)](#197)
-          - [Section 1 : Organisation générale (art. R*811-1 à R*811-12)](#198)
-            - [Sous-section 1 : Principes de base. (art. R*811-1 à R*811-2)](#199)
-            - [Sous-section 2 : Conseils et comités (art. R*811-3 à R*811-11)](#200)
-              - [Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale. (art. R*811-3 à R*811-9)](#201)
-              - [Paragraphe 2 : Comité de coordination. (art. R*811-10 à R*811-11)](#202)
-            - [Sous-section 3 : Promotion sociale. (art. R*811-12)](#203)
-          - [Section 2 : Reconnaissance et agrément des établissements privés (art. R*811-13 à R*811-51)](#204)
-            - [Sous-section 1 : Reconnaissance des établissements. (art. R*811-13 à R*811-31)](#205)
-              - [Paragraphe 1 : Conditions de la reconnaissance. (art. R*811-14 à R*811-22)](#206)
-              - [Paragraphe 2 : Instruction de la demande de reconnaissance. (art. R*811-23 à R*811-25)](#207)
-              - [Paragraphe 3 : Subventions et prêts. (art. R*811-26 à R*811-28)](#208)
-              - [Paragraphe 4 : Dispositions diverses. (art. R*811-29 à R*811-31)](#209)
-            - [Sous-section 2 : Agrément (art. R*811-32 à R*811-51)](#210)
-              - [Paragraphe 1 : Conditions d'octroi. (art. R*811-32 à R*811-37)](#211)
-              - [Paragraphe 2 : Dispositions financières. (art. R*811-39 à R*811-44)](#212)
-              - [Paragraphe 3 : Contrôle de l'Etat sur les établissements agrées. (art. R*811-46 à R*811-48)](#213)
-              - [Paragraphe 4 : Organisations représentatives de l'enseignement technique agricole privé. (art. R*811-49 à R*811-51)](#214)
-          - [Section 3 : Dispositions particulières aux départements d'outre-mer. (art. R*811-52 à R*811-56)](#215)
-        - [Chapitre II : Formations technologiques et professionnelles de cycle court (art. R*812-1 à R*812-6)](#216)
-          - [Section 1 : Enseignement technologique de cycle court par voie scolaire. (art. R*812-1 à R*812-4)](#217)
-          - [Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage. (art. R*812-5)](#218)
-          - [Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue. (art. R*812-6)](#219)
-        - [Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles (art. R*813-1 à R*813-12)](#220)
-          - [Section 1 : Enseignement technologique de cycle long. (art. R*813-1 à R*813-5)](#221)
-          - [Section 2 : Formation des techniciens supérieurs agricoles. (art. R*813-6 à R*813-7)](#222)
-          - [Section 3 : Dispositions communes. (art. R*813-8 à R*813-12)](#223)
-        - [Chapitre IV : Enseignement supérieur (art. R*814-1 à R*814-61)](#224)
-          - [Section 1 : Dispositions générales. (art. R*814-1 à R*814-4)](#225)
-          - [Section 2 : Enseignement supérieur agricole (art. R*814-5 à R*814-27)](#226)
-            - [Sous-section 1 : Formation des ingénieurs spécialisés en agriculture. (art. R*814-5)](#227)
-            - [Sous-section 2 : Formation des spécialistes en horticulture et des paysagistes. (art. R*814-6 à R*814-7)](#228)
-            - [Sous-section 3 : Formation des ingénieurs des industries agricoles et alimentaires. (art. R*814-8 à R*814-9)](#229)
-            - [Sous-section 4 : Formation des ingénieurs agronomes à vocation générale (art. R*814-10 à R*814-26)](#230)
-              - [Paragraphe 1 : Dispositions générales. (art. R*814-10 à R*814-19)](#231)
-              - [Paragraphe 2 : Dispositions particulières aux élèves étrangers. (art. R*814-20 à R*814-26)](#232)
-            - [Sous-section 5 : Dispositions relatives à la délivrance des diplômes. (art. R*814-27)](#233)
-          - [Section 3 : Enseignement supérieur vétérinaire (art. R*814-28 à R*814-43)](#234)
-            - [Sous-section 1 : Dispositions générales. (art. R*814-28 à R*814-29)](#235)
-            - [Sous-section 2 : Conditions d'admission des élèves. (art. R*814-30 à R*814-31)](#236)
-            - [Sous-section 3 : Enseignement et recherche. (art. R*814-32 à R*814-36)](#237)
-            - [Sous-section 4 : Administration. (art. R*814-37)](#238)
-            - [Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire. (art. R*814-38 à R*814-43)](#239)
-          - [Section 4 : Enseignement de l'agronomie des régions chaudes (art. R*814-44 à R*814-61)](#240)
-            - [Sous-section 1 : Dispositions générales. (art. R*814-44 à R*814-47)](#241)
-            - [Sous-section 2 : Administration du centre. (art. R*814-48 à R*814-57)](#242)
-            - [Sous-section 3 : Régime financier du centre. (art. R*814-58 à R*814-61)](#243)
-        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#244)
-          - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#245)
-          - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#246)
-        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-4)](#247)
-      - [Titre II : Développement agricole (art. R*821-1 à R825-4)](#248)
-        - [Chapitre Ier : Actions de développement agricole. (art. R*821-1 à R*821-4)](#249)
-        - [Chapitre II : Convention avec l'association nationale pour le développement agricole. (art. R*822-1 à R*822-4)](#250)
-        - [Chapitre III : Fonds national de développement agricole. (art. R*823-1 à R*823-19)](#251)
-        - [Chapitre IV : Programmes départementaux, régionaux et national de développement agricole (art. R*824-4 à R824-10)](#252)
-          - [Section 1 : Programmes départementaux. (art. R*824-4 à R824-3)](#253)
-          - [Section 2 : Programmes régionaux. (art. R*824-8 à R824-7)](#254)
-          - [Section 3 : Programme national. (art. R824-9 à R824-10)](#255)
-        - [Chapitre V : Conventions de développement. (art. R825-1 à R825-4)](#256)
-      - [Titre III : Recherche agronomique (art. R831-1 à R832-19)](#257)
-        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#258)
-          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#259)
-          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#260)
-          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#261)
-        - [Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts (art. R832-1 à R832-19)](#262)
-          - [Section 1 : Dispositions générales (art. R832-1 à R832-3)](#263)
-          - [Section 2 : Administration et direction du centre. (art. R*832-4 à R832-10)](#264)
-          - [Section 3 : Organisation du centre. (art. R832-11 à R832-14)](#265)
-          - [Section 4 : Conseil scientifique et technique et commissions spécialisées (art. R832-15 à R832-16)](#266)
-          - [Section 5 : Dispositions diverses (art. R832-17 à R832-19)](#267)
+    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-1 à R832-19)](#190)
+      - [Titre Ier : Enseignement et formation professionnelle agricoles (art. R*811-1 à R*816-4)](#191)
+        - [Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles (art. R*811-1 à R*811-12)](#192)
+          - [Section 1 : Organisation générale (art. R*811-1 à R*811-12)](#193)
+            - [Sous-section 1 : Principes de base. (art. R*811-1 à R*811-2)](#194)
+            - [Sous-section 2 : Conseils et comités (art. R*811-3 à R*811-11)](#195)
+              - [Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale. (art. R*811-3 à R*811-9)](#196)
+              - [Paragraphe 2 : Comité de coordination. (art. R*811-10 à R*811-11)](#197)
+            - [Sous-section 3 : Promotion sociale. (art. R*811-12)](#198)
+        - [Chapitre II : Formations technologiques et professionnelles de cycle court (art. R*812-1 à R*812-6)](#199)
+          - [Section 1 : Enseignement technologique de cycle court par voie scolaire. (art. R*812-1 à R*812-4)](#200)
+          - [Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage. (art. R*812-5)](#201)
+          - [Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue. (art. R*812-6)](#202)
+        - [Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles (art. R*813-1 à R*813-12)](#203)
+          - [Section 1 : Enseignement technologique de cycle long. (art. R*813-1 à R*813-5)](#204)
+          - [Section 2 : Formation des techniciens supérieurs agricoles. (art. R*813-6 à R*813-7)](#205)
+          - [Section 3 : Dispositions communes. (art. R*813-8 à R*813-12)](#206)
+        - [Chapitre IV : Enseignement supérieur (art. R*814-1 à R*814-61)](#207)
+          - [Section 1 : Dispositions générales. (art. R*814-1 à R*814-4)](#208)
+          - [Section 2 : Enseignement supérieur agricole (art. R*814-5 à R*814-27)](#209)
+            - [Sous-section 1 : Formation des ingénieurs spécialisés en agriculture. (art. R*814-5)](#210)
+            - [Sous-section 2 : Formation des spécialistes en horticulture et des paysagistes. (art. R*814-6 à R*814-7)](#211)
+            - [Sous-section 3 : Formation des ingénieurs des industries agricoles et alimentaires. (art. R*814-8 à R*814-9)](#212)
+            - [Sous-section 4 : Formation des ingénieurs agronomes à vocation générale (art. R*814-10 à R*814-26)](#213)
+              - [Paragraphe 1 : Dispositions générales. (art. R*814-10 à R*814-19)](#214)
+              - [Paragraphe 2 : Dispositions particulières aux élèves étrangers. (art. R*814-20 à R*814-26)](#215)
+            - [Sous-section 5 : Dispositions relatives à la délivrance des diplômes. (art. R*814-27)](#216)
+          - [Section 3 : Enseignement supérieur vétérinaire (art. R*814-28 à R*814-43)](#217)
+            - [Sous-section 1 : Dispositions générales. (art. R*814-28 à R*814-29)](#218)
+            - [Sous-section 2 : Conditions d'admission des élèves. (art. R*814-30 à R*814-31)](#219)
+            - [Sous-section 3 : Enseignement et recherche. (art. R*814-32 à R*814-36)](#220)
+            - [Sous-section 4 : Administration. (art. R*814-37)](#221)
+            - [Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire. (art. R*814-38 à R*814-43)](#222)
+          - [Section 4 : Enseignement de l'agronomie des régions chaudes (art. R*814-44 à R*814-61)](#223)
+            - [Sous-section 1 : Dispositions générales. (art. R*814-44 à R*814-47)](#224)
+            - [Sous-section 2 : Administration du centre. (art. R*814-48 à R*814-57)](#225)
+            - [Sous-section 3 : Régime financier du centre. (art. R*814-58 à R*814-61)](#226)
+        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#227)
+          - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#228)
+          - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#229)
+        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-4)](#230)
+      - [Titre II : Développement agricole (art. R*821-1 à R825-4)](#231)
+        - [Chapitre Ier : Actions de développement agricole. (art. R*821-1 à R*821-4)](#232)
+        - [Chapitre II : Convention avec l'association nationale pour le développement agricole. (art. R*822-1 à R*822-4)](#233)
+        - [Chapitre III : Fonds national de développement agricole. (art. R*823-1 à R*823-19)](#234)
+        - [Chapitre IV : Programmes départementaux, régionaux et national de développement agricole (art. R*824-4 à R824-10)](#235)
+          - [Section 1 : Programmes départementaux. (art. R*824-4 à R824-3)](#236)
+          - [Section 2 : Programmes régionaux. (art. R*824-8 à R824-7)](#237)
+          - [Section 3 : Programme national. (art. R824-9 à R824-10)](#238)
+        - [Chapitre V : Conventions de développement. (art. R825-1 à R825-4)](#239)
+      - [Titre III : Recherche agronomique (art. R831-1 à R832-19)](#240)
+        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#241)
+          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#242)
+          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#243)
+          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#244)
+        - [Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts (art. R832-1 à R832-19)](#245)
+          - [Section 1 : Dispositions générales (art. R832-1 à R832-3)](#246)
+          - [Section 2 : Administration et direction du centre. (art. R*832-4 à R832-10)](#247)
+          - [Section 3 : Organisation du centre. (art. R832-11 à R832-14)](#248)
+          - [Section 4 : Conseil scientifique et technique et commissions spécialisées (art. R832-15 à R832-16)](#249)
+          - [Section 5 : Dispositions diverses (art. R832-17 à R832-19)](#250)
 # Partie législative<a id=1></a>
 
 ## Livre IV : Baux ruraux<a id=2></a>
@@ -21205,102 +21188,11 @@ _Créé par_:
 
 ### Titre Ier : Enseignement et formation professionnelle agricoles<a id=191></a>
 
-#### Chapitre Ier : Dispositions relatives à l'enseignement et à la formation professionnelle agricoles publics<a id=192></a>
+#### Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles<a id=192></a>
 
-##### Section 3 : Dispositions relatives aux établissements publics locaux d'enseignement et de formation professionnelle agricoles<a id=193></a>
+##### Section 1 : Organisation générale<a id=193></a>
 
-##### Sous-section 2 : Organisation administrative<a id=194></a>
-
-##### Paragraphe 3 : Les centres composant l'établissement public local<a id=195></a>
-
-##### B. - Les centres d'enseignement et de formation.<a id=196></a>
-
-###### Article R*811-38
-
-Le coût moyen défini au premier alinéa de l'article L. 811-10 est obtenu en divisant par l'effectif des élèves de
-l'enseignement agricole public les crédits budgétaires utilisés pour les formations initiales dispensées dans les
-établissements d'enseignement agricole public, diminués des frais du contrôle effectué par les services d'inspection
-extérieurs à ces établissements. 
-
-Les crédits de l'Etat pris en compte sont ceux qui couvrent :
-
-- la rémunération des personnels enseignants et non-enseignants affectés tant à l'externat qu'à l'internat ;
-
-- la participation de l'Etat au budget de fonctionnement des établissements d'enseignement agricole public. 
-
-Les frais de contrôle exercés par les services d'inspection comprennent les rémunérations et charges accessoires ainsi que
-les frais de fonctionnement afférents aux activités spécifiques des contrôles administratif, financier ou pédagogique,
-effectués par des services spécialisés du ministère de l'agriculture.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 du 11 juillet 1980 (V)
-
-_Créé par_:
-
-  - Décret n°80-561 du 11 juillet 1980 (V)
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab)
-
-_Cite_:
-
-  - Code rural - art. L811-10 (M)
-
-_Cité par_:
-
-  - Code rural - art. R811-30 (V)
-
-
-###### Article R*811-45
-
-Tout établissement bénéficiaire d'un agrément doit : 
-
-- prendre à l'intention des élèves et de leurs familles, et compte tenu de son caractère propre, toutes dispositions
-concernant les exigences et garanties essentielles satisfaites dans l'enseignement agricole public ; 
-
-- appliquer dès l'exercice suivant la date d'agrément un plan comptable type arrêté par le ministre du budget et le ministre
-de l'agriculture et faire suivre sa comptabilité par un comptable ou un organisme agréé ou accrédité par le trésorier-payeur
-général ; 
-
-- fournir annuellement les informations statistiques demandées par le ministre de l'agriculture ; 
-
-- présenter au ministre de l'agriculture, à l'issue de chaque année, un compte rendu sur l'activité et la gestion de
-l'établissement, rédigé selon un modèle type établi par le ministre. 
-
-Si un établissement dispense à la fois des formations agréées et des formations non agréées, il est assujetti, dans son
-ensemble, aux dispositions prévues aux quatre alinéas ci-dessus. 
-
-Les dispositions nécessaires à l'application du présent article sont prises sous la responsabilité de l'organisme de gestion
-à la diligence du directeur de l'établissement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 du 11 juillet 1980 (V)
-
-_Créé par_:
-
-  - Décret n°80-561 du 11 juillet 1980 (V)
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab)
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. D811-24-1 (V)
-
-
-#### Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles<a id=197></a>
-
-##### Section 1 : Organisation générale<a id=198></a>
-
-##### Sous-section 1 : Principes de base.<a id=199></a>
+##### Sous-section 1 : Principes de base.<a id=194></a>
 
 ###### Article R*811-1
 
@@ -21363,9 +21255,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Conseils et comités<a id=200></a>
+##### Sous-section 2 : Conseils et comités<a id=195></a>
 
-##### Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale.<a id=201></a>
+##### Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale.<a id=196></a>
 
 ###### Article R*811-3
 
@@ -21829,7 +21721,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Paragraphe 2 : Comité de coordination.<a id=202></a>
+##### Paragraphe 2 : Comité de coordination.<a id=197></a>
 
 ###### Article R*811-10
 
@@ -21951,7 +21843,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R811-24 (V)
 
 
-##### Sous-section 3 : Promotion sociale.<a id=203></a>
+##### Sous-section 3 : Promotion sociale.<a id=198></a>
 
 ###### Article R*811-12
 
@@ -22002,1256 +21894,9 @@ _Nouveaux textes_:
   - Code rural R811-3
 
 
-##### Section 2 : Reconnaissance et agrément des établissements privés<a id=204></a>
+#### Chapitre II : Formations technologiques et professionnelles de cycle court<a id=199></a>
 
-##### Sous-section 1 : Reconnaissance des établissements.<a id=205></a>
-
-###### Article R*811-13
-
-L'aide financière de l'Etat aux établissements reconnus, mentionnés à l'article L. 811-8, est accordée sur des crédits
-ouverts au ministre de l'agriculture.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L811-8
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-##### Paragraphe 1 : Conditions de la reconnaissance.<a id=206></a>
-
-###### Article R*811-14
-
-Tout établissement demandant la reconnaissance doit justifier qu'il prépare à un ou plusieurs des examens publics prévus aux
-articles R. 812-2, R. 812-5, R. 813-4 et R. 813-5. Ne sont pas soumis à cette obligation les établissements d'enseignement
-agricole autorisés à délivrer soit un titre d'ingénieur, soit un brevet de technicien supérieur agricole dans les conditions
-prévues aux articles R. 813-7 et R. 813-8 ainsi que les établissements d'enseignement supérieur féminin préparant à des
-diplômes pouvant être assimilés à ces titres ou brevets.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R812-2, R812-5, R813-4, R813-5, R813-7, R813-8
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-_Cité par_:
-
-  - Code rural - art. R811-33 (V)
-
-
-###### Article R*811-15
-
-Toute personne physique ou morale demandant la reconnaissance d'un établissement doit justifier que cet établissement
-dispose :
-
-1° De locaux d'enseignement et, éventuellement, d'internat, répondant aux conditions normales d'hygiène, de sécurité et de
-pédagogie. Les élèves de chaque année d'étude doivent disposer d'une salle de classe ;
-
-2° Dans l'établissement ou à proximité, de moyens nécessaires aux démonstrations de l'enseignement et d'installations
-permettant les travaux pratiques d'exploitation et d'atelier. Toutefois, ces installations peuvent être constituées par
-celles de l'exploitation familiale pour les établissements dispensant une formation selon le rythme approprié prévu par
-l'article L. 811-1 ;
-
-3° D'un personnel de direction et d'enseignement offrant toutes garanties morales et possédant les diplômes mentionné pour
-chaque catégorie d'établissement aux articles R. 811-16 à R. 811-22 ou des diplômes d'un niveau au moins équivalent.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L811-1, R811-16 à R811-22
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-_Cité par_:
-
-  - Décret n°2009-960 du 29 juillet 2009 (V)
-
-
-###### Article R*811-16
-
-Les directeurs des établissements préparant au certificat d'aptitude professionnelle agricole, au brevet d'études
-professionnelles agricoles, au brevet de technicien agricole et au brevet de technicien supérieur agricole doivent posséder
-les diplômes exigés des maîtres de la classe la plus élevée de leur établissement.
-
-Le ministre de l'agriculture peut exceptionnellement accorder une dérogation à cette règle. Dans ce cas, l'ensemble de
-l'enseignement au titre duquel la reconnaissance est demandée doit être placé sous l'autorité technique d'un directeur-
-adjoint possédant les diplômes requis.
-
-En outre, dans les établissements préparant aux brevets mentionnés à l'article R. 811-19, peuvent exercer les fonctions de
-directeur, les candidats reçus à un examen professionnel organisé chaque année par le ministre de l'agriculture. Cet examen
-est ouvert aux directeurs et aux maîtres exerçant ou ayant exercé dans les établissements privés reconnus et possédant l'un
-des brevets ou diplômes mentionnés à l'article R. 811-17.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R811-19, R811-17
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-17
-
-Les maîtres préparant au certificat d'aptitude professionnelle agricole doivent être titulaires, soit du brevet de technicien
-agricole, soit de l'un des diplômes énumérés par les arrêtés pris en application de l'article 5 du décret n° 54-100 du 23
-janvier 1954 lorsqu'ils ont obtenu ce diplôme à une date antérieure à la délivrance du brevet de technicien agricole.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°54-100 1954-01-23 art. 5
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-_Cité par_:
-
-  - Code rural - art. R811-20 (V)
-
-
-###### Article R*811-18
-
-Dans les établissements horticoles préparant à des diplômes de même niveau que le certificat d'aptitude professionnelle
-agricole, peuvent continuer à exercer leurs fonctions les directeurs et maîtres qui ont obtenu, avant la date de délivrance
-du brevet de technicien, un diplôme leur donnant la faculté d'enseigner dans des centres reconnus en application de la
-législation antérieure au 4 août 1960.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-19
-
-Les professeurs préparant au brevet d'études professionnelles agricoles doivent être titulaires :
-
-- soit des diplômes exigés des professeurs de l'enseignement agricole public correspond ont ;
-
-- soit de deux certificats ou titres équivalents permettant la délivrance de la licence dans l'ordre des sciences, des
-lettres ou des sciences économiques ;
-
-- soit d'un diplôme délivré par un établissement d'enseignement supérieur agricole public ou privé reconnu.
-
-La possession des diplômes prévus à l'alinéa précédent n'est pas exigée des candidats reçus à l'examen professionnel
-mentionné au troisième alinéa de l'article R. 811-16.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R811-16
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-20
-
-Les professeurs d'enseignement technique agricole préparant aux brevets de technicien ou de technicien supérieur agricoles
-doivent être titulaires :
-
-- soit des diplômes exigés des professeurs de l'enseignement agricole public correspondant ;
-
-- soit de toute licence dans l'ordre des sciences ;
-
-- soit d'un diplôme d'ingénieur délivré par un établissement d'enseignement supérieur agricole public ou privé reconnu.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-21
-
-Le ministre de l'agriculture fixe par arrêté pris après avis du conseil supérieur mentionné à l'article R. 811-3 :
-
-1° Les diplômes dont les directeurs et professeurs d'établissement supérieur agricole doivent être titulaires ;
-
-2° Les conditions à remplir dans les établissements des autres niveaux par les maîtres assurant seulement l'enseignement
-général ou les travaux pratiques.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R811-3
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-22
-
-Le ministre de l'agriculture fixe la liste des diplômes délivrés au titre de la promotion sociale qui auront les mêmes effets
-pour la reconnaissance des établissements que les diplômes mentionnés au 3° de l'article R. 811-15.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R811-15
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-##### Paragraphe 2 : Instruction de la demande de reconnaissance.<a id=207></a>
-
-###### Article R*811-23
-
-La demande de reconnaissance d'un établissement d'enseignement supérieur agricole est directement adressée au ministère de
-l'agriculture.
-
-La demande de reconnaissance des autres établissements d'enseignement et de formation professionnelle agricoles est adressée
-à l'ingénieur général d'agronomie chargé de la région du siège de l'établissement et instruite avec le concours des
-personnels chargés du contrôle et de l'inspection des établissements agricoles publics. Cette demande est transmise au
-ministre de l'agriculture qui saisit pour ails le comité départemental de la formation professionnelle, de la promotion
-sociale et de l'emploi. Cet avis doit être fourni au plus tard dans les six mois suivant la date de dépôt du dossier.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-_Cité par_:
-
-  - Code de l'éducation - art. D341-21 (VD)
-
-
-###### Article R*811-24
-
-Après consultation du conseil de l'enseignement et de la formation professionnelle agricoles, le ministre de l'agriculture
-décide :
-
-1° Soit d'accorder la reconnaissance ;
-
-2° Soit d'accorder une reconnaissance provisoire lorsque la création de l'établissement est trop récente pour que celui-ci
-ait pu présenter des élèves aux examens publics. Cette reconnaissance provisoire est assortie des mêmes avantages et des
-mêmes obligations qu'au 1° ci-dessus ;
-
-3° Soit d'accorder une reconnaissance de principe lorsqu'il s'agit d'un projet. Cette reconnaissance de principe ne permet
-que l'octroi de prêts d'équipement. Les subventions ne sont accordées qu'après la reconnaissance ou la reconnaissance
-provisoire ;
-
-4° Soit de rejeter la demande.
-
-La décision du ministre est notifiée à l'établissement intéressé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-25
-
-Au cas où un établissement comporte plusieurs sections dont une section agricole, celle-ci peut être reconnue dans les
-conditions déterminées aux articles R. 811-14 à R. 811-24. Cette section doit alors faire l'objet d'une gestion
-administrative et financière autonome dans les conditions fixées par arrêté du ministre de l'agriculture.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R811-14 à R811-24
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-##### Paragraphe 3 : Subventions et prêts.<a id=208></a>
-
-###### Article R*811-26
-
-Une subvention de fonctionnement est accordée à chaque établissement reconnu sous la forme d'une allocation forfaitaire
-annuelle dont le montant est déterminé en tenant compte du nombre et du régime des élèves, de la durée de la scolarité, de la
-nature et du niveau de la formation dispensée ainsi que des modalités particulières de fonctionnement de l'établissement.
-
-En ce qui concerne les établissements qui dispensent une formation professionnelle organisée selon le rythme approprié
-mentionné par l'article L. 811-1, il est tenu compte des dépenses engendrées par la formation des élèves en milieu
-professionnel.
-
-Les taux de subvention par élève sont fixés chaque année par arrêté conjoint du ministre de l'agriculture et du ministre du
-budget.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-_Cité par_:
-
-  - Code rural - art. R811-30 (V)
-  - Code rural - art. R811-47 (V)
-
-_Cite_:
-
-  - Code rural L811-1
-
-
-###### Article R*811-27
-
-Des subventions et des prêts d'équipement peuvent être accordés par le ministre de l'agriculture après avis du conseil de
-l'enseignement et de la formation professionnelle agricoles aux établissements d'enseignement ou de formation professionnelle
-agricoles privés reconnus.
-
-Les subventions d'équipements sont attribuées dans les conditions fixées par l'article 3 du décret n° 54-100 du 23 janvier
-1954.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°54-100 1954-01-23 art. 3
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-_Cité par_:
-
-  - Code rural - art. R811-42 (V)
-  - Code rural - art. R811-91 (V)
-
-
-###### Article R*811-28
-
-Tout établissement sollicitant une subvention d'équipement doit prendre l'engagement, au cas où il cesserait d'être reconnu
-ou n'utiliserait plus les équipements réalisés grâce à cette subvention avant l'expiration d'un délai de cinq ans pour le
-matériel, de dix ans pour les aménagements immobiliers et de vingt ans pour les constructions et achats d'immeubles, de
-rembourser la subvention reçue proportionnellement au nombre d'années restant à courir jusqu'à l'expiration de ces délais.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-##### Paragraphe 4 : Dispositions diverses.<a id=209></a>
-
-###### Article R*811-29
-
-Le contrôle technique et financier des établissements agricoles privés reconnus est assuré par les personnels du ministère de
-l'agriculture chargés du contrôle des établissements d'enseignement agricole publics.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-30
-
-Le retrait de reconnaissance est prononcé par arrêté du ministre de l'agriculture pris après avis des instances intervenues
-dans la procédure de reconnaissance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-31
-
-Le ministre de l'agriculture peut passer des conventions avec les organisations représentatives des établissements
-d'enseignement agricole privé reconnus en vue de déterminer, compte tenu des caractéristiques particulières aux
-établissements regroupés dans chaque organisation, des modalités de collaboration destinées à faciliter l'application des
-dispositions législatives et réglementaires concernant les établissements reconnus.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-##### Sous-section 2 : Agrément<a id=210></a>
-
-##### Paragraphe 1 : Conditions d'octroi.<a id=211></a>
-
-###### Article R*811-32
-
-Peuvent bénéficier de l'agrément prévu à l'article L. 811-9 les établissements reconnus depuis trois ans au moins et
-fonctionnant soit de façon permanente, soit selon le rythme approprié.
-
-Sont considérés comme fonctionnant de façon permanente les établissements où l'enseignement et les stages extérieurs sont
-organisés selon le rythme de l'année scolaire normale.
-
-Sont considérés comme fonctionnant selon un rythme approprié les établissements qui dispensent un enseignement alterné pour
-partie au sein de ces établissements et pour partie dans des entreprises dont l'activité correspond au programme de la
-formation.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L811-9
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. D811-24-1 (V)
-
-
-###### Article R*811-33
-
-Les établissements d'enseignement agricole privé reconnus peuvent demander leur agrément pour tout ou partie de l'une ou de
-plusieurs formations dispensées.
-
-Au sens de la présente sous-section, une formation est la succession des classes qui préparent directement ;
-
-1° Soit à l'un des diplômes d'Etat de l'enseignement agricole public avec ses différentes options, sous-options ou
-spécialités, a savoir :
-
-- le certificat d'aptitude professionnelle agricole (CAPA), cette formation comprenant trois classes dites CAPAI, CAPA 2 et
-CAPA 3 ;
-
-- le brevet d'études professionnelles agricoles (BEPA), cette formation comprenant deux classes dites BEPA 1 et BEPA 2 ;
-
-- le brevet de technicien agricole (BTA), cette formation comprenant deux classes dites Première BTA et Terminale BTA faisant
-suite à une classe dite Seconde agricole, ou accueillant certains élèves titulaires du brevet d'études professionnelles
-agricoles ;
-
-- le brevet de technicien supérieur agricole (BTS), cette formation comprenant deux classes dites TS 1 et TS 2.
-
-2° Soit au baccalauréat série D' (Sciences agronomiques et techniques), cette formation comprenant deux classes dites
-Première D' et Terminale D'.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-34
-
-Un établissement ne peut obtenir l'agrément pour une ou plusieurs formations que s'il remplit les conditions suivantes :
-
-1° L'ensemble des formations qu'il dispense doit correspondre aux orientations de la politique agricole définie par le
-Gouvernement.
-
-2° Les conditions de recrutement des élèves doivent être conformes aux normes filées en matière d'enseignement agricole.
-
-3° L'établissement doit disposer directement ou par contrat de moyens pédagogiques comparables à ceux de l'enseignement
-agricole public pour les travaux pratiques de laboratoire, d'atelier et d'exploitation, ainsi que pour les activités
-culturelles et sportives.
-
-4° S'il s'agit d'un établissement comportant des classes terminales, pour chaque formation dont l'agrément est demandé :
-
-a) Le rapport entre l'effectif des élèves présents dans les classes terminales ou admis dans une formation de niveau
-supérieur et l'effectif total des élèves suivant cette formation doit être comparable au rapport constaté pour la même
-formation dans l'enseignement agricole public ;
-
-b) Le rapport entre l'effectif des élèves présentés aux examens et l'effectif des élèves présents dans lés classes terminales
-doit être comparable au rapport constaté à cet égard pour les mêmes formations dans l'enseignement agricole public ;
-
-c) Les taux de réussite aux examens doivent être au moins égaux à ceux obtenus dans l'ensemble des mêmes formations de
-l'enseignement agricole privé au cours des trois années précédant le 8 novembre 1979.
-
-S'il s'agit d'un établissement ne comportant pas de classes terminales et pour chaque formation dont l'agrément est demandé,
-le rapport entre l'effectif des élèves issus de l'établissement et présents dans les classes terminales d'autres
-établissements d'enseignement ou admis dans une formation du niveau supérieur et l'effectif total des élèves de
-l'établissement doit être comparable à ceux constatés pour les mêmes formations de l'enseignement agricole public.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-35
-
-Pour les formations ou parties de formation pour lesquelles l'agrément est demandé :
-
-1° La direction et au moins 50 % des heures d'enseignement doivent être assurées par des personnels justifiant, outre les
-diplômes exigés en application des articles R. 811-16 à R. 811-22, soit de certificats d'aptitude pour l'enseignement dans
-les établissements d'enseignement secondaire délivrés par l'Etat, soit d'attestations de qualification pédagogique délivrées
-par l'enseignement agricole privé sous le contrôle de l'Etat pour des formations de même niveau.
-
-A titre dérogatoire et seulement pour les personnels en place à la date du 8 novembre 1979, la condition de diplôme et de
-brevet peut être remplacée par la pratique de la direction d'établissement ou de l'enseignement à titre permanent pendant une
-durée minimale de cinq années dans les formations de même niveau.
-
-2° Chaque classe doit compter au moins douze élèves, sauf dérogation exceptionnelle fondée sur une orientation particulière
-de la politique agricole dans une région déterminée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-_Cité par_:
-
-  - Code rural - art. R811-30 (V)
-
-_Cite_:
-
-  - Code rural R811-16 à R811-22
-
-
-###### Article R*811-36
-
-Les demandes d'agrément sont adressées au préfet du département du siège de l'établissement qui les transmet, avec son avis,
-à l'ingénieur général d'agronomie chargé de l'examen de ces demandes.
-
-L'agrément est accordé par arrêté du ministre de l'agriculture.
-
-Il est notifié par le préfet à l'établissement concerné. En cas de rejet de la demande, la décision motivée est notifiée par
-la même autorité.
-
-L'arrêté d'agrément précise :
-
-- les formations ou parties de formation agréées ;
-
-- l'effectif maximum et minimum autorisé dans les classes dispensant ces formations ;
-
-- la date d'effet de l'agrément.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-_Cité par_:
-
-  - Code rural - art. R811-79 (V)
-
-
-###### Article R*811-37
-
-Lorsque l'une ou plusieurs des conditions d'agrément prévues aux articles R. 811-34 et R. 811-35 ne sont plus remplies ou
-lorsque l'une ou plusieurs des obligations résultant de l'article R. 811-45 ne sont plus respectées, un avertissement est
-adressé à l'établissement par l'ingénieur général d'agronomie assorti du délai nécessaire à la régularisation de la
-situation ; à l'issue de ce délai, une mise en demeure du ministre de l'agriculture fixe, le cas échéant, un nouveau délai.
-
-A défaut de suite donnée, le retrait de l'agrément est prononcé par arrêté du ministre de l'agriculture.
-
-En cas d'urgence, l'agrément peut être suspendu par décision du ministre de l'agriculture sur proposition du préfet, de
-l'ingénieur général d'agronomie chargé de région ou des autorités responsables des inspections et contrôles.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R811-34, R811-35, R811-45
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-##### Paragraphe 2 : Dispositions financières.<a id=212></a>
-
-###### Article R*811-39
-
-Pour tenir compte des différences existant entre les structures des formations agréées de l'enseignement agricole privé et
-les structures des formations de l'enseignement agricole public, le coût moyen obtenu comme il est dit à l'article R. 811-38
-est corrigé de telle sorte que son montant corresponde au coût moyen des formations de l'enseignement agricole public ayant
-le même objet que les formations agréées.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R811-38
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. R811-45 (V)
-  - Code rural et de la pêche maritime - art. R811-46 (V)
-
-
-###### Article R*811-40
-
-La part du coût moyen établi comme il est dit à l'article R. 811-39 qui excède la subvention moyenne versée aux
-établissements d'enseignement privé agricole reconnus constitue la fraction affectée de coefficients établis annuellement
-telle qu'elle est prévue par l'article L. 811-10.
-
-Le coefficient de réduction afférent aux modalités de fonctionnement exprime la différence constatée entre, d'une part,
-l'effectif moyen des enseignants par classe dans les établissements agréés et l'effectif moyen des enseignements par classe
-dans les établissements de l'enseignement agricole public et, d'autre part, la durée moyenne de présence effective des élèves
-dans les établissements agréés et la durée moyenne de présence effective des élèves dans les établissements de l'enseignement
-agricole public. Le coefficient de réduction afférent à la qualification des enseignants exprime la différence entre la
-moyenne des indices qui seraient appliqués dans le secteur public aux maîtres de l'enseignement agricole privé exerçant dans
-les formations agréées et la moyenne des indices des personnels de l'enseignement public dans les formations correspondantes.
-
-Chacun de ces coefficients s'applique à la part du coût moyen définie au premier alinéa ci-dessus.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R811-39, L811-10
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-41
-
-La contribution de l'Etat aux frais d'investissement des établissements agréés est accordée dans les conditions prévues pour
-les établissements reconnus et, s'applique prioritairement aux équipements de nature à améliorer le fonctionnement
-pédagogique des établissements.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-42
-
-Un arrêté conjoint du ministre de l'agriculture et du ministre du budget fixe au début de chaque année les barèmes
-d'allocation forfaitaire applicables par élève présent dans les différentes formations agréées de l'enseignement agricole
-privé, en fonction du régime de scolarité, du mode de fonctionnement des établissements et de la situation de ceux-ci par
-rapport aux coefficients nationaux de fonctionnement et de qualification du personnel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-43
-
-L'allocation forfaitaire versée à chaque établissement est réduire du montant de la part lui incombant dans les aides
-financières versées directement aux organisations représentatives en vertu de l'article L. 811-11.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L811-11
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-44
-
-A titre transitoire, durant la période d'application progressive des articles L. 811-9 à L. 811-12, les établissements
-bénéficiant d'un agrément, reçoivent, en plus de la subvention qui leur est allouée au titre de la reconnaissance, un
-complément déterminé de telle sorte qu'au terne de cette période, les formations agréées bénéficient de l'intégralité de
-l'aide calculée comme il est dit aux articles précédents.
-
-L'arrêté prévu à l'article R. 811-42 détermine les effectifs susceptibles d'en bénéficier.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L811-9 à L811-12, R811-42
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-_Cité par_:
-
-  - Code rural - art. R811-30 (V)
-  - Code rural - art. R811-38 (V)
-
-
-##### Paragraphe 3 : Contrôle de l'Etat sur les établissements agrées.<a id=213></a>
-
-###### Article R*811-46
-
-Le contrôle de la qualité pédagogique, les contrôles administratif et financier des établissements agricoles privés sont
-assurés par l'ingénieur général compétent pour la région d'agronomie et les personnels chargés de l'inspection et du contrôle
-dans les établissements d'enseignement agricole publics.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-_Cité par_:
-
-  - Code de l'éducation - art. R431-7 (V)
-  - Code rural et de la pêche maritime - art. D811-24-1 (V)
-
-
-###### Article R*811-47
-
-Le trésorier-payeur général est habilité à exercer à tout moment le contrôle financier des établissements agréés selon les
-dispositions de l'article 31 de l'ordonnance n° 58-896 du 23 septembre 1958 relative aux vérifications de l'utilisation des
-subventions.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°58-896 du 23 septembre 1958 - art. 31, v. init.
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-48
-
-A l'occasion des inspections et des contrôles prévus aux articles R. 811-46 et R. 811-47, les documents pédagogiques,
-administratifs et financiers ainsi que le cahier des délibérations de l'organisme de gestion doivent être présentés.
-
-Les inspections se font en présence du responsable de l'organisme de gestion ou de son représentant et du directeur de
-l'établissement.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R811-46, R811-47
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-##### Paragraphe 4 : Organisations représentatives de l'enseignement technique agricole privé.<a id=214></a>
-
-###### Article R*811-49
-
-Sont considérés comme organisations représentatives les organismes qui, regroupent un ensemble d'établissements
-d'enseignement agricole privés, leur assurent une assistance pédagogique, technique et administrative, portant sur la
-formation es maîtres, l'organisation, la vie scolaire et la gestion des établissements, et les représentent auprès des
-pouvoirs publics.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code rural R813-35
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-50
-
-La commission nationale consultative de l'enseignement privé agricole est ainsi composée :
-
-Un membre du Conseil d'Etat, président ;
-
-Quatre représentants du ministre de l'agriculture ;
-
-Un représentant du ministre du budget ;
-
-Un représentant du ministre de l'éducation ;
-
-Six représentants des organisations représentatives de l'enseignement agricole privé ;
-
-Quatre personnalités qualifiées choisies en raison de leur compétence ;
-
-Ces membres sont nommés par arrêté du ministre de l'agriculture.
-
-La commission se réunit de plein droit une fois par an.
-
-Des sessions extraordinaires peuvent se tenir sur convocation du président à la demande du ministre de l'agriculture.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-51
-
-La commission nationale est consultée sur toutes questions que lui soumet le ministre de l'agriculture relatives à la mise en
-oeuvre des dispositions réglementaires concernant les établissements d'enseignement agricole privé reconnus ou agréés.
-
-Un rapport annuel lui est présenté.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. R811-26 (V)
-
-
-##### Section 3 : Dispositions particulières aux départements d'outre-mer.<a id=215></a>
-
-###### Article R*811-52
-
-Les dispositions des articles L. 811-1 à L. 811-3 et L. 811-8 sont applicables dans les départements d'outre-mer à
-l'exception de Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L811-1 à L811-3, L811-8
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. R811-26 (V)
-
-
-###### Article R*811-53
-
-Les dispositions des articles R. 811-14, R. 811-20 et R. 811-21 et celles du premier alinéa de l'article R. 811-23, ne sont
-pas applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R811-14, R811-20, R811-21, R811-23
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-54
-
-Dans les départements de la Guadeloupe, de la Guyane, de la martinique et de la Réunion, tout établissement privé
-d'enseignement ou de formation professionnelle agricoles demandant la reconnaissance doit justifier qu'il prépare à un ou aux
-deux examens publics suivants :
-
-Certificat d'aptitude professionnelle agricole ;
-
-Brevet d'études professionnelles agricoles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-###### Article R*811-55
-
-Le ministre de l'agriculture fixe par arrêté, pris après avis du conseil supérieur de l'enseignement, de la formation
-professionnelle, de la promotion sociale et de la jeunesse rurale, les conditions que doivent remplir les maîtres n'assurant
-que l'enseignement général ou les travaux pratiques dans les établissements des départements de la Guadeloupe, de la Guyane,
-de la Martinique et de la Réunion préparant aux examens publics mentionnés à l'article R. 811-54.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R811-54
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-_Cité par_:
-
-  - Code rural - art. R811-57 (V)
-
-
-###### Article R*811-56
-
-Les dispositions des articles R. 811-53 à R. 811-55 du présent chapitre ne sont pas applicables dans le département de Saint-
-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R811-53 à R811-55
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Abrogé par_:
-
-  - Décret n°88-922 du 14 septembre 1988 - art. 66 (Ab) JORF 15 septembre 1988
-
-
-#### Chapitre II : Formations technologiques et professionnelles de cycle court<a id=216></a>
-
-##### Section 1 : Enseignement technologique de cycle court par voie scolaire.<a id=217></a>
+##### Section 1 : Enseignement technologique de cycle court par voie scolaire.<a id=200></a>
 
 ###### Article R*812-1
 
@@ -23394,7 +22039,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage.<a id=218></a>
+##### Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage.<a id=201></a>
 
 ###### Article R*812-5
 
@@ -23417,7 +22062,7 @@ _Créé par_:
   - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
 
 
-##### Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue.<a id=219></a>
+##### Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue.<a id=202></a>
 
 ###### Article R*812-6
 
@@ -23444,9 +22089,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R812-16 (V)
 
 
-#### Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles<a id=220></a>
+#### Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles<a id=203></a>
 
-##### Section 1 : Enseignement technologique de cycle long.<a id=221></a>
+##### Section 1 : Enseignement technologique de cycle long.<a id=204></a>
 
 ###### Article R*813-1
 
@@ -23594,7 +22239,7 @@ _Cité par_:
   - Code rural - art. R813-61 (V)
 
 
-##### Section 2 : Formation des techniciens supérieurs agricoles.<a id=222></a>
+##### Section 2 : Formation des techniciens supérieurs agricoles.<a id=205></a>
 
 ###### Article R*813-6
 
@@ -23654,7 +22299,7 @@ _Créé par_:
   - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
 
 
-##### Section 3 : Dispositions communes.<a id=223></a>
+##### Section 3 : Dispositions communes.<a id=206></a>
 
 ###### Article R*813-8
 
@@ -23785,9 +22430,9 @@ _Cité par_:
   - Code rural - art. R813-57 (V)
 
 
-#### Chapitre IV : Enseignement supérieur<a id=224></a>
+#### Chapitre IV : Enseignement supérieur<a id=207></a>
 
-##### Section 1 : Dispositions générales.<a id=225></a>
+##### Section 1 : Dispositions générales.<a id=208></a>
 
 ###### Article R*814-1
 
@@ -23902,9 +22547,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Enseignement supérieur agricole<a id=226></a>
+##### Section 2 : Enseignement supérieur agricole<a id=209></a>
 
-##### Sous-section 1 : Formation des ingénieurs spécialisés en agriculture.<a id=227></a>
+##### Sous-section 1 : Formation des ingénieurs spécialisés en agriculture.<a id=210></a>
 
 ###### Article R*814-5
 
@@ -23945,7 +22590,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Formation des spécialistes en horticulture et des paysagistes.<a id=228></a>
+##### Sous-section 2 : Formation des spécialistes en horticulture et des paysagistes.<a id=211></a>
 
 ###### Article R*814-6
 
@@ -23998,7 +22643,7 @@ _Créé par_:
   - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
 
 
-##### Sous-section 3 : Formation des ingénieurs des industries agricoles et alimentaires.<a id=229></a>
+##### Sous-section 3 : Formation des ingénieurs des industries agricoles et alimentaires.<a id=212></a>
 
 ###### Article R*814-8
 
@@ -24043,9 +22688,9 @@ _Créé par_:
   - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
 
 
-##### Sous-section 4 : Formation des ingénieurs agronomes à vocation générale<a id=230></a>
+##### Sous-section 4 : Formation des ingénieurs agronomes à vocation générale<a id=213></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=231></a>
+##### Paragraphe 1 : Dispositions générales.<a id=214></a>
 
 ###### Article R*814-10
 
@@ -24365,7 +23010,7 @@ _Cité par_:
   - Code rural - art. R814-18 (V)
 
 
-##### Paragraphe 2 : Dispositions particulières aux élèves étrangers.<a id=232></a>
+##### Paragraphe 2 : Dispositions particulières aux élèves étrangers.<a id=215></a>
 
 ###### Article R*814-20
 
@@ -24520,7 +23165,7 @@ _Créé par_:
   - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
 
 
-##### Sous-section 5 : Dispositions relatives à la délivrance des diplômes.<a id=233></a>
+##### Sous-section 5 : Dispositions relatives à la délivrance des diplômes.<a id=216></a>
 
 ###### Article R*814-27
 
@@ -24548,9 +23193,9 @@ _Créé par_:
   - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
 
 
-##### Section 3 : Enseignement supérieur vétérinaire<a id=234></a>
+##### Section 3 : Enseignement supérieur vétérinaire<a id=217></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=235></a>
+##### Sous-section 1 : Dispositions générales.<a id=218></a>
 
 ###### Article R*814-28
 
@@ -24610,7 +23255,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Conditions d'admission des élèves.<a id=236></a>
+##### Sous-section 2 : Conditions d'admission des élèves.<a id=219></a>
 
 ###### Article R*814-30
 
@@ -24684,7 +23329,7 @@ _Cite_:
   - Code rural R814-30, R814-43
 
 
-##### Sous-section 3 : Enseignement et recherche.<a id=237></a>
+##### Sous-section 3 : Enseignement et recherche.<a id=220></a>
 
 ###### Article R*814-32
 
@@ -24842,7 +23487,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 4 : Administration.<a id=238></a>
+##### Sous-section 4 : Administration.<a id=221></a>
 
 ###### Article R*814-37
 
@@ -24871,7 +23516,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire.<a id=239></a>
+##### Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire.<a id=222></a>
 
 ###### Article R*814-38
 
@@ -25103,9 +23748,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 4 : Enseignement de l'agronomie des régions chaudes<a id=240></a>
+##### Section 4 : Enseignement de l'agronomie des régions chaudes<a id=223></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=241></a>
+##### Sous-section 1 : Dispositions générales.<a id=224></a>
 
 ###### Article R*814-44
 
@@ -25242,7 +23887,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Administration du centre.<a id=242></a>
+##### Sous-section 2 : Administration du centre.<a id=225></a>
 
 ###### Article R*814-48
 
@@ -25622,7 +24267,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 3 : Régime financier du centre.<a id=243></a>
+##### Sous-section 3 : Régime financier du centre.<a id=226></a>
 
 ###### Article R*814-58
 
@@ -25745,9 +24390,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public<a id=244></a>
+#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public<a id=227></a>
 
-##### Section 1 : Dispositions communes.<a id=245></a>
+##### Section 1 : Dispositions communes.<a id=228></a>
 
 ###### Article R*815-1
 
@@ -25825,7 +24470,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Dispositions relatives aux établissements d'enseignement technologique.<a id=246></a>
+##### Section 2 : Dispositions relatives aux établissements d'enseignement technologique.<a id=229></a>
 
 ###### Article R*815-4
 
@@ -25850,7 +24495,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-#### Chapitre VI : Dispositions relatives aux examens et concours publics.<a id=247></a>
+#### Chapitre VI : Dispositions relatives aux examens et concours publics.<a id=230></a>
 
 ###### Article R*816-1
 
@@ -25959,9 +24604,9 @@ _Transféré par_:
   - Décret n°92-433 du 7 mai 1992 - art. 4 () JORF 14 mai 1992
 
 
-### Titre II : Développement agricole<a id=248></a>
+### Titre II : Développement agricole<a id=231></a>
 
-#### Chapitre Ier : Actions de développement agricole.<a id=249></a>
+#### Chapitre Ier : Actions de développement agricole.<a id=232></a>
 
 ###### Article R*821-1
 
@@ -26066,7 +24711,7 @@ _Modifié par_:
   - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
 
 
-#### Chapitre II : Convention avec l'association nationale pour le développement agricole.<a id=250></a>
+#### Chapitre II : Convention avec l'association nationale pour le développement agricole.<a id=233></a>
 
 ###### Article R*822-1
 
@@ -26182,7 +24827,7 @@ _Modifié par_:
   - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
 
 
-#### Chapitre III : Fonds national de développement agricole.<a id=251></a>
+#### Chapitre III : Fonds national de développement agricole.<a id=234></a>
 
 ###### Article R*823-1
 
@@ -26679,9 +25324,9 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-#### Chapitre IV : Programmes départementaux, régionaux et national de développement agricole<a id=252></a>
+#### Chapitre IV : Programmes départementaux, régionaux et national de développement agricole<a id=235></a>
 
-##### Section 1 : Programmes départementaux.<a id=253></a>
+##### Section 1 : Programmes départementaux.<a id=236></a>
 
 ###### Article R*824-4
 
@@ -26829,7 +25474,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-##### Section 2 : Programmes régionaux.<a id=254></a>
+##### Section 2 : Programmes régionaux.<a id=237></a>
 
 ###### Article R*824-8
 
@@ -26976,7 +25621,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-##### Section 3 : Programme national.<a id=255></a>
+##### Section 3 : Programme national.<a id=238></a>
 
 ###### Article R824-9
 
@@ -27030,7 +25675,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-#### Chapitre V : Conventions de développement.<a id=256></a>
+#### Chapitre V : Conventions de développement.<a id=239></a>
 
 ###### Article R825-1
 
@@ -27152,11 +25797,11 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-### Titre III : Recherche agronomique<a id=257></a>
+### Titre III : Recherche agronomique<a id=240></a>
 
-#### Chapitre Ier : Institut national de la recherche agronomique<a id=258></a>
+#### Chapitre Ier : Institut national de la recherche agronomique<a id=241></a>
 
-##### Section 1 : Dispositions générales.<a id=259></a>
+##### Section 1 : Dispositions générales.<a id=242></a>
 
 ###### Article R831-1
 
@@ -27258,7 +25903,7 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=260></a>
+##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=243></a>
 
 ###### Article R*831-3
 
@@ -27663,7 +26308,7 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-##### Section 3 : Dispositions diverses.<a id=261></a>
+##### Section 3 : Dispositions diverses.<a id=244></a>
 
 ###### Article R*831-14
 
@@ -27712,9 +26357,9 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-#### Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts<a id=262></a>
+#### Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts<a id=245></a>
 
-##### Section 1 : Dispositions générales<a id=263></a>
+##### Section 1 : Dispositions générales<a id=246></a>
 
 ###### Article R832-1
 
@@ -27848,7 +26493,7 @@ _Cité par_:
   - Code rural - art. R832-17 (V)
 
 
-##### Section 2 : Administration et direction du centre.<a id=264></a>
+##### Section 2 : Administration et direction du centre.<a id=247></a>
 
 ###### Article R*832-4
 
@@ -28141,7 +26786,7 @@ _Modifié par_:
   - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
 
 
-##### Section 3 : Organisation du centre.<a id=265></a>
+##### Section 3 : Organisation du centre.<a id=248></a>
 
 ###### Article R832-11
 
@@ -28258,7 +26903,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R832-6 (V)
 
 
-##### Section 4 : Conseil scientifique et technique et commissions spécialisées<a id=266></a>
+##### Section 4 : Conseil scientifique et technique et commissions spécialisées<a id=249></a>
 
 ###### Article R832-15
 
@@ -28341,7 +26986,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R832-6 (V)
 
 
-##### Section 5 : Dispositions diverses<a id=267></a>
+##### Section 5 : Dispositions diverses<a id=250></a>
 
 ###### Article R832-17
 
