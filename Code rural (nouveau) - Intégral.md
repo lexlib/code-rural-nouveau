@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1988-10-20
+Version Consolidée au 1988-11-30
 ## Contenu: 
   - [Partie législative (art. L411-1 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-1 à L481-1)](#2)
@@ -9491,29 +9491,8 @@ _Modifié par_:
 
 Les chambres départementales d'agriculture sont composées :
 
-1. De vingt et un membres élus au scrutin de liste majoritaire par les chefs d'exploitation et assimilés mentionnés au 1° de
-l'article R. 511-8, à raison :
-
-- de six par circonscription lorsque le département comprend deux circonscriptions ;
-
-- de trois par circonscription lorsque le département comprend trois ou quatre circonscriptions ;
-
-- de deux par circonscription lorsque le département comprend plus de quatre circonscriptions,
-
-les sièges restants étant répartis entre les circonscriptions au prorata du nombre des électeurs inscrits dans ce collège,
-avec application de la règle du plus fort reste.
-
-Le nombre de sièges pour chaque circonscription est fixé par décret, sur le rapport du ministre de l'agriculture et du
-ministre de l'intérieur.
-
-Les circonscriptions sont les arrondissements. Toutefois, par décret, pris sur le rapport du ministre de l'agriculture et du
-ministre de l'intérieur, après avis de l'assemblée permanente des chambres d'agriculture, deux ou plusieurs arrondissements
-contigus peuvent, selon l'importance du collège électoral, être fusionnés pour former une circonscription ; de même, un
-arrondissement peut être divisé en deux ou plusieurs circonscriptions. Chaque département comporte au moins deux et au plus
-six circonscriptions.
-
-Les décrets mentionnés aux alinéas précédents devront intervenir quatre mois au moins avant les élections auxquelles ils
-doivent s'appliquer.
+1. De vingt et un membres élus au scrutin de liste départemental par les chefs d'exploitation et assimilés mentionnés au 1°
+de l'article R. 511-8 ;
 
 2. De deux membres élus au scrutin de liste départemental, par les propriétaires et usufruitiers mentionnés au 2° de
 l'article R. 511-8 ;
@@ -9523,7 +9502,7 @@ sont élus par deux collèges distincts :
 
 a) Celui des salariés des exploitations agricoles ;
 
-b) Celui des salariés des groupements professionnels agricoles, chaque collège élisant deux représentants.
+b) Celui des salariés des groupements professionnels agricoles, chaque collège élisant quatre représentants ;
 
 4. De deux membres élus au scrutin de liste départemental, par les anciens exploitants et assimilés mentionnés au 4° de
 l'article R. 511-8 ;
@@ -9537,7 +9516,7 @@ d'un représentant ;
 
 b) Les autres sociétés coopératives agricoles, leurs unions et fédérations, ainsi que les sociétés d'intérêt collectif
 agricole reconnues comme groupements de producteurs à condition qu'elles aient leur siège social dans le département, à
-raison de trois représentants ;
+raison de quatre représentants ;
 
 c) Les caisses de crédit agricole, à raison de deux représentants ;
 
@@ -9545,7 +9524,7 @@ d) Les caisses d'assurances mutuelles agricoles et les caisses de mutualité soc
 représentants ;
 
 e) Les organisations syndicales à vocation générale d'exploitants agricoles ou de jeunes agriculteurs, ainsi que leurs unions
-et fédérations, à raison de deux représentants.
+et fédérations, à raison de deux représentants ;
 
 6. Du ou des administrateurs des centres régionaux de la propriété forestière, élus par le collège des propriétaires
 forestiers mentionnés à l'article L. 221-3 du code forestier.
@@ -9556,14 +9535,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 1 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 1, art. 2, art. 3 JORF 30 décembre 1987
+  - Décret n°88-1070 1988-11-29 art. 1, art. 2, art. 3 JORF 30 novembre 1988
 
 _Cité par_:
 
@@ -10895,15 +10869,29 @@ Nul ne peut être admis à voter s'il n'est inscrit sur la liste électorale.
 Pour être valables, les bulletins ne doivent comporter ni adjonction, ni suppression de nom, ni modification de l'ordre de
 présentation de la liste.
 
-Au premier tour de scrutin, les sièges à pourvoir sont attribués aux listes qui ont recueilli la majorité relative des
-suffrages exprimés à condition que le quart au moins des électeurs, électeurs individuels ou groupements électeurs inscrits
-ait pris part au vote. Au cas où un second tour est nécessaire, il a lieu le septième jour qui suit le premier tour. Le
-résultat est acquis à la majorité relative quel que soit le nombre des votants.
+L'élection a lieu dans les conditions suivantes :
+
+1° Pour les collèges des chefs d'exploitation et des salariés mentionnés respectivement aux 1 et 3 de l'article R. 511-6, au
+scrutin de liste à un tour.
+
+La liste qui a le plus de voix obtient un nombre de sièges égal à la moitié du nombre de sièges à pourvoir, arrondi, le cas
+échéant, à l'entier supérieur. En cas d'égalité de suffrages entre les listes arrivées en tête, ces sièges sont attribués à
+la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette attribution opérée, les autres sièges sont répartis
+entre toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne. Les sièges sont
+attribués aux candidats dans l'ordre de présentation sur chaque liste.
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
+grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être
+proclamés élus.
+
+2° Pour les autres collèges mentionnés à l'article R. 511-6, au scrutin majoritaire à un tour. Les sièges à pourvoir sont
+attribués à la liste qui a recueilli la majorité des suffrages exprimés.
 
 En cas d'égalité des suffrages entre plusieurs listes, les sièges à pourvoir sont attribués à la liste dont les candidats ont
 la moyenne d'âge la plus élevée.
 
-Sont considérés comme suppléants les candidats figurant en rang postérieur à celui du dernier élu de la liste.
+Pour tous les collèges, sont considérés comme suppléants des candidats élus sur une liste les candidats figurant en rang
+postérieur à celui du dernier élu de ladite liste.
 
 **Liens relatifs à cet article**
 
@@ -10911,14 +10899,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 22 JORF 30 décembre 1987
+  - Décret n°88-1070 1988-11-29 art. 4 JORF 30 novembre 1988
 
 _Cité par_:
 
@@ -10929,6 +10912,10 @@ _Cité par_:
   - Code rural - art. R512-4 (V)
   - Code rural - art. R571-24 (V)
   - Code rural et de la pêche maritime - art. R511-51 (V)
+
+_Cite_:
+
+  - Code rural R511-6
 
 
 ##### Sous-section 6 : Opérations de vote<a id=104></a>
@@ -12981,7 +12968,7 @@ _Modifié par_:
 
 ###### Article R*511-113
 
-Les trois membres mentionnés à l'article R. 511-6, 5 (b) sont élus par les autres sociétés coopératives agricoles, leurs
+Les quatre membres mentionnés à l'article R. 511-6, 5 (b) sont élus par les autres sociétés coopératives agricoles, leurs
 unions et fédérations, ainsi que par les sociétés d'intérêt collectif agricole ayant pour objet d'assurer des services dans
 l'intérêt des agriculteurs.
 
@@ -12995,14 +12982,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-897 du 19 octobre 1982 - art. 2 () JORF 20 octobre 1982
-  - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
+  - Décret n°88-1070 1988-11-29 art. 6 JORF 30 novembre 1988
 
 
 ###### Article R*511-114
@@ -13060,17 +13042,17 @@ Par dérogation aux dispositions de l'article R. 511-6, la chambre d'agriculture
 
 a) Celui des électeurs exploitant moins de 10 ha, à raison de 7 ;
 
-b) Celui des électeurs exploitant plus de 10 ha, à raison de 5.
+b) Celui des électeurs exploitant plus de 10 ha, à raison de 5 ;
 
 2. D'un membre élu, au scrutin de liste départemental, par les propriétaires ou usufruitiers mentionnés à l'article R. 511-8,
 2°.
 
-3. De deux membres élus, au scrutin de liste départemental, par les salariés mentionnés à l'article R. 511-8, 3°.
+3. De quatre membres élus, au scrutin de liste départemental, par les salariés mentionnés à l'article R. 511-8, 3°.
 
 4. D'un membre élu, au scrutin de liste départemental, par les anciens exploitants et assimilés mentionnés à l'article R.
 511-8, 4°.
 
-5. De trois membres élus, au scrutin de liste départemental, par les sociétés coopératives agricoles et les sociétés
+5. De quatre membres élus, au scrutin de liste départemental, par les sociétés coopératives agricoles et les sociétés
 d'intérêt collectif agricole, ainsi que leurs unions et fédérations.
 
 6. D'un membre élu par les caisses d'assurances mutuelles agricoles.
@@ -13088,14 +13070,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-897 du 19 octobre 1982 - art. 2 () JORF 20 octobre 1982
-  - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
+  - Décret n°88-1070 1988-11-29 art. 16 JORF 30 novembre 1988
 
 
 #### Chapitre II : Chambres régionales<a id=121></a>
@@ -13180,15 +13157,15 @@ procède à l'élection des membres de la chambre régionale élus au titre de s
 
 - deux pour les propriétaires et usufruitiers ;
 
-- deux pour les salariés des exploitations agricoles ;
+- quatre pour les salariés des exploitations agricoles ;
 
-- deux pour les salariés des groupements professionnels agricoles ;
+- quatre pour les salariés des groupements professionnels agricoles ;
 
 - deux pour les anciens exploitants et assimilés ;
 
 - un pour les sociétés coopératives agricoles mentionnées au a du 5° de l'article R. 511-6 ;
 
-- trois pour les autres sociétés coopératives agricoles et les sociétés d'intérêt collectif agricole mentionnées au b du 5°
+- quatre pour les autres sociétés coopératives agricoles et les sociétés d'intérêt collectif agricole mentionnées au b du 5°
 de l'article R. 511-6 ;
 
 - deux pour les organismes de crédit agricole ;
@@ -13201,27 +13178,22 @@ de l'article R. 511-6 ;
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural R511-6
-
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°82-688 du 3 août 1982 - art. 5 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 25 JORF 30 décembre 1987
 
 _Cité par_:
 
   - Code rural - art. R512-4 (V)
   - Code rural et de la pêche maritime - art. D511-96-5 (V)
+
+_Cite_:
+
+  - Code rural R511-6
+
+_Modifié par_:
+
+  - Décret n°88-1070 1981-11-29 art. 5 JORF 30 novembre 1988
 
 
 ###### Article R*512-4
@@ -13264,7 +13236,7 @@ _Cité par_:
 ###### Article R*512-5
 
 Les dispositions des articles L. 511-2 (alinéa 1), L. 511-3 (alinéa 1), L. 511-4, L. 511-5, L. 511-10, L. 511-11, R. 511-1,
-R. 511-2, R. 511-5, R. 511-7, R. 511-51 (alinéas 2 et 3), R. 511-52 (excepté le 1 du 1er alinéa), R. 511-54 à R. 511-57, R.
+R. 511-2, R. 511-5, R. 511-7, R. 511-51 (alinéas 2 et 3), R. 511-52 (excepté le 1° du 1er alinéa), R. 511-54 à R. 511-57, R.
 511-59, R. 511-60, R. 511-61, R. 511-63, R. 511-64, R. 511-66 à R. 511-68, R. 511-69 (alinéas 2 et suivants), R. 511-70, R.
 511-74 à R. 511-83, R. 511-86 à R. 511-89, R. 511-91 à R. 511-96 et R. 511-111 sont applicables aux chambres régionales
 d'agriculture.
@@ -13274,8 +13246,6 @@ le commissaire de la République de région.
 
 Pour l'application du premier alinéa, dernière phrase de l'article R. 511-61, la délégation spéciale est choisie parmi les
 membres des chambres départementales.
-
-Le président de la chambre régionale est choisi parmi les présidents des chambres départementales.
 
 Lorsqu'en vue, notamment, de bénéficier des aides du Fonds national de développement agricole, une chambre régionale
 d'agriculture décide la création d'un service d'utilité agricole de développement, celui-ci est organisé et fonctionne selon
@@ -13310,15 +13280,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 5 () JORF 5 août 1982
-  - Décret n°86-484 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
-  - Décret n°87-1058 1987-12-24 art. 27 JORF 30 décembre 1987
+  - Décret n°88-1070 1988-11-29 art. 8 JORF 30 novembre 1988
 
 
 ###### Article R*512-7
