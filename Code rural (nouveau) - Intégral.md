@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1995-04-30
+Version Consolidée au 1995-05-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -893,11 +893,11 @@ Version Consolidée au 1995-04-30
           - [Section 2 : Temps de chasse. (art. R*261-3 à R*261-6)](#890)
         - [Chapitre II : Dispositions particulières aux terres australes et antarctiques françaises. (art. R*262-1)](#891)
         - [Chapitre III : Dispositions particulières à la collectivité territoriale de Mayotte (art. R*263-1)](#892)
-    - [Livre IV : Baux ruraux (art. R*411-1 à R464-1)](#893)
-      - [Titre Ier : Statut du fermage et du métayage (art. R*411-1 à R417-3)](#894)
-        - [Chapitre Ier : Régime de droit commun (art. R*411-1 à R411-27)](#895)
-          - [Section 1 : Etablissement du contrat, durée et prix du bail (art. R*411-1 à R411-9)](#896)
-            - [Sous-section 3 : Prix du bail. (art. R*411-1 à R411-9)](#897)
+    - [Livre IV : Baux ruraux (art. R*411-9-1 à R464-1)](#893)
+      - [Titre Ier : Statut du fermage et du métayage (art. R*411-9-1 à R417-3)](#894)
+        - [Chapitre Ier : Régime de droit commun (art. R*411-9-1 à R411-27)](#895)
+          - [Section 1 : Etablissement du contrat, durée et prix du bail (art. R*411-9-1 à R411-9-11)](#896)
+            - [Sous-section 3 : Prix du bail. (art. R*411-9-1 à R411-9-11)](#897)
           - [Section 8 : Droit de renouvellement et droit de reprise. (art. R411-10 à R411-13)](#898)
           - [Section 9 : Indemnité au preneur sortant. (art. R411-14 à R411-27)](#899)
         - [Chapitre IV : Commissions consultatives paritaires des baux ruraux (art. R*414-2 à R414-6)](#900)
@@ -86892,35 +86892,59 @@ _Créé par_:
 
 ##### Sous-section 3 : Prix du bail.<a id=897></a>
 
-###### Article R*411-1
+###### Article R*411-9-1
 
-Le commissaire de la République du département fixe, par arrêté publié au recueil des actes administratifs du département,
-les quantités maximales et minimales de denrées qui, dans les différentes régions naturelles agricoles du département,
-représentent les valeurs locatives normales des biens loués et dans la limite desquelles les prix des fermages sont, en
-principe, fixés.
+Le résultat brut d'exploitation annuel constaté sur le plan national est évalué, selon les méthodes de la statistique
+agricole et des comptes de l'agriculture, par solde entre les recettes annuelles de l'agriculture et les charges annuelles de
+production et d'exploitation de l'agriculture retenues par ces comptes dont les éléments font l'objet d'une publication
+officielle chaque année.
 
-Les denrées dont les quantités sont ainsi indiquées doivent être choisies en fonction des différents types d'exploitations
-existant dans les régions. Le nombre de denrées ne peut être supérieur à quatre, sauf pour les exploitations pratiquant des
-cultures spéciales.
+Le résultat brut d'exploitation à l'hectare constaté sur le plan national au cours des cinq années précédentes correspond à
+la moyenne des résultats bruts d'exploitation annuels constatés sur le plan national rapportés à la superficie agricole
+utilisée nationale des exploitations agricoles évaluée pour chaque année en hectares dans le cadre des comptes de
+l'agriculture ; ce résultat est constaté par le ministre chargé de l'agriculture après examen des éléments qui le composent
+par la commission des comptes de l'agriculture de la nation, instituée par le décret n° 64-112 du 6 février 1964.
 
-Les maxima et les minima retenus doivent permettre de fixer le prix de chaque fermage, conformément aux dispositions des
-articles L. 411-11 à L. 411-16 en considération de la durée du bail compte tenu d'une clause de reprise éventuelle en cours
-de bail, de l'état et de l'importance des bâtiments d'habitation et d'exploitation, de la qualité des sols, de la structure
-parcellaire des biens loués, ainsi que de tous autres éléments susceptibles d'affecter la qualité de ces biens.
+L'indice du résultat brut d'exploitation à l'hectare national correspond à cent fois le rapport entre le résultat brut
+constaté dans ces conditions au cours des cinq années précédentes et le résultat brut constaté au cours des années 1989 à
+1993 incluses. Cet indice est établi en fonction des derniers résultats disponibles.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Code rural - art. R411-9-10 (V)
-  - Code rural - art. R416-2 (V)
-  - Décret n°2008-27 du 8 janvier 2008 - art. 2 (V)
-  - Code rural et de la pêche maritime - art. D732-54 (V)
-  - Code rural et de la pêche maritime - art. R411-2 (V)
-
 _Cite_:
 
-  - Code rural L411-11 à L411-16
+  - Décret n°64-112 1964-02-06
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°95-623 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+_Cité par_:
+
+  - Code rural - art. R411-9-4 (Ab)
+
+
+###### Article R411-1
+
+Pour l'application de l'article L. 411-11, le préfet fixe, par arrêté publié au recueil des actes administratifs de la
+préfecture :
+
+1° Les maxima et minima exprimés en monnaie des loyers des bâtiments d'habitation compte tenu de l'état et de l'importance de
+ceux-ci ;
+
+2° Les maxima et minima exprimés en monnaie des loyers représentant les valeurs locatives normales des bâtiments
+d'exploitation et des terres nues, éventuellement par régions naturelles agricoles ;
+
+3° Les quantités maximales et minimales de denrées qui, dans les différentes régions naturelles agricoles du département,
+représentent les valeurs locatives normales des terres nues portant des cultures permanentes viticoles, arboricoles,
+oléicoles et agrumicoles et des bâtiments d'exploitation y afférents. Les denrées dont les quantités sont ainsi indiquées
+doivent être choisies en fonction des différents types d'exploitations existant dans les régions.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
@@ -86928,16 +86952,28 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°1990-02-05 art. 1 JORF 6 février 1990
+  - Décret n°95-624 du 6 mai 1995 - art. 1 () JORF 7 mai 1995 rectificatif JORF 10 juin 1995
+
+_Cité par_:
+
+  - Décret n°2008-27 du 8 janvier 2008 - art. 2 (V)
+  - Code rural - art. R411-9-10 (V)
+  - Code rural - art. R416-2 (V)
+  - Code rural et de la pêche maritime - art. D732-54 (V)
+  - Code rural et de la pêche maritime - art. R411-2 (V)
+
+_Cite_:
+
+  - Code rural L411-11
 
 
-###### Article R*411-2
+###### Article R411-2
 
 L'arrêté du préfet  du département est pris, dans les conditions fixées ci-dessous, après consultation des commissions
 consultatives paritaires des baux ruraux, prévues aux articles L. 411-11 et R. 414-1 à R. 414-6.
 
-Le commissaire de République du département demande à la commission consultative paritaire départementale des baux ruraux de
-lui adresser des propositions motivées établies sur la base des dispositions de l'article précédent.
+Le préfet  du département demande à la commission consultative paritaire départementale des baux ruraux de lui adresser des
+propositions motivées établies sur la base des dispositions de l'article précédent.
 
 La commission doit présenter des propositions dans les deux mois de la réception de la demande.
 
@@ -86948,104 +86984,60 @@ l'intermédiaire du préfet  de la région.
 Dans le mois de la réception de la demande de consultation, la commission régionale doit faire des propositions au préfet  de
 la région qui les transmet au préfet  du département.
 
-En cas de carence de la commission régionale ou s'il estime ne pouvoir retenir les propositions faims, le préfet  du
+En cas de carence de la commission régionale ou s'il estime ne pouvoir retenir les propositions faites, le préfet  du
 département demande au ministre de l'agriculture de consulter la commission consultative paritaire nationale des baux ruraux.
 Celle-ci doit faire des propositions dans un délai de deux mois à compter de la date de la réception de la demande de
 consultation.
 
-En cas de carence, le préfet  du département fixe, dans le mois suivant l'expiration de ce délai, les denrées et les
-quantités maxima et minima à retenir.
+En cas de carence, le préfet du département fixe, dans le mois suivant l'expiration de ce délai, les maxima et les minima
+exprimés en monnaie visés à l'article R. 411-1.
+
+Il fixe également dans ce même délai les denrées et les quantités maxima et minima à retenir représentant les valeurs
+locatives des cultures permanentes viticoles, arboricoles, oléicoles et agrumicoles.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural L411-11, R414-1 à R414-6
+  - Code rural L411-11, R414-1 à R414-6, R411-1
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
+  - Décret n°95-624 du 6 mai 1995 - art. 2 () JORF 7 mai 1995
 
 
-###### Article R*411-3
+###### Article R411-3
 
-Lors de la conclusion de chaque bail ou de son renouvellement, les parties optent pour l'un des modes de règlement du prix du
-bail prévu à l'article L. 411-12. Si cette option n'est pas faite, le prix est réglable en espèces. Les parties peuvent, en
-cours de bail, modifier d'un commun accord le mode de règlement antérieurement applicable.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L411-12
-
-_Codifié par_:
-
-  - Décret n°83-213 1983-03-16
-
-
-###### Article R*411-4
-
-Les céréales livrées au bailleur doivent, en principe, être de la qualité prévue pour la fixation du prix de base revenu pour
-la récolte de l'année. Si cette qualité est supérieure, le preneur bénéficie des bonifications édictées pour poids spécifique
-et des primes de conservation ; si elle est inférieure, il supporte les réfactions prévues pour qualité insuffisante. Les
-différences de prix sont réglées entre les parties dans le mois qui suit le paiement de la denrée livrée.
+Pour les cultures permanentes viticoles, arboricoles, oléicoles et agrumicoles, lors de la conclusion de chaque bail ou de
+son renouvellement, les parties optent pour l'un des modes de règlement du prix du bail prévu à l'article L. 411-12. Si cette
+option n'est pas faite, le prix est réglable en espèces. Les parties peuvent, en cours de bail, modifier d'un commun accord
+le mode de règlement antérieurement applicable.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°83-213 1983-03-16
-
-_Abrogé par_:
-
-  - Décret n°95-624 du 6 mai 1995 - art. 6 (V) JORF 7 mai 1995
-
-
-###### Article R*411-5
-
-Sauf convention contraire entre les parties et sous réserve des dispositions particulières édictées pour le lait et le blé
-par les articles R. 411-6 et R. 411-7 le montant en espèces du fermage est calculé selon le cours moyen, d'échéance à
-échéance, des denrées servant au calcul du prix du fermage. Le cours moyen est arrêté par le préfet  du département sur avis
-de la commission consultative paritaire départementale. Il est publié au recueil des actes administratifs du département.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R411-6, R411-7
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
+  - Décret n°95-624 du 6 mai 1995 - art. 3 () JORF 7 mai 1995
+
+_Cite_:
+
+  - Code rural - art. L411-12 (V)
 
 
-###### Article R*411-6
+###### Article R411-5
 
-Si la denrée choisie est le lait, le commissaire de la République du département peut décider, sur avis de la commission
-consultative paritaire départementale, que le prix moyen de celui-ci sera calculé en tenant compte au maximum pour trois
-quarts du prix moyen pratique pendant la période du 1er avril au 30 septembre et, pour le reste, du prix moyen pratiqué
-pendant la période du 1er octobre au 31 mars.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°83-213 1983-03-16
-
-_Abrogé par_:
-
-  - Décret n°95-624 du 6 mai 1995 - art. 6 (V) JORF 7 mai 1995
-
-
-###### Article R*411-7
-
-Si la denrée choisie est le blé, le prix à retenir pour le calcul du fermage est, sauf convention contraire des parties, le
-prix fixé par arrêté conjoint du ministre de l'agriculture et du ministre de la justice ; le montant de ce prix est
-forfaitairement égal au prix d'intervention du centre de commercialisation ayant le prix d'intervention du blé de meunerie le
-plus bas ; il est éventuellement corrigé, pour tenir compte du marché, et diminué du montant total ou partiel des taxes
-parafiscales prévues par les textes en vigueur. Si un prix unique d'intervention est fixé pour toute la France, il sera tenu
-compte de ce prix.
+Sauf convention contraire entre les parties et pour les cultures permanentes viticoles, arboricoles, oléicoles et agrumicoles
+le montant en espèces du fermage est calculé selon le cours moyen, d'échéance à échéance, des denrées servant au calcul du
+prix du fermage. Le cours moyen est arrêté par le préfet  du département sur avis de la commission consultative paritaire
+départementale. Il est publié au recueil des actes administratifs du département.
 
 **Liens relatifs à cet article**
 
@@ -87053,24 +87045,31 @@ _Codifié par_:
 
   - Décret n°83-213 1983-03-16
 
-_Abrogé par_:
+_Modifié par_:
 
-  - Décret n°95-624 du 6 mai 1995 - art. 6 (V) JORF 7 mai 1995
+  - Décret n°95-624 du 6 mai 1995 - art. 4 () JORF 7 mai 1995
 
 
-###### Article R*411-8
+###### Article R411-8
 
-Lorsque le bailleur a effectué, en accord avec le preneur, des investissements dépassant ses obligations légales, le montant
-du fermage est augmenté d'une rente en espèces égale à l'intérêt des sommes ainsi investies, au taux pratiqué par la caisse
-régionale de crédit agricole pour les prêts à moyen terme ordinaires. Lors du renouvellement du bail, les parties, d'un
-commun accord ou, à défaut, le tribunal paritaire, peuvent par une clause expresse du bail convertir cette rente en quantités
-de denrées.
+Lorsque le bailleur a effectué en accord avec le preneur des investissements dépassant ses obligations légales, le montant du
+fermage est, soit majoré, soit augmenté d'une rente en espèces ; la majoration ou la rente est au plus égale à l'intérêt des
+sommes ainsi investies au taux plafond des prêts bancaires aux entreprises sur ressources des comptes pour le développement
+de l'industrie (Codevi).
+
+Lors du renouvellement du bail, évalué en quantité de denrées de terres nues portant des cultures permanentes viticoles,
+arboricoles, oléicoles et agrumicoles et de bâtiments y afférents, les parties, d'un commun accord ou, à défaut, le tribunal
+paritaire, peuvent par une clause expresse du bail convertir cette rente en quantité de denrées.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°83-213 1983-03-16
+
+_Modifié par_:
+
+  - Décret n°95-624 du 6 mai 1995 - art. 5 () JORF 7 mai 1995
 
 
 ###### Article R411-9
@@ -87096,6 +87095,258 @@ _Cité par_:
 _Cite_:
 
   - Code rural - art. L411-76 (V)
+
+
+###### Article R411-9-2
+
+L'indice du résultat brut d'exploitation national à l'hectare d'une catégorie d'exploitations classées selon leur orientation
+technico-économique (Otex) est évalué dans des conditions identiques à celles qui sont prévues à l'article R. 411-9-1, pour
+les seules exploitations classées dans cette catégorie.
+
+La définition des critères de classification et la liste des catégories qui peuvent contribuer à l'indice des fermages sont
+fixées par arrêté du ministre chargé de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R411-9-1
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°95-623 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+_Cité par_:
+
+  - Code rural - art. R411-9-4 (Ab)
+
+
+###### Article R411-9-3
+
+L'indice du résultat brut d'exploitation départemental à l'hectare est évalué dans des conditions identiques à celles qui
+sont prévues à l'article R. 411-9-1, pour les exploitations dont le siège est situé dans le département.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R411-9-1
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°95-623 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+_Cité par_:
+
+  - Décret n°2016-455 du 13 avril 2016 - art. 2 (V)
+  - Décret n°2018-679 du 31 juillet 2018 - art. 2 (V)
+  - Code rural - art. R411-9-4 (Ab)
+
+
+###### Article R411-9-4
+
+Les indices mentionnés au dernier alinéa de l'article R. 411-9-1 et aux articles R. 411-9-2 et R. 411-9-3 sont constatés par
+arrêté du ministre chargé de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°95-623 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+_Abrogé par_:
+
+  - Décret n°2010-1126 du 27 septembre 2010 - art. 1
+
+_Cite_:
+
+  - Code rural - art. R411-9-1 (V)
+  - Code rural - art. R411-9-2 (V)
+  - Code rural - art. R411-9-3 (V)
+
+
+###### Article R411-9-5
+
+La liste des denrées ne pouvant pas entrer dans la composition de l'indice des fermages parce qu'elles font l'objet
+d'indemnités compensatoires prévues par la réglementation communautaire est constatée par arrêté du ministre chargé de
+l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°95-623 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+
+###### Article R411-9-6
+
+Dans chaque département, la composition de l'indice des fermages est fixée par le préfet après avis de la commission
+consultative paritaire départementale des baux ruraux, par sommation pondérée de l'indice mentionné à l'article R. 411-9-1 et
+d'un ou de plusieurs des indices mentionnés à l'article R. 411-9-2, de l'indice mentionné à l'article R. 411-9-3, et des
+indices du prix des denrées ; la pondération utilisée pour l'indice mentionné à l'article R. 411-9-1 est d'au moins 0,25 et
+la somme des pondérations utilisées est égale à 1.
+
+Le même arrêté fixe la période de constatation de chaque indice de prix de denrée.
+
+La composition de l'indice des fermages est publiée au recueil des actes administratifs de la préfecture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R411-9-1, R411-9-2, R411-9-3
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°95-623 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+_Abrogé par_:
+
+  - Décret n°2010-1126 du 27 septembre 2010 - art. 1
+
+_Cité par_:
+
+  - Code de la défense. - art. R2234-30 (V)
+
+
+###### Article R411-9-7
+
+Le constat dans le département du prix des denrées entrant dans la composition de l'indice des fermages est établi par le
+préfet après avis de la commission consultative paritaire départementale des baux ruraux, selon le cours moyen de ces denrées
+dans le département.
+
+L'indice du prix des denrées peut être constaté sur une période d'une à cinq années.
+
+L'indice du prix d'une denrée correspond chaque année à cent fois le rapport du cours constaté pour la période annuelle ou
+pluriannuelle se terminant le 30 juin de l'année en cours, au cours constaté pour la période équivalente se terminant le 30
+juin 1994.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°95-623 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+
+###### Article R411-9-8
+
+L'indice des fermages et sa variation par rapport à l'indice de l'année précédente, constatés chaque année par le préfet
+après consultation de la commission consultative paritaire départementale des baux ruraux, sont publiés au recueil des actes
+administratifs de la préfecture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°95-623 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+_Abrogé par_:
+
+  - Décret n°2010-1126 du 27 septembre 2010 - art. 1
+
+
+###### Article R411-9-9
+
+Le loyer à payer pour une période annuelle du bail est égal au montant en monnaie fixé dans le bail multiplié par le rapport
+entre l'indice des fermages du 1er octobre précédant la fin de cette période annuelle et l'indice des fermages du 1er octobre
+suivant la date d'effet du bail.
+
+Toutefois, lorsque le loyer est payable à terme à échoir et que par accord entre les parties le bail stipule que l'indice de
+référence choisi est celui du 1er octobre qui précède la date d'effet du bail, l'indice d'actualisation retenu chaque année
+est celui du 1er octobre précédant le début de la période annuelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°95-623 du 6 mai 1995 - art. 1 () JORF 7 mai 1995 rectificatif JORF 10 juin 1995
+
+_Cité par_:
+
+  - Code rural - art. R411-9-11 (V)
+
+
+###### Article R411-9-10
+
+Les maxima et minima, déterminés en monnaie par application du 2° de l'article R. 411-1, sont actualisés chaque année au 1er
+octobre selon la variation du dernier indice connu des fermages. Ils sont publiés au recueil des actes administratifs de la
+préfecture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°95-623 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+_Cite_:
+
+  - Code rural - art. R411-1 (V)
+
+_Cité par_:
+
+  - Code rural - art. R411-9-11 (V)
+
+
+###### Article R411-9-11
+
+La date du 1er octobre mentionnée aux articles R. 411-9-9 et R. 411-9-10 peut être remplacée par le préfet par une date
+comprise entre le 1er août et le 30 septembre, en fonction des échéances usuelles des baux dans le département et après avis
+de la commission consultative paritaire départementale des baux ruraux. 
+
+Les dispositions de l'alinéa précédent ne sont pas applicables dans les cas mentionnés au treizième alinéa de l'article L.
+411-11.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Créé par_:
+
+  - Décret n°95-623 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+_Cite_:
+
+  - Code rural - art. L411-11 (V)
+  - Code rural - art. R411-9-10 (V)
+  - Code rural - art. R411-9-9 (V)
 
 
 ##### Section 8 : Droit de renouvellement et droit de reprise.<a id=898></a>
