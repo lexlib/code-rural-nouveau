@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1991-03-01
+Version Consolidée au 1991-04-17
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L263-10)](#2)
@@ -17189,21 +17189,21 @@ regroupement de parcelles, remembrement et, d'une manière générale, dans tout
 complant.
 
 Les tiers intéressés ont toujours le droit de présenter leurs dires et observations devant la commission prévue à l'article
-L. 411-5, devant qu'ils sont convoqués à cet effet et qui statue sur la réparation du préjudice qu'ils ont pu subir.
+L. 441-5, devant qu'ils sont convoqués à cet effet et qui statue sur la réparation du préjudice qu'ils ont pu subir.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural L411-5
-
-_Créé par_:
-
-  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+  - Code rural L441-5
 
 _Codifié par_:
 
   - Loi n°91-363 1991-04-15
+
+_Modifié par_:
+
+  - Loi n°91-363 du 15 avril 1991 - art. 3 () JORF 17 avril 1991
 
 
 ###### Article L441-9
@@ -19673,6 +19673,10 @@ Les dispositions financières concernant les chambres d'agriculture et l'assembl
 prévues par les deux premiers alinéas de l'article 30 de la loi n° 59-1472 du 28 décembre 1959 et, en ce qui concerne les
 mesures fiscales, par l'article 1604 du code général des impôts.
 
+Le montant des taxes que les chambres d'agriculture sont autorisées à percevoir en application de l'article 1604 du code
+général des impôts est, nonobstant toute clause ou disposition contraire, remboursé pour moitié au propriétaire par le
+locataire fermier ou métayer.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -19680,13 +19684,13 @@ _Cite_:
   - CGI 1604
   - Loi n°59-1472 du 28 décembre 1959 - art. 30, v. init.
 
-_Modifié par_:
-
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
-
 _Codifié par_:
 
   - Loi n°91-363 1991-04-15
+
+_Modifié par_:
+
+  - Loi n°91-363 du 15 avril 1991 - art. 3 () JORF 17 avril 1991
 
 _Cité par_:
 
