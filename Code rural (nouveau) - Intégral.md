@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1994-03-09
+Version Consolidée au 1994-06-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -28373,11 +28373,15 @@ débiteur, à peine de nullité, de payer, en tout ou partie, une créance quelc
 désintéresser les cautions qui acquitteraient des créances nées antérieurement, ainsi que de faire un acte de disposition
 étranger à la gestion normale de l'exploitation ou de consentir une hypothèque ou un nantissement.
 
+Les dispositions de l'article 55 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
+judiciaires des entreprises sont applicables.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code rural L351-4
+  - Loi n°85-98 1985-01-25 art. 55
 
 _Anciens textes_:
 
@@ -28387,9 +28391,9 @@ _Codifié par_:
 
   - Loi n°93-934 1993-07-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-934 1993-07-22 annexe JORF 23 juillet 1993
+  - Loi n°94-475 du 10 juin 1994 - art. 10 (V) JORF 11 juin 1994
 
 _Cité par_:
 
