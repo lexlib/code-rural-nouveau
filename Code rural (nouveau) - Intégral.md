@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1993-06-23
+Version Consolidée au 1993-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
