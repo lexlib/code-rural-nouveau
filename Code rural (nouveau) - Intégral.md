@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1995-03-17
+Version Consolidée au 1995-04-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -465,7 +465,7 @@ Version Consolidée au 1995-03-17
             - [Sous-section 2 : Offices de Corse (art. R*112-21 à R112-50)](#462)
               - [Paragraphe 1 : L'office du développement agricole et rural de Corse. (art. R*112-21 à R112-31)](#463)
               - [Paragraphe 2 : L'office d'équipement hydraulique de Corse. (art. R*112-40 à R112-50)](#464)
-          - [Section 4 : Fonds interministériel de développement et d'aménagement rural. (art. R112-51 à R112-55)](#465)
+          - [Section 4 :  Fonds de gestion de l'espace rural. (art. R112-51 à R112-54)](#465)
           - [Section 5 : Disposition particulière aux régions de Guadeloupe, de Guyane, de Martinique et de la Réunion. (art. R112-56)](#466)
         - [Chapitre III : Agriculture de montagne et de certaines zones défavorisées (art. R*113-4 à R113-30)](#467)
           - [Section 2 : Mise en valeur pastorale. (art. R*113-4 à R113-12)](#468)
@@ -44115,119 +44115,170 @@ _Cite_:
   - Code rural - art. R112-42 (V)
 
 
-##### Section 4 : Fonds interministériel de développement et d'aménagement rural.<a id=465></a>
+##### Section 4 :  Fonds de gestion de l'espace rural.<a id=465></a>
 
 ###### Article R112-51
 
-Il est institué un fonds interministériel de développement rural destiné à soutenir le développement, la création et la
-diversification d'activités dans les secteurs ruraux où se posent des problèmes économiques et démographiques d'une
-particulière gravité.
+Le fonds de gestion de l'espace rural, prévu à l'article L. 112-16, est réparti en trois sections :
+
+1° Une section gérée au niveau national et destinée au financement d'actions d'expérimentation, d'innovation et d'évaluation
+en matière de gestion de l'espace rural ;
+
+2° Une section répartie entre les départements d'outre-mer et les collectivités territoriales de Mayotte et de Saint-Pierre-
+et-Miquelon :
+
+a) Pour partie au prorata de la superficie totale de ces départements ou collectivités territoriales, après déduction de la
+superficie des formations forestières guyanaises ;
+
+b) Pour partie au prorata de la superficie agricole utilisée, déduction faite des terres arables, augmentée de la superficie
+en landes et friches de chacun des départements et collectivités concernés ;
+
+c) Pour partie au prorata du nombre d'agriculteurs de chacun des départements et collectivités concernés ;
+
+3° Une section répartie entre les départements métropolitains autres que Paris, les Hauts-de-Seine, la Seine-Saint-Denis et
+le Val-de-Marne selon les modalités suivantes :
+
+a) Pour partie au prorata de la superficie totale de chaque département ;
+
+b) Pour partie au prorata de la superficie pondérée :
+
+- des superficies toujours en herbe ;
+
+- des forêts non essentiellement productives ;
+
+- des sols non productifs, ni altérés ni bâtis ;
+
+- des sols à roche mère affleurante ;
+
+- des zones humides.
+
+Ces superficies sont déterminées par référence aux derniers résultats disponibles de l'enquête sur l'utilisation du
+territoire réalisée par le service central des enquêtes et études statistiques du ministère chargé de l'agriculture.
+
+**Nota:**
+
+Nota - Loi n° 2001-616 du 11 juillet 2001, art. 1 (compétence territoriale), art. 74 (capacité), art. 75.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Décret n°79-533 du 3 juillet 1979 - art. 1, v. init.
+  - Code rural D112-51
+
+_Cite_:
+
+  - Code rural L112-16
 
 _Codifié par_:
 
   - Décret n°92-1290 1992-12-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
+  - Décret n°95-360 du 5 avril 1995 - art. 1 () JORF 6 avril 1995
 
 
 ###### Article R112-52
 
-Il est créé auprès du Premier ministre un comité interministériel chargé de définir, d'animer et de coordonner la politique
-du Gouvernement en matière d'adaptation et d'aménagement des secteurs ruraux en difficulté et de décider notamment
-l'affectation des crédits du fonds interministériel de développement et d'aménagement rural.
+Un décret fixe, pour une période maximale de trois ans :
+
+- la part relative de chacune des trois sections du fonds ;
+
+- pour la deuxième section, les parts affectées au titre des a, b et c du 2° de l'article R. 112-51 ;
+
+- pour la troisième section, les parts affectées au titre des a et b du 3° de l'article R. 112-51 ainsi que les coefficients
+de pondération dont sont affectés les éléments mentionnés au b du 3° du même article.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Décret n°79-533 du 3 juillet 1979 - art. 2, v. init.
+  - Code rural D112-52
+
+_Cite_:
+
+  - Code rural R112-51
 
 _Codifié par_:
 
   - Décret n°92-1290 1992-12-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
+  - Décret n°95-360 du 5 avril 1995 - art. 1 () JORF 6 avril 1995
 
 
 ###### Article R112-53
 
-Le comité interministériel comprend, sous la présidence du Premier ministre et la vice-présidence du ministre de
-l'agriculture, les ministres chargés respectivement de l'économie et des finances, du budget, de l'intérieur, de l'urbanisme
-et du logement, du commerce et de l'artisanat, de l'industrie, du tourisme, de l'environnement, du Plan ainsi que le délégué
-à l'aménagement du territoire et à l'action régionale, auxquels se joignent en tant que de besoin les ministres concernés par
-les mesures examinées.
-
-Le Premier ministre peut déléguer la présidence des réunions du comité au ministre de l'agriculture.
+Le ministre chargé de l'agriculture délègue aux préfets de départements les crédits correspondant aux enveloppes
+départementales.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Décret n°79-533 1979-07-03 art. 3
+  - Code rural D112-53
 
 _Codifié par_:
 
   - Décret n°92-1290 1992-12-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
+  - Décret n°95-360 du 5 avril 1995 - art. 1 () JORF 6 avril 1995
 
 
 ###### Article R112-54
 
-Les affaires soumises au comité interministériel sont préalablement instruites par un comité de gestion présidé par le
-délégué à l'aménagement du territoire et à l'action régionale et comprenant le directeur de l'espace rural et de la forêt, le
-directeur du Trésor, le directeur du budget, le directeur général des collectivités locales, le directeur général de
-l'industrie, le directeur du tourisme, le directeur de l'urbanisme et des paysages, le directeur de l'artisanat, le directeur
-de la protection de la nature et le commissaire au Plan auxquels se joignent en tant que de besoin les représentants des
-ministères concernés par les mesures examinées.
+Dans chaque département, une commission départementale de gestion de l'espace est créée. Elle se réunit au moins une fois par
+an. Elle est consultée sur les orientations générales pour l'utilisation du fonds et sur la répartition des crédits.
+
+Elle est présidée par le préfet ; le président du conseil général en assure la vice-présidence. Ils peuvent se faire
+représenter.
+
+La commission comporte en outre quinze membres désignés par le préfet :
+
+a) Trois représentants de l'Etat :
+
+- le trésorier-payeur général ;
+
+- le directeur départemental de l'agriculture et de la forêt ;
+
+- le directeur régional de l'environnement ;
+
+b) Trois représentants des communes ou des groupements de communes ou du département ;
+
+c) Quatre représentants des organisations professionnelles agricoles et forestières, dont un représentant de la chambre
+d'agriculture ;
+
+d) Trois représentants d'associations de protection de la nature ou d'organismes gestionnaires de milieux naturels, de la
+faune et de la flore ;
+
+e) Deux représentants des autres partenaires économiques, l'un sur proposition de la chambre des métiers, l'autre de la
+chambre de commerce et d'industrie.
+
+Les membres de la commission mentionnés à l'alinéa précédent sont désignés pour trois ans, ainsi que leurs suppléants. Ils
+sont remplacés lorsqu'ils perdent la qualité au titre de laquelle ils ont été désignés ou démissionnent.
+
+Le mandat des nouveaux membres ainsi désignés expire à la même date que celui des autres membres de la commission.
+
+La commission délibère valablement si la moitié au moins de ses membres est présente ou représentée.
+
+Pour l'examen des dossiers qui lui sont soumis, le préfet peut associer aux travaux de la commission à titre d'expert toute
+personne dont les compétences lui paraissent utiles à ces travaux. Des groupes de travail spécialisés peuvent être constitués
+au sein de la commission.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Décret n°79-533 du 3 juillet 1979 - art. 4, v. init.
+  - Code rural D112-54
 
 _Codifié par_:
 
   - Décret n°92-1290 1992-12-11
 
-_Créé par_:
-
-  - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
-
-
-###### Article R112-55
-
-Un secrétaire général, nommé sur proposition du délégué à l'aménagement du territoire et à l'action régionale par le ministre
-de l'agriculture, est chargé de la préparation des travaux du comité de gestion et du comité interministériel.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°79-533 1979-07-03 art. 5
-
-_Codifié par_:
-
-  - Décret n°92-1290 1992-12-11
-
-_Créé par_:
-
-  - Décret n°92-1290 1992-12-11 annexe JORF 12 décembre 1992
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°95-360 du 5 avril 1995 - art. 1 () JORF 6 avril 1995
 
