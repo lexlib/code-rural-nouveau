@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1994-07-27
+Version Consolidée au 1994-08-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -65377,7 +65377,7 @@ _Nouveaux textes_:
 Par dérogation aux dispositions de l'article R. 224-4, les espèces de gibier figurant au tableau ci-après ne peuvent être
 chassées que pendant les périodes comprises entre les dates et aux conditions spécifiques de chasse suivantes :
 
-Date d'ouverture spécifique au plus tôt le ..., date de clôture spécifique au plus tard le ....
+Espèces, date d'ouverture spécifique au plus tôt le ..., date de clôture spécifique au plus tard le ....
 
 Gibier sédentaire :
 
@@ -65396,12 +65396,12 @@ Conditions spécifiques de chasse :
 Avant la date d'ouverture générale, ces espèces ne peuvent être chassées qu'à l'approche ou à l'affût par les détenteurs
 d'une autorisation préfectorale individuelle.
 
-Sanglier, 1er septembre, dernier jour de février.
+Sanglier, 15 août, dernier jour de février.
 
 Conditions spécifiques de chasse :
 
-Hors la période d'ouverture générale, la chasse du sanglier ne peut être pratiquée qu'en battue dans les conditions fixées
-par l'arrêté du préfet.
+Hors la période d'ouverture générale, la chasse du sanglier ne peut être pratiquée qu'en battue, ou à l'affût, ou à
+l'approche, dans les conditions fixées par l'arrêté du préfet.
 
 Grand tétras, troisième dimanche de septembre, 1er novembre.
 
@@ -65447,21 +65447,21 @@ d'eau étant seul autorisé.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code rural R224-4
+
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
+  - Décret n°94-671 du 5 août 1994 - art. 1 () JORF 7 août 1994
 
 _Cité par_:
 
   - Arrêté du 22 avril 2008 - art. 6 (V)
-
-_Cite_:
-
-  - Code rural R224-4
 
 
 ###### Article R*224-6
@@ -65886,29 +65886,23 @@ _Modifié par_:
 
 ###### Article R*225-2
 
-Dans chaque département et pour chacune des espèces de grand gibier soumise à un plan de chasse, à l'exception du sanglier,
-le ministre chargé de la chasse fixe le nombre minimum et le nombre maximum d'animaux à prélever annuellement, répartis le
-cas échéant par sexe ou catégories d'âge.
+Dans chaque département et pour chacune des espèces de grand gibier soumis à un plan de chasse, à l'exception du sanglier, le
+préfet fixe, sur proposition du directeur départemental de l'agriculture et de la forêt, après avis du conseil départemental
+de la chasse et de la faune sauvage et du président de la fédération départementale des chasseurs, le nombre minimum et le
+nombre maximum d'animaux à prélever annuellement répartis, le cas échéant, par sexe ou catégorie d'âge. Toutefois, la
+répartition par catégorie d'âge ne s'applique pas à la chasse à courre, à cor et à cri.
 
-L'arrêté du ministre est pris après avis du préfet. Le préfet formule son avis après avoir consulté le directeur
-départemental de l'agriculture et de la forêt et le président de la fédération des chasseurs.
-
-L'arrêté du ministre doit intervenir avant le 1er avril précédant la campagne cynégétique à compter de laquelle il prend
-effet.
+L'arrêté du préfet doit intervenir avant le 1er mai précédant la campagne cynégétique à compter de laquelle elle prend effet.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°89-505 du 19 juillet 1989 - art. 3 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-671 du 5 août 1994 - art. 2 () JORF 7 août 1994
 
 
 ###### Article R*225-3
@@ -66114,16 +66108,25 @@ _Créé par_:
 ###### Article R*225-10
 
 Pour permettre le contrôle de l'exécution des plans de chasse individuels, chaque animal abattu au titre du plan de chasse
-est muni d'un dispositif de marquage dont le modèle et les conditions d'utilisation sont fixés par un arrêté du ministre
-chargé de la chasse.
+est muni d'un dispositif de marquage.
 
-Les dispositifs de marquage sont délivrés au bénéficiaire de plan de chasse, en nombre égal à celui des têtes de gibier
+Dans les départements ou parties de département où les caractéristiques du territoire et d'organisation de la chasse le
+justifient, pour les espèces qu'il détermine, de manière permanente ou pour une durée déterminée, le ministre chargé de la
+chasse peut, sur proposition du préfet de département formulée après avis du président de la fédération départementale des
+chasseurs et du conseil départemental de la chasse et de la faune sauvage, instaurer, par arrêté, un dispositif de
+prémarquage précédant le marquage définitif. Les modèles et les conditions d'utilisation des dispositifs de prémarquage et de
+marquage sont fixés par arrêté du ministre chargé de la chasse.
+
+Les dispositifs de marquage sont délivrés au bénéficiaire de plan de chasse en nombre égal à celui des têtes de gibier
 accordé :
 
-- par le régisseur de recettes prévu par l'article R. 225-11, lorsqu'il y a lieu à perception de la taxe prévue par l'article
-L. 225-4, lors du paiement de cette taxe ;
+- par le régisseur des recettes prévu par l'article R. 225-11, lorsqu'il y a lieu à perception de la taxe prévue par
+l'article L. 225-4, lors du paiement de cette taxe ;
 
-- par le président de la fédération départementale des chasseurs dans les autres cas.
+- par le président de la fédération départementale des chasseurs, dans les autres cas.
+
+Dans le cas prévu au deuxième alinéa, des dispositifs de prémarquage peuvent être délivrés au bénéficiaire du plan de chasse,
+à sa demande et sur décision du préfet, en nombre supérieur à celui des têtes de gibier accordé.
 
 **Liens relatifs à cet article**
 
@@ -66131,17 +66134,13 @@ _Cite_:
 
   - Code rural R225-11, L225-4
 
-_Anciens textes_:
-
-  - Décret n°89-505 du 19 juillet 1989 - art. 11 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-671 du 5 août 1994 - art. 3 () JORF 7 août 1994
 
 
 ###### Article R*225-11
@@ -66179,6 +66178,11 @@ _Créé par_:
 Chaque animal abattu est, préalablement à tout transport et sur les lieux mêmes de sa capture, muni du dispositif de
 marquage, à la diligence et sous la responsabilité du bénéficiaire du plan de chasse individuel.
 
+Toutefois, dans le cas prévu au deuxième alinéa de l'article R. 225-10, le dispositif de prémarquage est mis en place, à la
+diligence et sous la responsabilité de son détenteur, préalablement à tout transport et sur les lieux mêmes de la capture de
+l'animal. Le marquage définitif intervient le jour même et avant tout partage de l'animal dans les conditions prévues par
+arrêté ministériel.
+
 Dans le cas où le titulaire d'un plan de chasse partage un animal, les morceaux ne peuvent être transportés qu'accompagnés
 chacun d'une attestation établie par le bénéficiaire du plan sous sa responsabilité.
 
@@ -66187,17 +66191,17 @@ jusqu'à l'achèvement de la naturalisation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret n°89-505 du 19 juillet 1989 - art. 12 (Ab)
+  - Code rural R225-10
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-671 du 5 août 1994 - art. 4 () JORF 7 août 1994
 
 
 ###### Article R*225-13
