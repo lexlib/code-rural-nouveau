@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1992-05-14
+Version Consolidée au 1992-07-01
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L263-10)](#2)
@@ -743,46 +743,47 @@ Version Consolidée au 1992-05-14
           - [Section 1 : Dispositions générales. (art. R*814-1 à R*814-4)](#740)
           - [Section 2 : Enseignement supérieur agricole (art. R*814-5 à R*814-27)](#741)
             - [Sous-section 1 : Formation des ingénieurs spécialisés en agriculture. (art. R*814-5)](#742)
-            - [Sous-section 2 : Formation des spécialistes en horticulture et des paysagistes. (art. R*814-6 à R*814-7)](#743)
-            - [Sous-section 3 : Formation des ingénieurs des industries agricoles et alimentaires. (art. R*814-8 à R*814-9)](#744)
-            - [Sous-section 4 : Formation des ingénieurs agronomes à vocation générale (art. R*814-10 à R*814-26)](#745)
-              - [Paragraphe 1 : Dispositions générales. (art. R*814-10 à R*814-19)](#746)
-              - [Paragraphe 2 : Dispositions particulières aux élèves étrangers. (art. R*814-20 à R*814-26)](#747)
-            - [Sous-section 5 : Dispositions relatives à la délivrance des diplômes. (art. R*814-27)](#748)
-          - [Section 3 : Enseignement supérieur vétérinaire (art. R*814-28 à R*814-43)](#749)
-            - [Sous-section 1 : Dispositions générales. (art. R*814-28 à R*814-29)](#750)
-            - [Sous-section 2 : Conditions d'admission des élèves. (art. R*814-30 à R*814-31)](#751)
-            - [Sous-section 3 : Enseignement et recherche. (art. R*814-32 à R*814-36)](#752)
-            - [Sous-section 4 : Administration. (art. R*814-37)](#753)
-            - [Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire. (art. R*814-38 à R*814-43)](#754)
-          - [Section 4 : Enseignement de l'agronomie des régions chaudes (art. R*814-44 à R*814-61)](#755)
-            - [Sous-section 1 : Dispositions générales. (art. R*814-44 à R*814-47)](#756)
-            - [Sous-section 2 : Administration du centre. (art. R*814-48 à R*814-57)](#757)
-            - [Sous-section 3 : Régime financier du centre. (art. R*814-58 à R*814-61)](#758)
-        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#759)
-          - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#760)
-          - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#761)
-        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-3)](#762)
-      - [Titre II : Développement agricole (art. R*821-1 à R825-4)](#763)
-        - [Chapitre Ier : Actions de développement agricole. (art. R*821-1 à R*821-4)](#764)
-        - [Chapitre II : Convention avec l'association nationale pour le développement agricole. (art. R*822-1 à R*822-4)](#765)
-        - [Chapitre III : Fonds national de développement agricole. (art. R*823-1 à R*823-19)](#766)
-        - [Chapitre IV : Programmes départementaux, régionaux et national de développement agricole (art. R824-1 à R824-10)](#767)
-          - [Section 1 : Programmes départementaux. (art. R824-1 à R824-4)](#768)
-          - [Section 2 : Programmes régionaux. (art. R824-5 à R824-8)](#769)
-          - [Section 3 : Programme national. (art. R824-9 à R824-10)](#770)
-        - [Chapitre V : Conventions de développement. (art. R825-1 à R825-4)](#771)
-      - [Titre III : Recherche agronomique (art. R831-1 à R832-19)](#772)
-        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#773)
-          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#774)
-          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#775)
-          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#776)
-        - [Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts (art. R832-1 à R832-19)](#777)
-          - [Section 1 : Dispositions générales (art. R832-1 à R832-3)](#778)
-          - [Section 2 : Administration et direction du centre. (art. R*832-4 à R832-10)](#779)
-          - [Section 3 : Organisation du centre. (art. R832-11 à R832-14)](#780)
-          - [Section 4 : Conseil scientifique et technique et commissions spécialisées (art. R832-15 à R832-16)](#781)
-          - [Section 5 : Dispositions diverses (art. R832-17 à R832-19)](#782)
+            - [Sous-section 2 : Formation des spécialistes en horticulture. (art. R*814-6)](#743)
+            - [Sous-section 3 : Formation des paysagistes DPLG. (art. R*814-7 à R*814-7-3)](#744)
+            - [Sous-section 4 : Formation des ingénieurs des industries agricoles et alimentaires. (art. R*814-8 à R*814-9)](#745)
+            - [Sous-section 5 : Formation des ingénieurs agronomes à vocation générale (art. R*814-10 à R*814-26)](#746)
+              - [Paragraphe 1 : Dispositions générales. (art. R*814-10 à R*814-19)](#747)
+              - [Paragraphe 2 : Dispositions particulières aux élèves étrangers. (art. R*814-20 à R*814-26)](#748)
+            - [Sous-section 6 : Dispositions relatives à la délivrance des diplômes. (art. R*814-27)](#749)
+          - [Section 3 : Enseignement supérieur vétérinaire (art. R*814-28 à R*814-43)](#750)
+            - [Sous-section 1 : Dispositions générales. (art. R*814-28 à R*814-29)](#751)
+            - [Sous-section 2 : Conditions d'admission des élèves. (art. R*814-30 à R*814-31)](#752)
+            - [Sous-section 3 : Enseignement et recherche. (art. R*814-32 à R*814-36)](#753)
+            - [Sous-section 4 : Administration. (art. R*814-37)](#754)
+            - [Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire. (art. R*814-38 à R*814-43)](#755)
+          - [Section 4 : Enseignement de l'agronomie des régions chaudes (art. R*814-44 à R*814-61)](#756)
+            - [Sous-section 1 : Dispositions générales. (art. R*814-44 à R*814-47)](#757)
+            - [Sous-section 2 : Administration du centre. (art. R*814-48 à R*814-57)](#758)
+            - [Sous-section 3 : Régime financier du centre. (art. R*814-58 à R*814-61)](#759)
+        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#760)
+          - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#761)
+          - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#762)
+        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-3)](#763)
+      - [Titre II : Développement agricole (art. R*821-1 à R825-4)](#764)
+        - [Chapitre Ier : Actions de développement agricole. (art. R*821-1 à R*821-4)](#765)
+        - [Chapitre II : Convention avec l'association nationale pour le développement agricole. (art. R*822-1 à R*822-4)](#766)
+        - [Chapitre III : Fonds national de développement agricole. (art. R*823-1 à R*823-19)](#767)
+        - [Chapitre IV : Programmes départementaux, régionaux et national de développement agricole (art. R824-1 à R824-10)](#768)
+          - [Section 1 : Programmes départementaux. (art. R824-1 à R824-4)](#769)
+          - [Section 2 : Programmes régionaux. (art. R824-5 à R824-8)](#770)
+          - [Section 3 : Programme national. (art. R824-9 à R824-10)](#771)
+        - [Chapitre V : Conventions de développement. (art. R825-1 à R825-4)](#772)
+      - [Titre III : Recherche agronomique (art. R831-1 à R832-19)](#773)
+        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#774)
+          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#775)
+          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#776)
+          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#777)
+        - [Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts (art. R832-1 à R832-19)](#778)
+          - [Section 1 : Dispositions générales (art. R832-1 à R832-3)](#779)
+          - [Section 2 : Administration et direction du centre. (art. R*832-4 à R832-10)](#780)
+          - [Section 3 : Organisation du centre. (art. R832-11 à R832-14)](#781)
+          - [Section 4 : Conseil scientifique et technique et commissions spécialisées (art. R832-15 à R832-16)](#782)
+          - [Section 5 : Dispositions diverses (art. R832-17 à R832-19)](#783)
 # Partie législative<a id=1></a>
 
 ## Livre II : Protection de la nature<a id=2></a>
@@ -65706,7 +65707,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Formation des spécialistes en horticulture et des paysagistes.<a id=743></a>
+##### Sous-section 2 : Formation des spécialistes en horticulture.<a id=743></a>
 
 ###### Article R*814-6
 
@@ -65727,28 +65728,76 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
 
+
+##### Sous-section 3 : Formation des paysagistes DPLG.<a id=744></a>
 
 ###### Article R*814-7
 
-La formation de paysagistes est assurée par l'école nationale supérieure du paysage de Versailles qui est un établissement
-public d'enseignement et de recherche.
+La formation conduisant au diplôme de paysagiste DPLG est assurée, sous la tutelle conjointe du ministre chargé de
+l'agriculture et du ministre chargé de l'architecture, par l'Ecole nationale supérieure du paysage, établissement public
+d'enseignement et de recherche, ainsi que par les établissements d'enseignement supérieur agricole et les écoles
+d'architecture habilités à cet effet par un arrêté conjoint de ces ministres.
 
-Les candidats qui justifient du diplôme d'études universitaires générales ou d'un titre reconnu équivalent par le ministre de
-l'agriculture peuvent être admis sur titres et épreuves. La formation comporte trois années d'études suivies d'un stage
-professionnel d'une durée minimale de neuf mois. Elle est sanctionnée par le diplôme de paysagiste DPLG.
+La formation comporte trois années d'enseignement suivies d'un travail personnel de fin d'études d'une durée maximum d'un an.
 
-L'école peut aussi recevoir directement, en troisième année, des candidats titulaire d'un diplôme d'agronomie générale, d'une
-maîtrise ou d'un titre reconnu équivalent par le ministre de l'agriculture.
-
-Le succès, à l'issue de cette troisième année d'études, des titulaires du diplôme d'agronomie générale, est sanctionné par le
-diplôme d'agronomie approfondie et par le diplôme d'ingénieur agronome, délivrés par leur école d'origine. Ces élèves peuvent
-ensuite suivre le stage mentionné à l'alinéa précédent en vue de l'obtention du diplôme de paysagiste DPLG.
+Le contenu et les modalités de cette formation ainsi que les conditions de délivrance du diplôme de paysagiste DPLG sont
+fixés par un arrêté conjoint des ministres chargés de l'agriculture et de l'architecture.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-8
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Modifié par_:
+
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-7-1
+
+L'accès à la première année de la formation conduisant au diplôme de paysagiste DPLG s'effectue par concours ouvert aux
+titulaires d'un diplôme national de l'enseignement supérieur sanctionnant une formation de deux ans et aux candidats ayant
+satisfait aux conditions requises à l'article 11 du décret n° 85-906 du 23 août 1985.
+
+Un cycle d'orientation et de formation de base, d'une durée de deux ans, peut être mis en place par les établissements
+préparant au diplôme de paysagiste DPLG.
+
+Peuvent être admis directement en deuxième année, à l'issue d'un concours, les titulaires d'une maîtrise ou d'un titre ou
+d'un diplôme reconnus équivalents par un arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de
+l'architecture.
+
+Peuvent être admis directement en troisième année, à l'issue d'un concours, les titulaires du diplôme d'agronomie générale ou
+du diplôme d'ingénieur des techniques de l'horticulture et du paysage. Le succès, à l'issue de cette année d'études, des
+titulaires du diplôme d'agronomie générale est sanctionné par le diplôme d'agronomie approfondie et par le diplôme
+d'ingénieur agronome, délivrés par leur école d'origine.
+
+Les concours institués par le présent article sont communs à tous les établissements mentionnés à l'article R. 814-7. Leurs
+programmes et leurs modalités ainsi que le nombre et la répartition des places offertes sont fixés par des arrêtés conjoints
+des ministres chargés de l'agriculture et de l'architecture.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-9
+
+_Cite_:
+
+  - Code rural R814-7
+  - Décret n°85-906 du 23 août 1985 - art. 11 (V)
 
 _Codifié par_:
 
@@ -65756,10 +65805,79 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 2 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 3 : Formation des ingénieurs des industries agricoles et alimentaires.<a id=744></a>
+###### Article R*814-7-2
+
+Les candidats étrangers sont recrutés dans les conditions prévues par l'article 4 du décret n° 85-906 du 23 août 1985.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-10
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Cite_:
+
+  - Décret n°85-906 du 23 août 1985 - art. 4 (V)
+
+_Créé par_:
+
+  - Décret n°92-573 du 25 juin 1992 - art. 2 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+###### Article R*814-7-3
+
+Il est institué une commission consultative de la formation des paysagistes DPLG dont l'objet est de veiller au développement
+coordonné de l'enseignement dispensé dans les établissements mentionnés à l'article R. 814-7-1.
+
+La composition de cette commission, qui comprend notamment des représentants des personnels enseignants et des milieux
+professionnels, est fixée par un arrêté conjoint des ministres chargés de l'agriculture et de l'architecture.
+
+L'avis de la commission est requis préalablement :
+
+a) Aux arrêtés d'habilitation prévus à l'article R. 814-7 ci-dessus ;
+
+b) A la fixation des programmes des concours d'accès aux établissements préparant au diplôme de paysagiste DPLG ainsi qu'à
+celle des modalités d'organisation de ces concours.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural R812-11
+
+_Cite_:
+
+  - Code rural R814-7-1, R814-7
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°92-573 du 25 juin 1992 - art. 2 () JORF 1 juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+
+##### Sous-section 4 : Formation des ingénieurs des industries agricoles et alimentaires.<a id=745></a>
 
 ###### Article R*814-8
 
@@ -65779,13 +65897,21 @@ La sanction de cette formation est le diplôme d'ingénieur des industries agric
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-12
+
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
 ###### Article R*814-9
@@ -65795,18 +65921,26 @@ dans es établissements dépendant, sait du ministre de l'agriculture, soit du m
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-13
+
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
 _Créé par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 4 : Formation des ingénieurs agronomes à vocation générale<a id=745></a>
+##### Sous-section 5 : Formation des ingénieurs agronomes à vocation générale<a id=746></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=746></a>
+##### Paragraphe 1 : Dispositions générales.<a id=747></a>
 
 ###### Article R*814-10
 
@@ -65829,13 +65963,21 @@ L'école nationale supérieure agronomique de Toulouse qui relèvent du ministre
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-14
+
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 _Cité par_:
 
@@ -65855,13 +65997,21 @@ programmes.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-15
+
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 _Cité par_:
 
@@ -65886,13 +66036,21 @@ _Cite_:
 
   - Code rural L811-3, R811-10
 
+_Nouveaux textes_:
+
+  - Code rural R812-16
+
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
 ###### Article R*814-13
@@ -65903,21 +66061,29 @@ R. 814-12. Cette nomination est renouvelable.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
-
-_Cité par_:
-
-  - Code rural - art. R814-12 (V)
+  - Code rural R812-17
 
 _Cite_:
 
   - Code rural R814-12
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Modifié par_:
+
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
+
+_Cité par_:
+
+  - Code rural - art. R814-12 (V)
 
 
 ###### Article R*814-14
@@ -65946,6 +66112,10 @@ commission consultative permanente par arrêté conjoint du ministre des univers
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-18
+
 _Cite_:
 
   - Code rural R814-12
@@ -65954,9 +66124,13 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
 ###### Article R*814-15
@@ -65970,13 +66144,21 @@ des spécialisations de chaque école.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-19
+
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 _Cité par_:
 
@@ -65994,13 +66176,21 @@ ministre de l'agriculture.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-20
+
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 _Cité par_:
 
@@ -66022,13 +66212,21 @@ d'agronomie générale et d'agronomie approfondie.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-21
+
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 _Cité par_:
 
@@ -66046,13 +66244,21 @@ comprennent au moins un professeur d'école nationale supérieure agronomique d�
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-22
+
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 _Cité par_:
 
@@ -66109,6 +66315,14 @@ caractère scientifique et culturel habilités à délivrer un doctorat de trois
 
 **Liens relatifs à cet article**
 
+_Cité par_:
+
+  - Code rural - art. R814-18 (V)
+
+_Nouveaux textes_:
+
+  - Code rural R812-23
+
 _Cite_:
 
   - Code rural R814-18
@@ -66117,16 +66331,16 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
 
-_Cité par_:
+_Abrogé par_:
 
-  - Code rural - art. R814-18 (V)
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Paragraphe 2 : Dispositions particulières aux élèves étrangers.<a id=747></a>
+##### Paragraphe 2 : Dispositions particulières aux élèves étrangers.<a id=748></a>
 
 ###### Article R*814-20
 
@@ -66138,6 +66352,10 @@ recrutement dans les conditions fixées aux articles R. 814-21 à R. 814-26.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-24
+
 _Cite_:
 
   - Code rural R814-21 à R814-26
@@ -66146,9 +66364,13 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 _Cité par_:
 
@@ -66166,6 +66388,10 @@ conditions dans lesquelles les admissions ont été prononcées.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-25
+
 _Cite_:
 
   - Code rural R814-20
@@ -66174,9 +66400,13 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
 ###### Article R*814-22
@@ -66186,13 +66416,21 @@ A défaut des titres français normalement requis pour l'admission, des diplôme
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-26
+
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 _Cité par_:
 
@@ -66207,6 +66445,10 @@ commission consultative permanente.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-27
+
 _Cite_:
 
   - Code rural R814-20
@@ -66215,9 +66457,13 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
 ###### Article R*814-24
@@ -66227,13 +66473,21 @@ par les articles précédents, peuvent obtenir les titres et diplômes délivré
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-28
+
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
 ###### Article R*814-25
@@ -66243,6 +66497,10 @@ en vue de l'obtention d'un diplôme d'agronomie approfondie.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-29
+
 _Cite_:
 
   - Code rural R814-23
@@ -66251,9 +66509,13 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 _Cité par_:
 
@@ -66268,6 +66530,10 @@ permanente.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-30
+
 _Cite_:
 
   - Code rural R814-20 à R814-25
@@ -66276,18 +66542,21 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 5 : Dispositions relatives à la délivrance des diplômes.<a id=748></a>
+##### Sous-section 6 : Dispositions relatives à la délivrance des diplômes.<a id=749></a>
 
 ###### Article R*814-27
 
 Un arrêté du ministre de l'agriculture fixe les conditions de délivrance des diplômes mentionnés aux articles R. 814-5
-(alinéa 2), R. 814-6 (alinéa 1er), R. 814-7 (alinéa 2), R. 814-8 (alinéa 4) et du certificat mentionné à l'article R. 814-5
-(alinéa 3).
+(alinéa 2), R. 814-6 (alinéa 1er), R. 814-8 (alinéa 4) et du certificat mentionné à l'article R. 814-5 (alinéa 3).
 
 Le diplôme d'agronomie générale est délivré dans les conditions fixées en application de l'article R. 814-14 (alinéa 5).
 
@@ -66296,9 +66565,13 @@ de l'article R. 814-17 (alinéa 2).
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-31
+
 _Cite_:
 
-  - Code rural R814-5, R814-6, R814-7, R814-8, R814-14, R814-17
+  - Code rural R814-5, R814-6, R814-8, R814-14, R814-17
 
 _Codifié par_:
 
@@ -66306,12 +66579,17 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+  - Décret n°92-573 du 25 juin 1992 - art. 3 () JORF 1er juillet 1992
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 3 : Enseignement supérieur vétérinaire<a id=749></a>
+##### Section 3 : Enseignement supérieur vétérinaire<a id=750></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=750></a>
+##### Sous-section 1 : Dispositions générales.<a id=751></a>
 
 ###### Article R*814-28
 
@@ -66371,7 +66649,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Conditions d'admission des élèves.<a id=751></a>
+##### Sous-section 2 : Conditions d'admission des élèves.<a id=752></a>
 
 ###### Article R*814-30
 
@@ -66445,7 +66723,7 @@ _Cite_:
   - Code rural R814-30, R814-43
 
 
-##### Sous-section 3 : Enseignement et recherche.<a id=752></a>
+##### Sous-section 3 : Enseignement et recherche.<a id=753></a>
 
 ###### Article R*814-32
 
@@ -66603,7 +66881,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 4 : Administration.<a id=753></a>
+##### Sous-section 4 : Administration.<a id=754></a>
 
 ###### Article R*814-37
 
@@ -66632,7 +66910,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire.<a id=754></a>
+##### Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire.<a id=755></a>
 
 ###### Article R*814-38
 
@@ -66864,9 +67142,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 4 : Enseignement de l'agronomie des régions chaudes<a id=755></a>
+##### Section 4 : Enseignement de l'agronomie des régions chaudes<a id=756></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=756></a>
+##### Sous-section 1 : Dispositions générales.<a id=757></a>
 
 ###### Article R*814-44
 
@@ -67003,7 +67281,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Administration du centre.<a id=757></a>
+##### Sous-section 2 : Administration du centre.<a id=758></a>
 
 ###### Article R*814-48
 
@@ -67383,7 +67661,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 3 : Régime financier du centre.<a id=758></a>
+##### Sous-section 3 : Régime financier du centre.<a id=759></a>
 
 ###### Article R*814-58
 
@@ -67506,9 +67784,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public<a id=759></a>
+#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public<a id=760></a>
 
-##### Section 1 : Dispositions communes.<a id=760></a>
+##### Section 1 : Dispositions communes.<a id=761></a>
 
 ###### Article R*815-1
 
@@ -67586,7 +67864,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Dispositions relatives aux établissements d'enseignement technologique.<a id=761></a>
+##### Section 2 : Dispositions relatives aux établissements d'enseignement technologique.<a id=762></a>
 
 ###### Article R*815-4
 
@@ -67611,7 +67889,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-#### Chapitre VI : Dispositions relatives aux examens et concours publics.<a id=762></a>
+#### Chapitre VI : Dispositions relatives aux examens et concours publics.<a id=763></a>
 
 ###### Article R*816-1
 
@@ -67730,9 +68008,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-### Titre II : Développement agricole<a id=763></a>
+### Titre II : Développement agricole<a id=764></a>
 
-#### Chapitre Ier : Actions de développement agricole.<a id=764></a>
+#### Chapitre Ier : Actions de développement agricole.<a id=765></a>
 
 ###### Article R*821-1
 
@@ -67837,7 +68115,7 @@ _Modifié par_:
   - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
 
 
-#### Chapitre II : Convention avec l'association nationale pour le développement agricole.<a id=765></a>
+#### Chapitre II : Convention avec l'association nationale pour le développement agricole.<a id=766></a>
 
 ###### Article R*822-1
 
@@ -67953,7 +68231,7 @@ _Modifié par_:
   - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
 
 
-#### Chapitre III : Fonds national de développement agricole.<a id=766></a>
+#### Chapitre III : Fonds national de développement agricole.<a id=767></a>
 
 ###### Article R*823-1
 
@@ -68450,9 +68728,9 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-#### Chapitre IV : Programmes départementaux, régionaux et national de développement agricole<a id=767></a>
+#### Chapitre IV : Programmes départementaux, régionaux et national de développement agricole<a id=768></a>
 
-##### Section 1 : Programmes départementaux.<a id=768></a>
+##### Section 1 : Programmes départementaux.<a id=769></a>
 
 ###### Article R824-1
 
@@ -68600,7 +68878,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-##### Section 2 : Programmes régionaux.<a id=769></a>
+##### Section 2 : Programmes régionaux.<a id=770></a>
 
 ###### Article R824-5
 
@@ -68751,7 +69029,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-##### Section 3 : Programme national.<a id=770></a>
+##### Section 3 : Programme national.<a id=771></a>
 
 ###### Article R824-9
 
@@ -68805,7 +69083,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-#### Chapitre V : Conventions de développement.<a id=771></a>
+#### Chapitre V : Conventions de développement.<a id=772></a>
 
 ###### Article R825-1
 
@@ -68927,11 +69205,11 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-### Titre III : Recherche agronomique<a id=772></a>
+### Titre III : Recherche agronomique<a id=773></a>
 
-#### Chapitre Ier : Institut national de la recherche agronomique<a id=773></a>
+#### Chapitre Ier : Institut national de la recherche agronomique<a id=774></a>
 
-##### Section 1 : Dispositions générales.<a id=774></a>
+##### Section 1 : Dispositions générales.<a id=775></a>
 
 ###### Article R831-1
 
@@ -69033,7 +69311,7 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=775></a>
+##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=776></a>
 
 ###### Article R*831-3
 
@@ -69419,7 +69697,7 @@ _Modifié par_:
   - Décret n°90-648 du 13 juillet 1990 - art. 1 () JORF 24 juillet 1990
 
 
-##### Section 3 : Dispositions diverses.<a id=776></a>
+##### Section 3 : Dispositions diverses.<a id=777></a>
 
 ###### Article R*831-14
 
@@ -69464,9 +69742,9 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-#### Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts<a id=777></a>
+#### Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts<a id=778></a>
 
-##### Section 1 : Dispositions générales<a id=778></a>
+##### Section 1 : Dispositions générales<a id=779></a>
 
 ###### Article R832-1
 
@@ -69600,7 +69878,7 @@ _Cité par_:
   - Code rural - art. R832-17 (V)
 
 
-##### Section 2 : Administration et direction du centre.<a id=779></a>
+##### Section 2 : Administration et direction du centre.<a id=780></a>
 
 ###### Article R*832-4
 
@@ -69893,7 +70171,7 @@ _Modifié par_:
   - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
 
 
-##### Section 3 : Organisation du centre.<a id=780></a>
+##### Section 3 : Organisation du centre.<a id=781></a>
 
 ###### Article R832-11
 
@@ -70010,7 +70288,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R832-6 (V)
 
 
-##### Section 4 : Conseil scientifique et technique et commissions spécialisées<a id=781></a>
+##### Section 4 : Conseil scientifique et technique et commissions spécialisées<a id=782></a>
 
 ###### Article R832-15
 
@@ -70093,7 +70371,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R832-6 (V)
 
 
-##### Section 5 : Dispositions diverses<a id=782></a>
+##### Section 5 : Dispositions diverses<a id=783></a>
 
 ###### Article R832-17
 
