@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1995-05-07
+Version Consolidée au 1995-07-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -40620,6 +40620,36 @@ _Cité par_:
   - Décret n°2009-960 du 29 juillet 2009 (V)
   - Code rural - art. L843-2 (V)
   - Code rural et de la pêche maritime - art. R810-1 (V)
+
+
+###### Article L810-2
+
+Les dispositions de l'article 4 de la loi n° 95-836 du 13 juillet 1995 de programmation du "nouveau contrat pour l'école"
+s'appliquent aux formations, établissements et personnels relevant du ministre chargé de l'agriculture, dans le respect des
+principes définis aux chapitres Ier et III du présent titre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-935 1993-07-22
+
+_Cite_:
+
+  - Loi n°95-836 1995-07-13 art. 4
+
+_Créé par_:
+
+  - Loi n°95-836 1995-07-13 art. 5 I JORF 14 juillet 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-549 2000-06-15 art. 7 JORF 22 juin 2000
+
+_Cité par_:
+
+  - Décret n°2015-457 du 21 avril 2015 (V)
+  - Code rural - art. L843-2 (V)
 
 
 #### Chapitre Ier : Dispositions relatives à l'enseignement et à la formation professionnelle agricoles publics<a id=442></a>
