@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1994-07-02
+Version Consolidée au 1994-07-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -67125,7 +67125,7 @@ _Nouveaux textes_:
 
 Sur proposition du directeur départemental de l'agriculture et de la forêt et après avis du président de la fédération
 départementale des chasseurs, le préfet fixe, en fonction de la superficie, du boisement et du relief du département, le
-nombre des lieutenants de louveterie et nomme ces derniers pour une durée de trois ans, renouvelable. Il leur délivre une
+nombre des lieutenants de louveterie et nomme ces derniers pour une durée de six ans, renouvelable. Il leur délivre une
 commission qui détermine le territoire sur lequel ils exercent leurs attributions.
 
 En cas de négligence dans leurs fonctions, abus ou pour toute autre cause grave, la commission peut leur être retirée par
@@ -67143,41 +67143,49 @@ _Cite_:
 
   - Code rural L227-3
 
-_Anciens textes_:
-
-  - Loi n°71-552 du 9 juillet 1971 - art. 2 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-671 du 5 août 1994 - art. 5 () JORF 7 août 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement - art. R*227-2 (Ab)
 
 
 ###### Article R*227-3
 
-Ne pourront être nommées lieutenants de louveterie que des personnes de nationalité française, jouissant de leurs droits
-civiques, justifiant de leur aptitude physique et de leur compétence cynégétique, résidant dans le département ou dans un
-canton limitrophe et détenant un permis de chasser depuis au moins cinq années.
+Ne pourront être nommées lieutenants de louveterie que des personnes de nationalité française âgées de soixante-neuf ans au
+plus, jouissant de leurs droits civiques, justifiant de leur aptitude physique et de leur compétence cynégétique, résidant
+dans le département ou dans un canton limitrophe et détenant un permis de chasser depuis au moins cinq années.
 
 Chaque lieutenant de louveterie devra s'engager par écrit à entretenir, à ses frais, soit un minimum de quatre chiens
 courants réservés exclusivement à la chasse du sanglier ou du renard, soit au moins deux chiens de déterrage.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°71-552 du 9 juillet 1971 - art. 3 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-671 du 5 août 1994 - art. 5 () JORF 7 août 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R227-3
 
 
 ##### Sous-section 3 : Sécurité aérienne.<a id=703></a>
