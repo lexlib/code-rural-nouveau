@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1995-11-17
+Version Consolidée au 1996-01-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -80787,7 +80787,8 @@ Ces ressources comprennent notamment :
 la protection de la nature reçoit, au titre des participations de l'Etat, des crédits spécialement affectés ;
 
 2° Les droits et redevances que l'établissement aura été autorisé à percevoir et celles afférentes à l'utilisation des biens
-meubles ou immeubles lui appartenant ou dont il a la gestion ;
+meubles ou immeubles lui appartenant ou dont il a la gestion ainsi que le produit de la taxe sur les passagers maritimes
+prévue à l'article 285 quater du code des douanes ;
 
 3° Les sommes versées en rémunération de toutes activités auxquelles l'établissement se livre et de tous services rendus par
 lui ;
@@ -80805,17 +80806,25 @@ dont il peut légalement disposer.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°61-1195 du 31 octobre 1961 - art. 23 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-25 du 11 janvier 1996 - art. 6 () JORF 14 janvier 1996
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Cite_:
+
+  - Code des douanes - art. 285 quater (M)
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R241-28
 
 
 ##### Sous-section 3 : Programme d'aménagement du parc.<a id=826></a>
@@ -85185,19 +85194,29 @@ morales ou physiques.
 
 7° Les dons et legs.
 
+8° Le produit de la taxe sur les passagers maritimes prévue à l'article 285 quater du code des douanes.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°75-1136 du 11 décembre 1975 - art. 17 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-25 du 11 janvier 1996 - art. 7 () JORF 14 janvier 1996
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Cite_:
+
+  - Code des douanes - art. 285 quater (M)
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R243-31
 
 
 ###### Article R*243-32
