@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1994-06-11
+Version Consolidée au 1994-07-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -73113,27 +73113,36 @@ _Nouveaux textes_:
 
 ###### Article R*234-37
 
-Les conditions d'adhésion à l'association agréée de pêcheurs professionnels en eau douce sont les suivantes :
+L'adhésion à l'association agréée de pêcheurs professionnels en eau douce est subordonnée à l'engagement par le demandeur :
 
-a) Consacrer au moins la moitié de son temps de travail à la pêche professionnelle aux engins et aux filets en eau douce ou
-en retirer au moins la moitié de ses revenus professionnels ;
+a) De participer à la gestion piscicole et de tenir un carnet de pêche ;
 
-b) Etre affilié au régime de protection sociale des personnes non salariées des professions agricoles en qualité de pêcheur
-professionnel en eau douce.
+b) De consacrer au moins 600 heures par an à la pêche professionnelle en eau douce.
+
+Les compagnons d'un pêcheur professionnel, au sens du 4° du deuxième alinéa de l'article R. 235-9 du présent code, doivent
+adhérer à l'association sous les mêmes conditions.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret n°85-1316 du 11 décembre 1985 - art. 3 (Ab)
+  - Code rural R235-9
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°94-555 du 28 juin 1994 - art. 1 () JORF 5 juillet 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R234-37
 
 
 ###### Article R*234-38
