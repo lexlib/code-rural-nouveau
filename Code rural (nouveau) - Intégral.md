@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1995-01-01
+Version Consolidée au 1995-01-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -30514,31 +30514,59 @@ Le loyer des bâtiments d'habitation est fixé en monnaie entre des maxima et de
 administrative. Ce loyer ainsi que les maxima et les minima sont actualisés, chaque année, selon la variation de l'indice
 national mesurant le coût de la construction publié par l'Institut national de la statistique et des études économiques.
 
-Le loyer des bâtiments d'exploitation et des terres nues est évalué en une quantité déterminée de denrées comprise entre des
-maxima et des minima arrêtés par l'autorité administrative.
+Le loyer des terres nues et des bâtiments d'exploitation est fixé en monnaie entre des maxima et des minima arrêtés par
+l'autorité administrative.
 
-L'autorité administrative détermine les maxima et les minima prévus aux deux alinéas ci-dessus sur proposition de commissions
+Ce loyer ainsi que les maxima et les minima sont actualisés chaque année selon la variation d'un indice des fermages.
+
+Cet indice est composé :
+
+a) Pour un quart au moins, du résultat brut d'exploitation à l'hectare constaté sur le plan national au cours des cinq années
+précédentes ;
+
+b) D'un, ou de la combinaison de plusieurs, des éléments suivants :
+
+- le résultat brut d'exploitation national à l'hectare d'une ou plusieurs catégories d'exploitations classées selon leur
+orientation technico-économique constaté au cours des cinq années précédentes,
+
+- le résultat brut d'exploitation départemental à l'hectare constaté au cours des cinq années précédentes,
+
+- le prix constaté dans le département d'une ou plusieurs denrées ne faisant pas l'objet d'indemnités compensatoires prévues
+par la réglementation communautaire.
+
+Après avis de la commission consultative paritaire départementale des baux ruraux, l'autorité administrative fixe,
+éventuellement par région naturelle agricole, la composition de l'indice des fermages. Elle en constate l'évolution chaque
+année, avant le 1er octobre, selon la même procédure.
+
+La composition de cet indice fait l'objet d'un nouvel examen au plus tard tous les six ans.
+
+A titre transitoire, à compter du 1er octobre 1995 et jusqu'à la première constatation de l'évolution de l'indice des
+fermages, l'actualisation du loyer des bâtiments d'exploitation et des terres nues et des maxima et des minima s'effectue,
+pour moitié, sur la base de la variation du résultat brut d'exploitation à l'hectare constaté sur le plan national au cours
+des cinq années précédentes et, pour moitié, sur la base de la variation du résultat brut d'exploitation à l'hectare constaté
+dans le département au cours des cinq années précédentes.
+
+Les modalités selon lesquelles les éléments de calcul de l'indice des fermages et leur variation sont constatés sont fixées
+par voie réglementaire après avis de la commission consultative paritaire nationale des baux ruraux.
+
+Par dérogation aux dispositions précédentes, le loyer des terres nues portant des cultures permanentes viticoles,
+arboricoles, oléicoles et agrumicoles et des bâtiments d'exploitation y afférents peut être évalué en une quantité de denrées
+comprise entre des maxima et des minima arrêtés par l'autorité administrative. Dans ce cas, les dispositions relatives à
+l'actualisation du loyer des terres nues et des bâtiments d'exploitation prévues au présent article ne s'appliquent pas.
+
+L'autorité administrative détermine les maxima et les minima prévus aux alinéas ci-dessus sur proposition de commissions
 consultatives paritaires départementales et, le cas échéant, régionales et nationale. En cas de carence de ces commissions,
 l'autorité compétente procède elle-même à cette fixation.
 
-Ces maxima et ces minima font l'objet d'un nouvel examen au plus tard tous les neuf ans. S'ils sont modifiés, le prix des
-baux en cours ne peut, sous réserve des dispositions figurant au premier alinéa de l'article L. 411-13, être révisé que lors
-du renouvellement ou, s'il s'agit d'un bail à long terme, en début de chaque nouvelle période de neuf ans. A défaut d'accord
+Ces maxima et ces minima font l'objet d'un nouvel examen au plus tard tous les six ans. S'ils sont modifiés, le prix des baux
+en cours ne peut, sous réserve des dispositions figurant au premier alinéa de l'article L. 411-13, être révisé que lors du
+renouvellement ou, s'il s'agit d'un bail à long terme, en début de chaque nouvelle période de neuf ans. A défaut d'accord
 amiable, le tribunal paritaire des baux ruraux fixe le nouveau prix du bail.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°88-1202 du 30 décembre 1988 - art. 10 () JORF 31 décembre 1988
-
-_Codifié par_:
-
-  - Loi n°91-363 1991-04-15
-
 _Cité par_:
 
-  - Loi n°2008-111 du 8 février 2008 - art. 9 (V)
   - Arrêté du 29 juillet 2009 (V)
   - Code de la construction et de l'habitation. - art. Annexe IV à l'article D321-23 (V)
   - Code de la défense. - art. R2234-30 (V)
@@ -30554,33 +30582,49 @@ _Cité par_:
   - Code rural - art. R414-1 (V)
   - Code rural - art. R414-5 (V)
   - Code rural - art. R417-2 (V)
+  - Loi n°2008-111 du 8 février 2008 - art. 9 (V)
   - Code rural et de la pêche maritime - art. L418-2 (V)
   - Code rural et de la pêche maritime - art. R411-2 (V)
   - Code rural et de la pêche maritime - art. R411-9-1 (V)
   - Code rural et de la pêche maritime - art. R411-9-2 (V)
 
-
-###### Article L411-12
-
-Le prix du bail est réglable soit en nature, soit en espèces, soit partie en nature, partie en espèces. Sauf si le bailleur,
-en accord avec le preneur, a réalisé des investissements dépassant ses obligations légales ou lorsque des investissements
-sont imposés au bailleur par une personne morale de droit public, ou encore lorsque le bailleur a supporté définitivement
-l'indemnité due au preneur sortant en application des articles L. 411-69 à L. 411-77, le fermage ne peut comprendre, en sus
-du prix calculé comme indiqué à l'article L. 411-11, aucune redevance ou service de quelque nature que ce soit.
-
-**Liens relatifs à cet article**
-
 _Cite_:
 
-  - Code rural L411-69 à L411-77, L411-11
-
-_Créé par_:
-
-  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+  - Code rural L411-13
 
 _Codifié par_:
 
   - Loi n°91-363 1991-04-15
+
+_Modifié par_:
+
+  - Loi n°95-2 du 2 janvier 1995 - art. 1 () JORF 3 janvier 1995
+
+
+###### Article L411-12
+
+Le prix du bail est payable en espèces. Toutefois, pour les cultures permanentes viticoles, arboricoles, oléicoles ou
+agrumicoles et par accord entre les parties, le prix du bail est payable en nature ou partie en nature et partie en espèces.
+Sauf si le bailleur, en accord avec le preneur, a réalisé des investissements dépassant ses obligations légales ou lorsque
+des investissements sont imposés au bailleur par une personne morale de droit public, ou encore lorsque le bailleur a
+supporté définitivement l'indemnité due au preneur sortant en application des articles L. 411-69 à L. 411-77, le fermage ne
+peut comprendre, en sus du prix calculé comme indiqué à l'article L. 411-11, aucune redevance ou service de quelque nature
+que ce soit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Modifié par_:
+
+  - Loi n°95-2 du 2 janvier 1995 - art. 2 () JORF 3 janvier 1995
+
+_Cite_:
+
+  - Code rural - art. L411-11 (V)
+  - Code rural - art. L411-69 (V)
 
 _Cité par_:
 
