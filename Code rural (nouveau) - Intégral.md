@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1995-02-05
+Version Consolidée au 1995-03-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -958,10 +958,10 @@ Version Consolidée au 1995-02-05
         - [Chapitre II : Chambres régionales (art. R*512-3 à R512-11)](#955)
           - [Section 1 : Dispositions particulières aux chambres régionales d'agriculture. (art. R*512-3 à R512-8)](#956)
           - [Section 2 : Dispositions financières particulières relatives aux chambres régionales d'agriculture. (art. R512-9 à R512-11)](#957)
-        - [Chapitre III : Assemblée permanente des chambres d'agriculture (art. R*513-2 à R513-28)](#958)
-          - [Section 1 : Organisation et fonctionnement. (art. R*513-2 à R513-11)](#959)
+        - [Chapitre III : Assemblée permanente des chambres d'agriculture (art. R513-1 à R513-29)](#958)
+          - [Section 1 : Organisation et fonctionnement. (art. R513-1 à R513-11)](#959)
           - [Section 2 : Comité permanent général, commissions et sections spécialisées. (art. R513-12 à R513-21)](#960)
-          - [Section 3 : Régime financier. (art. R513-22 à R513-28)](#961)
+          - [Section 3 : Régime financier. (art. R513-22 à R513-29)](#961)
         - [Chapitre IV : Dispositions financières communes (art. R*514-1 à R*514-7)](#962)
       - [Titre II : Sociétés coopératives agricoles (art. R*521-2 à R529-2)](#963)
         - [Chapitre Ier : Dispositions générales, constitution (art. R*521-2 à R521-15)](#964)
@@ -92337,9 +92337,8 @@ _Cité par_:
 
 Les dispositions des articles L. 511-2 (alinéa 1), L. 511-3 (alinéa 1), L. 511-4, L. 511-5, L. 511-10, L. 511-11, R. 511-1,
 R. 511-2, R. 511-5, R. 511-7, R. 511-51 (alinéas 2 et 3), R. 511-52 (excepté le 1° du 1er alinéa), R. 511-54 à R. 511-57, R.
-511-59, R. 511-60, R. 511-61, R. 511-63, R. 511-64, R. 511-66 à R. 511-68, R. 511-69 (alinéas 2 et suivants), R. 511-70, R.
-511-74 à R. 511-83, R. 511-86 à R. 511-89, R. 511-91 à R. 511-96 et R. 511-111 sont applicables aux chambres régionales
-d'agriculture.
+511-59, R. 511-60, R. 511-61, R. 511-63 à R. 511-68, R. 511-69 (alinéas 2 et suivants), R. 511-70, R. 511-74 à R. 511-83, R.
+511-85 à R. 511-89, R. 511-91 à R. 511-96 et R. 511-111 sont applicables aux chambres régionales d'agriculture.
 
 Toutefois, pour l'application de ces dispositions aux chambres régionales d'agriculture, le commissaire de la République est
 le commissaire de la République de région.
@@ -92374,7 +92373,7 @@ la chambre d'agriculture.
 
 _Cite_:
 
-  - Code rural L511-2, L511-3, L511-4, L511-5, L511-10, L511-11, R511-1, R511-2, R511-5, R511-7, R511-51, R511-52, R511-54 à R511-57, R511-59, R511-60, R511-61, R511-63, R511-64, R511-66 à R511-68, R511-69, R511-70, R511-74 à R511-83, R511-86 à R511-89,
+  - Code rural L511-2, L511-3, L511-4, L511-5, L511-10, L511-11, R511-1, R511-2, R511-5, R511-7, R511-51, R511-52, R511-54 à R511-57, R511-59, R511-60, R511-61, R511-63 à R511-68, R511-69, R511-70, R511-74 à R511-83, R511-85 à R511-89, R511-91 à R511-96,
 
 _Codifié par_:
 
@@ -92382,34 +92381,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°95-274 du 9 mars 1995 - art. 1 () JORF 11 mars 1995
 
 _Nouveaux textes_:
 
   - Code rural et de la pêche maritime - art. D512-5 (M)
-
-
-###### Article R*512-7
-
-Le commissaire de la République de la région et le président du conseil régional où la chambre d'agriculture a son siège
-peuvent assister aux séances de la chambre. Ils sont entendus chaque fois qu'ils le demandent. Ils peuvent se faire assister
-ou représenter. L'ingénieur du génie rural des eaux et des forêts et l'ingénieur d'agronomie chargés de ladite région
-assistent à titre consultatif aux séances des chambres régionales. Ils peuvent se faire suppléer et se faire accompagner par
-tout fonctionnaire qualifié.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
-
-_Nouveaux textes_:
-
-  - Code rural et de la pêche maritime - art. D512-7 (M)
 
 
 ###### Article R512-1
@@ -92463,6 +92439,28 @@ _Modifié par_:
 _Nouveaux textes_:
 
   - Code rural et de la pêche maritime - art. D512-2 (MMN)
+
+
+###### Article R512-7
+
+Le commissaire de la République de la région et le président du conseil régional où la chambre d'agriculture a son siège
+peuvent assister aux séances de la chambre. Ils sont entendus chaque fois qu'ils le demandent. Ils peuvent se faire assister
+ou représenter. Le directeur régional de l'agriculture et de la forêt, chargé de ladite région, assiste à titre consultatif
+aux séances de la chambre régionale. Il peut se faire suppléer par un fonctionnaire qualifié.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°95-274 du 9 mars 1995 - art. 2 () JORF 11 mars 1995
+
+_Nouveaux textes_:
+
+  - Code rural et de la pêche maritime - art. D512-7 (M)
 
 
 ###### Article R512-8
@@ -92604,31 +92602,6 @@ _Nouveaux textes_:
 
 ##### Section 1 : Organisation et fonctionnement.<a id=959></a>
 
-###### Article R*513-2
-
-Les sessions de l'assemblée permanente des chambres d'agriculture peuvent être ouvertes dans les huit premiers jours des mois
-de juin et de décembre.
-
-Les procès-verbaux des séances de l'assemblée permanente des chambres d'agriculture sont transmis directement dans le mois au
-ministre de l'agriculture. Celui-ci fait prononcer par décret, dans les deux mois de cette transmission, l'annulation de tout
-acte ou délibération étranger aux attributions légales de l'assemblée permanente des chambres d'agriculture ou contraire aux
-lois et à l'ordre public.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. D513-17 (V)
-
-
 ###### Article R513-1
 
 Pour l'exécution des missions définies à l'article L. 513-1, les articles L. 511-5, R. 511-2, R. 511-5 et R. 511-51, alinéa
@@ -92654,6 +92627,31 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D513-22 (V)
 
 
+###### Article R513-2
+
+Les sessions ordinaires de l'assemblée permanente des chambres d'agriculture peuvent être ouvertes dans les quinze premiers
+jours des mois de juin et de décembre.
+
+Les procès-verbaux des séances de l'assemblée permanente des chambres d'agriculture sont transmis directement dans le mois au
+ministre de l'agriculture. Celui-ci fait prononcer par décret, dans les deux mois de cette transmission, l'annulation de tout
+acte ou délibération étranger aux attributions légales de l'assemblée permanente des chambres d'agriculture ou contraire aux
+lois et à l'ordre public.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°95-274 du 9 mars 1995 - art. 3 () JORF 11 mars 1995
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. D513-17 (V)
+
+
 ###### Article R513-3
 
 L'assemblée permanente des chambres d'agriculture établit son règlement intérieur.
@@ -92674,9 +92672,6 @@ _Modifié par_:
 Le siège de l'assemblée permanente des chambres d'agriculture est fixé à Paris ; il peut être transféré dans une autre ville
 par décret rendu en conseil des ministres sur proposition du ministre de l'agriculture.
 
-L'assemblée permanente des chambres d'agriculture tient ses sessions ordinaires et extraordinaires dans un local qui est mis
-à sa disposition par le ministre de l'agriculture.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -92685,7 +92680,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°95-274 du 9 mars 1995 - art. 4 () JORF 11 mars 1995
+
+_Abrogé par_:
+
+  - Décret n°2007-345 du 14 mars 2007 - art. 4 () JORF 16 mars 2007
 
 
 ###### Article R513-5
@@ -92693,11 +92692,11 @@ _Modifié par_:
 L'assemblée est convoquée en session ordinaire par le président, après décision du ministre de l'agriculture intervenue sur
 proposition du comité permanent général prévu à l'article R. 513-12.
 
-A l'ouverture de sa première session ordinaire suivant le renouvellement général ou partiel des chambres départementales
-d'agriculture, l'assemblée permanente, réunie sous la présidence du doyen d'âge, le plus jeune membre faisant fonction de
-secrétaire, nomme au scrutin secret son président ainsi que les membres du comité permanent général lesquels demeurent en
-fonctions jusqu'à la première session ordinaire suivant de nouvelles élections générales ou partielles des chambres
-départementales d'agriculture.
+A l'ouverture de la première session qui suit le renouvellement général des chambres départementales et régionales
+d'agriculture, l'assemblée permanente, réunie sous la présidence de son doyen d'âge, le plus jeune membre faisant fonction de
+secrétaire, élit, au scrutin secret, son président ainsi que les membres du comité permanent général, lesquels, sous réserve
+des dispositions prévues au premier alinéa de l'article R. 513-16, demeurent en fonctions jusqu'à la première session suivant
+de nouvelles élections générales des chambres départementales et régionales d'agriculture.
 
 L'article R. 511-55, relatif aux chambres d'agriculture, est applicable à ces élections.
 
@@ -92709,7 +92708,7 @@ l'agriculture.
 
 _Cite_:
 
-  - Code rural R513-12, R511-55
+  - Code rural R513-12, R513-16, R511-55
 
 _Codifié par_:
 
@@ -92717,7 +92716,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°95-274 du 9 mars 1995 - art. 5 () JORF 11 mars 1995
 
 
 ###### Article R513-6
@@ -92772,7 +92771,8 @@ _Modifié par_:
 ###### Article R513-8
 
 Les délibérations sont prises à la majorité absolue des votants. En cas de partage, la voix du président est prépondérante,
-excepté dans les scrutins secrets.
+sauf dans les scrutins secrets. Lorsqu'un président de chambre départementale est également président de chambre régionale,
+il dispose d'une voix au titre de chacune de ces qualités.
 
 Le vote a lieu au scrutin public sur la demande du quart des membres présents ; les noms des votants, avec l'indication de
 leur vote, sont alors insérés au procès-verbal.
@@ -92792,7 +92792,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°95-274 du 9 mars 1995 - art. 6 () JORF 11 mars 1995
 
 
 ###### Article R513-9
@@ -92804,7 +92804,14 @@ Il engage, liquide et ordonnance les dépenses dans la limite des crédits dispo
 Il nomme le personnel qui est placé sous l'autorité d'un directeur des services. Le directeur des services assiste, à titre
 consultatif, aux séances des divers organes de l'assemblée permanente et à celles de l'assemblée elle-même.
 
+Les dispositions du troisième alinéa de l'article R. 511-64 sont applicables à l'assemblée permanente des chambres
+d'agriculture.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R511-64
 
 _Codifié par_:
 
@@ -92812,7 +92819,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°95-274 du 9 mars 1995 - art. 7 () JORF 11 mars 1995
 
 
 ###### Article R513-10
@@ -92971,13 +92978,12 @@ _Modifié par_:
 
 ###### Article R513-16
 
-Le comité permanent général prévu à l'article R. 513-12 est composé, outre le président de l'assemblée permanente des
-chambres d'agriculture élu dans les conditions prévues à l'article R. 513-5, de trente et un membres élus en son sein par
-l'assemblée permanente des chambres d'agriculture à raison d'un par région de deux à quatre départements, de deux par région
-de cinq à sept départements, et de trois par région de huit départements, la région Ile-de-France étant représentée par un
-membre. Leur élection s'effectue conformément aux dispositions de l'article R. 513-5. Il est pourvu, à la plus prochaine
-session de l'assemblée permanente des chambres d'agriculture, au remplacement des membres qui perdraient leur qualité de
-président de chambre départementale d'agriculture.
+Le comité permanent général prévu à l'article R. 513-12 est composé, outre du président de l'assemblée permanente des
+chambres d'agriculture, de trente-deux membres élus par l'assemblée permanente dans les conditions prévues à l'article R.
+513-5, à raison d'un par région de deux à quatre départements, de deux par région de cinq à sept départements, et de trois
+par région de huit départements, la région Ile-de-France étant représentée par un membre et la région Bretagne par deux. Il
+est pourvu, à la prochaine session de l'assemblée permanente, au remplacement des membres, y compris le président de
+l'assemblée permanente des chambres d'agriculture, qui perdraient leur qualité de président de chambre d'agriculture.
 
 En cas d'empêchement, les membres titulaires du comité permanent général sont remplacés par des suppléants élus en même temps
 qu'eux et dans les mêmes conditions. Les membres suppléants ne sont habilités à siéger que dans le cas où les membres
@@ -92987,15 +92993,15 @@ Le président de l'assemblée permanente des chambres d'agriculture peut délég
 pour assurer la représentation du comité consultatif des chambres d'agriculture des départements d'outre-mer au comité
 permanent général.
 
-Les membres du comité permanent général sont élus pour trois ans et toujours rééligibles. Ils exercent leurs fonctions à
-titre gratuit ; toutefois leurs frais de déplacement et de séjour leur sont remboursés par l'assemblée permanente des
-chambres d'agriculture.
+Les membres du comité permanent général sont élus pour la même durée que celle des membres des chambres d'agriculture. Ils
+exercent leur fonction à titre gratuit ; toutefois, leurs frais de déplacement et de séjour leur sont remboursés par
+l'assemblée permanente des chambres d'agriculture dans les conditions prévues à l'article R. 511-85.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R513-5, R513-12
+  - Code rural R513-12, R513-5, R511-85
 
 _Codifié par_:
 
@@ -93003,7 +93009,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°95-274 du 9 mars 1995 - art. 8 () JORF 11 mars 1995
 
 
 ###### Article R513-17
@@ -93300,6 +93306,26 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R513-29
+
+Les dispositions de l'article R. 511-85 sont applicables à l'ensemble des membres de l'assemblée permanente des chambres
+d'agriculture. Les dépenses concernées sont à la charge de l'assemblée permanente des chambres d'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R511-85
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°95-274 du 9 mars 1995 - art. 9 () JORF 11 mars 1995
 
 
 #### Chapitre IV : Dispositions financières communes<a id=962></a>
