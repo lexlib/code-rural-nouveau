@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1993-07-01
+Version Consolidée au 1993-07-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -56113,21 +56113,13 @@ _Créé par_:
 Le montant maximum des redevances cynégétiques mentionnées aux articles R. 223-23, R. 223-24 et R. 223-26 est fixé ainsi
 qu'il suit :
 
-1° Redevance cynégétique nationale : 800 F ;
+1° Redevance cynégétique nationale : 1 050 F.
 
-2° Redevance cynégétique départementale : 165 F ;
+2° Redevance cynégétique départementale : 215 F.
 
-3° Redevance cynégétique "gibier d'eau" : 65 F.
+3° Redevance cynégétique "gibier d'eau" : 85 F.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Modifié par_:
-
-  - Décret n°90-528 du 29 juin 1990 - art. 1 () JORF 30 juin 1990
 
 _Cité par_:
 
@@ -56137,6 +56129,14 @@ _Cité par_:
 _Cite_:
 
   - Code rural R223-23, R223-24, R223-26
+
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Modifié par_:
+
+  - Décret n°93-887 du 7 juillet 1993 - art. 1 () JORF 8 juillet 1993
 
 
 ###### Article R*223-35
