@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1994-08-07
+Version Consolidée au 1994-08-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -36880,19 +36880,15 @@ _Cité par_:
 
 ###### Article L511-2
 
-Les chambres d'agriculture sont des établissements publics ; elles peuvent, en cette qualité, acquérir, recevoir, posséder,
-emprunter, aliéner, ester en justice.
+Les chambres d'agriculture sont des établissements publics économiques ; elles peuvent, en cette qualité, acquérir, recevoir,
+posséder, emprunter, aliéner, ester en justice.
 
 Ainsi qu'il est dit à l'article 1er de la loi n° 56-1119 du 19 novembre 1956, l'usage d'une appellation comportant l'emploi
-des mots : "chambre d'agriculture" est réservé aux seuls établissements publics constitués dans les conditions prévues par
-les lois en vigueur, sous réserve des seules dérogations accordées à titre précaire par l'article 2 de cette loi. Les
-infractions sont passibles des peines prévues à l'article 4 de la même loi.
+des mots : "chambre d'agriculture" est réservé aux seuls établissements publics économiques constitués dans les conditions
+prévues par les lois en vigueur, sous réserve des seules dérogations accordées à titre précaire par l'article 2 de cette loi.
+Les infractions sont passibles des peines prévues à l'article 4 de la même loi.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cite_:
 
@@ -36901,6 +36897,14 @@ _Cite_:
 _Codifié par_:
 
   - Loi n°91-363 1991-04-15
+
+_Modifié par_:
+
+  - Loi n°94-679 du 8 août 1994 - art. 84 (V) JORF 10 août 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-1207 du 2 octobre 2006 - art. 3 () JORF 3 octobre 2006
 
 
 ###### Article L511-3
