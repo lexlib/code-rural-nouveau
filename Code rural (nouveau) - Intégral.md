@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1992-01-16
+Version Consolidée au 1992-02-08
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L263-10)](#2)
@@ -238,8 +238,8 @@ Version Consolidée au 1992-01-16
           - [Section 3 : Elections. (art. L511-8 à L511-9)](#235)
           - [Section 4 : Fonctionnement. (art. L511-10 à L511-11)](#236)
           - [Section 5 : Régime financier. (art. L511-12)](#237)
-        - [Chapitre III : Assemblée permanente des chambres d'agriculture (art. L513-1 à L513-3)](#238)
-          - [Section 1 : Organisation et fonctionnement. (art. L513-1 à L513-3)](#239)
+        - [Chapitre III : Assemblée permanente des chambres d'agriculture (art. L513-1 à L513-4)](#238)
+          - [Section 1 : Organisation et fonctionnement. (art. L513-1 à L513-4)](#239)
         - [Chapitre IV : Dispositions financières communes. (art. L514-1)](#240)
         - [Chapitre V : Dispositions relatives au statut des salariés membres des chambres d'agriculture. (art. L515-1 à L515-5)](#241)
       - [Titre II : Sociétés coopératives agricoles (art. L521-1 à L529-6)](#242)
@@ -19747,6 +19747,33 @@ _Codifié par_:
 _Cité par_:
 
   - Code rural et de la pêche maritime - art. D511-65 (V)
+
+
+###### Article L513-4
+
+Le membre du bureau de l'assemblée qui démisssionne de ses fonctions de président de chambre d'agericulture peut rester
+membre de l'assemblée permanente jusqu'à la première session suivant de nouvelles élections à ladite chambre d'agriculture et
+qui se dérouleraient soit dans le cadre des dispositions prévues à l'article R. 511-52 du code rural, soit dans celui du
+renouvellement général au chambre d'agriculture. Il conserve à l'assemblée permanente tous les pouvoirs qui lui revenaient en
+qualité de président, notamment en session plénière, ainsi que ses fonctions en tant que membre du bureau de l'assemblée.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R511-52
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Créé par_:
+
+  - Loi n°92-125 du 6 février 1992 - art. 80 () JORF 8 février 1992
+
+_Abrogé par_:
+
+  - Loi n°95-95 du 1 février 1995 - art. 77 (V) JORF 2 février 1995
 
 
 #### Chapitre IV : Dispositions financières communes.<a id=240></a>
