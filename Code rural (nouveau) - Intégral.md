@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1987-12-30
+Version Consolidée au 1988-03-03
 ## Contenu: 
   - [Partie législative (art. L411-1 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-1 à L481-1)](#2)
@@ -7297,28 +7297,28 @@ _Cite_:
 
 ###### Article R*411-2
 
-L'arrêté du commissaire de la République du département est pris, dans les conditions fixées ci-dessous, après consultation
-des commissions consultatives paritaires des baux ruraux, prévues aux articles L. 411-11 et R. 414-1 à R. 414-6.
+L'arrêté du préfet  du département est pris, dans les conditions fixées ci-dessous, après consultation des commissions
+consultatives paritaires des baux ruraux, prévues aux articles L. 411-11 et R. 414-1 à R. 414-6.
 
 Le commissaire de République du département demande à la commission consultative paritaire départementale des baux ruraux de
 lui adresser des propositions motivées établies sur la base des dispositions de l'article précédent.
 
 La commission doit présenter des propositions dans les deux mois de la réception de la demande.
 
-En cas de carence de la commission, ou si celle-ci, invitée à délibérer à nouveau, maintient des propositions que le
-commissaire de la République estime ne pas pouvoir retenir, celui-ci consulte la commission consultative paritaire régionale
-des baux ruraux par l'intermédiaire du commissaire de la République de la région.
+En cas de carence de la commission, ou si celle-ci, invitée à délibérer à nouveau, maintient des propositions que le préfet
+estime ne pas pouvoir retenir, celui-ci consulte la commission consultative paritaire régionale des baux ruraux par
+l'intermédiaire du préfet  de la région.
 
-Dans le mois de la réception de la demande de consultation, la commission régionale doit faire des propositions au
-commissaire de la République de la région qui les transmet au commissaire de la République du département.
+Dans le mois de la réception de la demande de consultation, la commission régionale doit faire des propositions au préfet  de
+la région qui les transmet au préfet  du département.
 
-En cas de carence de la commission régionale ou s'il estime ne pouvoir retenir les propositions faims, le commissaire de la
-République du département demande au ministre de l'agriculture de consulter la commission consultative paritaire nationale
-des baux ruraux. Celle-ci doit faire des propositions dans un délai de deux mois à compter de la date de la réception de la
-demande de consultation.
+En cas de carence de la commission régionale ou s'il estime ne pouvoir retenir les propositions faims, le préfet  du
+département demande au ministre de l'agriculture de consulter la commission consultative paritaire nationale des baux ruraux.
+Celle-ci doit faire des propositions dans un délai de deux mois à compter de la date de la réception de la demande de
+consultation.
 
-En cas de carence, le commissaire de la République du département fixe, dans le mois suivant l'expiration de ce délai, les
-denrées et les quantités maxima et minima à retenir.
+En cas de carence, le préfet  du département fixe, dans le mois suivant l'expiration de ce délai, les denrées et les
+quantités maxima et minima à retenir.
 
 **Liens relatifs à cet article**
 
@@ -7326,9 +7326,9 @@ _Cite_:
 
   - Code rural L411-11, R414-1 à R414-6
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°83-213 1983-03-16
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 
 ###### Article R*411-3
@@ -7370,9 +7370,8 @@ _Abrogé par_:
 
 Sauf convention contraire entre les parties et sous réserve des dispositions particulières édictées pour le lait et le blé
 par les articles R. 411-6 et R. 411-7 le montant en espèces du fermage est calculé selon le cours moyen, d'échéance à
-échéance, des denrées servant au calcul du prix du fermage. Le cours moyen est arrêté par le commissaire de la République du
-département sur avis de la commission consultative paritaire départementale. Il est publié au recueil des actes
-administratifs du département.
+échéance, des denrées servant au calcul du prix du fermage. Le cours moyen est arrêté par le préfet  du département sur avis
+de la commission consultative paritaire départementale. Il est publié au recueil des actes administratifs du département.
 
 **Liens relatifs à cet article**
 
@@ -7380,9 +7379,9 @@ _Cite_:
 
   - Code rural R411-6, R411-7
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°83-213 1983-03-16
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 
 ###### Article R*411-6
@@ -7600,18 +7599,19 @@ _Cité par_:
 
 ###### Article R411-14
 
-Les décisions administratives prévues aux articles L. 411-71 et L. 411-73 sont prises par arrêté du commissaire de la
-République du département après avis de la commission consultative départementale des baux ruraux.
+Les décisions administratives prévues aux articles L. 411-71 et L. 411-73 sont prises par arrêté du préfet du département
+après avis de la commission consultative départementale des baux ruraux.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
+
 _Cite_:
 
-  - Code rural L411-71, L411-73
-
-_Codifié par_:
-
-  - Décret n°83-213 1983-03-16
+  - Code rural - art. L411-71 (V)
+  - Code rural - art. L411-73 (V)
 
 
 ###### Article R411-15
@@ -7670,17 +7670,17 @@ _Cite_:
 
 ###### Article R411-19
 
-Pour chaque département, et éventuellement pour chaque région naturelle agricole, le commissaire de la République du
-département, après avis de la commission consultative des baux ruraux, arrête les tables d'amortissement dans les limites
-fixées à l'article R. 411-18 et, compte tenu notamment de la nature des matériaux employés, de la catégorie des travaux et de
-leur objet, constructions nouvelles ou aménagement des constructions existantes ainsi que, le cas échéant, des dimensions des
-bâtiments, de leur destination et des facilités d'utilisation différente qu'ils présentent.
+Pour chaque département, et éventuellement pour chaque région naturelle agricole, le préfet  du département, après avis de la
+commission consultative des baux ruraux, arrête les tables d'amortissement dans les limites fixées à l'article R. 411-18 et,
+compte tenu notamment de la nature des matériaux employés, de la catégorie des travaux et de leur objet, constructions
+nouvelles ou aménagement des constructions existantes ainsi que, le cas échéant, des dimensions des bâtiments, de leur
+destination et des facilités d'utilisation différente qu'ils présentent.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°83-213 1983-03-16
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 _Cite_:
 
@@ -7689,36 +7689,30 @@ _Cite_:
 
 ###### Article R411-20
 
-Le comité technique départemental prévu au 3 du I de l'article L. 411-73 est placé sous la présidence du commissaire de la
-République ou de son représentant. Il comprend, en outre, cinq représentants de la profession agricole ou leurs suppléants
-désignés par le commissaire de la République sur proposition des représentants élus de la commission consultative paritaire
-départementale des baux ruraux. Ces membres et suppléants ne peuvent être assesseurs, titulaires ou suppléants d'un tribunal
-paritaire des baux ruraux.
+Le comité technique départemental prévu au 3 du I de l'article L. 411-73 est placé sous la présidence du préfet ou de son
+représentant. Il comprend, en outre, cinq représentants de la profession agricole ou leurs suppléants désignés par le préfet
+sur proposition des représentants élus de la commission consultative paritaire départementale des baux ruraux. Ces membres et
+suppléants ne peuvent être assesseurs, titulaires ou suppléants d'un tribunal paritaire des baux ruraux. 
 
-La durée du mandat des membres et de leurs suppléants est de cinq ans.
+La durée du mandat des membres et de leurs suppléants est de cinq ans. 
 
-Assistent de droit aux séances du comité avec voix consultative :
+Assistent de droit aux séances du comité avec voix consultative : 
 
-1° Le président de la caisse régionale de crédit agricole ou son représentant ;
+1° Le président de la caisse régionale de crédit agricole ou son représentant ; 
 
-2° Deux personnalités qualifiées désignées par le commissaire de la République sur proposition de la chambre départementale
-d'agriculture ;
+2° Deux personnalités qualifiées désignées par le préfet sur proposition de la chambre départementale d'agriculture ; 
 
-3° Trois fonctionnaires désignés par le commissaire de la République ou leurs représentants.
+3° Trois fonctionnaires désignés par le préfet ou leurs représentants.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
+
 _Cite_:
 
-  - Code rural L411-73
-
-_Codifié par_:
-
-  - Décret n°83-213 1983-03-16
-
-_Créé par_:
-
-  - Décret n°86-881 1986-07-28 art. 1 JORF 30 juillet 1986
+  - Code rural - art. L411-73 (V)
 
 
 ###### Article R411-21
@@ -7745,49 +7739,42 @@ _Créé par_:
 ###### Article R411-22
 
 Dans le cas prévu au 3 du I de l'article L. 411-73, le preneur notifie sa proposition de travaux d'amélioration au bailleur
-ainsi qu'au comité technique départemental du siège de l'exploitation.
+ainsi qu'au comité technique départemental du siège de l'exploitation. 
 
 En cas de refus du bailleur d'exécuter les travaux ou s'il ne répond pas dans les deux mois qui suivent la notification de la
 proposition du preneur, celui-ci saisit le comité par lettre recommandée avec demande d'avis de réception postal adressée au
-commissaire de la République.
+préfet. 
 
 A l'appui de sa saisine, le preneur doit fournir le descriptif et le devis des travaux envisagés, ainsi que toutes les
 informations utiles au comité pour l'application des dispositions de l'article R. 411-25, à moins qu'il n'ait déjà transmis
-ces pièces au comité.
+ces pièces au comité. 
 
-Le commissaire de la République enregistre la saisine du preneur et en informe le bailleur par lettre recommandée avec
-demande d'avis de réception postal.
+Le préfet enregistre la saisine du preneur et en informe le bailleur par lettre recommandée avec demande d'avis de réception
+postal.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
+
 _Cite_:
 
+  - Code rural - art. L411-73 (V)
+  - Code rural - art. R411-25 (V)
   - Code rural L411-73, R411-25
-
-_Codifié par_:
-
-  - Décret n°83-213 1983-03-16
-
-_Créé par_:
-
-  - Décret n°86-881 1986-07-28 art. 1 JORF 30 juillet 1986
 
 
 ###### Article R411-23
 
-Le commissaire de la République avertit les parties de la date d'examen du projet de travaux. Sur leur demande écrite
-préalable, le comité technique départemental doit les entendre, éventuellement assistées ou représentées par une personne de
-leur choix.
+Le préfet avertit les parties de la date d'examen du projet de travaux. Sur leur demande écrite préalable, le comité
+technique départemental doit les entendre, éventuellement assistées ou représentées par une personne de leur choix.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°83-213 1983-03-16
-
-_Créé par_:
-
-  - Décret n°86-881 1986-07-28 art. 1 JORF 30 juillet 1986
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 
 ###### Article R411-24
@@ -7837,22 +7824,18 @@ _Cité par_:
 Le comité technique départemental dispose d'un délai de deux mois pour rendre son avis à compter de la saisine ou de la
 réception des pièces qu'il a demandées lorsqu'il a estimé le dossier incomplet.
 
-L'avis ainsi émis est notifié au preneur et au bailleur par le commissaire de la République dans un délai de quinze jours à
-compter de son adoption par lettre recommandée avec demande d'avis de réception postal.
+L'avis ainsi émis est notifié au preneur et au bailleur par le préfet  dans un délai de quinze jours à compter de son
+adoption par lettre recommandée avec demande d'avis de réception postal.
 
 Le comité technique peut proposer des modifications au projet présenté, à sa localisation et à son assiette. Dans ce cas, son
-avis est considéré comme favorable si le preneur notifie son accord sur les modifications proposées au commissaire de la
-République et au bailleur dans un délai d'un mois après la notification de cet avis.
+avis est considéré comme favorable si le preneur notifie son accord sur les modifications proposées au préfet  et au bailleur
+dans un délai d'un mois après la notification de cet avis.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°83-213 1983-03-16
-
-_Créé par_:
-
-  - Décret n°86-881 1986-07-28 art. 1 JORF 30 juillet 1986
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 
 ###### Article R411-27
@@ -7881,8 +7864,8 @@ _Créé par_:
 ###### Article R*414-1
 
 La commission consultative paritaire départementale des baux ruraux mentionnée à l'article L. 411-11 se réunit à la diligence
-du commissaire de la République du département chaque fois que le règlement des affaires de sa compétence l'exige ou que le
-commissaire de la République estime devoir la consulter.
+du préfet  du département chaque fois que le règlement des affaires de sa compétence l'exige ou que le préfet  estime devoir
+la consulter.
 
 Elle comprend :
 
@@ -7909,12 +7892,12 @@ représentative ou son représentant ;
 Le président de la chambre départementale des notaires ou son représentant ;
 
 Des représentants des bailleurs non preneurs et des preneurs non bailleurs, élus à raison de deux titulaires et deux
-suppléants par arrondissement. Si l'existence d'un colonat partiaire le rend nécessaire, il est créé par le commissaire de la
-République du département deux sections égales ; l'une pour les bailleurs et les preneurs à ferme, l'autre pour les bailleurs
-et les preneurs à colonat partiaire entre lesquelles les intéressés sont répartis. Dans ce cas, le nombre de bailleurs non
-preneurs et celui des preneurs non bailleurs élus par arrondissement est porté à quatre titulaires et à quatre suppléants,
-les bailleurs comprenant deux bailleurs en fermage et eux bailleurs en métayage et les preneurs, deux preneurs en fermage et
-deux preneurs en métayage. Ces sections sont convoquées séparément pour les affaires entrant dans leurs attributions.
+suppléants par arrondissement. Si l'existence d'un colonat partiaire le rend nécessaire, il est créé par le préfet  du
+département deux sections égales ; l'une pour les bailleurs et les preneurs à ferme, l'autre pour les bailleurs et les
+preneurs à colonat partiaire entre lesquelles les intéressés sont répartis. Dans ce cas, le nombre de bailleurs non preneurs
+et celui des preneurs non bailleurs élus par arrondissement est porté à quatre titulaires et à quatre suppléants, les
+bailleurs comprenant deux bailleurs en fermage et eux bailleurs en métayage et les preneurs, deux preneurs en fermage et deux
+preneurs en métayage. Ces sections sont convoquées séparément pour les affaires entrant dans leurs attributions.
 
 Seuls les membres élus ont voix délibérative.
 
@@ -7926,9 +7909,9 @@ _Cite_:
 
   - Code rural L411-11
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°83-213 1983-03-16
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 _Cité par_:
 
@@ -7949,10 +7932,14 @@ des trois quarts est requise.
 Les membres de la commission n'ayant pas voix délibérative peuvent demander à faire inscrire leur avis au procès-verbal de la
 séance ; lorsqu'une majorité n'a pu se dégager, le président doit solliciter leur avis en vue de cette inscription.
 
-Le procès-verbal est transmis au commissaire de la République du département. Si la commission consultative régionale
-paritaire et ultérieurement la commission consultative nationale paritaire sont saisies, le procès-verbal leur est transmis.
+Le procès-verbal est transmis au préfet  du département. Si la commission consultative régionale paritaire et ultérieurement
+la commission consultative nationale paritaire sont saisies, le procès-verbal leur est transmis.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 _Cité par_:
 
@@ -7961,10 +7948,6 @@ _Cité par_:
 _Cite_:
 
   - Code rural L411-53
-
-_Codifié par_:
-
-  - Décret n°83-213 1983-03-16
 
 
 ###### Article R*414-4
@@ -8358,17 +8341,21 @@ _Cite_:
 
 ###### Article R416-3
 
-L'autorité administrative prévue par l'article L. 416-5 est le commissaire de la République du département.
+L'autorité administrative prévue par l'article L. 416-5 est le préfet du département.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2017-1771 du 27 décembre 2017 - art. 9
+
 _Cite_:
 
-  - Code rural L416-5
-
-_Codifié par_:
-
-  - Décret n°83-213 1983-03-16
+  - Code rural - art. L416-5
 
 
 #### Chapitre VII : Dispositions particulières au baux à colonat partiaire ou métayage<a id=66></a>
@@ -10210,10 +10197,10 @@ _Cité par_:
 
 ###### Article R*511-23
 
-Dans les cinq jours qui suivent l'affichage prévu au quatrième alinéa de l'article R. 511-22, le commissaire de la
-République, les réclamants et les personnes intéressées par les décisions de la commission départementale peuvent saisir le
-tribunal d'instance dans le ressort où est située ladite commission. Lorsque le cinquième jour est un samedi, un dimanche ou
-un jour férié ou chômé, ce délai expire le premier jour ouvrable suivant.
+Dans les cinq jours qui suivent l'affichage prévu au quatrième alinéa de l'article R. 511-22, le préfet, les réclamants et
+les personnes intéressées par les décisions de la commission départementale peuvent saisir le tribunal d'instance dans le
+ressort où est située ladite commission. Lorsque le cinquième jour est un samedi, un dimanche ou un jour férié ou chômé, ce
+délai expire le premier jour ouvrable suivant.
 
 Le tribunal d'instance statue dans les dix jours de la saisine sans forme de procédure, après convocation des intéressés par
 simple lettre du secrétaire-greffier.
@@ -10227,6 +10214,10 @@ aux parties.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
+
 _Cité par_:
 
   - Code de l'organisation judiciaire - art. R221-34 (V)
@@ -10235,18 +10226,6 @@ _Cité par_:
 _Cite_:
 
   - Code rural R511-22
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
 
 
 ###### Article R*511-24
@@ -10308,9 +10287,9 @@ _Cité par_:
 Tout groupement professionnel agricole demandant son inscription sur la liste électorale de l'un des collèges mentionnés au
 5° de l'article R. 511-6 doit souscrire une déclaration.
 
-Cette déclaration adressée au commissaire de la République par le président du groupement comporte : le nom du groupement, le
-collège auquel ce groupement appartient, les noms, prénoms et adresses des personnes appelées à voter au nom du groupement.
-Elle est revêtue de la signature de chacune de ces personnes.
+Cette déclaration adressée au préfet  par le président du groupement comporte : le nom du groupement, le collège auquel ce
+groupement appartient, les noms, prénoms et adresses des personnes appelées à voter au nom du groupement. Elle est revêtue de
+la signature de chacune de ces personnes.
 
 Elle est accompagnée en outre, pour les groupements mentionnés au 5° b de l'article R. 511-6, de la mention du nombre
 d'adhérents au 1er juillet précédant l'élection et d'un extrait de la délibération du conseil d'administration ou de
@@ -10322,24 +10301,16 @@ _Cite_:
 
   - Code rural R511-6
 
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 
 ###### Article R*511-27
 
-Avant le 1er septembre de l'année précédant celle des élections, le commissaire de la République invite, dans l'avis
-mentionné à l'article R. 511-15, les groupements visés au 5° de l'article R. 511-6, à adresser à la préfecture leurs demandes
-d'inscription avant le 1er novembre.
+Avant le 1er septembre de l'année précédant celle des élections, le préfet  invite, dans l'avis mentionné à l'article R.
+511-15, les groupements visés au 5° de l'article R. 511-6, à adresser à la préfecture leurs demandes d'inscription avant le
+1er novembre.
 
 **Liens relatifs à cet article**
 
@@ -10347,52 +10318,36 @@ _Cite_:
 
   - Code rural R511-6, R511-15
 
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 
 ###### Article R*511-28
 
 La liste électorale comportant les noms des groupements et des personnes appelées à voter au nom de ces groupements est
 établie, pour chacun des collèges mentionnés au 5° de l'article R. 511-6, par la commission départementale prévue à l'article
-R. 511-21. Quatre présidents de groupements professionnels agricoles désignés par le commissaire de la République
-participent, avec voix consultative, aux travaux relatifs à l'établissement de la liste électorale des groupements électeurs.
+R. 511-21. Quatre présidents de groupements professionnels agricoles désignés par le préfet  participent, avec voix
+consultative, aux travaux relatifs à l'établissement de la liste électorale des groupements électeurs.
 
 Lorsque la commission refuse d'inscrire un groupement électeur, ou lui demande de modifier sa déclaration, cette décision est
-notifiée dans les deux jours au président du groupement par écrit et à domicile par les soins du commissaire de la
-République. L'avis de notification précise les motifs de la décision et informe le groupement intéressé qu'il dispose d'un
-délai de quarante-huit heures pour présenter des observations.
+notifiée dans les deux jours au président du groupement par écrit et à domicile par les soins du préfet. L'avis de
+notification précise les motifs de la décision et informe le groupement intéressé qu'il dispose d'un délai de quarante-huit
+heures pour présenter des observations.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural R511-6, R511-21
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 _Cité par_:
 
   - Arrêté du 1 décembre 2006 - art. 4 (V)
+
+_Cite_:
+
+  - Code rural R511-6, R511-21
 
 
 ###### Article R*511-29
@@ -10412,8 +10367,8 @@ statue dans les formes et délai prévus à l'article R. 511-23.
 Le 15 décembre la commission départementale opère toutes les rectifications régulièrement ordonnées et arrête définitivement
 la liste électorale.
 
-La minute de la liste électorale est déposée à la préfecture. Un exemplaire est déposé à la diligence du commissaire de la
-République au siège de la chambre d'agriculture.
+La minute de la liste électorale est déposée à la préfecture. Un exemplaire est déposé à la diligence du préfet au siège de
+la chambre d'agriculture.
 
 Tout électeur peut prendre communication et copie à ses frais de la liste électorale à la préfecture ou à la chambre
 d'agriculture à la condition de s'engager à ne pas en faire un usage commercial. Toute infraction à cette disposition est
@@ -10421,25 +10376,17 @@ punie d'une contravention de la 5e classe.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural R511-23
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 _Cité par_:
 
   - Code rural - art. R511-53 (V)
+
+_Cite_:
+
+  - Code rural R511-23
 
 
 ##### Sous-section 3 : Eligibilité et candidatures.<a id=101></a>
@@ -10576,35 +10523,25 @@ _Cité par_:
 
 ###### Article R*511-34
 
-Le commissaire de la République enregistre les listes.
+Le préfet  enregistre les listes.
 
-L'enregistrement est refusé à toute liste non conforme aux dispositions de la présente section. Le commissaire de la
-République notifie immédiatement sa décision au mandataire de la liste. Celui-ci dispose d'un délai de quarante-huit heures
-pour déposer une liste comportant les modifications nécessaires ou pour saisir le tribunal administratif qui statue dans les
-trois jours.
+L'enregistrement est refusé à toute liste non conforme aux dispositions de la présente section. Le préfet  notifie
+immédiatement sa décision au mandataire de la liste. Celui-ci dispose d'un délai de quarante-huit heures pour déposer une
+liste comportant les modifications nécessaires ou pour saisir le tribunal administratif qui statue dans les trois jours.
 
 La liste est enregistrée, si le délai imparti à l'autorité administrative n'a pas été respecté ou si la juridiction
 administrative n'a pas rejeté le recours dans les trois jours.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 
 ###### Article R*511-35
 
-Le commissaire de la République publie l'état définitif des listes de candidats au plus tard douze jours avant la date du
-scrutin.
+Le préfet  publie l'état définitif des listes de candidats au plus tard douze jours avant la date du scrutin.
 
 Les candidats décédés après la date limite de dépôt ne sont pas remplacés sur les listes qui, dans ce cas, peuvent être
 incomplètes nonobstant les dispositions de l'alinéa 2 de l'article R. 511-33.
@@ -10619,17 +10556,9 @@ _Cite_:
 
   - Code rural R511-33, R511-6
 
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 
 ##### Sous-section 4 : Propagande.<a id=102></a>
@@ -10776,21 +10705,13 @@ _Cité par_:
 ###### Article R*511-40
 
 Tout engagement de dépenses décidé par la commission de propagande en vue d'assurer les tâches qui lui sont confiées doit
-être préalablement approuvé par le commissaire de la République.
+être préalablement approuvé par le préfet.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 
 ###### Article R*511-41
@@ -10839,9 +10760,9 @@ Il est remboursé sur présentation des pièces justificatives, aux listes, le c
 réellement exposés, des circulaires et bulletins de vote.
 
 Toutefois, la somme remboursée ne peut excéder celle résultant de l'application au nombre des imprimés admis à remboursement
-des tarifs fixés par arrêté du commissaire de la République après avis d'une commission départementale comprenant :
+des tarifs fixés par arrêté du préfet après avis d'une commission départementale comprenant :
 
-Le commissaire de la République ou son représentant, président ;
+Le préfet ou son représentant, président ;
 
 Le trésorier-payeur général ou son représentant ;
 
@@ -10849,7 +10770,7 @@ Le directeur départemental de la concurrence et de la consommation ou son repr�
 
 Le président de la chambre départementale d'agriculture ou son représentant ;
 
-Un représentant des organisations professionnelles des imprimeurs désigné par le commissaire de la République.
+Un représentant des organisations professionnelles des imprimeurs désigné par le préfet.
 
 En ce qui concerne l'impression, les tarifs ne peuvent s'appliquer qu'à des circulaires et bulletins de vote présentant les
 caractéristiques suivantes et excluant tous travaux de photogravure (clichés, simili ou trait) : papier blanc satiné, 56
@@ -10857,18 +10778,9 @@ grammes au mètre carré, Afnor II/1.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 21 JORF 30 décembre 1987
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 _Cité par_:
 
@@ -11142,15 +11054,15 @@ _Modifié par_:
 ###### Article R*511-51
 
 Lorsqu'un membre d'une chambre d'agriculture, postérieurement à son élection, ne remplit plus les conditions d'éligibilité ou
-tombe sous le coup des articles L. 199 ou L. 200 du code électoral, il est déclaré démissionnaire par le commissaire de la
-République, soit d'office, soit sur réclamation de tout électeur.
+tombe sous le coup des articles L. 199 ou L. 200 du code électoral, il est déclaré démissionnaire par le préfet, soit
+d'office, soit sur réclamation de tout électeur.
 
 Au cas où un membre d'une chambre désire mettre fin à son mandat, il adresse sa démission au président de sa compagnie par
 lettre recommandée, avec demande d'avis de réception. La démission prend effet à compter de la date de l'avis de réception.
 
 Au cas où le président d'une chambre désire mettre fin à son mandat de membre de cette chambre, il adresse sa démission au
-commissaire de la République par lettre recommandée, avec demande d'avis de réception. La démission prend effet à compter de
-la date de l'avis de réception.
+préfet par lettre recommandée, avec demande d'avis de réception. La démission prend effet à compter de la date de l'avis de
+réception.
 
 Lorsque par suite de décès ou démission un ou plusieurs sièges d'une liste deviennent vacants, ceux-ci sont pourvus par les
 suppléants mentionnés à l'article R. 511-43 dans l'ordre où ils figurent sur la liste. En cas d'épuisement de la liste de
@@ -11161,17 +11073,9 @@ d'expiration du mandat des membres qu'ils remplacent.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 _Cite_:
 
@@ -11203,8 +11107,7 @@ Des élections partielles ont lieu :
 5. Lorsque la représentation de l'un des collèges mentionnés aux 2°, 3°, 4° et 5° de l'article R. 511-6 est réduite de plus
 de moitié.
 
-Dans les cas définis aux 3°, 4° et 5° ci-dessus, le président de la chambre d'agriculture avise immédiatement le commissaire
-de la République.
+Dans les cas définis aux 3°, 4° et 5° ci-dessus, le président de la chambre d'agriculture avise immédiatement le préfet.
 
 Celui-ci convoque, dans les quatre mois, les électeurs du ou des collèges intéressés afin de pourvoir les sièges vacants.
 Toutefois, il n'est procédé à aucune élection partielle dans les douze mois qui précèdent le renouvellement des chambres
@@ -11214,17 +11117,9 @@ Le décret de dissolution mentionné à l'article L. 511-11 est pris sur la prop
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 _Cité par_:
 
