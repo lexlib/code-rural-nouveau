@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1993-07-24
+Version Consolidée au 1993-08-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -757,7 +757,7 @@ Version Consolidée au 1993-07-24
           - [Section 3 : Pêche professionnelle. (art. R*234-35 à R*234-43)](#754)
         - [Chapitre V : Droit de pêche (art. R*235-1 à R*235-29)](#755)
           - [Section 1 : Droit de pêche de l'Etat (art. R*235-2 à R*235-28)](#756)
-            - [Sous-section 1 : Conditions générales d'exploitation. (art. R*235-2 à R*235-13)](#757)
+            - [Sous-section 1 : Conditions générales d'exploitation. (art. R*235-2 à R*235-13-1)](#757)
             - [Sous-section 2 : Modalités de location des lots. (art. R*235-14 à R*235-21)](#758)
             - [Sous-section 3 : Procédure d'adjudication publique. (art. R*235-22 à R*235-28)](#759)
           - [Section 3 : Droit de passage. (art. R*235-29)](#760)
@@ -72896,24 +72896,54 @@ _Nouveaux textes_:
 
 ###### Article R*235-7
 
-Les licences mentionnées aux articles R. 235-4 à R. 235-6 sont délivrées par le préfet. Elles autorisent l'utilisation d'un
-nombre et d'un type déterminés d'engins et de filets définis dans les listes mentionnées aux articles R. 236-29 et R. 236-31.
+Les licences sont délivrées aux pêcheurs amateurs par le préfet. Elles autorisent l'utilisation dans un lot d'un nombre et
+d'un type déterminés d'engins et de filets définis dans la liste mentionnée à l'article R. 236-32.
 
-Les licences sont annuelles, nominatives et comportent deux catégories selon qu'elles bénéficient à des pêcheurs
-professionnels ou à des pêcheurs amateurs.
-
-Le prix de chaque licence est déterminé chaque année par le directeur des services fiscaux après avis du service ou de
-l'établissement gestionnaire du domaine.
+Ces licences sont annuelles et nominatives. Le prix de chaque licence est déterminé chaque année par le directeur des
+services fiscaux après avis du service ou de l'établissement gestionnaire du domaine.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R235-4 à R235-6, R236-29, R236-31
+  - Code rural R236-32
 
-_Anciens textes_:
+_Codifié par_:
 
-  - Décret n°87-719 du 28 août 1987 - art. 7 (Ab)
+  - Décret n°89-805 1989-10-27
+
+_Modifié par_:
+
+  - Décret n°93-1006 du 11 août 1993 - art. 1 () JORF 18 août 1993
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R235-7
+
+
+###### Article R*235-7-1
+
+Les licences sont délivrées aux pêcheurs professionnels par le préfet après avis de la commission départementale ou
+interdépartementale des structures de la pêche professionnelle en eau douce prévue à l'article R. 235-13-1 du présent code.
+
+Les licences sont nominatives. Elles sont délivrées pour cinq ans et font l'objet d'un renouvellement général. Toutefois,
+leur date d'expiration peut être prorogée d'un an dans les conditions fixées au premier alinéa de l'article R. 235-8. Le prix
+de chaque licence est fixé et révisé par le directeur des services fiscaux après avis du service ou de l'établissement
+gestionnaire du domaine.
+
+Les demandes de licences de pêche professionnelle doivent comporter tous les éléments permettant d'apprécier la capacité du
+candidat à participer à la gestion piscicole et le programme qu'il envisage d'engager pour l'exploitation de la pêche. Le
+candidat doit aussi indiquer s'il entend exercer la pêche professionnelle à temps plein ou à temps partiel.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R235-13-1, R235-8
 
 _Codifié par_:
 
@@ -72921,7 +72951,15 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°93-1006 du 11 août 1993 - art. 2 () JORF 18 août 1993
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R235-7-1
 
 
 ###### Article R*235-8
@@ -72966,8 +73004,9 @@ charges pour l'exploitation du droit de pêche de l'Etat, établi par le préfet
 Ce cahier, conforme à un modèle fixé conjointement par le ministre chargé du domaine et par le ministre chargé de la pêche en
 eau douce, comporte des clauses et conditions générales portant notamment sur :
 
-1° Les modalités de perception du prix des licences, les modalités de perception et de révision du prix des locations ainsi
-que les garanties exigées des locataires ;
+1° Les modalités de perception du prix des licences, les modalités de perception et de révision du prix des locations et des
+licences de pêche aux engins et aux filets attribuées aux pêcheurs professionnels, ainsi que les garanties exigées des
+locataires ;
 
 2° Les conditions dans lesquelles les associations locataires du droit de pêche aux lignes peuvent conclure des accords de
 jouissance réciproque au profit de leurs membres respectifs ;
@@ -72975,8 +73014,8 @@ jouissance réciproque au profit de leurs membres respectifs ;
 3° Les conditions dans lesquelles le locataire du droit de pêche aux engins et aux filets peut s'associer avec un cofermier
 pour l'exploitation de son lot ;
 
-4° Les conditions dans lesquelles le locataire et, le cas échéant, le cofermier mentionnés au 3° peuvent désigner un
-compagnon pouvant faire acte de pêche en leur absence ;
+4° Les conditions dans lesquelles le locataire et, le cas échéant, le cofermier mentionnés au 3° peuvent désigner un ou
+plusieurs compagnons pouvant faire acte de pêche en leur absence ;
 
 5° Les obligations des locataires et des titulaires de licences en ce qui concerne :
 
@@ -72999,17 +73038,21 @@ _Cite_:
 
   - Code rural R235-11, R235-12, R235-14
 
-_Anciens textes_:
-
-  - Décret n°87-719 du 28 août 1987 - art. 9 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°93-1006 du 11 août 1993 - art. 3 () JORF 18 août 1993
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R235-9
 
 
 ###### Article R*235-10
@@ -73184,6 +73227,32 @@ _Nouveaux textes_:
   - Code de l'environnement R235-13
 
 
+###### Article R*235-13-1
+
+Une commission dénommée commission départementale ou interdépartementale des structures de la pêche professionnelle en eau
+douce, dont la composition est fixée par un arrêté conjoint du ministre chargé de la pêche en eau douce et du ministre chargé
+du domaine, est consultée par le préfet sur les demandes présentées par toute personne qui désire obtenir la location d'un ou
+de plusieurs lots pour y exercer la pêche professionnelle, ou l'attribution d'une licence de pêche professionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Créé par_:
+
+  - Décret n°93-1006 du 11 août 1993 - art. 4 () JORF 18 août 1993
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R235-13-1
+
+
 ##### Sous-section 2 : Modalités de location des lots.<a id=758></a>
 
 ###### Article R*235-14
@@ -73269,67 +73338,84 @@ _Nouveaux textes_:
 
 ###### Article R*235-16
 
-Toute association agréée de pêche et de pisciculture ou tout membre de l'association agréée départementale ou
-interdépartementale de pêcheurs professionnels en eau douce qui désire obtenir la location d'un lot est tenu de former une
-demande, établie selon le modèle fixé par arrêté du ministre chargé du domaine et par le ministre chargé de la pêche en eau
-douce, accompagnée des pièces justificatives prévues par ledit arrêté.
+Toute association agréée de pêche et de pisciculture qui désire obtenir la location d'un lot est tenue de présenter une
+demande, établie selon le modèle fixé par un arrêté conjoint du ministre chargé de la pêche en eau douce et du ministre
+chargé du domaine, accompagnée des pièces justificatives prévues par ledit arrêté.
 
-La demande est adressée au préfet par lettre recommandée quatre mois au moins avant l'expiration des baux en cours.
+Si elle est déjà locataire d'un lot, l'association doit justifier, à l'appui de sa demande, des améliorations apportées par
+elle à ce lot, notamment des mesures appliquées pour la lutte contre le braconnage et pour la gestion piscicole. Elle doit
+également justifier de ressources financières suffisantes permettant d'assurer dans l'avenir la poursuite de ces actions.
 
-S'il est déjà locataire d'un lot, le pétitionnaire doit justifier, à l'appui de sa demande, des améliorations apportées par
-lui à ce lot, notamment des mesures appliquées pour la lutte contre le braconnage et pour le repeuplement. Il doit également
-justifier de ressources financières suffisantes permettant d'assurer dans l'avenir la poursuite de ces actions.
+Si elle n'est pas locataire d'un lot, l'association doit, à l'appui de sa demande, prendre l'engagement de mettre en oeuvre
+des mesures appropriées de lutte contre le braconnage et de gestion piscicole et justifier de moyens financiers suffisants
+pour l'exécution de cet engagement.
 
-S'il n'est pas locataire d'un lot, le pétitionnaire doit, à l'appui de sa demande, prendre l'engagement de mettre en oeuvre
-de sérieuses mesures de lutte contre le braconnage et pour le repeuplement, et justifier de moyens financiers suffisants pour
-l'exécution de cet engagement.
+Tout pêcheur professionnel qui désire obtenir la location d'un lot ou de plusieurs lots est tenu de former une demande
+établie selon le modèle fixé par un arrêté conjoint du ministre chargé de la pêche en eau douce et du ministre chargé du
+domaine. Cette demande est accompagnée d'un dossier comprenant les éléments permettant d'apprécier la capacité du candidat à
+participer à la gestion piscicole et le programme qu'il envisage d'engager pour l'exploitation du droit de pêche. Le candidat
+doit aussi indiquer s'il entend exercer la pêche professionnelle à temps plein ou à temps partiel.
+
+S'il est déjà locataire d'un lot, le pêcheur professionnel doit aussi justifier, à l'appui de sa demande, des conditions dans
+lesquelles il a exercé la pêche précédemment.
+
+Les demandes présentées par les pêcheurs professionnels sont soumises à l'avis de la commission des structures de la pêche
+professionnelle en eau douce, mentionnée à l'article R. 235-13-1.
+
+Les demandes prévues par le présent article sont adressées au préfet par lettre recommandée quatre mois au moins avant
+l'expiration des baux en cours.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°87-719 du 28 août 1987 - art. 16 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°93-1006 du 11 août 1993 - art. 5 () JORF 18 août 1993
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R235-16
+
+_Cite_:
+
+  - Code rural R235-13-1
 
 
 ###### Article R*235-17
 
-Ne peuvent être admises les demandes présentées par :
+Ne peuvent être accueillies que les demandes présentées par une association ou un pêcheur professionnel en mesure de
+satisfaire aux obligations de gestion piscicole et de contribuer à la répression du braconnage.
 
-1° Toute association qui n'est pas en mesure de satisfaire aux obligations de gestion piscicole du lot ou de contribuer à la
-répression du braconnage et au repeuplement ;
+En outre, le pêcheur professionnel doit présenter les garanties de solvabilité suffisantes et n'avoir pas fait l'objet, au
+cours des trois années précédentes, d'une condamnation pour infraction à la police de la pêche en eau douce.
 
-2° Tout pêcheur professionnel ne satisfaisant pas aux conditions d'attribution du lot fixées notamment par l'article R.
-235-16, ne présentant pas les garanties de solvabilité suffisantes ou ayant fait l'objet, au cours des trois années
-précédentes, d'une condamnation pour infraction à la police de la pêche en eau douce.
-
-Le rejet de ces demandes est prononcé par décision motivée du préfet et notifié aux intéressés par lettre recommandée avec
-demande d'avis de réception.
+Le rejet éventuel de ces demandes est prononcé par décision motivée du préfet et notifiée aux intéressés par lettre
+recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R235-16
-
-_Anciens textes_:
-
-  - Décret n°87-719 du 28 août 1987 - art. 17 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°93-1006 du 11 août 1993 - art. 6 () JORF 18 août 1993
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R235-17
 
 
 ###### Article R*235-18
@@ -73367,16 +73453,14 @@ _Nouveaux textes_:
   - Code de l'environnement R235-18
 
 
-###### Article R*235-19
+###### Article R*235-18-1
 
-Les lots qui n'ont pas été loués à l'amiable font l'objet d'une adjudication à laquelle peuvent participer toutes les
-personnes ayant présenté une demande admise en application de l'article R. 235-17.
+La demande de renouvellement de location d'un lot de pêche aux engins et aux filets présentée par le locataire en place est
+satisfaite au prix du loyer fixé par le directeur des services fiscaux si elle est accueillie en application de l'article R.
+235-17, même en présence d'autres demandes recevables.
 
-Toutefois, lorsqu'un lot déterminé a fait l'objet de plusieurs demandes admises en application de l'article R. 235-17, il est
-mis en adjudication restreinte entre les candidats qui ont présenté ces demandes.
-
-Si un candidat à l'adjudication restreinte est déjà locataire du lot, ce lot lui est, sur sa demande, attribué par préférence
-moyennant un prix correspondant à l'offre la plus élevée.
+A défaut de conclusion du contrat dans les quinze jours de la notification qui est faite au locataire à cet effet, le lot est
+mis en adjudication.
 
 **Liens relatifs à cet article**
 
@@ -73384,17 +73468,57 @@ _Cite_:
 
   - Code rural R235-17
 
-_Anciens textes_:
-
-  - Décret n°87-719 du 28 août 1987 - art. 19 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
 _Créé par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°93-1006 du 11 août 1993 - art. 7 () JORF 18 août 1993
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R235-18-1
+
+
+###### Article R*235-19
+
+Les lots qui n'ont pas été loués à l'amiable font l'objet d'une adjudication à laquelle peuvent participer toutes les
+personnes ayant présenté une demande recevable en application de l'article R. 235-17.
+
+Toutefois, lorsqu'un lot déterminé a fait l'objet de plusieurs demandes recevables en application de l'article R. 235-17, il
+est mis en adjudication restreinte entre les candidats qui ont présenté ces demandes, sous réserve des dispositions de
+l'article R. 235-18-1.
+
+Si une association agréée de pêche et de pisciculture candidate à l'adjudication restreinte du droit de pêche aux lignes est
+déjà locataire du lot, ce lot lui est, sur sa demande, attribué par préférence, moyennant un prix correspondant à l'offre la
+plus élevée.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R235-17, R235-18-1
+
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Modifié par_:
+
+  - Décret n°93-1006 du 11 août 1993 - art. 8 () JORF 18 août 1993
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R235-19
 
 
 ###### Article R*235-20
@@ -73404,25 +73528,31 @@ l'objet à tout moment d'une location amiable, notamment dans les conditions pr�
 
 Lorsque l'adjudication du droit de pêche aux engins et aux filets est restée infructueuse, ce droit peut être mis en réserve
 ou exploité par attribution de licences au profit des membres de l'association agréée départementale de pêcheurs amateurs aux
-engins et aux filets sur les eaux du domaines public.
+engins et aux filets sur les eaux du domaines public. Le droit de pêche aux engins et aux filets peut aussi à tout moment
+être loué à un pêcheur professionnel dans les conditions fixées à l'article R. 235-17 pour la durée de la location restant à
+courir.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R235-3
-
-_Anciens textes_:
-
-  - Décret n°87-719 du 28 août 1987 - art. 20 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°93-1006 du 11 août 1993 - art. 9 () JORF 18 août 1993
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R235-20
+
+_Cite_:
+
+  - Code rural R235-3, R235-17
 
 
 ###### Article R*235-21
