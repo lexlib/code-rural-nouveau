@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1986-01-08
+Version Consolidée au 1986-03-16
 ## Contenu: 
   - [Partie législative (art. L411-1 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-1 à L481-1)](#2)
@@ -89,10 +89,10 @@ Version Consolidée au 1986-01-08
       - [Titre II : Sociétés coopératives agricoles (art. R523-9)](#86)
         - [Chapitre III : Capital social et dispositions financières (art. R523-9)](#87)
           - [Section 4 : Participation et intéressement. (art. R523-9)](#88)
-    - [Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux (art. R*511-5 à R*564-3)](#89)
-      - [Titre Ier : Chambres d'agriculture (art. R*511-5 à R*514-7)](#90)
-        - [Chapitre Ier : Chambres départementales (art. R*511-5 à R*511-122)](#91)
-          - [Section 1 : Institution et attributions. (art. R*511-5)](#92)
+    - [Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux (art. R*511-3 à R*564-3)](#89)
+      - [Titre Ier : Chambres d'agriculture (art. R*511-3 à R*514-7)](#90)
+        - [Chapitre Ier : Chambres départementales (art. R*511-3 à R*511-122)](#91)
+          - [Section 1 : Institution et attributions. (art. R*511-3 à R511-4)](#92)
           - [Section 3 : Elections (art. R*511-13 à R*511-52)](#93)
             - [Sous-section 2 : Listes électorales (art. R*511-13 à R*511-29)](#94)
               - [Paragraphe 1 : Electeurs votant individuellement. (art. R*511-13 à R*511-25)](#95)
@@ -111,7 +111,7 @@ Version Consolidée au 1986-01-08
             - [Sous-section 1 : Opérations du budget général. (art. R*511-73 à R511-81)](#108)
             - [Sous-section 2 : Opérations des budgets spéciaux. (art. R511-86 à R511-90)](#109)
             - [Sous-section 3 : Opérations communes au budget général et aux budgets spéciaux. (art. R*511-95 à R511-96)](#110)
-          - [Section 6 : Chambre interdépartementale de l'Ile-de-France. (art. R*511-97 à R*511-98)](#111)
+          - [Section 6 : Chambre interdépartementale de l'Ile-de-France. (art. R*511-97 à R*511-99)](#111)
           - [Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer. (art. R*511-118 à R*511-122)](#112)
         - [Chapitre II : Chambres régionales (art. R*512-1 à R*512-7)](#113)
           - [Section 1 : Dispositions particulières aux chambres régionales d'agriculture. (art. R*512-1 à R*512-7)](#114)
@@ -177,8 +177,8 @@ Version Consolidée au 1986-01-08
       - [Titre VI : Jardins familiaux (art. R*562-1 à R*564-3)](#174)
         - [Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux (art. R*562-1)](#175)
           - [Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER). (art. R*562-1)](#176)
-        - [Chapitre II : Préemption des terrains destinés à la création ou à l'aménagement de jardins familiaux (art. R*562-3)](#177)
-          - [Section 2 : Droit de préemption des collectivités locales. (art. R*562-3)](#178)
+        - [Chapitre II : Préemption des terrains destinés à la création ou à l'aménagement de jardins familiaux (art. R*562-2 à R*562-3)](#177)
+          - [Section 2 : Droit de préemption des collectivités locales. (art. R*562-2 à R*562-3)](#178)
         - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique. (art. R*563-1 à R*563-2)](#179)
         - [Chapitre IV : Avantages divers et subventions. (art. R*564-1 à R*564-3)](#180)
     - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-38 à R832-19)](#181)
@@ -239,17 +239,26 @@ Version Consolidée au 1986-01-08
           - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#236)
           - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#237)
         - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-4)](#238)
-      - [Titre III : Recherche agronomique (art. R831-1 à R832-19)](#239)
-        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#240)
-          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#241)
-          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#242)
-          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#243)
-        - [Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts (art. R832-1 à R832-19)](#244)
-          - [Section 1 : Dispositions générales (art. R832-1 à R832-3)](#245)
-          - [Section 2 : Administration et direction du centre. (art. R*832-4 à R832-10)](#246)
-          - [Section 3 : Organisation du centre. (art. R832-11 à R832-14)](#247)
-          - [Section 4 : Conseil scientifique et technique et commissions spécialisées (art. R832-15 à R832-16)](#248)
-          - [Section 5 : Dispositions diverses (art. R832-17 à R832-19)](#249)
+      - [Titre II : Développement agricole (art. R*821-1 à R825-4)](#239)
+        - [Chapitre Ier : Actions de développement agricole. (art. R*821-1 à R*821-4)](#240)
+        - [Chapitre II : Convention avec l'association nationale pour le développement agricole. (art. R*822-1 à R*822-4)](#241)
+        - [Chapitre III : Fonds national de développement agricole. (art. R*823-1 à R*823-19)](#242)
+        - [Chapitre IV : Programmes départementaux, régionaux et national de développement agricole (art. R*824-4 à R824-10)](#243)
+          - [Section 1 : Programmes départementaux. (art. R*824-4 à R824-3)](#244)
+          - [Section 2 : Programmes régionaux. (art. R*824-8 à R824-7)](#245)
+          - [Section 3 : Programme national. (art. R824-9 à R824-10)](#246)
+        - [Chapitre V : Conventions de développement. (art. R825-1 à R825-4)](#247)
+      - [Titre III : Recherche agronomique (art. R831-1 à R832-19)](#248)
+        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#249)
+          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#250)
+          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#251)
+          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#252)
+        - [Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts (art. R832-1 à R832-19)](#253)
+          - [Section 1 : Dispositions générales (art. R832-1 à R832-3)](#254)
+          - [Section 2 : Administration et direction du centre. (art. R*832-4 à R832-10)](#255)
+          - [Section 3 : Organisation du centre. (art. R832-11 à R832-14)](#256)
+          - [Section 4 : Conseil scientifique et technique et commissions spécialisées (art. R832-15 à R832-16)](#257)
+          - [Section 5 : Dispositions diverses (art. R832-17 à R832-19)](#258)
 # Partie législative<a id=1></a>
 
 ## Livre IV : Baux ruraux<a id=2></a>
@@ -9161,6 +9170,55 @@ _Créé par_:
 
 ##### Section 1 : Institution et attributions.<a id=92></a>
 
+###### Article R*511-3
+
+Lorsqu'en application de l'article L. 511-4 du présent code et afin, notamment, de bénéficier des aides du Fonds national de
+développement agricole, une chambre départementale d'agriculture décide la création d'un service d'utilité agricole du
+développement, celui-ci est organisé et fonctionne selon les dispositions suivantes :
+
+Il est présidé par le président de la chambre d'agriculture ou son représentant, assisté d'un comité de direction.
+
+Le nombre des membres de ce comité, qui ne peut être supérieur à douze, est fixé par la chambre d'agriculture.
+
+Ce comité est composé :
+
+1° Outre le président ou son délégué, de membres de la chambre d'agriculture, dont un au titre des salariés ;
+
+2° En nombre égal aux précédents de représentants des organisations professionnelles à vocation générale.
+
+Les représentants de ces organisations sont désignés, à la diligence du commissaire de la République, par la fédération
+départementale des syndicats d'exploitants agricoles, le centre départemental des jeunes agriculteurs et les organisations de
+coopération, de crédit et de mutualité agricoles. Dans le cas d'un service interdépartemental, ces représentants sont
+désignés par les mêmes organisations à la diligence des commissaires de la République concernés.
+
+Un fonctionnaire, désigné par le commissaire de la République, participe aux travaux de ce comité, avec voix consultative.
+
+Par dérogation aux articles R. 511-87 et R. 511-90, le budget de ce service, préparé par son comité de direction, fait
+l'objet d'une section spéciale au sein du budget voté par la chambre d'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L511-4, R511-87, R511-90
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 2 () JORF 16 mars 1986
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. D511-4 (M)
+
+
 ###### Article R*511-5
 
 Dans le cas où plusieurs chambres d'agriculture envisagent de participer à la fondation ou au capital d'une même société, le
@@ -9182,6 +9240,27 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+
+###### Article R511-4
+
+Plusieurs chambres d'agriculture peuvent, avec l'autorisation du ministre de l'agriculture, constituer un seul service
+d'utilité agricole pour plusieurs départements. Dans ce cas, le nombre des membres du service d'utilité agricole de
+développement, désignés comme il est dit à l'article précédent, ne peut excéder trente.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 2 () JORF 16 mars 1986
 
 
 ##### Section 3 : Elections<a id=93></a>
@@ -10775,6 +10854,46 @@ _Créé par_:
   - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
+###### Article R511-87
+
+Dans la gestion financière des établissements et services d'utilité agricole, le président de la chambre d'agriculture peut
+être assisté pour chacun d'eux d'un comité de direction lorsque ladite chambre en décide la création. Le président de la
+chambre est de droit président du comité de direction.
+
+Tout membre de la chambre d'agriculture et toute personne que ladite chambre estime qualifiée à cet effet, peuvent être
+désignés par elle pour faire partie de ces comités.
+
+Tout fonctionnaire compétent du ministère de l'agriculture peut, à la demande de la chambre d'agriculture, assumer les
+fonctions de commissaire technique auprès du comité de direction ou auprès du président.
+
+Lorsque la chambre d'agriculture crée un établissement ou service d'utilité agricole qui bénéficie de subventions provenant
+directement ou indirectement du budget de l'Etat et sans préjudice des dispositions de la loi du 28 décembre 1966 sur
+l'élevage et des textes pris pour son application, le président de la chambre d'agriculture est obligatoirement assisté d'un
+comité de direction dont la composition est fixée, après avis de ladite chambre, par arrêté du ministre de l'agriculture.
+Dans ce cas, le comité de direction élit son président au scrutin secret.
+
+L'agent comptable de la chambre d'agriculture assiste avec voix consultative aux réunions du comité de direction consacrées
+aux affaires financières (budgets et comptes).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°66-1005 1966-12-28
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 5 () JORF 16 mars 1986
+
+
 ###### Article R511-88
 
 Le président de la chambre d'agriculture peut déléguer chaque année à l'un des membres de celle-ci ses pouvoirs de gestion à
@@ -11035,6 +11154,39 @@ _Créé par_:
 _Modifié par_:
 
   - Décret n°82-688 du 3 août 1982 - art. 4 () JORF 5 août 1982
+
+
+###### Article R*511-99
+
+La chambre d'agriculture de l'Ile-de-France élit un bureau composé au minimum de :
+
+- un président ;
+
+- six vice-présidents.
+
+Le nombre de membres que peut comporter, s'il est créé, le comité de direction du service d'utilité agricole de développement
+ne peut être supérieur à trente. Les représentants des organisations professionnelles visées au 2° de l'article R. 511-3 sont
+désignés à la diligence des commissaires de la République concernés, par les mêmes organisations, dans les départements
+intéressés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R511-3
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°82-688 du 3 août 1982 - art. 4 () JORF 5 août 1982
+  - Décret n°86-484 du 14 mars 1986 - art. 4 () JORF 16 mars 1986
 
 
 ##### Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer.<a id=112></a>
@@ -18527,6 +18679,43 @@ _Cité par_:
 
 ##### Section 2 : Droit de préemption des collectivités locales.<a id=178></a>
 
+###### Article R*562-2
+
+Les collectivités locales et leurs groupements ayant compétence en matière d'urbanisme exercent le droit de préemption
+institué par l'article L. 562-2 conformément aux dispositions des articles L. 211-1 à L. 211-7, L. 212-1 à L. 212-5 et L.
+213-1 à L. 213-18 du code de l'urbanisme.
+
+Les terrains ainsi acquis en application de l'alinéa précédent ne peuvent faire l'objet que d'une location, d'une durée de
+neuf à dix-huit ans, à des organismes de jardins familiaux constitués conformément aux dispositions des articles L. 561-1 et
+L. 561-2.
+
+L'emplacement de ces terrains doit répondre aux prescriptions des documents d'urbanisme en vigueur et aux dispositions
+relatives aux espaces protégés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L562-2, L561-1, L561-2
+  - Code de l'urbanisme L211-1 à L211-7, L212-1 à L212-5, L213-1 à L213-18
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-18 art. 1 JORF 27 MARS 1981 en vigueur le 15 novembre 1980
+
+_Modifié par_:
+
+  - Décret n°86-516 du 14 mars 1986 - art. 6 () JORF 16 mars 1986
+
+_Cité par_:
+
+  - Code rural - art. R562-3 (V)
+
+
 ###### Article R*562-3
 
 Toute location consentie en application de l'article R. 562-2 est subordonnée à l'engagement de l'organisme preneur de
@@ -23448,11 +23637,1204 @@ _Transféré par_:
   - Décret n°92-433 du 7 mai 1992 - art. 4 () JORF 14 mai 1992
 
 
-### Titre III : Recherche agronomique<a id=239></a>
+### Titre II : Développement agricole<a id=239></a>
 
-#### Chapitre Ier : Institut national de la recherche agronomique<a id=240></a>
+#### Chapitre Ier : Actions de développement agricole.<a id=240></a>
 
-##### Section 1 : Dispositions générales.<a id=241></a>
+###### Article R*821-1
+
+Par la formation, l'information ou le conseil des personnes intéressées, individuellement ou au sein de leurs groupements, le
+développement agricole a pour objet de contribuer à l'expansion de l'agriculture et de la sylviculture, à l'accroissement de
+leur compétitivité, à la valorisation de leurs potentiels locaux, à l'adaptation des exploitations aux évolutions
+technologiques, économiques et structurelles et à l'amélioration des conditions de vie et de travail.
+
+A cet effet, relèvent du développement agricole :
+
+1° L'exploitation des résultats de la recherche agronomique et l'élaboration des références technico-économiques ;
+
+2° La mise en oeuvre des actions de recherche appliquée, d'expérimentation et de démonstration ;
+
+3° La diffusion de toutes les connaissances utiles à l'accomplissement de ces missions ;
+
+4° L'appui aux initiatives locales entrant dans le cadre de ces missions ;
+
+5° La mise en place et l'extension des services de remplacement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+
+###### Article R*821-2
+
+Les actions de développement sont réalisées, de façon concertée avec le concours de l'Etat et éventuellement des
+collectivités territoriales, par les organismes tels que les chambres d'agriculture, les établissements d'enseignement, les
+groupements professionnels à caractère technique, économique et social ainsi que les sociétés d'aménagement régional.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+
+###### Article R*821-3
+
+Les actions de recherche appliquée et d'expérimentation nécessaires à la mise en oeuvre du développement agricole sont
+conduites par les établissements de recherche, les instituts et centres techniques et les établissements d'enseignement.
+
+Ces actions sont coordonnées sur le plan scientifique par un réseau d'expérimentation et de démonstration qui est organisé en
+secteurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+
+###### Article R*821-4
+
+Les actions de développement et de recherche appliquée sont regroupées en programmes annuels et pluriannuels. Ceux-ci sont
+établis au niveau départemental, régional et national.
+
+Le Fonds national de développement agricole mentionné aux articles R. 823-1 et suivants concourt au financement de ces
+programmes. La gestion de ce fonds est confiée à un organisme où sont paritairement représentés l'Etat et les organisations
+professionnelles concernées. L'Etat, les établissements publics et tous organismes intéressés peuvent également contribuer au
+financement des programmes mentionnés au premier alinéa.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+
+#### Chapitre II : Convention avec l'association nationale pour le développement agricole.<a id=241></a>
+
+###### Article R*822-1
+
+Par convention avec l'association nationale pour le développement agricole, l'Etat peut confier à celle-ci le soin de
+préparer le programme national de développement agricole, d'en coordonner les actions, d'en assurer le suivi et de contribuer
+à son financement ainsi que de gérer le fonds national de développement agricole.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. R821-13 (T)
+
+
+###### Article R*822-2
+
+La convention prévue à l'article R. 822-1 prévoit également que :
+
+1° Un projet de répartition par masse des crédits du fonds national de développement agricole entre les programmes
+départementaux, les programmes régionaux et le programme national est soumis au ministre de l'agriculture ;
+
+2° L'association coordonne les différents secteurs du réseau national d'expérimentation et de démonstration ;
+
+3° Le budget de l'association est présenté conformément à la nomenclature comptable et divisé en chapitres qui ne peuvent
+comprendre que des recettes ou des dépenses de même nature, à savoir des recettes ou des dépenses de fonctionnement et des
+recettes ou des dépenses en capital ;
+
+4° L'association présente au ministre de l'agriculture un rapport annuel d'évaluation des actions de développement agricole.
+
+La convention ne peut être valablement signée que si les statuts de l'association prévoient que la nomination du directeur
+est soumise à l'approbation du ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R822-1
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+
+###### Article R*822-3
+
+L'association nationale pour le développement agricole est consultée par le ministre de l'agriculture sur :
+
+1° L'orientation générale du développement agricole ;
+
+2° La procédure de programmation du développement agricole ;
+
+3° Les principes de recrutement et de formation des agents de développement agricole.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+  - Décret n°86-484 du 14 mars 1986 - art. 2 () JORF 16 mars 1986
+
+
+###### Article R*822-4
+
+Lorsque la convention prévue à l'article R. 822-1 est signée, le ministre de l'agriculture désigne un commissaire du
+Gouvernement auprès de l'association. Celle-ci est, en outre, soumise au contrôle économique et financier de l'Etat dans les
+conditions fixées par le décret n° 55-733 du 26 mai 1955.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R822-1
+  - Décret n°55-733 1955-05-26
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+
+#### Chapitre III : Fonds national de développement agricole.<a id=242></a>
+
+###### Article R*823-1
+
+Le fonds national de développement agricole est constitué par l'ensemble des moyens financiers et comptables dont dispose
+l'association nationale pour le développement agricole pour l'exécution des missions visées aux articles R. 822-1 et R.
+822-3.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R822-1, R822-3
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+
+###### Article R*823-2
+
+Les opérations annuelles de recettes et de dépenses du fonds national de développement agricole sont prévues et décrites par
+le budget de l'association nationale pour le développement agricole qui est soumis à l'agrément préalable du commissaire du
+Gouvernement et du contrôleur d'Etat chargés du contrôle administratif et financier de ladite association. Il en est de même
+pour les modifications du budget reconnues nécessaires en cours d'année.
+
+Le ministre de l'agriculture et le ministre chargé du budget approuvent le budget et ses modifications.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+  - Décret n°86-484 du 14 mars 1986 - art. 2 () JORF 16 mars 1986
+
+
+###### Article R*823-3
+
+Le fonds national de développement agricole comprend notamment :
+
+En recettes :
+
+1° Des ressources d'origine publique ou privée ayant pour objet de financer des actions de développement agricole ;
+
+2° Le produit des cotisations professionnelles ainsi que des taxes parafiscales versées à ce fonds.
+
+En dépenses :
+
+1° Des financements affectés aux conventions passées par l'association nationale pour le développement agricole ;
+
+2° Des subventions aux organismes chargés de la gestion des fonds d'assurance formation prévus à l'article L. 960-10 du code
+du travail et intéressant les exploitants agricoles, les aides familiaux et les salariés des exploitations agricoles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Cite_:
+
+  - Code du travail - art. L960-10 (M)
+
+
+###### Article R*823-4
+
+Les opérations de fonctionnement du fonds national de développement agricole comprennent notamment :
+
+1° En recettes :
+
+a) Le produit des cotisations professionnelles et des taxes parafiscales versées au fonds ;
+
+b) Les ressources d'origine communautaire ou privée relatives aux actions de développement agricole ;
+
+c) Les subventions de l'Etat ;
+
+d) Les recettes accidentelles ou exceptionnelles.
+
+2° En dépenses :
+
+a) Les financements affectés aux conventions mentionnées par les articles R. 825-2, R. 825-3 et R. 825-4 ;
+
+b) Les frais d'administration de l'association nationale pour le développement agricole ;
+
+c) Les dépenses accidentelles ou exceptionnelles.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R825-2, R825-3, R825-4
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+
+###### Article R*823-5
+
+Les opérations en capital comprennent notamment :
+
+En recettes :
+
+1° Le produit de l'aliénation des immobilisations et valeurs ;
+
+2° Les subventions d'équipement ;
+
+3° Le produit des avances ou emprunts.
+
+En dépenses :
+
+1° Les acquisitions d'immobilisations et de valeurs ;
+
+2° Le remboursement en capital des avances et emprunts ;
+
+3° Les prêts et avances consentis par l'association nationale pour le développement agricole.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+
+###### Article R*823-6
+
+Le fonds national de développement agricole est géré par l'association nationale pour le développement agricole, conformément
+aux prescriptions de l'article R. 823-2.
+
+Les opérations relatives à la gestion financière du fonds national de développement agricole sont effectuées dans les
+conditions prévues aux articles R. 823-3 et R. 823-16 par le président de l'association nationale pour le développement
+agricole.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R823-2, R823-3, R823-16
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
+
+_Modifié par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+
+###### Article R*823-7
+
+L'exercice budgétaire et comptable débute le 1er juillet et se termine le 30 juin de l'année suivante.
+
+Tous les produits et toutes les charges d'un exercice doivent être comptabilisés au titre de cet exercice.
+
+Au début de chaque exercice, le président et le trésorier disposent d'un délai de deux mois pour constater et comptabiliser
+les produits et charges de l'exercice précédent qui n'ont pu être déterminés avant le 30 juin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+
+###### Article R*823-8
+
+Les délibérations relatives aux acquisitions, échanges et aliénations d'immeubles nécessaires au but poursuivi par
+l'association, baux excédant neuf années, aliénations de biens rentrant dans la dotation et emprunts doivent être soumises à
+l'approbation du ministre de l'agriculture et du ministre chargé du budget après avoir reçu au préalable l'agrément du
+commissaire du Gouvernement et du contrôleur d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R*823-9
+
+Le trésorier de l'association nationale pour le développement agricole :
+
+- prépare le budget du fonds national de développement agricole et les modifications à y apporter en cours d'année ;
+
+- assure l'encaissement des recettes et le paiement des dépenses ;
+
+- tient la comptabilité générale et, le cas échéant, la comptabilité matière ;
+
+- prépare le rapport financier et le compte financier annuels qui sont soumis au vote de l'association nationale pour le
+développement agricole, après visa du commissaire du Gouvernement et du contrôleur d'Etat.
+
+Le ministre de l'agriculture approuve le compte financier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R*823-10
+
+La comptabilité du fonds national de développement agricole est tenue suivant un plan comptable particulier, approuvé par le
+ministre chargé du budget, qui s'inspire des normes du plan comptable général.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R*823-11
+
+Lorsque les produits n'ont pu être recouvrés à l'amiable, le trésorier en rend compte au président qui prend toutes
+dispositions pour faire procéder, contre les débiteurs en retard, aux mesures d'exécution nécessaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R*823-12
+
+Le trésorier dresse périodiquement l'état des créances irrécouvrables. Le président prononce leur admission en surséance,
+après avis conforme du contrôleur d'Etat. L'association nationale pour le développement agricole est appelée à se prononcer
+si le contrôleur d'Etat le juge nécessaire.
+
+A la clôture de chaque exercice, un état des restes à recouvrer est dressé par le trésorier. Cet état indique notamment la
+nature des produits à recouvrer, le nom des débiteurs, les sommes dues par chacun d'eux et les motifs de non-recouvrement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R*823-13
+
+Les fonds libres du fonds national de développement agricole sont déposés au Trésor, au service des chèques postaux ou à la
+caisse nationale de crédit agricole.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R*823-14
+
+Lorsque les fonds proviennent d'excédents d'exercices antérieurs, du produit de l'aliénation d'un élément du patrimoine,
+d'emprunts et d'annuités d'amortissement momentanément inutilisés, ils peuvent être placés en valeurs d'Etat ou en valeurs
+garanties par l'Etat. Les valeurs doivent être déposées à la caisse des dépôts et consignations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R*823-15
+
+Le compte financier comprend :
+
+- la balance définitive des comptes ;
+
+- le développement, par chapitre, des dépenses et des recettes budgétaires ;
+
+- le développement des résultats de l'exercice ;
+
+- le bilan.
+
+Il est appuyé de l'état des produits restant à recouvrer et de l'état des dépenses restant à payer.
+
+Le compte financier annuel doit être soumis au conseil d'administration de l'association nationale pour le développement
+agricole avant l'expiration du quatrième mois qui suit la clôture de l'exercice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R*823-16
+
+En cas de dissolution de l'association nationale pour le développement agricole, les immobilisations acquises au moyen de
+subventions de l'Etat sont dévolues automatiquement à ce dernier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R*823-17
+
+Toute action de développement fait l'objet d'un rapport comportant l'évaluation détaillée des résultats établis :
+
+- au niveau départemental, conjointement par un représentant de la chambre départementale d'agriculture et par un
+fonctionnaire désigné par le commissaire de la République ;
+
+- au niveau régional, conjointement par un représentant de la chambre régionale d'agriculture et par un fonctionnaire désigné
+par le commissaire de la République ;
+
+- au niveau national, par l'Association nationale pour le développement agricole et par un représentant du ministère de
+l'agriculture.
+
+Ce rapport est transmis aux services de contrôle mentionnés à l'article suivant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R*823-18
+
+Un arrêté conjoint des ministres chargés de l'agriculture et du budget fixe les conditions dans lesquelles les corps
+d'inspection et de contrôle du ministère de l'agriculture et du ministère de l'économie, des finances et du budget assurent
+le contrôle des actions menées par tout organisme bénéficiant, directement ou indirectement, des aides que l'Etat ou le fonds
+national de développement agricole consacrent au développement agricole.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R*823-19
+
+Toute personne concourant à titre permanent aux actions de développement financées, en tout ou en partie, par l'Etat ou le
+fonds national de développement agricole, doit justifier des qualifications requises.
+
+Ces qualifications sont arrêtées, pour les différentes fonctions, par le ministre de l'agriculture après avis conjoint des
+représentants des employeurs et des organisations syndicales représentatives des diverses catégories de salariés et après
+consultation de l'association nationale pour le développement agricole.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+#### Chapitre IV : Programmes départementaux, régionaux et national de développement agricole<a id=243></a>
+
+##### Section 1 : Programmes départementaux.<a id=244></a>
+
+###### Article R*824-4
+
+Cette conférence est composée :
+
+1° Du commissaire de la République ou de son représentant, président ;
+
+2° Du président du conseil général ou de son représentant ;
+
+3° Du président de la chambre départementale d'agriculture ou de son représentant ;
+
+4° D'un représentant du collège des exploitants de la chambre départementale d'agriculture ou de son suppléant, désignés par
+la chambre ;
+
+5° Du président de la fédération ou de l'union départementale des syndicats d'exploitants agricoles rattachés à
+l'organisation la plus représentative au niveau national ou de son représentant ;
+
+6° Du président de l'organisation syndicale départementale des jeunes exploitants agricoles rattachée à l'organisation la
+plus représentative au niveau national ou de son représentant ;
+
+7° Des présidents des organisations syndicales d'exploitants agricoles représentatives au niveau départemental ou de leurs
+représentants ;
+
+8° De quatre personnalités du monde agricole nommées par le commissaire de la République, dont deux au moins sur proposition
+des organisations de coopération, de crédit et de mutualité agricoles, et une au moins représentant les activités
+sylvicoles ;
+
+9° De deux représentants des organisations syndicales de salariés agricoles les plus représentatives dans le département ou
+de leurs suppléants, dont un au titre des salariés du développement nommés par le commissaire de la République ;
+
+10° De quatre fonctionnaires, dont un représentant de l'enseignement technique agricole, ou de leurs suppléants désignés par
+le commissaire de la République.
+
+Les membres de la conférence mentionnés aux 4°, 8°, 9° et 10° sont nommés par arrêté du commissaire de la République.
+
+Le mandat des membres est de trois ans, renouvelable.
+
+La conférence comporte un bureau composé des personnalités mentionnées aux 1°, 2° et 3° ci-dessus et d'un des fonctionnaires
+mentionnés au 10°.
+
+La conférence est réunie à l'initiative de son président, qui en fixe l'ordre du jour.
+
+Les décisions sont prises à la majorité des présents ; en cas de partage des voix, la voix du président est prépondérante.
+
+Toutefois, le programme départemental visé à l'article R. 824-3 ne peut être adopté que s'il est approuvé à la majorité
+absolue des membres composant la conférence.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R824-3
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+
+###### Article R824-1
+
+Les programmes départementaux prévoient les actions de développement agricole particulièrement dans le domaine :
+
+1° De la vulgarisation des connaissances scientifiques, techniques et économiques en matière d'agriculture et de
+sylviculture ;
+
+2° De la recherche de références adaptées aux conditions locales ;
+
+3° De la formation, du conseil, de la sensibilisation et de l'information sur les techniques nécessaires au progrès de
+l'agriculture et de la sylviculture ;
+
+4° Des services de remplacement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R824-2
+
+La chambre d'agriculture est chargée de préparer le programme et de contribuer au suivi et à l'évaluation de ses résultats,
+conformément aux dispositions prévues à l'article R. 825-1.
+
+Elle peut seule en coordonner les actions.
+
+Elle peut contribuer à leur financement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R825-1
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R824-3
+
+Il est créé, dans chaque département, une conférence départementale pour le développement de l'agriculture. Elle a pour
+mission de veiller à l'articulation des actions de développement avec les autres actions de politique agricole menées dans
+son ressort territorial et de définir les objectifs à poursuivre.
+
+Sur la base des propositions faites par la chambre d'agriculture, la conférence adopte le programme départemental et approuve
+les actions prévues par celui-ci pour lesquelles la chambre d'agriculture demande la participation du fonds national de
+développement agricole.
+
+La chambre d'agriculture transmet cette demande accompagnée du programme départemental à l'association nationale pour le
+développement agricole.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+##### Section 2 : Programmes régionaux.<a id=245></a>
+
+###### Article R*824-8
+
+Cette conférence est composée :
+
+1° Du commissaire de la République dans la région ou de son représentant, président ;
+
+2° Du président du conseil régional ou de son représentant ;
+
+3° Du président de la chambre régionale d'agriculture ou de son représentant ;
+
+4° D'un représentant du collège des exploitants de la chambre régionale d'agriculture ou de son suppléant désigné par la
+chambre ;
+
+5° Du président et d'un représentant ou de leurs suppléants de la fédération régionale des syndicats d'exploitants agricoles
+rattachés à l'organisation la plus représentative au niveau national ;
+
+6° Du président de l'organisation syndicale régionale des jeunes exploitants agricoles rattachée à l'organisation la plus
+représentative au niveau national ou de son représentant ;
+
+7° De quatre personnalités du monde agricole nommées par le commissaire de la République dont deux au moins sur proposition
+des organisations de coopération, de crédit et de mutualité agricoles, et une au moins représentant les activités
+sylvicoles ;
+
+8° D'un représentant de l'organisation syndicale des salariés agricoles la plus représentative dans la région ou de son
+suppléant, nommés par le commissaire de la République ;
+
+9° De trois fonctionnaires ou de leurs suppléants désignés par le commissaire de la République ;
+
+10° D'un représentant de l'institut national de la recherche agronomique ou de son suppléant désignés par le président-
+directeur général de l'institut ;
+
+11° D'un représentant du centre national du machinisme agricole, du génie rural, des eaux et des forêts ou de son suppléant,
+désignés par le directeur du centre.
+
+Lorsque la conférence connaît des programmes d'actions régionales intéressant les attributions des offices d'intervention
+dans le secteur agricole, le ou les directeurs des offices concernés sont associés aux travaux de la conférence, avec voix
+consultative.
+
+Les membres de la conférence, mentionnés aux 4°, 7°, 8°, 9°, 10° et 11° sont nommés par arrêté du commissaire de la
+République.
+
+Le mandat des membres est de trois ans, renouvelable.
+
+La conférence comporte un bureau composé des personnalités mentionnées aux 1°, 2° et 3° ci-dessus et d'un des fonctionnaires
+mentionnés au 9°.
+
+La conférence est réunie à l'initiative de son président qui en fixe l'ordre du jour.
+
+Les décisions sont prises à la majorité des présents ; en cas de partage des voix, la voix du président est prépondérante.
+Toutefois, le programme régional visé à l'article R. 824-7 ne peut être adopté que s'il est approuvé à la majorité absolue
+des membres composant la conférence.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R824-7
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+
+###### Article R824-5
+
+Les programmes régionaux prévoient les actions de développement agricole particulièrement dans le domaine :
+
+1° De l'appui technique aux agriculteurs et de la coordination des actions de développement et de formation professionnelle ;
+
+2° De la recherche appliquée ;
+
+3° De l'expérimentation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R824-6
+
+Chaque chambre régionale d'agriculture est chargée de préparer le programme. Elle peut également en coordonner les actions,
+et contribuer à son financement ainsi qu'à son suivi et à l'évaluation de ses résultats conformément aux dispositions de
+l'article R. 825-1.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R825-1
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R824-7
+
+Il est créé dans chaque région une conférence régionale pour le développement de l'agriculture. Elle a pour mission de
+veiller à l'articulation des actions de développement et des politiques de formation avec les autres actions de politique
+agricole menées dans son ressort territorial et de définir les objectifs à poursuivre.
+
+Sur la base des propositions faites par la chambre d'agriculture, la conférence adopte le programme régional et approuve les
+actions prévues par celui-ci pour lesquelles la chambre d'agriculture demande la participation du fonds national de
+développement agricole.
+
+La chambre d'agriculture transmet cette demande accompagnée du programme régional de l'association nationale pour le
+développement agricole.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+##### Section 3 : Programme national.<a id=246></a>
+
+###### Article R824-9
+
+Le programme national prévoit les actions de développement agricole particulièrement dans le domaine :
+
+1° De la recherche menée par les instituts techniques et centres spécialisés ;
+
+2° De l'animation et de la coordination de programmes régionaux ou départementaux ;
+
+3° Des initiatives directes, rendues nécessaires par l'évolution de la politique agricole.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R824-10
+
+Il est créé au sein du conseil supérieur d'orientation de l'économie agricole et alimentaire une section "formation-
+recherche-développement".
+
+Elle a pour mission de définir les objectifs du développement en fonction des priorités de la politique agricole et
+forestière et de veiller à leur articulation avec les actions incluses dans les programmes des différentes institutions
+intervenant au niveau national.
+
+L'association nationale pour le développement agricole soumet pour avis à cette section le programme national qui est ensuite
+transmis au ministre de l'agriculture pour approbation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+#### Chapitre V : Conventions de développement.<a id=247></a>
+
+###### Article R825-1
+
+Les participations du fonds national du développement agricole aux programmes national, régionaux et départementaux sont
+attribuées en application de conventions passées entre l'association nationale pour le développement agricole et les
+organismes chargés de leur mise en oeuvre.
+
+Ces conventions comprennent l'engagement pour ces organismes :
+
+1° De présenter un compte rendu annuel, technique et financier ;
+
+2° De respecter les règles de qualification des personnels affectés aux actions de développement agricole, telles qu'elles
+sont prévues à l'article R. 823-19 ;
+
+3° D'ouvrir un compte spécial dont les opérations sont soumises au contrôle financier de l'Etat ;
+
+4° De soumettre les actions de développement à l'évaluation des autorités compétentes définies à l'article R. 823-17.
+
+Ces règles s'appliquent également aux concours apportés à ces programmes par l'Etat ou des établissements publics, sous
+réserve de dispositions spécifiques régissant leur fonctionnement.
+
+Le ministre de l'agriculture désigne des commissaires du Gouvernement auprès des organismes nationaux chargés de la mise en
+oeuvre du programme national.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R823-19, R823-17
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R825-2
+
+La participation du fonds national de développement agricole au programme départemental est prévue par une convention entre
+l'association nationale pour le développement agricole et la chambre départementale d'agriculture. Cette participation ne
+peut porter que sur les programmes adoptés après intervention d'un service d'utilité agricole de développement.
+
+Cette convention est soumise à l'approbation du commissaire de la République.
+
+Lorsque l'Etat, le département ou des établissements publics concourent au financement de ce programme, la convention
+mentionne ce concours.
+
+Pour la mise en oeuvre des actions financées par le fonds national de développement agricole ou par elle-même, la chambre
+départementale d'agriculture passe convention avec les organismes chargés de leur réalisation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R825-3
+
+La participation du fonds national de développement agricole au programme régional est prévue par une convention entre
+l'association nationale pour le développement agricole et la chambre régionale d'agriculture. Cette participation ne peut
+porter que sur les programmes adoptés après intervention d'un service d'utilité agricole de développement.
+
+Cette convention est soumise à l'approbation du commissaire de la République.
+
+Lorsque l'Etat, la région ou des établissements publics concourent au financement de ce programme, la convention mentionne ce
+concours.
+
+Pour la mise en oeuvre des actions financés par le fonds national de développement agricole ou par elle-même, la chambre
+régionale d'agriculture passe convention avec les organismes chargés de leur réalisation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R825-4
+
+La participation du fonds national de développement agricole au programme national est prévue par des conventions entre
+l'association nationale pour le développement agricole et les organismes ou établissements intéressés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Créé par_:
+
+  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+### Titre III : Recherche agronomique<a id=248></a>
+
+#### Chapitre Ier : Institut national de la recherche agronomique<a id=249></a>
+
+##### Section 1 : Dispositions générales.<a id=250></a>
 
 ###### Article R831-1
 
@@ -23554,7 +24936,7 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=242></a>
+##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=251></a>
 
 ###### Article R*831-3
 
@@ -23959,7 +25341,7 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-##### Section 3 : Dispositions diverses.<a id=243></a>
+##### Section 3 : Dispositions diverses.<a id=252></a>
 
 ###### Article R*831-14
 
@@ -24008,9 +25390,9 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-#### Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts<a id=244></a>
+#### Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts<a id=253></a>
 
-##### Section 1 : Dispositions générales<a id=245></a>
+##### Section 1 : Dispositions générales<a id=254></a>
 
 ###### Article R832-1
 
@@ -24144,7 +25526,7 @@ _Cité par_:
   - Code rural - art. R832-17 (V)
 
 
-##### Section 2 : Administration et direction du centre.<a id=246></a>
+##### Section 2 : Administration et direction du centre.<a id=255></a>
 
 ###### Article R*832-4
 
@@ -24437,7 +25819,7 @@ _Modifié par_:
   - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
 
 
-##### Section 3 : Organisation du centre.<a id=247></a>
+##### Section 3 : Organisation du centre.<a id=256></a>
 
 ###### Article R832-11
 
@@ -24554,7 +25936,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R832-6 (V)
 
 
-##### Section 4 : Conseil scientifique et technique et commissions spécialisées<a id=248></a>
+##### Section 4 : Conseil scientifique et technique et commissions spécialisées<a id=257></a>
 
 ###### Article R832-15
 
@@ -24637,7 +26019,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R832-6 (V)
 
 
-##### Section 5 : Dispositions diverses<a id=249></a>
+##### Section 5 : Dispositions diverses<a id=258></a>
 
 ###### Article R832-17
 
