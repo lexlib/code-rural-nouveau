@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1994-09-02
+Version Consolidée au 1994-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -101982,8 +101982,8 @@ _Abrogé par_:
 ###### Article R*814-6
 
 La formation des spécialistes en horticulture, au niveau du troisième cycle, est assurée par l'école nationale supérieure
-d'horticulture de Versailles qui est un établissement public d'enseignement et de recherche. Les études durent deux ans et
-sont sanctionnées par le diplôme de l'école nationale supérieure d'horticulture.
+d'horticulture qui est un établissement public d'enseignement et de recherche. Les études durent deux ans et sont
+sanctionnées par le diplôme de l'école nationale supérieure d'horticulture.
 
 Les candidats qui justifient du diplôme de la maîtrise ès-sciences ou d'un titre reconnu équivalent par le ministre de
 l'agriculture peuvent être admis sur titres et épreuves.
@@ -101994,13 +101994,21 @@ d'études est sanctionné par le diplôme d'agronomie approfondie et par le dipl
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R812-7
+
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
 _Modifié par_:
 
-  - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
+  - Décret n°94-1224 du 30 décembre 1994 - art. 17 () JORF 31 décembre 1994
+
+_Abrogé par_:
+
+  - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
 ##### Sous-section 3 : Formation des paysagistes DPLG.<a id=1041></a>
