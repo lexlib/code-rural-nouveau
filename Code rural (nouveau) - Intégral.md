@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1995-07-14
+Version Consolidée au 1995-10-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -876,7 +876,7 @@ Version Consolidée au 1995-07-14
       - [Titre V : Dispositions communes à la protection de la nature (art. R*251-1 à R*252-20)](#873)
         - [Chapitre Ier : Conseil national de la protection de la nature (art. R*251-1 à R*251-21)](#874)
           - [Section 1 : Composition. (art. R*251-2 à R*251-6)](#875)
-          - [Section 2 : Fonctionnement. (art. R*251-7 à R*251-10)](#876)
+          - [Section 2 : Fonctionnement. (art. R*251-7 à R*251-10-1)](#876)
           - [Section 3 : Comité permanent. (art. R*251-11 à R*251-18)](#877)
           - [Section 4 : Experts. (art. R*251-19 à R*251-20)](#878)
           - [Section 5 : Secrétariat administratif. (art. R*251-21)](#879)
@@ -85460,26 +85460,27 @@ mission :
 
 1° De donner au ministre son avis sur les moyens propres à :
 
-a) Préserver et développer la faune et la flore sauvages ;
+a) Préserver et restaurer la diversité de la flore et de la faune sauvages et des habitats naturels ;
 
-b) Améliorer la protection des espaces naturels et le maintien des équilibres biologiques auxquels ils participent, notamment
-en matière de parcs nationaux, parcs naturels régionaux et réserves naturelles ;
+b) Assurer la protection des espaces naturels et le maintien des équilibres biologiques auxquels ils participent, notamment
+en matière de parcs nationaux, parcs naturels régionaux et réserves naturelles, et dans les sites d'importance
+communautaire ;
 
 2° D'étudier les mesures législatives et réglementaires et les travaux scientifiques afférents à ces objets.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°77-1300 du 25 novembre 1977 - art. 1 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°95-1082 du 3 octobre 1995 - art. 1 () JORF 7 octobre 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
 ##### Section 1 : Composition.<a id=875></a>
@@ -85488,46 +85489,54 @@ _Créé par_:
 
 Le Conseil national de la protection de la nature est présidé par le ministre chargé de la protection de la nature.
 
-Le directeur de la protection de la nature en est le vice-président.
+Le directeur de la nature et des paysages en est le vice-président.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-1300 1977-11-25 art. 2 al. 1
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°95-1082 du 3 octobre 1995 - art. 2 () JORF 7 octobre 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R251-2
 
 
 ###### Article R*251-3
 
-Le Conseil national est composé de trente-deux membres répartis en deux catégories, les membres de droit et les membres
-nommés pour une durée de quatre ans.
+Le Conseil national est composé de quarante membres répartis en deux catégories, les membres de droit et les membres nommés
+pour une durée de quatre ans.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-1300 1977-11-25 art. 2 al. 2
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°95-1082 du 3 octobre 1995 - art. 3 () JORF 7 octobre 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R251-3
 
 
 ###### Article R*251-4
 
-Seize membres de droit sont désignés ès qualités et peuvent se faire représenter aux séances du conseil :
+Vingt membres de droit sont désignés ès qualités et peuvent se faire représenter aux séances du conseil :
 
 a) Cinq fonctionnaires nommés sur proposition de chacun des ministres intéressés et représentant les ministres chargés de :
 
@@ -85551,7 +85560,7 @@ e) Le directeur général du Centre national de la recherche scientifique ;
 
 f) Le directeur général de l'Institut national de la recherche agronomique ;
 
-g) Le directeur du Centre d'études du machinisme agricole du génie rural, des eaux et des forêts ;
+g) Le directeur du Centre national du machinisme agricole du génie rural, des eaux et des forêts ;
 
 h) Le président de la Fédération française des sociétés de protection de la nature ;
 
@@ -85561,28 +85570,35 @@ j) Le président de l'Assemblée permanente des chambres d'agriculture ;
 
 k) Le président de l'Union nationale des fédérations départementales de chasseurs ;
 
-l) Le président de l'Union nationale des fédérations des associations de pêche et de pisciculture agréées.
+l) Le président de l'Union nationale des fédérations des associations de pêche et de pisciculture agréées ;
+
+m) Le directeur du Conservatoire de l'espace littoral et des rivages lacustres ;
+
+n) Le président de la Ligue pour la protection des oiseaux ;
+
+o) Le président de l'Association nationale des centres régionaux de la propriété forestière ;
+
+p) Le président du Fonds mondial pour la nature, WWF-France.
+
+Cependant, au cours d'une séance donnée du conseil, de son comité permanent ou d'une quelconque de ses commissions ou sous-
+commissions, ces membres de droit ne peuvent être représentés que par un seul représentant à la fois.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-1300 1977-11-25 art. 2 al. 2
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°95-1082 du 3 octobre 1995 - art. 4 () JORF 7 octobre 1995
 
 
 ###### Article R*251-5
 
-Seize membres sont nommés pour une durée de quatre ans renouvelable :
+Vingt membres sont nommés pour une durée de quatre ans renouvelable :
 
-1° Six personnalités scientifiques qualifiées désignées parmi les enseignants et chercheurs spécialisés dans les sciences de
+1° Huit personnalités scientifiques qualifiées désignées parmi les enseignants et chercheurs spécialisés dans les sciences de
 la nature ;
 
 2° Six personnalités désignées sur proposition des associations agréées de protection de la nature ayant un caractère
@@ -85593,45 +85609,59 @@ régional ;
 4° Le président de l'organisme de gestion d'un parc naturel régional, sur la proposition de la Fédération des parcs naturels
 de France ;
 
-5° Deux personnalités qualifiées désignées par le ministre chargé de la protection de la nature.
+5° Trois personnalités qualifiées désignées par le ministre chargé de la protection de la nature ;
+
+6° Une personnalité désignée sur proposition de Réserves naturelles de France.
+
+Chacun de ces membres nommés est assisté d'un unique suppléant. Un membre nommé et son suppléant ne peuvent assister
+simultanément aux séances du conseil, de son comité permanent ou d'une autre de ses commissions ou sous-commissions, quelle
+qu'elle soit.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-1300 1977-11-25 art. 2 al. 2
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°95-1082 du 3 octobre 1995 - art. 5 () JORF 7 octobre 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R251-5
 
 
 ###### Article R*251-6
 
 Les membres du Conseil national de la protection de la nature autres que les membres de droit sont nommés par arrêté du
-ministre chargé de la protection de la nature.
+ministre chargé de la protection de la nature ainsi que leur suppléant.
 
-En cas de démission, de décès ou de cessation de la fonction au titre de laquelle ils ont été désignés, les membres nommés
-doivent être remplacés et le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui de
-leur prédécesseur.
+En cas de démission, de décès ou de cessation de la fonction au titre de laquelle ils ont été désignés, les membres nommés et
+leur suppléant doivent être remplacés et le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris
+fin celui de leur prédécesseur.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-1300 1977-11-25 art. 3 al. 1, al. 2
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°95-1082 du 3 octobre 1995 - art. 6 () JORF 7 octobre 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R251-6
 
 
 ##### Section 2 : Fonctionnement.<a id=876></a>
@@ -85639,24 +85669,28 @@ _Créé par_:
 ###### Article R*251-7
 
 Le conseil national se réunit sur convocation de son président ou de son vice-président et au moins deux fois par an. Il peut
-également être réuni sur la demande de dix de ses membres.
+également être réuni sur la demande de quatorze de ses membres.
 
-Le conseil ne peut valablement délibérer que si quatorze au moins de ses membres assistent à la séance ou, pour les membres
+Le conseil ne peut valablement délibérer que si dix-huit au moins de ses membres assistent à la séance ou, pour les membres
 de droit, sont représentés.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-1300 du 25 novembre 1977 - art. 4 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°95-1082 du 3 octobre 1995 - art. 7 () JORF 7 octobre 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R251-7
 
 
 ###### Article R*251-8
@@ -85754,12 +85788,36 @@ _Nouveaux textes_:
   - Code de l'environnement R251-10
 
 
+###### Article R*251-10-1
+
+Le Conseil national peut désigner en son sein des commissions auxquelles il confie la préparation de certains de ses travaux.
+Ces commissions peuvent s'adjoindre des experts pris à l'extérieur du conseil et qui ne peuvent avoir qu'un rôle consultatif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Créé par_:
+
+  - Décret n°95-1082 du 3 octobre 1995 - art. 8 () JORF 7 octobre 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R251-10-1
+
+
 ##### Section 3 : Comité permanent.<a id=877></a>
 
 ###### Article R*251-11
 
-Le conseil national désigne en son sein un comité permanent de dix membres comprenant cinq représentants de chacune des deux
-catégories mentionnées à l'article R. 251-3, les représentants des ministres de l'équipement et de l'agriculture étant
+Le conseil national désigne en son sein un comité permanent de quatorze membres comprenant sept représentants de chacune des
+deux catégories mentionnées à l'article R. 251-3, les représentants des ministres de l'équipement et de l'agriculture étant
 membres de droit du comité au titre de la première catégorie.
 
 **Liens relatifs à cet article**
@@ -85768,17 +85826,21 @@ _Cite_:
 
   - Code rural R251-3
 
-_Anciens textes_:
-
-  - Décret n°77-1300 1977-11-25 art. 5 al. 1
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°95-1082 du 3 octobre 1995 - art. 9 () JORF 7 octobre 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R251-11
 
 
 ###### Article R*251-12
@@ -85868,41 +85930,57 @@ _Nouveaux textes_:
 ###### Article R*251-15
 
 Le comité permanent est chargé de procéder à l'étude préalable de toutes les questions qui sont soumises à l'avis du conseil
-national. Il désigne à cet effet en son sein un rapporteur qui peut s'adjoindre des experts pris à l'extérieur du conseil.
+national. Il désigne à cet effet en son sein ou au sein du conseil national un rapporteur qui peut s'adjoindre des experts
+pris à l'extérieur du conseil.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-1300 1977-11-25 art. 6 al. 1
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°95-1082 du 3 octobre 1995 - art. 10 () JORF 7 octobre 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R251-15
 
 
 ###### Article R*251-16
 
-Le comité peut recevoir délégation du conseil pour formuler un avis au ministre sur les affaires courantes ou sur des
-affaires urgentes.
+Le comité peut recevoir délégation du conseil pour formuler un avis au ministre sur tout dossier.
+
+Ce comité peut à son tour donner délégation pour formuler un avis au ministre sur certaines affaires courantes à un des
+membres, ou à une des sous-commissions du conseil constituée en application de l'article R. 251-10-1, qui lui en rendent
+compte régulièrement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret n°77-1300 1977-11-25 art. 6 al. 2
+  - Code rural R251-10-1
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°95-1082 du 3 octobre 1995 - art. 11 () JORF 7 octobre 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R251-16
 
 
 ###### Article R*251-17
@@ -85910,22 +85988,26 @@ _Créé par_:
 Tout projet de création d'une réserve naturelle est obligatoirement soumis au comité avant l'engagement de la procédure de
 classement.
 
-Le comité est consulté sur la coordination des travaux scientifiques réalisés dans les parcs nationaux et les réserves
-naturelles et en rend compte au conseil national.
+Le comité peut être consulté sur tout projet de plan de gestion d'une réserve naturelle, et est obligatoirement consulté sur
+toute demande d'autorisation de modification de l'état ou de l'aspect d'une réserve naturelle.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-1300 1977-11-25 art. 6 al. 2 et 3
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°95-1082 du 3 octobre 1995 - art. 12 () JORF 7 octobre 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R251-17
 
 
 ###### Article R*251-18
@@ -85987,47 +86069,55 @@ _Nouveaux textes_:
 
 ###### Article R*251-20
 
-Les fonctions d'expert consulté en vertu de l'article R. 251-19 sont gratuites.
+Les fonctions d'expert consulté en vertu des articles R. 251-10-1, R. 251-15 et R. 251-19 sont gratuites.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code de l'environnement R251-20
+
 _Cite_:
 
-  - Code rural R251-19
-
-_Anciens textes_:
-
-  - Décret n°77-1300 du 25 novembre 1977 - art. 8 (Ab)
+  - Code rural R251-10-1, R251-15, R251-19
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°95-1082 du 3 octobre 1995 - art. 13 () JORF 7 octobre 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
 ##### Section 5 : Secrétariat administratif.<a id=879></a>
 
 ###### Article R*251-21
 
-Le secrétariat administratif des séances du conseil national et du comité permanent est assuré par la direction de la
-protection de la nature.
+Le secrétariat administratif des séances du conseil national et du comité permanent est assuré par la direction de la nature
+et des paysages.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-1300 du 25 novembre 1977 - art. 9 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°95-1082 du 3 octobre 1995 - art. 14 () JORF 7 octobre 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R251-21
 
 
 #### Chapitre II : Associations ayant pour objet la protection de la nature et de l'environnement<a id=880></a>
