@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1990-03-01
+Version Consolidée au 1990-06-30
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L262-1)](#2)
@@ -26408,83 +26408,46 @@ _Créé par_:
 Le montant maximum des redevances cynégétiques mentionnées aux articles R. 223-23, R. 223-24 et R. 223-26 est fixé ainsi
 qu'il suit :
 
-1° Redevance cynégétique nationale : 610 F.
+1° Redevance cynégétique nationale : 800 F ;
 
-2° Redevance cynégétique départementale : 125 F.
+2° Redevance cynégétique départementale : 165 F ;
 
-3° Redevance cynégétique "gibier d'eau" : 50 F.
+3° Redevance cynégétique "gibier d'eau" : 65 F.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R223-23, R223-24, R223-26
-
-_Anciens textes_:
-
-  - Décret n°84-532 du 28 juin 1984 - art. 1 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°90-528 du 29 juin 1990 - art. 1 () JORF 30 juin 1990
 
 _Cité par_:
 
   - Arrêté du 9 août 2011 - art. 5 (V)
   - Code rural - art. R228-8 (V)
 
-
-###### Article R*223-34
-
-Le montant maximum des sommes perçues à l'occasion de la délivrance des licences de chasse aux étrangers non-résidents
-mentionnés à l'article L. 223-18 est fixé à 185 F.
-
-**Liens relatifs à cet article**
-
 _Cite_:
 
-  - Code rural L223-18
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Abrogé par_:
-
-  - Décret n°90-528 1990-06-25 art. 2 JORF 30 juin 1990
-
-_Anciens textes_:
-
-  - Décret n°84-532 du 28 juin 1984 - art. 2 (Ab)
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Code rural R223-23, R223-24, R223-26
 
 
 ###### Article R*223-35
 
-Un arrêté conjoint du ministre chargé de la chasse et du ministre chargé du budget fixe, dans les limites déterminées par les
-articles R. 223-33 et R. 223-34, le montant des redevances cynégétiques et des sommes perçues à l'occasion de la délivrance
-des licences de chasse.
+Un arrêté conjoint du ministre chargé de la chasse et du ministre chargé du budget fixe, dans les limites déterminées par
+l'article R. 223-33, le montant des redevances cynégétiques.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°84-532 du 28 juin 1984 - art. 3 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°90-528 du 29 juin 1990 - art. 3 () JORF 30 juin 1990
 
 _Cité par_:
 
@@ -26498,7 +26461,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code rural R223-33, R223-34
+  - Code rural R223-33
 
 
 ##### Section 4 : Dispositions diverses et d'application.<a id=323></a>
