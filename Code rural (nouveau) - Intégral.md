@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1990-02-22
+Version Consolidée au 1990-03-01
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L262-1)](#2)
@@ -537,10 +537,10 @@ Version Consolidée au 1990-02-22
             - [Sous-section 3 : Prix du bail. (art. R*411-1 à R411-9)](#534)
           - [Section 8 : Droit de renouvellement et droit de reprise. (art. R411-10 à R411-13)](#535)
           - [Section 9 : Indemnité au preneur sortant. (art. R411-14 à R411-27)](#536)
-        - [Chapitre IV : Commissions consultatives paritaires des baux ruraux (art. R*414-1 à R*414-6)](#537)
-          - [Section 1 : Commissions consultatives paritaires départementales des baux ruraux. (art. R*414-1 à R414-3)](#538)
-          - [Section 2 : Commissions consultatives paritaires régionales des baux ruraux. (art. R*414-5)](#539)
-          - [Section 3 : Commission consultative paritaire nationale des baux ruraux. (art. R*414-6)](#540)
+        - [Chapitre IV : Commissions consultatives paritaires des baux ruraux (art. R*414-2 à R414-6)](#537)
+          - [Section 1 : Commissions consultatives paritaires départementales des baux ruraux. (art. R*414-2 à R414-3)](#538)
+          - [Section 2 : Commissions consultatives paritaires régionales des baux ruraux. (art. R414-5)](#539)
+          - [Section 3 : Commission consultative paritaire nationale des baux ruraux. (art. R414-6)](#540)
         - [Chapitre V : Dispositions diverses et d'application. (art. R*415-1 à R415-9)](#541)
         - [Chapitre VI : Dispositions particulières au baux à long terme. (art. R416-1 à R416-3)](#542)
         - [Chapitre VII : Dispositions particulières au baux à colonat partiaire ou métayage (art. R417-1 à R417-3)](#543)
@@ -712,9 +712,9 @@ Version Consolidée au 1990-02-22
         - [Chapitre Ier : Actions de développement agricole. (art. R*821-1 à R*821-4)](#709)
         - [Chapitre II : Convention avec l'association nationale pour le développement agricole. (art. R*822-1 à R*822-4)](#710)
         - [Chapitre III : Fonds national de développement agricole. (art. R*823-1 à R*823-19)](#711)
-        - [Chapitre IV : Programmes départementaux, régionaux et national de développement agricole (art. R*824-4 à R824-10)](#712)
-          - [Section 1 : Programmes départementaux. (art. R*824-4 à R824-3)](#713)
-          - [Section 2 : Programmes régionaux. (art. R*824-8 à R824-7)](#714)
+        - [Chapitre IV : Programmes départementaux, régionaux et national de développement agricole (art. R824-1 à R824-10)](#712)
+          - [Section 1 : Programmes départementaux. (art. R824-1 à R824-4)](#713)
+          - [Section 2 : Programmes régionaux. (art. R824-5 à R824-8)](#714)
           - [Section 3 : Programme national. (art. R824-9 à R824-10)](#715)
         - [Chapitre V : Conventions de développement. (art. R825-1 à R825-4)](#716)
       - [Titre III : Recherche agronomique (art. R831-1 à R832-19)](#717)
@@ -47447,64 +47447,6 @@ _Créé par_:
 
 ##### Section 1 : Commissions consultatives paritaires départementales des baux ruraux.<a id=538></a>
 
-###### Article R*414-1
-
-La commission consultative paritaire départementale des baux ruraux mentionnée à l'article L. 411-11 se réunit à la diligence
-du préfet  du département chaque fois que le règlement des affaires de sa compétence l'exige ou que le préfet  estime devoir
-la consulter.
-
-Elle comprend :
-
-Un magistrat de l'ordre judiciaire désigné par le premier président de la cour d'appel, président ;
-
-Le directeur départemental de l'agriculture ou son représentant ;
-
-Le président de la chambre départementale d'agriculture ou son représentant ;
-
-Le président de l'organisation syndicale départementale des exploitants agricoles affiliée à l'organisation nationale la plus
-représentative ou son représentant ;
-
-Le président de l'organisation syndicale départementale des jeunes agriculteurs affiliée à l'organisation nationale la plus
-représentative ou son représentant ;
-
-Le président de l'organisation départementale des bailleurs de baux ruraux affiliée à l'organisation nationale la plus
-représentative ou son représentant, le président de cette organisation ayant la faculté de renoncer à faire partie de la
-commission, auquel cas siège le président de l'organisation départementale de la propriété agricole affiliée à l'organisation
-nationale la plus représentative ou son représentant ;
-
-Le président de l'organisation départementale des fermiers et des métayers affiliée à l'organisation nationale la plus
-représentative ou son représentant ;
-
-Le président de la chambre départementale des notaires ou son représentant ;
-
-Des représentants des bailleurs non preneurs et des preneurs non bailleurs, élus à raison de deux titulaires et deux
-suppléants par arrondissement. Si l'existence d'un colonat partiaire le rend nécessaire, il est créé par le préfet  du
-département deux sections égales ; l'une pour les bailleurs et les preneurs à ferme, l'autre pour les bailleurs et les
-preneurs à colonat partiaire entre lesquelles les intéressés sont répartis. Dans ce cas, le nombre de bailleurs non preneurs
-et celui des preneurs non bailleurs élus par arrondissement est porté à quatre titulaires et à quatre suppléants, les
-bailleurs comprenant deux bailleurs en fermage et eux bailleurs en métayage et les preneurs, deux preneurs en fermage et deux
-preneurs en métayage. Ces sections sont convoquées séparément pour les affaires entrant dans leurs attributions.
-
-Seuls les membres élus ont voix délibérative.
-
-Le secrétariat de la commission est assuré par la direction départementale de l'agriculture.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L411-11
-
-_Modifié par_:
-
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. R411-2 (V)
-  - Code rural et de la pêche maritime - art. R414-4 (VD)
-
-
 ###### Article R*414-2
 
 Le président peut faire entendre par la commission toute personne qualifiée.
@@ -47568,6 +47510,66 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
+###### Article R414-1
+
+La commission consultative paritaire départementale des baux ruraux mentionnée à l'article L. 411-11 se réunit à la diligence
+du commissaire de la République du département chaque fois que le règlement des affaires de sa compétence l'exige ou que le
+préfet  estime devoir la consulter.
+
+Elle comprend :
+
+Un magistrat de l'ordre judiciaire désigné par le premier président de la cour d'appel, président ;
+
+Le directeur départemental de l'agriculture et de la forêt ou son représentant ;
+
+Le président de la chambre départementale d'agriculture ou son représentant ;
+
+Un représentant de chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en application
+de l'article 1er du décret n° 90-187 du 28 février 1990.
+
+Le président de l'organisation départementale des bailleurs de baux ruraux affiliée à l'organisation nationale la plus
+représentative ou son représentant, le président de cette organisation ayant la faculté de renoncer à faire partie de la
+commission, auquel cas siège le président de l'organisation départementale de la propriété agricole affiliée à l'organisation
+nationale la plus représentative ou son représentant ;
+
+Le président de l'organisation départementale des fermiers et des métayers affiliée à l'organisation nationale la plus
+représentative ou son représentant ;
+
+Le président de la chambre départementale des notaires ou son représentant ;
+
+Des représentants des bailleurs non preneurs et des preneurs non bailleurs, élus à raison de deux titulaires et deux
+suppléants par arrondissement. Si l'existence d'un colonat partiaire le rend nécessaire, il est créé par le préfet  du
+département deux sections égales ; l'une pour les bailleurs et les preneurs à ferme, l'autre pour les bailleurs et les
+preneurs à colonat partiaire entre lesquelles les intéressés sont répartis. Dans ce cas, le nombre de bailleurs non preneurs
+et celui des preneurs non bailleurs élus par arrondissement est porté à quatre titulaires et à quatre suppléants, les
+bailleurs comprenant deux bailleurs en fermage et eux bailleurs en métayage et les preneurs, deux preneurs en fermage et deux
+preneurs en métayage. Ces sections sont convoquées séparément pour les affaires entrant dans leurs attributions.
+
+Seuls les membres élus ont voix délibérative.
+
+Le secrétariat de la commission est assuré par la direction départementale de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L411-11
+  - Décret n°90-187 1990-02-28 art. 1
+
+_Codifié par_:
+
+  - Décret n°83-213 1983-03-16
+
+_Modifié par_:
+
+  - Décret n°90-187 du 28 février 1990 - art. 6 () JORF 1er mars 1990
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. R411-2 (V)
+  - Code rural et de la pêche maritime - art. R414-4 (VD)
+
+
 ###### Article R414-3
 
 Les élections des représentants des membres bailleurs et preneurs de la commission consultative paritaire départementale des
@@ -47599,7 +47601,7 @@ _Cité par_:
 
 ##### Section 2 : Commissions consultatives paritaires régionales des baux ruraux.<a id=539></a>
 
-###### Article R*414-5
+###### Article R414-5
 
 La commission consultative paritaire régionale des baux ruraux mentionnée à l'article L. 411-11 siège auprès du commissaire
 de la République de la région ; elle est appelée à donner son avis sur les affaires qui lui sont soumises en application des
@@ -47609,19 +47611,17 @@ La commission comprend :
 
 Un magistrat de l'ordre judiciaire désigné par le premier président de la cour d'appel du siège de la commission, président ;
 
-L'ingénieur général du génie rural, des eaux et des forêts chargé de la région ou son représentant ;
+Le directeur régional de l'agriculture et de la forêt ou son représentant ;
 
 Le président de la chambre régionale d'agriculture ou son représentant ;
 
-Un représentant régional désigné avec un suppléant par l'organisation syndicale nationale des exploitants agricoles la plus
-représentative ;
+Un représentant, ou son suppléant, de chacune des organisations syndicales d'exploitants agricoles à vocation générale
+habilitées en application de l'article 2 du décret n° 90-187 du 28 février 1990 ;
 
-Un représentant régional désigné, avec un suppléant, par l'organisation nationale des jeunes agriculteurs la plus
+Un bailleur de baux ruraux de la région désigné, avec son suppléant, par l'organisation nationale des bailleurs de baux
+ruraux la plus représentative, cette organisation pouvant renoncer à désigner un représentant, auquel cas la commission
+comprend un propriétaire désigné, avec un suppléant, par l'organisation nationale de la propriété agricole la plus
 représentative ;
-
-Un bailleur de baux ruraux de la région désigné, avec un suppléant, par l'organisation nationale des bailleurs de baux ruraux
-la plus représentative, cette organisation pouvant renoncer à désigner un représentant, auquel cas la commission comprend un
-propriétaire désigné, avec un suppléant, par l'organisation nationale de la propriété agricole la plus représentative ;
 
 Un représentant régional des fermiers et des métayers désigné, avec un suppléant, par l'organisation nationale des fermiers
 et des métayers la plus représentative ;
@@ -47649,20 +47649,29 @@ Le secrétariat de la commission est assuré par les services de l'ingénieur g�
 
 Les dispositions de l'article R. 414-2 sont applicables à la commission régionale.
 
+**Nota:**
+
+NOTA : Décret 2006-665 2006-06-07 art. 61 : Spécificités d'application.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code rural L411-11, R414-2
+  - Décret n°90-187 1990-02-28 art. 2
 
 _Codifié par_:
 
   - Décret n°83-213 1983-03-16
 
+_Modifié par_:
+
+  - Décret n°90-187 du 28 février 1990 - art. 6 () JORF 1er mars 1990
+
 
 ##### Section 3 : Commission consultative paritaire nationale des baux ruraux.<a id=540></a>
 
-###### Article R*414-6
+###### Article R414-6
 
 La commission consultative paritaire nationale des baux ruraux mentionnée à l'article L. 411-11 siège auprès du ministre de
 l'agriculture ; elle est chargée de donner son avis sur les affaires qui lui sont soumises en application des dispositions de
@@ -47670,19 +47679,19 @@ ce même article.
 
 Elle comprend :
 
-Un magistrat de l'ordre judiciaire désigné par le garde des sceaux, ministre de la justice, président ;
+Un magistrat de l'ordre judiciaire, désigné par le garde des sceaux, ministre de la justice, président ;
 
-Le directeur de l'aménagement au ministère de l'agriculture ou son représentant ;
+Le directeur des exploitations, de la politique sociale et de l'emploi au ministère de l'agriculture et de la forêt ou son
+représentant ;
 
 Un représentant du garde des sceaux, ministre de la justice ;
 
 Un représentant de l'assemblée permanente des chambres d'agriculture ;
 
-Un représentant de la fédération nationale des syndicats d'exploitants agricoles ;
+Un représentant de chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en application
+de l'article 3 du décret n° 90-187 du 28 février 1990 ;
 
-Un représentant du centre national des jeunes agriculteurs ;
-
-Un représentant de la fédération nationale de la propriété agricole ;
+Un représentant de la Fédération nationale de la propriété agricole ;
 
 Un représentant de la section nationale des bailleurs de baux ruraux de la fédération nationale des syndicats d'exploitants
 agricoles ;
@@ -47709,15 +47718,32 @@ Le secrétariat de la commission est assuré par le ministère de l'agriculture.
 
 Les dispositions de l'article R. 414-2 sont applicables à la commission nationale.
 
+**Nota:**
+
+NOTA : Décret 2006-665 2006-06-07 art. 61 : Spécificités d'application.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code rural L411-11, R414-2
+  - Décret n°90-187 1990-02-28 art. 3
+
+_Nouveaux textes_:
+
+  - Code rural R414-5
+
+_Transféré par_:
+
+  - Décret n°2006-665 2006-05-07 art. 41 II JORF 8 juin 2006
 
 _Codifié par_:
 
   - Décret n°83-213 1983-03-16
+
+_Modifié par_:
+
+  - Décret n°90-187 du 28 février 1990 - art. 6 () JORF 1er mars 1990
 
 
 #### Chapitre V : Dispositions diverses et d'application.<a id=541></a>
@@ -49010,10 +49036,11 @@ Ce comité est composé :
 
 2° En nombre égal aux précédents de représentants des organisations professionnelles à vocation générale.
 
-Les représentants de ces organisations sont désignés, à la diligence du commissaire de la République, par la fédération
-départementale des syndicats d'exploitants agricoles, le centre départemental des jeunes agriculteurs et les organisations de
-coopération, de crédit et de mutualité agricoles. Dans le cas d'un service interdépartemental, ces représentants sont
-désignés par les mêmes organisations à la diligence des commissaires de la République concernés.
+Les représentants de ces organisations sont désignés par le préfet sur proposition, d'une part, des organisations syndicales
+d'exploitants agricoles à vocation générale habilitées en application de l'article 1er du décret n° 90-187 du 28 février 1990
+et, d'autre part, des organisations de coopération, de crédit et de mutualité agricoles. Dans le cas d'un service
+interdépartemental, ces représentants sont désignés par les mêmes organisations à la diligence des commissaires de la
+République concernés.
 
 Un fonctionnaire, désigné par le commissaire de la République, participe aux travaux de ce comité, avec voix consultative.
 
@@ -49025,18 +49052,15 @@ l'objet d'une section spéciale au sein du budget voté par la chambre d'agricul
 _Cite_:
 
   - Code rural L511-4, R511-87, R511-90
+  - Décret n°90-187 1990-02-28 art. 1
 
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-484 du 14 mars 1986 - art. 2 () JORF 16 mars 1986
+  - Décret n°90-187 du 28 février 1990 - art. 6 () JORF 1er mars 1990
 
 _Cité par_:
 
@@ -57269,29 +57293,29 @@ Sont membres de droit :
 
 - le président de la confédération française de la coopération agricole ;
 
-- un représentant de chacune des organisations professionnelles ci-après mentionnées, désigné, sur proposition de
-l'organisation intéressée, par le ministre de l'agriculture : assemblée permanente des chambres d'agriculture, fédération
-nationale des syndicats d'exploitants agricoles, confédération nationale de la mutualité, de la coopération et du crédit
-agricoles, centre national des jeunes agriculteurs.
+- un représentant de l'assemblée permanente des chambres d'agriculture ;
+
+- un représentant de la Confédération nationale de la mutualité, de la coopération et du crédit agricoles.
 
 Représentent les organisations coopératives et syndicales :
 
-- trois représentants des sociétés coopératives agricoles désignés par le ministre de l'agriculture sur proposition de la
-confédération française de la coopération agricole ;
+- trois représentants des sociétés coopératives agricoles désignés par le ministre de l'agriculture et de la forêt sur
+proposition de la Confédération française de la coopération agricole ;
 
-- un représentant des sociétés d'intérêt collectif agricole désigné par le ministre de l'agriculture sur proposition de la
-fédération nationale des sociétés d'intérêt collectif agricole ;
+- un représentant des sociétés d'intérêt collectif agricole désigné par le ministre de l'agriculture et de la forêt, sur
+proposition de la Fédération nationale des sociétés d'intérêt collectif agricole ;
 
-- deux représentants des exploitants agricoles désignés par le ministre de l'agriculture sur proposition de la fédération
-nationale des syndicats d'exploitants agricoles ;
+- quatre représentants des exploitants agricoles désignés par le ministre de l'agriculture et de la forêt parmi les
+personnalités proposées par chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en
+application de l'article 3 du décret n° 90-187 du 28 février 1990 ;
 
-- un technicien des sociétés coopératives agricoles désigné par le ministre de l'agriculture sur proposition de
-l'organisation syndicale la plus représentative de ces techniciens ;
+- un technicien des sociétés coopératives agricoles désigné par le ministre de l'agriculture et de la forêt, sur proposition
+de l'organisation syndicale la plus représentative de ces techniciens ;
 
-- deux représentants du personnel des sociétés coopératives agricoles désignés par le ministre de l'agriculture sur
-proposition des organisations syndicales les plus représentatives.
+- deux représentants du personnel des sociétés coopératives agricoles désignés par le ministre de l'agriculture et de la
+forêt, sur proposition des organisations syndicales les plus représentatives.
 
-Le ministre de l'agriculture désigne trois personnalités choisies en raison de leur compétence.
+Le ministre de l'agriculture et de la forêt désigne trois personnalités choisies en raison de leur compétence.
 
 **Liens relatifs à cet article**
 
@@ -57299,9 +57323,13 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-187 1990-02-28 art. 3
+
+_Modifié par_:
+
+  - Décret n°90-187 du 28 février 1990 - art. 6 () JORF 1er mars 1990
 
 
 ###### Article R*528-4
@@ -64928,67 +64956,6 @@ _Abrogé par_:
 
 ##### Section 1 : Programmes départementaux.<a id=713></a>
 
-###### Article R*824-4
-
-Cette conférence est composée :
-
-1° Du commissaire de la République ou de son représentant, président ;
-
-2° Du président du conseil général ou de son représentant ;
-
-3° Du président de la chambre départementale d'agriculture ou de son représentant ;
-
-4° D'un représentant du collège des exploitants de la chambre départementale d'agriculture ou de son suppléant, désignés par
-la chambre ;
-
-5° Du président de la fédération ou de l'union départementale des syndicats d'exploitants agricoles rattachés à
-l'organisation la plus représentative au niveau national ou de son représentant ;
-
-6° Du président de l'organisation syndicale départementale des jeunes exploitants agricoles rattachée à l'organisation la
-plus représentative au niveau national ou de son représentant ;
-
-7° Des présidents des organisations syndicales d'exploitants agricoles représentatives au niveau départemental ou de leurs
-représentants ;
-
-8° De quatre personnalités du monde agricole nommées par le commissaire de la République, dont deux au moins sur proposition
-des organisations de coopération, de crédit et de mutualité agricoles, et une au moins représentant les activités
-sylvicoles ;
-
-9° De deux représentants des organisations syndicales de salariés agricoles les plus représentatives dans le département ou
-de leurs suppléants, dont un au titre des salariés du développement nommés par le commissaire de la République ;
-
-10° De quatre fonctionnaires, dont un représentant de l'enseignement technique agricole, ou de leurs suppléants désignés par
-le commissaire de la République.
-
-Les membres de la conférence mentionnés aux 4°, 8°, 9° et 10° sont nommés par arrêté du commissaire de la République.
-
-Le mandat des membres est de trois ans, renouvelable.
-
-La conférence comporte un bureau composé des personnalités mentionnées aux 1°, 2° et 3° ci-dessus et d'un des fonctionnaires
-mentionnés au 10°.
-
-La conférence est réunie à l'initiative de son président, qui en fixe l'ordre du jour.
-
-Les décisions sont prises à la majorité des présents ; en cas de partage des voix, la voix du président est prépondérante.
-
-Toutefois, le programme départemental visé à l'article R. 824-3 ne peut être adopté que s'il est approuvé à la majorité
-absolue des membres composant la conférence.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R824-3
-
-_Codifié par_:
-
-  - Décret n°80-561 1980-07-11
-
-_Créé par_:
-
-  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
-
-
 ###### Article R824-1
 
 Les programmes départementaux prévoient les actions de développement agricole particulièrement dans le domaine :
@@ -65074,74 +65041,68 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-##### Section 2 : Programmes régionaux.<a id=714></a>
-
-###### Article R*824-8
+###### Article R824-4
 
 Cette conférence est composée :
 
-1° Du commissaire de la République dans la région ou de son représentant, président ;
+1° Du commissaire de la République ou de son représentant, président ;
 
-2° Du président du conseil régional ou de son représentant ;
+2° Du président du conseil général ou de son représentant ;
 
-3° Du président de la chambre régionale d'agriculture ou de son représentant ;
+3° Du président de la chambre départementale d'agriculture ou de son représentant ;
 
-4° D'un représentant du collège des exploitants de la chambre régionale d'agriculture ou de son suppléant désigné par la
-chambre ;
+4° D'un représentant du collège des exploitants de la chambre départementale d'agriculture ou de son suppléant, désignés par
+la chambre ;
 
-5° Du président et d'un représentant ou de leurs suppléants de la fédération régionale des syndicats d'exploitants agricoles
-rattachés à l'organisation la plus représentative au niveau national ;
+5° Un représentant de chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en
+application de l'article 1er du décret n° 90-187 du 28 février 1990 ;
 
-6° Du président de l'organisation syndicale régionale des jeunes exploitants agricoles rattachée à l'organisation la plus
-représentative au niveau national ou de son représentant ;
+6° et 7° (supprimés).
 
-7° De quatre personnalités du monde agricole nommées par le commissaire de la République dont deux au moins sur proposition
+8° De quatre personnalités du monde agricole nommées par le commissaire de la République, dont deux au moins sur proposition
 des organisations de coopération, de crédit et de mutualité agricoles, et une au moins représentant les activités
 sylvicoles ;
 
-8° D'un représentant de l'organisation syndicale des salariés agricoles la plus représentative dans la région ou de son
-suppléant, nommés par le commissaire de la République ;
+9° De deux représentants des organisations syndicales de salariés agricoles les plus représentatives dans le département ou
+de leurs suppléants, dont un au titre des salariés du développement nommés par le commissaire de la République ;
 
-9° De trois fonctionnaires ou de leurs suppléants désignés par le commissaire de la République ;
+10° De quatre fonctionnaires, dont un représentant de l'enseignement technique agricole, ou de leurs suppléants désignés par
+le commissaire de la République.
 
-10° D'un représentant de l'institut national de la recherche agronomique ou de son suppléant désignés par le président-
-directeur général de l'institut ;
-
-11° D'un représentant du centre national du machinisme agricole, du génie rural, des eaux et des forêts ou de son suppléant,
-désignés par le directeur du centre.
-
-Lorsque la conférence connaît des programmes d'actions régionales intéressant les attributions des offices d'intervention
-dans le secteur agricole, le ou les directeurs des offices concernés sont associés aux travaux de la conférence, avec voix
-consultative.
-
-Les membres de la conférence, mentionnés aux 4°, 7°, 8°, 9°, 10° et 11° sont nommés par arrêté du commissaire de la
-République.
+Les membres de la conférence mentionnés aux 4°, 8°, 9° et 10° sont nommés par arrêté du commissaire de la République.
 
 Le mandat des membres est de trois ans, renouvelable.
 
 La conférence comporte un bureau composé des personnalités mentionnées aux 1°, 2° et 3° ci-dessus et d'un des fonctionnaires
-mentionnés au 9°.
+mentionnés au 10°.
 
-La conférence est réunie à l'initiative de son président qui en fixe l'ordre du jour.
+La conférence est réunie à l'initiative de son président, qui en fixe l'ordre du jour.
 
 Les décisions sont prises à la majorité des présents ; en cas de partage des voix, la voix du président est prépondérante.
-Toutefois, le programme régional visé à l'article R. 824-7 ne peut être adopté que s'il est approuvé à la majorité absolue
-des membres composant la conférence.
+
+Toutefois, le programme départemental visé à l'article R. 824-3 ne peut être adopté que s'il est approuvé à la majorité
+absolue des membres composant la conférence.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R824-7
+  - Code rural R824-3
 
 _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+  - Décret n°90-187 du 28 février 1990 - art. 6 () JORF 1er mars 1990
 
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+##### Section 2 : Programmes régionaux.<a id=714></a>
 
 ###### Article R824-5
 
@@ -65215,6 +65176,77 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+
+_Abrogé par_:
+
+  - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
+
+
+###### Article R824-8
+
+Cette conférence est composée :
+
+1° Du commissaire de la République dans la région ou de son représentant, président ;
+
+2° Du président du conseil régional ou de son représentant ;
+
+3° Du président de la chambre régionale d'agriculture ou de son représentant ;
+
+4° D'un représentant du collège des exploitants de la chambre régionale d'agriculture ou de son suppléant désigné par la
+chambre ;
+
+5° Un représentant de chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en
+application de l'article 2 du décret n° 90-187 du 28 février 1990 ;
+
+6° (supprimé).
+
+7° De quatre personnalités du monde agricole nommées par le commissaire de la République dont deux au moins sur proposition
+des organisations de coopération, de crédit et de mutualité agricoles, et une au moins représentant les activités
+sylvicoles ;
+
+8° D'un représentant de l'organisation syndicale des salariés agricoles la plus représentative dans la région ou de son
+suppléant, nommés par le commissaire de la République ;
+
+9° De trois fonctionnaires ou de leurs suppléants désignés par le commissaire de la République ;
+
+10° D'un représentant de l'institut national de la recherche agronomique ou de son suppléant désignés par le président-
+directeur général de l'institut ;
+
+11° D'un représentant du centre national du machinisme agricole, du génie rural, des eaux et des forêts ou de son suppléant,
+désignés par le directeur du centre.
+
+Lorsque la conférence connaît des programmes d'actions régionales intéressant les attributions des offices d'intervention
+dans le secteur agricole, le ou les directeurs des offices concernés sont associés aux travaux de la conférence, avec voix
+consultative.
+
+Les membres de la conférence, mentionnés aux 4°, 7°, 8°, 9°, 10° et 11° sont nommés par arrêté du commissaire de la
+République.
+
+Le mandat des membres est de trois ans, renouvelable.
+
+La conférence comporte un bureau composé des personnalités mentionnées aux 1°, 2° et 3° ci-dessus et d'un des fonctionnaires
+mentionnés au 9°.
+
+La conférence est réunie à l'initiative de son président qui en fixe l'ordre du jour.
+
+Les décisions sont prises à la majorité des présents ; en cas de partage des voix, la voix du président est prépondérante.
+Toutefois, le programme régional visé à l'article R. 824-7 ne peut être adopté que s'il est approuvé à la majorité absolue
+des membres composant la conférence.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R824-7
+  - Décret n°90-187 1990-02-28 art. 2
+
+_Codifié par_:
+
+  - Décret n°80-561 1980-07-11
+
+_Modifié par_:
+
+  - Décret n°90-187 du 28 février 1990 - art. 6 () JORF 1er mars 1990
 
 _Abrogé par_:
 
