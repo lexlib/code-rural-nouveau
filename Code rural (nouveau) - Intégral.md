@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1994-07-23
+Version Consolidée au 1994-07-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -26580,26 +26580,55 @@ _Créé par_:
 ###### Article L328-1
 
 Sont applicables dans les départements d'outre-mer les dispositions des articles L. 321-4 à L. 321-12 et L. 321-24, dans des
-conditions fixées par décret en Conseil d'Etat.
+conditions fixées par décret en Conseil d'Etat, ainsi que des articles L. 321-13 à L. 321-21 et L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - Code rural L321-4 à L321-12, L321-24
+  - Loi n°93-934 du 22 juillet 1993
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°73-650 1973-07-13 art. 11
-  - Loi n°86-1321 1986-12-30 art. 5
+  - Loi n°94-638 du 25 juillet 1994 - art. 20 () JORF 27 juillet 1994
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2012-789 du 31 mai 2012 - art. 7
+
+_Nouveaux textes_:
+
+  - Code rural et de la pêche maritime - art. L371-3 (M)
+
+
+###### Article L328-1-1
+
+Le taux annuel du salaire des bénéficiaires d'un contrat de travail à salaire différé est calculé dans les départements
+d'outre-mer selon les règles posées par le deuxième alinéa de l'article L. 321-13, sur la base du salaire minimum de
+croissance en vigueur dans ces départements tel que défini à la section 1 du chapitre IV du titre Ier du livre VIII du code
+du travail.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-934 1993-07-22
+  - Loi n°93-934 du 22 juillet 1993
 
 _Créé par_:
 
-  - Loi n°93-934 1993-07-22 annexe JORF 23 juillet 1993
+  - Loi n°94-638 du 25 juillet 1994 - art. 20 () JORF 27 juillet 1994
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2012-789 du 31 mai 2012 - art. 7
+
+_Nouveaux textes_:
+
+  - Code rural et de la pêche maritime - art. L371-4 (M)
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. L372-3 (VD)
 
 
 ###### Article L328-2
