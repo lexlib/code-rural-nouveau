@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1983-07-23
+Version Consolidée au 1984-02-02
 ## Contenu: 
   - [Partie législative (art. L411-2 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-2 à L471-7)](#2)
@@ -23,7 +23,7 @@ Version Consolidée au 1983-07-23
         - [Chapitre VI : Dispositions particulières aux baux à long terme. (art. L416-1 à L416-9)](#20)
         - [Chapitre VII : Dispositions particulières aux baux à colonat partiaire ou métayage (art. L417-1 à L417-15)](#21)
           - [Section 1 : Régime du bail. (art. L417-1 à L417-10)](#22)
-          - [Section 2 : Conversion en baux à ferme. (art. L417-12 à L417-15)](#23)
+          - [Section 2 : Conversion en baux à ferme. (art. L417-11 à L417-15)](#23)
       - [Titre II : Bail à cheptel. (art. L421-1)](#24)
       - [Titre III : Bail à domaine congéable. (art. L431-1 à L431-23)](#25)
       - [Titre IV : Bail à complant. (art. L441-1 à L441-13)](#26)
@@ -3216,6 +3216,51 @@ _Codifié par_:
 
 
 ##### Section 2 : Conversion en baux à ferme.<a id=23></a>
+
+###### Article L417-11
+
+Tout bail à colonat partiaire ou métayage peut être converti en bail à ferme à l'expiration de chaque année culturale à
+partir de la troisième année du bail initial, si le propriétaire ou le preneur en a fait la demande au moins douze mois
+auparavant.
+
+En cas de contestation, le tribunal paritaire doit, en fonction des intérêts en présence, ordonner la conversion dans l'un
+des cas ci-après :
+
+1° lorsque le propriétaire n'entretient pas les bâtiments ;
+
+2° lorsqu'il se refuse à participer au moins en proportion de sa part dans les bénéfices aux investissements en cheptel ou en
+matériel indispensables à l'exploitation ;
+
+3° lorsque, en raison d'une clause du bail ou d'un accord entre les parties, le preneur est propriétaire de plus de deux
+tiers de la valeur du cheptel et du matériel ;
+
+4° lorsqu'une constante collaboration personnelle entre les parties n'a pu être assurée.
+
+Pour l'application du 3° ci-dessus, les investissements en cheptel et en matériel faits par le preneur antérieurement au 2
+janvier 1964 sont réputés faits avec l'accord du bailleur.
+
+Toutefois, nonobstant toute disposition contraire, la conversion ne pourra être refusée lorsque la demande sera faite par le
+métayer en place depuis huit ans et plus.
+
+Un décret en Conseil fixera, en tant que de besoin, les modalités d'application de cette disposition.
+
+Une demande de conversion ne peut être considérée comme une rupture de contrat, ni justifier une demande de reprise du
+propriétaire. Cette disposition est d'ordre public.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+
+_Modifié par_:
+
+  - Loi n°84-731 1984-08-01 art. 25 I JORF 2 août 1984
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
 
 ###### Article L417-12
 
