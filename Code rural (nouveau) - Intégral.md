@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1990-02-06
+Version Consolidée au 1990-02-22
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L262-1)](#2)
@@ -40541,24 +40541,29 @@ _Nouveaux textes_:
 
 ###### Article R*241-18
 
-Le décret de création du parc fixe la composition du conseil d'administration qui comporte notamment des représentants des
-administrations intéressées, des représentants des collectivités locales et des personnalités.
+Le décret de création du parc fixe la composition ainsi que les conditions de désignation des membres du conseil
+d'administration, qui comporte notamment des représentants des administrations intéressées, des représentants des
+collectivités locales, un ou plusieurs représentants du personnel et des personnalités.
 
 Les membres du conseil sont nommés par le ministre chargé de la protection de la nature.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°61-1195 1961-10-31 art. 15 al. 1
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°90-164 du 16 février 1990 - art. 1 () JORF 22 février 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R241-18
 
 
 ###### Article R*241-19
