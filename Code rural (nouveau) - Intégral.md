@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1990-09-01
+Version Consolidée au 1990-09-13
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L262-1)](#2)
@@ -394,8 +394,8 @@ Version Consolidée au 1990-09-01
             - [Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture. (art. R*231-27 à R*231-34)](#391)
             - [Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984. (art. R*231-35 à R*231-37)](#392)
             - [Sous-section 5 : Dispositions diverses. (art. R*231-38 à R*231-41)](#393)
-        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. R*232-1 à R*232-15)](#394)
-          - [Section 4 : Contrôle des peuplements. (art. R*232-1 à R*232-15)](#395)
+        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. R*232-1 à R232-23)](#394)
+          - [Section 4 : Contrôle des peuplements. (art. R*232-1 à R232-23)](#395)
         - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. R233-1 à R233-15)](#396)
           - [Section 1 : Orientations de bassin. (art. R233-1 à R233-15)](#397)
         - [Chapitre IV : Organisation des pêcheurs (art. R*234-1 à R*234-43)](#398)
@@ -32591,6 +32591,26 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+
+
+###### Article R232-23
+
+Les dispositions des articles R. 232-16 à R. 232-22 entreront en vigueur le premier jour du sixième mois suivant leur
+publication au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R232-16 à R232-22
+
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Créé par_:
+
+  - Décret n°90-804 du 7 septembre 1990 - art. 1 () JORF 13 septembre 1990
 
 
 #### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=396></a>
