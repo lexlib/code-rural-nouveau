@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1988-09-15
+Version Consolidée au 1988-10-14
 ## Contenu: 
   - [Partie législative (art. L411-1 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-1 à L481-1)](#2)
