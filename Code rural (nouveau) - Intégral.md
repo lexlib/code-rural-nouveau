@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1991-01-13
+Version Consolidée au 1991-02-09
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L263-10)](#2)
@@ -67748,12 +67748,12 @@ _Modifié par_:
 
 ###### Article R*823-7
 
-L'exercice budgétaire et comptable débute le 1er juillet et se termine le 30 juin de l'année suivante.
+L'exercice budgétaire et comptable correspond à l'année civile.
 
 Tous les produits et toutes les charges d'un exercice doivent être comptabilisés au titre de cet exercice.
 
 Au début de chaque exercice, le président et le trésorier disposent d'un délai de deux mois pour constater et comptabiliser
-les produits et charges de l'exercice précédent qui n'ont pu être déterminés avant le 30 juin.
+les produits et charges de l'exercice précédent qui n'ont pu être déterminés avant le 31 décembre.
 
 **Liens relatifs à cet article**
 
@@ -67761,9 +67761,9 @@ _Codifié par_:
 
   - Décret n°80-561 1980-07-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
+  - Décret n°91-154 1991-02-05 art. 1 JORF 9 février 1991
 
 
 ###### Article R*823-8
