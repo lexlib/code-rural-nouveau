@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1984-03-21
+Version Consolidée au 1984-05-31
 ## Contenu: 
   - [Partie législative (art. L411-2 à L815-4)](#1)
     - [Livre IV : Baux ruraux (art. L411-2 à L471-7)](#2)
@@ -10730,6 +10730,77 @@ _Créé par_:
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
+
+
+###### Article R*521-9
+
+La demande d'immatriculation de la société, prévue par l'article 15 du décret n° 84-406 du 30 mai 1984 relatif au registre du
+commerce et des sociétés, contient les indications suivantes :
+
+1° La dénomination de la société, suivie de son sigle et des mots "société coopérative agricole" ou "union de sociétés
+coopératives agricoles" si ces mots ne figurent pas déjà dans la dénomination ;
+
+2° Le montant du capital initial, suivi des mots "capital variable" et le montant total respectif des apports en numéraire et
+des apports en nature ;
+
+3° L'adresse du siège social de la société coopérative ou de l'union, la circonscription territoriale de la société
+coopérative ;
+
+4° L'adresse du principal établissement de la société si cette adresse est différente de celle du siège social, et le nombre
+des autres établissements en distinguant ceux exploités sur le territoire français et hors de ce territoire ;
+
+5° La ou les activités exercées ;
+
+6° La durée de la société fixée par les statuts ;
+
+7° Les nom, prénom usuel, date, lieu de naissance, nationalité et domicile personnel :
+
+a) Du président du conseil d'administration, du directeur, du ou des administrateurs investis d'une délégation générale de
+pouvoir et de toute personne autorisée à signer pour la société ;
+
+b) Des personnes physiques mandatées par des personnes morales pour exercer en leur nom l'une des fonctions mentionnées au a
+ci-dessus, ces indications étant complétées par celles de la dénomination ou raison sociale et de l'adresse du siège social
+de la personne morale concernée ;
+
+c) Des commissaires aux comptes ;
+
+8° La date du dépôt au greffe des statuts, le titre et la date du journal où a été publié l'avis de constitution de la
+société.
+
+L'avis inséré au Bulletin officiel des annonces civiles et commerciales prévu par l'article 73 du décret n° 84-406 du 30 mai
+1984 relatif au registre du commerce et des sociétés contient le numéro d'immatriculation de la société et les indications
+énumérées aux 1°, 3°, 4°, 5° et 7° ci-dessus. Les coopératives d'utilisation en commun de matériel agricole et les
+coopératives de production animale en commun, quel que soit le nombre de leurs membres, sont dispensées des avis à insérer au
+bulletin officiel des annonces civiles et commerciales prévus aux articles 73, 74 et 75 du décret n° 84-406 du 30 mai 1984
+relatif au registre du commerce et des sociétés.
+
+Les indications prévues aux deux alinéas précédents remplacent pour les sociétés coopératives agricoles et leurs unions
+celles prévues par les articles 15 et 73 du décret n° 84-406 du 30 mai 1984 relatif au registre du commerce et des sociétés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°81-277 1981-03-03 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°84-407 1984-05-30 art. 1 JORF 31 mai 1984
+
+_Cite_:
+
+  - Décret n°84-406 du 30 mai 1984 - art. 15 (M)
+  - Décret n°84-406 du 30 mai 1984 - art. 73 (M)
+  - Décret n°84-406 du 30 mai 1984 - art. 74 (M)
+  - Décret n°84-406 du 30 mai 1984 - art. 75 (M)
+
+_Cité par_:
+
+  - Code rural - art. R582-9 (V)
 
 
 ###### Article R*521-10
