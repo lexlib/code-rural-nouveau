@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1994-07-16
+Version Consolidée au 1994-07-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -88407,7 +88407,8 @@ pour l'ouverture des droits aux prestations de l'assurance maladie ;
 
 4. Les anciens exploitants et leurs conjoints mentionnés à l'article 1106-1 (I, 3°) du code rural, ainsi que les anciens
 exploitants bénéficiaires d'une indemnité annuelle de départ ou d'une indemnité viagère de départ prévues par l'article 27 de
-la loi du 8 août 1962 et les conjoints de ces derniers.
+la loi du 8 août 1962, ou d'un régime de préretraite conforme aux dispositions du décret n° 92-187 du 27 février 1992 et les
+conjoints de ces derniers.
 
 Sont également électeurs les ressortissants des Etats membres de la Communauté économique européenne qui appartiennent à
 l'une des catégories définies au présent article et remplissent les conditions requises pour être inscrits sur les listes
@@ -88423,7 +88424,8 @@ _Cite_:
   - Décret n°61-294 du 31 mars 1961 - art. 6 (M)
   - Loi n°62-917 1962-08-08 art. 27
   - Loi n°73-650 1973-07-13
-  - Code rural 1106-1, 1025, L411-3, L411-4
+  - Décret n°92-187 1992-02-27
+  - Code rural 1106-1, 1025, 809
 
 _Codifié par_:
 
@@ -88431,7 +88433,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°94-623 du 18 juillet 1994 - art. 1 () JORF 23 juillet 1994
 
 _Cité par_:
 
@@ -88680,19 +88682,14 @@ _Modifié par_:
 
 ###### Article R*511-15
 
-Avant le 1er mars de l'année précédant celle des élections des membres de la chambre d'agriculture, le commissaire de la
+Avant le 1er septembre de l'année précédant celle des élections des membres de la chambre d'agriculture, le commissaire de la
 République fait afficher dans toutes les communes du département un avis annonçant l'établissement des listes électorales.
 
 Cet avis énumère les divers collèges d'électeurs mentionnés à l'article R. 511-6. Il invite, en outre, quiconque prétend à
-l'exercice du droit de vote à faire parvenir, avant le 1er avril, sa demande d'inscription sur la liste électorale, à la
+l'exercice du droit de vote à faire parvenir, avant le 1er octobre, sa demande d'inscription sur la liste électorale, à la
 mairie.
 
 **Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code rural - art. R511-27 (V)
-  - Décret n°2018-640 du 19 juillet 2018 - art. 8 (V)
 
 _Cite_:
 
@@ -88704,7 +88701,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°94-623 1994-07-18 art. 2 I, II JORF 23 juillet 1994
+  - Décret n°94-623 du 18 juillet 1994 - art. 2 () JORF 23 juillet 1994
+
+_Cité par_:
+
+  - Décret n°2018-640 du 19 juillet 2018 - art. 8 (V)
+  - Code rural - art. R511-27 (V)
 
 
 ###### Article R*511-16
@@ -88739,12 +88742,12 @@ _Cité par_:
 
 ###### Article R*511-17
 
-Cette commission prépare avant le 15 avril la liste des électeurs en prenant pour base la dernière liste établie compte tenu
-des rectifications et des mises à jour, des demandes d'inscriptions au vu des dispositions prévues à l'article R. 511-9. Elle
-inscrit d'office les électeurs dont la capacité électorale lui est connue, même s'ils n'ont pas demandé leur inscription, et
-procède aux radiations. Elle inscrit également sur cette liste les personnes qui rempliront les conditions requises avant la
-clôture définitive de la liste. Elle peut exiger des intéressés toute pièce de nature à justifier de leur qualité pour être
-inscrits sur la liste électorale.
+Cette commission prépare avant le 15 octobre la liste des électeurs en prenant pour base la dernière liste établie compte
+tenu des rectifications et des mises à jour, des demandes d'inscriptions au vu des dispositions prévues à l'article R. 511-9.
+Elle inscrit d'office les électeurs dont la capacité électorale lui est connue, même s'ils n'ont pas demandé leur
+inscription, et procède aux radiations. Elle inscrit également sur cette liste les personnes qui rempliront les conditions
+requises avant la clôture définitive de la liste. Elle peut exiger des intéressés toute pièce de nature à justifier de leur
+qualité pour être inscrits sur la liste électorale.
 
 La commission communale tient un registre de toutes ses décisions et y mentionne les motifs et pièces à l'appui.
 
@@ -88760,7 +88763,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°94-623 du 18 juillet 1994 - art. 2 () JORF 23 juillet 1994
 
 _Cité par_:
 
@@ -88787,10 +88790,10 @@ _Modifié par_:
 
 ###### Article R*511-19
 
-Entre le 1er avril et le 14 avril, la commission communale dresse la liste électorale. Elle se prononce avant le 14 avril sur
-les observations formulées en application de l'article précédent et notifie dans les formes et délais mentionnés à l'article
-R. 511-18 sa décision en informant l'intéressé qu'il pourra contester la décision devant la commission départementale prévue
-à l'article R. 511-21 dans les dix jours de la publication de la liste.
+Entre le 1er octobre et le 14 octobre, la commission communale dresse la liste électorale. Elle se prononce avant le 14
+octobre sur les observations formulées en application de l'article précédent et notifie dans les formes et délais mentionnés
+à l'article R. 511-18 sa décision en informant l'intéressé qu'il pourra contester la décision devant la commission
+départementale prévue à l'article R. 511-21 dans les dix jours de la publication de la liste.
 
 **Liens relatifs à cet article**
 
@@ -88804,13 +88807,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°94-623 du 18 juillet 1994 - art. 2 () JORF 23 juillet 1994
 
 
 ###### Article R*511-20
 
 La liste électorale signée de tous les membres de la commission communale est déposée au secrétariat de la mairie le 15
-avril.
+octobre.
 
 Le jour même du dépôt, la liste électorale est affichée par le maire aux lieux accoutumés où elle devra demeurer dix jours.
 
@@ -88825,7 +88828,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°94-623 du 18 juillet 1994 - art. 2 () JORF 23 juillet 1994
 
 _Cité par_:
 
@@ -88881,12 +88884,12 @@ _Cité par_:
 
 ###### Article R*511-22
 
-Avant le 25 avril, toute personne indûment omise peut demander son inscription à la commission départementale et tout
+Avant le 25 octobre, toute personne indûment omise peut demander son inscription à la commission départementale et tout
 électeur inscrit sur une des listes du département peut demander l'inscription d'une personne indûment omise ou la radiation
 d'une personne indûment inscrite. Les réclamations sont adressées au président de la commission départementale par lettre
 recommandée avec demande d'avis de réception.
 
-Avant le 15 mai, la commission départementale statue sur les réclamations.
+Avant le 15 novembre, la commission départementale statue sur les réclamations.
 
 Lorsque la commission départementale inscrit d'office un nouvel électeur, refuse d'inscrire un électeur ou radie d'office un
 électeur pour d'autres causes que le décès, cette décision est notifiée dans les deux jours à l'intéressé par lettre
@@ -88896,7 +88899,7 @@ qu'il dispose d'un délai de quarante-huit heures pour présenter des observatio
 Ces décisions de la commission départementale sont également communiquées, dans les mêmes formes aux commissions communales
 concernées.
 
-Avant le 31 mai, sont déposés à la diligence du commissaire de la République :
+Avant le 30 novembre, sont déposés à la diligence du commissaire de la République :
 
 A la mairie, un exemplaire de chacune des listes électorales qui servent de liste d'émargement ;
 
@@ -88916,7 +88919,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°94-623 du 18 juillet 1994 - art. 2 () JORF 23 juillet 1994
 
 _Cité par_:
 
@@ -89859,14 +89862,14 @@ Dans les dix jours à compter de la date soit de la notification à l'administra
 la chambre d'agriculture, soit de la réception de l'avis prévu à l'article R. 511-52, le commissaire de la République fait
 afficher dans les communes l'avis annonçant la révision des listes électorales prévu au 1er alinéa de l'article R. 511-15.
 
-Les dates des 1er avril et 14 avril mentionnées aux articles R. 511-15 et R. 511-19 sont remplacées respectivement par le
+Les dates des 1er octobre et 14 octobre mentionnées aux articles R. 511-15 et R. 511-19 sont remplacées respectivement par le
 troisième et le quatrième dimanche suivant l'affichage mentionné à l'alinéa précédent.
 
-La date du 15 avril mentionnée aux articles R. 511-17 et R. 511-20 est remplacée par le lendemain du quatrième dimanche
+La date du 15 octobre mentionnée aux articles R. 511-17 et R. 511-20 est remplacée par le lendemain du quatrième dimanche
 suivant ledit affichage.
 
-Les dates des 25 avril, 15 mai et 31 mai mentionnées à l'article R. 511-22 sont remplacées respectivement par les cinquième,
-septième et huitième dimanches suivant le même affichage.
+Les dates des 25 octobre, 15 novembre et 30 novembre mentionnées à l'article R. 511-22 sont remplacées respectivement par les
+cinquième, septième et huitième dimanches suivant le même affichage.
 
 Les dates des 1er novembre, 15 novembre et 15 décembre mentionnées aux articles R. 511-27 et R. 511-29 sont remplacées
 respectivement par le sixième, septième et neuvième dimanches suivant le même affichage.
@@ -89886,7 +89889,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°94-623 du 18 juillet 1994 - art. 2 () JORF 23 juillet 1994
 
 _Cité par_:
 
@@ -91759,15 +91762,21 @@ _Cité par_:
 
 ###### Article R*512-4
 
-L'élection des membres des chambres régionales d'agriculture a lieu dans les conditions prévues par l'article R. 511-43.
-Toutefois, au cas où un second tour est nécessaire, il n'est pas exigé qu'il ait lieu le septième jour suivant le premier
-tour. Les listes de candidats doivent comporter un nombre de noms égal à celui des membres à désigner dans le collège
-concerné.
+L'élection des membres des chambres régionales d'agriculture a lieu dans les conditions prévues par l'article R. 511-43. Les
+listes de candidats doivent comporter un nombre de noms égal à celui des membres à désigner dans le collège concerné.
 
 Les membres des chambres régionales sont élus pour six ans par les membres des chambres départementales lors de la première
 session ordinaire suivant le renouvellement de ces derniers. Leur mandat est renouvelable.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°94-623 du 18 juillet 1994 - art. 3 () JORF 23 juillet 1994
 
 _Cité par_:
 
@@ -91779,14 +91788,6 @@ _Cité par_:
 _Cite_:
 
   - Code rural R511-43
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*512-5
