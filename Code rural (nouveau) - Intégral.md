@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1995-04-11
+Version Consolidée au 1995-04-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -509,12 +509,12 @@ Version Consolidée au 1995-04-11
           - [Section 1 : Demandes individuelles. (art. R*125-2 à R125-4)](#506)
           - [Section 2 : Initiatives publiques. (art. R*125-5 à R125-9)](#507)
           - [Section 3 : Dispositions communes. (art. R*125-13 à R125-14)](#508)
-        - [Chapitre VI : Aménagement agricole et forestier (art. R*126-1 à R126-35)](#509)
+        - [Chapitre VI : Aménagement agricole et forestier (art. R*126-1 à R126-38)](#509)
           - [Section 1 : Interdiction et réglementation des plantations et des semis d'essences forestières. (art. R*126-1 à R*126-10-1)](#510)
           - [Section 2 : Périmètres d'actions forestières. (art. R*126-11 à R*126-16)](#511)
           - [Section 3 : Zones dégradées. (art. R*126-17 à R*126-20)](#512)
           - [Section 4 : Aménagement foncier agricole et forestier. (art. R*126-21 à R*126-32)](#513)
-          - [Section 5 : Protection des boisements linéaires, haies et plantations d'alignements. (art. R*126-34 à R126-35)](#514)
+          - [Section 5 : Protection des boisements linéaires, haies et plantations d'alignements. (art. R*126-34 à R126-38)](#514)
         - [Chapitre VII : Dispositions diverses et communes (art. R127-1 à R127-13)](#515)
         - [Chapitre VIII : Dispositions particulières à certaines collectivités territoriales (art. R128-1 à R128-10)](#516)
           - [Section 3 : Dispositions particulières aux départements d'outre-mer. (art. R128-1 à R128-10)](#517)
@@ -50193,6 +50193,55 @@ _Créé par_:
   - Décret n°95-88 du 27 janvier 1995 - art. 15 () JORF 28 janvier 1995
 
 
+###### Article R*126-36
+
+Les boisements linéaires, haies et plantations d'alignement susceptibles d'être protégés en application de l'article L. 126-6
+du code rural :
+
+a) Sont constitués d'espèces ligneuses buissonnantes et de haute tige figurant sur une liste fixée par arrêté du ministre
+chargé des forêts. Ils sont structurés selon des modalités fixées par ce même arrêté ;
+
+b) Doivent avoir une surface minimale de 500 mètres carrés. La surface des haies est égale au produit de leur longueur par
+une largeur forfaitaire, fixée à cinq mètres pour les haies constituées d'espèces buissonnantes et à dix mètres pour les
+haies d'arbres de haute tige.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L126-6
+
+_Codifié par_:
+
+  - Décret n°92-1290 1992-12-11
+
+_Créé par_:
+
+  - Décret n°95-488 du 28 avril 1995 - art. 1 () JORF 30 avril 1995
+
+
+###### Article R*126-37
+
+L'emprise et l'indication des parcelles cadastrales sur lesquelles sont situés les boisements linéaires, haies ou plantations
+d'alignement, dont la protection est prononcée, doivent être matérialisées sur un plan parcellaire annexé à l'arrêté
+préfectoral prononçant la protection ou sur le plan des aménagements fonciers prévu à l'article L. 121-21. L'arrêté précise
+les éléments techniques visés à l'article ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L121-21
+
+_Codifié par_:
+
+  - Décret n°92-1290 1992-12-11
+
+_Créé par_:
+
+  - Décret n°95-488 du 28 avril 1995 - art. 1 () JORF 30 avril 1995
+
+
 ###### Article R126-33
 
 La demande de protection d'éléments végétaux formée, en application de l'article L. 126-6 du présent code, par le
@@ -50240,6 +50289,29 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°95-88 du 27 janvier 1995 - art. 15 () JORF 28 janvier 1995
+
+
+###### Article R126-38
+
+Les boisements linéaires, haies ou plantations d'alignement nouvellement protégés doivent être portés à la connaissance de
+l'administration des impôts dans les formes et délais définis à l'article 1406 du code général des impôts.
+
+Les emprises ainsi créées, matérialisées dans les conditions prévues à l'article ci-dessus, seront considérées comme nature
+de culture se rapportant au groupe des bois.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1406
+
+_Codifié par_:
+
+  - Décret n°92-1290 1992-12-11
+
+_Créé par_:
+
+  - Décret n°95-488 du 28 avril 1995 - art. 1 () JORF 30 avril 1995
 
 
 #### Chapitre VII : Dispositions diverses et communes<a id=515></a>
