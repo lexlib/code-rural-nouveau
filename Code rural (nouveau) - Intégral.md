@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1989-12-17
+Version Consolidée au 1990-01-25
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L262-1)](#2)
@@ -32,7 +32,7 @@ Version Consolidée au 1989-12-17
             - [Sous-section 5 : Réserves et garderie. (art. L222-21)](#29)
             - [Sous-section 6 : Association intercommunale de chasse agréée. (art. L222-22)](#30)
             - [Sous-section 7 : Dispositions diverses. (art. L222-23 à L222-24)](#31)
-          - [Section 2 : Réserves de chasse. (art. L222-25 à L222-26)](#32)
+          - [Section 2 : Réserves de chasse. (art. L222-25)](#32)
           - [Section 3 : Chasse maritime. (art. L222-27)](#33)
         - [Chapitre III : Permis de chasser. (art. L223-1 à L223-23)](#34)
           - [Section 1 : Examen pour la délivrance du permis de chasser. (art. L223-3 à L223-5)](#35)
@@ -2419,69 +2419,27 @@ _Nouveaux textes_:
 
 ###### Article L222-25
 
-Sur proposition des fédérations des chasseurs, le ministre chargé de la chasse arrête la liste des départements où peuvent
-être créées des réserves communales de chasse.
-
-Sur proposition de la fédération des chasseurs, et après avis du conseil municipal, du conseil général et de la chambre
-d'agriculture, un arrêté du ministre chargé de la chasse établit pour chacun de ces départements la liste des communes dans
-lesquelles il sera créé obligatoirement une réserve de chasse avec indication pour chaque commune de la superficie minima de
-cette réserve.
-
-L'emplacement des réserves est déterminé d'accord avec l'association communale de chasse et les détenteurs du droit de
-chasse. A défaut d'accord, il est procédé par rotation tous les quatre ans.
-
-Toutefois, les territoires de plus de cinquante hectares, dans lesquels la chasse est effectivement aménagée et exploitée
-pour assurer une conservation et une reproduction effectives du gibier, ne peuvent être inclus dans la réserve sans le
-consentement écrit des propriétaires. Au cas de difficulté, le représentant de l'Etat dans le département statuera sur avis
-du directeur départemental de l'agriculture et de la forêt.
-
-La chasse est interdite en tout temps sur les réserves communales de chasse. Toutefois, les captures de gibier peuvent être
-autorisées par arrêté du représentant de l'Etat dans le département pris sur avis du directeur départemental de l'agriculture
-et de la forêt et du président de la fédération des chasseurs.
-
-Un décret en Conseil d'Etat fixera les modalités d'application du présent article.
+Un décret en Conseil d'Etat fixe les conditions d'institution et de fonctionnement des réserves de chasse. Il détermine
+notamment les conditions dans lesquelles sont prises les mesures propres à prévenir les dommages aux activités humaines, à
+favoriser la protection du gibier et de ses habitats, à maintenir les équilibres biologiques.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Code rural 373-1
-
-_Créé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Codifié par_:
-
-  - Loi n°91-363 1991-04-15
-
-
-###### Article L222-26
-
-Un décret en Conseil d'Etat peut prévoir la constitution de réserves de chasse dans les zones définies à l'article L. 222-27
-concernant la chasse maritime.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L222-27
-
-_Créé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
-
-_Anciens textes_:
-
-  - Loi n°69-918 1969-10-24 art. 11
-
-_Abrogé par_:
+_Modifié par_:
 
   - Loi n°90-85 du 23 janvier 1990 - art. 59 () JORF 25 janvier 1990
 
 _Codifié par_:
 
   - Loi n°91-363 1991-04-15
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+_Nouveaux textes_:
+
+  - Code de l'environnement - art. L422-27 (M)
 
 
 ##### Section 3 : Chasse maritime.<a id=33></a>
@@ -3086,18 +3044,14 @@ _Cité par_:
 
 ###### Article L223-17
 
-Les étrangers non résidents titulaires d'un permis de chasser dûment visé ne pourront valider leur permis qu'en payant la
-redevance cynégétique nationale.
+Les étrangers non ressortissants d'un Etat membre de la Communauté économique européenne et non résidents, titulaires d'un
+permis de chasser dûment visé, ne peuvent valider leur permis qu'en payant la redevance cynégétique nationale.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code rural 366 bis II al. 3
-
-_Créé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
+  - Loi n°90-85 du 23 janvier 1990 - art. 58 () JORF 25 janvier 1990
 
 _Codifié par_:
 
@@ -3108,17 +3062,19 @@ _Codifié par_:
 
 ###### Article L223-18
 
-Les étrangers non-résidents qui en font la demande sont autorisés à chasser sous réserve d'être titulaires et porteurs d'une
-licence de chasse délivrée à titre onéreux pour une durée de quarante-huit heures, par l'autorité administrative, sur
-présentation de l'attestation d'assurance mentionnée à l'article L. 223-13.
+Les étrangers non ressortissant sont autorisés à chasser sous réserve d'être titulaires et porteurs d'une licence de chasse
+délivrée pour une durée de neuf jours consécutifs par l'autorité administrative, sur présentation de l'attestation
+d'assurance mentionnée à l'article L. 223-13.
 
-Il ne pourra être attribué, au cours d'une année, plus de deux licences à une même personne.
+La délivrance de la licence donne lieu au paiement de la redevance cynégétique nationale.
+
+Il ne pourra être attribué annuellement plus de deux licences à une même personne.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
+  - Loi n°90-85 du 23 janvier 1990 - art. 58 () JORF 25 janvier 1990
 
 _Codifié par_:
 
@@ -3130,10 +3086,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 64 (Ab)
   - Code rural - art. L228-6 (V)
   - Code rural et de la pêche maritime - art. L272-2 (V)
-
-_Anciens textes_:
-
-  - Code rural 366 bis II al. 1, al. 2
 
 _Cite_:
 
@@ -7384,7 +7336,7 @@ _Nouveaux textes_:
 
 ###### Article L231-8
 
-A compter du 1er janvier 1990, pourront seuls bénéficier des dispositions de l'article L. 231-7 les titulaires de droits,
+A compter du 1er janvier 1991, pourront seuls bénéficier des dispositions de l'article L. 231-7 les titulaires de droits,
 concessions ou autorisations qui en auront fait la déclaration auprès de l'autorité administrative.
 
 **Liens relatifs à cet article**
@@ -7393,13 +7345,9 @@ _Cite_:
 
   - Code rural L231-7
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°84-512 du 29 juin 1984 - art. 7 (M)
-
-_Créé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
+  - Loi n°90-85 du 23 janvier 1990 - art. 88 () JORF 25 janvier 1990
 
 _Codifié par_:
 
@@ -13304,18 +13252,27 @@ _Cité par_:
 
 ###### Article L411-30
 
-Si les biens qui sont compris dans le bail sont détruits en totalité par cas fortuit, le bail est résilié de plein droit.
-S'ils ne sont détruits qu'en partie, le bailleur peut se refuser à faire les réparations nécessaires pour les remplacer ou
-les rétablir ; dans ce cas, le preneur peut demander une diminution du prix du bail.
+I.-Lorsque la totalité des biens compris dans le bail sont détruits intégralement par cas fortuit, le bail est résilié de
+plein droit. 
 
-Le preneur peut demander la résiliation dès lors qu'en raison des destructions, l'équilibre économique de l'exploitation du
-bien est gravement compromis.
+II.-Lorsqu'un bien compris dans le bail est détruit, en partie ou en totalité, par cas fortuit et que cette destruction
+compromet gravement l'équilibre économique de l'exploitation, le bailleur est tenu, si le preneur le demande, de
+reconstruire, à due concurrence des sommes versées par les compagnies d'assurance, ce bâtiment ou un bâtiment équivalent. 
+
+Si la dépense excède le montant des sommes ainsi versées, le bailleur peut prendre à sa charge la totalité des frais engagés
+par la reconstruction et proposer au preneur une augmentation du prix du bail. Dans le cas où le preneur n'accepte pas
+l'augmentation proposée, le tribunal paritaire des baux ruraux, sur saisine de la partie la plus diligente, fixe le nouveau
+montant du bail. 
+
+III.-Dans le cas où le preneur participe au financement des dépenses de reconstruction, il est fait application des
+dispositions des articles L. 411-69, L. 411-70 et L. 411-71. Si le bien n'est pas reconstruit, le preneur peut demander la
+résiliation du bail.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+  - Loi n°90-85 du 23 janvier 1990 - art. 41 () JORF 25 janvier 1990
 
 _Codifié par_:
 
@@ -13324,6 +13281,10 @@ _Codifié par_:
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 38 sexdecies J (V)
+
+_Cite_:
+
+  - Code rural - art. L411-69 (V)
 
 
 ###### Article L411-31
@@ -13818,14 +13779,17 @@ Le preneur a droit au renouvellement du bail, nonobstant toutes clauses, stipula
 le bailleur ne justifie de l'un des motifs graves et légitimes mentionnés à l'article L. 411-53 ou n'invoque le droit de
 reprise dans les conditions prévues aux articles L. 411-57 à L. 411-63, L. 411-66 et L. 411-67.
 
-Le preneur doit réunir les mêmes conditions d'exploitation et d'habitation que celles exigées du bénéficiaire du droit de
-reprise en fin de bail à l'article L. 411-59.
+En cas de départ de l'un des conjoints copreneurs du bail, le conjoint qui poursuit l'exploitation a droit au renouvellement
+du bail.
+
+Le preneur et le copreneur visé à l'alinéa précédent doivent réunir les mêmes conditions d'exploitation et d'habitation que
+celles exigées du bénéficiaire du droit de reprise en fin de bail à l'article L. 411-59.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+  - Loi n°90-85 du 23 janvier 1990 - art. 42 () JORF 25 janvier 1990
 
 _Codifié par_:
 
@@ -14384,16 +14348,13 @@ _Cite_:
 
 ###### Article L411-64
 
-Durant la période d'intervention du fonds d'action sociale pour l'amélioration des structures agricoles, le droit de reprise,
-tel qu'il est prévu aux articles L. 411-58 à L. 411-63, L. 411-66 et L. 411-67 ne peut être exercé au profit d'une personne
-ayant atteint, à la date prévue pour la reprise, l'âge de la retraite retenu en matière d'assurance vieillesse des
-exploitants agricoles, sauf s'il s'agit, pour le bénéficiaire du droit de reprise, de constituer une exploitation ayant une
-superficie au plus égale à la surface minimum susceptible d'ouvrir droit au complément de retraite mentionné à l'article 27
-de la loi du 8 août 1962 complémentaire à la loi d'orientation agricole.
-
-Pendant la même période et si la superficie de l'exploitation ou des exploitations mises en valeur par le preneur est
-supérieure à la surface minimum susceptible d'ouvrir droit au complément de retraite mentionné à l'article 27 de la loi
-précitée du 8 août 1962, le bailleur peut par dérogation aux articles L. 411-5 et L. 411-46 :
+Le droit de reprise, tel qu'il est prévu aux articles L. 411-58 à L. 411-63, L. 411-66 et L. 411-67 ne peut être exercé au
+profit d'une personne ayant atteint, à la date prévue pour la reprise, l'âge de la retraite retenu en matière d'assurance
+vieillesse des exploitants agricoles, sauf s'il s'agit, pour le bénéficiaire du droit de reprise, de constituer une
+exploitation ayant une superficie au plus égale à la surface fixée en application de l'article 11 de la loi n° 86-19 du 6
+janvier 1986 relative à l'abaissement à soixante ans de l'âge de la retraite des personnes non salariées des professions
+agricoles. Si la superficie de l'exploitation ou des exploitations mises en valeur par le preneur est supérieure à cette
+limite, le bailleur peut, par dérogation aux articles L. 411-5 et L. 411-46 :
 
 - soit refuser le renouvellement du bail au preneur ayant atteint l'âge de la retraite retenu en matière d'assurance
 vieillesse des exploitants agricoles ;
@@ -14402,21 +14363,14 @@ vieillesse des exploitants agricoles ;
 
 Dans les deux cas ci-dessus, le bailleur doit prévenir le preneur de son intention de refuser le renouvellement du bail ou
 d'y mettre fin par acte extrajudiciaire signifié au moins dix-huit mois à l'avance. Les dispositions du précédent alinéa sont
-applicables, que le propriétaire entende aliéner ou donner à bail à un preneur âgé de moins de soixante ans ou d'exploiter en
+applicables que le propriétaire entende aliéner ou donner à bail à un preneur âgé de moins de soixante ans ou exploiter en
 faire-valoir direct. Dans ce dernier cas, sauf s'il s'agit pour le bailleur de constituer une exploitation dans les
 conditions prévues au premier alinéa du présent article, il ne doit pas avoir atteint l'âge de la retraite à l'expiration du
 bail.
 
-Le preneur ainsi évincé, qui ne se réinstalle pas comme exploitant agricole, est réputé remplir les conditions pour
-bénéficier du complément de retraite alloué en application des dispositions de l'article 27 de la loi du 8 août 1962
-complémentaire à la loi d'orientation agricole.
-
-Lorsque le preneur a plusieurs bailleurs, il est réputé évincé, au sens de l'alinéa précédent, s'il a reçu congé pour des
-parcelles correspondant aux deux tiers de la superficie totale des biens loués et s'il renonce à exploiter le dernier tiers,
-à condition de signifier cette décision au bailleur par acte extrajudiciaire au moins dix-huit mois à l'avance.
-
-Le preneur évincé en raison de son âge peut céder son bail à l'un de ses enfants ou petits-enfants majeurs dans les
-conditions prévues à l'article L. 411-35. Le bénéficiaire de la cession a droit au renouvellement de son bail.
+Le preneur évincé en raison de son âge peut céder son bail à son conjoint participant à l'exploitation ou à l'un de ses
+descendants ayant atteint l'âge de la majorité ou ayant été émancipé, dans les conditions prévues à l'article L. 411-35. Le
+bénéficiaire de la cession a droit au renouvellement de son bail.
 
 A peine de nullité, le congé donné en vertu du présent article doit reproduire les termes de l'alinéa précédent.
 
@@ -14425,11 +14379,11 @@ A peine de nullité, le congé donné en vertu du présent article doit reprodui
 _Cite_:
 
   - Code rural L411-58 à L411-63, L411-66, L411-67, L411-5, L411-46, L411-35
-  - Loi n°62-933 1962-08-08 art. 27
+  - Loi n°86-19 1986-01-06 art. 11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+  - Loi n°90-85 du 23 janvier 1990 - art. 43 () JORF 25 janvier 1990
 
 _Codifié par_:
 
@@ -14845,9 +14799,9 @@ Pour le paiement de l'indemnité, le juge peut, par dérogation aux dispositions
 bailleur des délais excédant une année.
 
 Toutefois, aucun délai ne peut être accordé lorsque le bailleur invoque le bénéfice des articles L. 411-5 à L. 411-7, L.
-411-8 (alinéa 1), L. 411-57 à L. 411-64, L. 411-67 et L. 415-11, premier alinéa. Dans ce cas, chacune des parties peut, à
-partir de la notification du congé, et indépendamment de toute action sur le fond, saisir le tribunal paritaire en vue
-d'obtenir la fixation de cette indemnité.
+411-57 à L. 411-64, L. 411-67 et L. 415-11, premier alinéa. Dans ce cas, chacune des parties peut, à partir de la
+notification du congé, et indépendamment de toute action sur le fond, saisir le tribunal paritaire en vue d'obtenir la
+fixation de cette indemnité.
 
 S'il apparaît que le preneur est en droit de prétendre à une indemnité et si celle-ci n'a pas été définitivement fixée un an
 avant l'expiration du bail, la partie la plus diligente peut saisir le président du tribunal paritaire statuant en la forme
@@ -14868,11 +14822,11 @@ d'entrée du preneur sortant.
 _Cite_:
 
   - Code civil - art. 1244 (M)
-  - Code rural L411-5 à L411-7, L411-8, L411-57 à L411-64, L411-67, L415-11, L411-12
+  - Code rural L411-5 à L411-7, L411-57 à L411-64, L411-67, L415-11, L411-12
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+  - Loi n°90-85 du 23 janvier 1990 - art. 38 () JORF 25 janvier 1990
 
 _Codifié par_:
 
