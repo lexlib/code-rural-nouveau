@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1990-09-29
+Version Consolidée au 1990-09-30
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L262-1)](#2)
@@ -60,674 +60,720 @@ Version Consolidée au 1990-09-29
           - [Section 1 : Mesures administratives (art. L227-1 à L227-7)](#57)
             - [Sous-section 1 : Louveterie. (art. L227-1 à L227-3)](#58)
             - [Sous-section 2 : Battues administratives. (art. L227-4 à L227-7)](#59)
-          - [Section 2 : Droits des particuliers. (art. L227-8 à L227-9)](#60)
-          - [Section 3 : Commercialisation et transport. (art. L227-10)](#61)
-        - [Chapitre VIII : Dispositions pénales (art. L228-1 à L228-44)](#62)
-          - [Section 1 : Peines (art. L228-1 à L228-8)](#63)
-            - [Sous-section 1 : Territoire. (art. L228-1 à L228-2)](#64)
-            - [Sous-section 2 : Permis de chasser. (art. L228-3 à L228-4)](#65)
-            - [Sous-section 3 : Exercice de la chasse (art. L228-5 à L228-8)](#66)
-              - [Paragraphe 2 : Temps de chasse. (art. L228-5)](#67)
-              - [Paragraphe 3 : Modes et moyens. (art. L228-6)](#68)
-              - [Paragraphe 4 : Transport et commercialisation du gibier. (art. L228-7 à L228-8)](#69)
-          - [Section 2 : Circonstances aggravantes et récidive. (art. L228-9 à L228-13)](#70)
-          - [Section 3 : Peines accessoires (art. L228-14 à L228-25)](#71)
-            - [Sous-section 1 : Confiscation. (art. L228-14 à L228-18)](#72)
-            - [Sous-section 2 : Frais de visa et validation du permis de chasser. (art. L228-19 à L228-20)](#73)
-            - [Sous-section 3 : Retrait et suspension du permis de chasser (art. L228-21 à L228-24)](#74)
-              - [Paragraphe 1 : Retrait. (art. L228-21)](#75)
-              - [Paragraphe 2 : Suspension. (art. L228-22 à L228-24)](#76)
-            - [Sous-section 4 : Suspension du permis de conduire. (art. L228-25)](#77)
-          - [Section 4 : Constatation et poursuites (art. L228-26 à L228-44)](#78)
-            - [Sous-section 1 : Constatation des infractions. (art. L228-26 à L228-34)](#79)
-            - [Sous-section 2 : Recherche des infractions. (art. L228-35 à L228-40)](#80)
-            - [Sous-section 3 : Poursuites. (art. L228-41)](#81)
-            - [Sous-section 4 : Règles d'application des peines. (art. L228-42 à L228-44)](#82)
-        - [Chapitre IX : Dispositions particulières aux départements du Bas-Rhin du Haut-Rhin et de la Moselle. (art. L229-1 à L229-37)](#83)
-          - [Section 1 : Administration de la chasse sur le ban communal (art. L229-2 à L229-15)](#84)
-            - [Sous-section 1 : Ban communal. (art. L229-2 à L229-4)](#85)
-            - [Sous-section 2 : Exploitation du droit de chasse. (art. L229-5 à L229-6)](#86)
-            - [Sous-section 3 : Produit de la location du droit de chasse. (art. L229-7 à L229-11)](#87)
-            - [Sous-section 4 : Adjudication. (art. L229-12 à L229-13)](#88)
-            - [Sous-section 5 : Enclaves. (art. L229-14)](#89)
-            - [Sous-section 6 : Dispositions diverses. (art. L229-15)](#90)
-          - [Section 2 : Exercice de la chasse (art. L229-16 à L229-19)](#91)
-            - [Sous-section 1 : Temps de chasse. (art. L229-16)](#92)
-            - [Sous-section 2 : Modes et moyens de chasse. (art. L229-17)](#93)
-            - [Sous-section 3 : Commercialisation et transport du gibier. (art. L229-18 à L229-19)](#94)
-          - [Section 4 : Indemnisation des dégâts de gibier. (art. L229-20 à L229-29)](#95)
-            - [Sous-section 1 : Indemnisation des dégâts de gibier autre que le sanglier. (art. L229-23)](#96)
-            - [Sous-section 2 : Indemnisation des dégâts causés par les sangliers. (art. L229-24 à L229-29)](#97)
-          - [Section 5 : Pénalités (art. L229-30 à L229-37)](#98)
-            - [Sous-section 1 : Peines (art. L229-30 à L229-34)](#99)
-              - [Paragraphe 1 : Territoire. (art. L229-30 à L229-33)](#100)
-              - [Paragraphe 2 : Exercice de la chasse. (art. L229-34)](#101)
-            - [Sous-section 2 : Récidive. (art. L229-35)](#102)
-            - [Sous-section 3 : Peines accessoires. (art. L229-36 à L229-37)](#103)
-      - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. L230-1 à L239-1)](#104)
-        - [Chapitre Ier : Champ d'application (art. L231-1 à L231-8)](#105)
-          - [Section 1 : Dispositions générales. (art. L231-1 à L231-5)](#106)
-          - [Section 2 : Piscicultures. (art. L231-6 à L231-8)](#107)
-        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. L232-1 à L232-12)](#108)
-          - [Section 1 : Obligations générales. (art. L232-1)](#109)
-          - [Section 2 : Protection de la faune piscicole et de son habitat. (art. L232-2 à L232-4)](#110)
-          - [Section 3 : Obligations relatives aux ouvrages. (art. L232-5 à L232-9)](#111)
-          - [Section 4 : Contrôle des peuplements. (art. L232-10 à L232-12)](#112)
-        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. L233-1 à L233-3)](#113)
-          - [Section 1 : Orientations de bassin. (art. L233-1)](#114)
-          - [Section 2 : Schéma départemental de vocation piscicole. (art. L233-2)](#115)
-          - [Section 3 : Obligation de gestion. (art. L233-3)](#116)
-        - [Chapitre IV : Organisation des pêcheurs (art. L234-1 à L234-6)](#117)
-          - [Section 1 : Conseil supérieur de la pêche. (art. L234-1 à L234-2)](#118)
-          - [Section 2 : Pêche de loisir. (art. L234-3 à L234-5)](#119)
-          - [Section 3 : Pêche professionnelle. (art. L234-6)](#120)
-        - [Chapitre V : Droit de pêche (art. L235-1 à L235-9)](#121)
-          - [Section 1 : Droit de pêche de l'Etat. (art. L235-1 à L235-3)](#122)
-          - [Section 2 : Droit de pêche des riverains. (art. L235-4 à L235-5)](#123)
-          - [Section 3 : Droit de passage. (art. L235-6 à L235-9)](#124)
-        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. L236-1 à L236-16)](#125)
-          - [Section 1 : Dispositions générales. (art. L236-1 à L236-8)](#126)
-          - [Section 2 : Autorisations exceptionnelles. (art. L236-9)](#127)
-          - [Section 3 : Estuaires. (art. L236-10 à L236-11)](#128)
-          - [Section 4 : Réserves et interdictions permanentes de pêche. (art. L236-12)](#129)
-          - [Section 5 : Commercialisation. (art. L236-13 à L236-16)](#130)
-        - [Chapitre VII : Recherche et constatation des infractions (art. L237-1 à L237-13)](#131)
-          - [Section 1 : Agents compétents. (art. L237-1 à L237-3)](#132)
-          - [Section 2 : Procès-verbaux. (art. L237-4 à L237-5)](#133)
-          - [Section 3 : Recherche des infractions. (art. L237-6 à L237-9)](#134)
-          - [Section 4 : Saisies. (art. L237-10 à L237-12)](#135)
-          - [Section 5 : Gardes-pêche particuliers. (art. L237-13)](#136)
-        - [Chapitre VIII : Transaction - Poursuites et règles d'application des peines (art. L238-1 à L238-9)](#137)
-          - [Section 1 : Transaction. (art. L238-1)](#138)
-          - [Section 2 : Poursuites pénales. (art. L238-2 à L238-4)](#139)
-          - [Section 3 : Règles d'application des peines. (art. L238-5 à L238-8)](#140)
-          - [Section 4 : Action civile. (art. L238-9)](#141)
-        - [Chapitre IX : Dispositions d'application. (art. L239-1)](#142)
-      - [Titre IV : Espaces naturels (art. L241-1 à L243-14)](#143)
-        - [Chapitre Ier : Parcs nationaux. (art. L241-1 à L241-20)](#144)
-          - [Section 2 : Création d'un parc national. (art. L241-3 à L241-4)](#145)
-          - [Section 3 : Aménagement et gestion des parcs nationaux. (art. L241-5 à L241-9)](#146)
-          - [Section 4 : Mise en valeur des zones périphériques. (art. L241-10)](#147)
-          - [Section 5 : Réserves intégrales. (art. L241-11)](#148)
-          - [Section 6 : Indemnités. (art. L241-12)](#149)
-          - [Section 7 : Dispositions diverses. (art. L241-13)](#150)
-          - [Section 8 : Dispositions pénales (art. L241-14 à L241-20)](#151)
-            - [Sous-section 2 : Constatation et poursuites. (art. L241-14 à L241-20)](#152)
-        - [Chapitre II : Réserves naturelles (art. L242-1 à L242-27)](#153)
-          - [Section 1 : Réserves naturelles établies par décret (art. L242-1 à L242-10)](#154)
-            - [Sous-section 1 : Classement. (art. L242-1 à L242-8)](#155)
-            - [Sous-section 2 : Modifications de l'état ou de l'aspect d'une réserve naturelle. (art. L242-9)](#156)
-            - [Sous-section 3 : Modifications des limites ou de la réglementation (déclassement). (art. L242-10)](#157)
-          - [Section 2 : Réserves naturelles volontaires. (art. L242-11 à L242-12)](#158)
-          - [Section 3 : Dispositions communes (art. L242-13 à L242-19)](#159)
-            - [Sous-section 1 : Protection des réserves naturelles. (art. L242-13 à L242-14)](#160)
-            - [Sous-section 2 : Abords des réserves naturelles (art. L242-15 à L242-18)](#161)
-              - [Paragraphe 1 : Périmètres de protection. (art. L242-15 à L242-17)](#162)
-              - [Paragraphe 2 : Zones de protection. (art. L242-18)](#163)
-            - [Sous-section 3 : Réserves naturelles créées en application de la loi du 2 mai 1930. (art. L242-19)](#164)
-          - [Section 4 : Dispositions pénales (art. L242-20 à L242-27)](#165)
-            - [Sous-section 1 : Peines. (art. L242-20 à L242-23)](#166)
-            - [Sous-section 2 : Constatation et poursuites. (art. L242-24 à L242-27)](#167)
-        - [Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres (art. L243-1 à L243-14)](#168)
-          - [Section 1 : Dispositions générales. (art. L243-1 à L243-2)](#169)
-          - [Section 2 : Patrimoine du Conservatoire (art. L243-3 à L243-10)](#170)
-            - [Sous-section 1 : Constitution, aliénation. (art. L243-3 à L243-8)](#171)
-            - [Sous-section 2 : Gestion. (art. L243-9 à L243-10)](#172)
-          - [Section 3 : Administration (art. L243-11 à L243-13)](#173)
-            - [Sous-section 1 : Conseil d'administration. (art. L243-11 à L243-12)](#174)
-            - [Sous-section 2 : Conseils de rivage. (art. L243-13)](#175)
-          - [Section 4 : Dispositions financières. (art. L243-14)](#176)
-      - [Titre V : Dispositions communes à la protection de la nature (art. L252-1 à L252-4)](#177)
-        - [Chapitre II : Associations ayant pour objet la protection de la nature et de l'environnement. (art. L252-1 à L252-4)](#178)
-      - [Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon et aux terres australes et antarctiques françaises (art. L261-1 à L262-1)](#179)
-        - [Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. L261-1)](#180)
-        - [Chapitre II : Dispositions particulières aux terres australes et antarctiques françaises. (art. L262-1)](#181)
-    - [Livre IV : Baux ruraux (art. L411-1 à L481-1)](#182)
-      - [Titre Ier : Statut du fermage et du métayage (art. L411-1 à L417-15)](#183)
-        - [Chapitre Ier : Régime de droit commun (art. L411-1 à L411-78)](#184)
-          - [Section 1 : Etablissement du contrat, durée et prix du bail (art. L411-4 à L411-24)](#185)
-            - [Sous-section 1 : Etablissement du contrat. (art. L411-4)](#186)
-            - [Sous-section 2 : Durée du bail. (art. L411-5 à L411-10)](#187)
-            - [Sous-section 3 : Prix du bail. (art. L411-11 à L411-24)](#188)
-          - [Section 2 : Droits et obligations du preneur en matière d'exploitation. (art. L411-25 à L411-29)](#189)
-          - [Section 3 : Résiliation du bail. (art. L411-30 à L411-34)](#190)
-          - [Section 4 : Cession du bail et sous-location. (art. L411-35 à L411-36)](#191)
-          - [Section 5 : Adhésion à une société. (art. L411-37 à L411-38)](#192)
-          - [Section 6 : Echange et location de parcelles. (art. L411-39)](#193)
-          - [Section 7 : Dispositions particulières aux locations annuelles renouvelables. (art. L411-40 à L411-45)](#194)
-          - [Section 8 : Droit de renouvellement et droit de reprise. (art. L411-46 à L411-68)](#195)
-          - [Section 9 : Indemnité au preneur sortant. (art. L411-69 à L411-78)](#196)
-        - [Chapitre II : Droit de préemption et droit de priorité (art. L412-1 à L412-15)](#197)
-          - [Section 1 : Droit de préemption en cas d'aliénation à titre onéreux de biens ruraux. (art. L412-1 à L412-13)](#198)
-          - [Section 2 : Dispositions relatives aux baux conclus entre copartageants d'une exploitation agricole par application de l'article 832-3 du code civil. (art. L412-14 à L412-15)](#199)
-        - [Chapitre III : Dispositions particulières aux preneurs de nationalité étrangère. (art. L413-1)](#200)
-        - [Chapitre V : Dispositions diverses et d'application. (art. L415-1 à L415-12)](#201)
-        - [Chapitre VI : Dispositions particulières aux baux à long terme. (art. L416-1 à L416-9)](#202)
-        - [Chapitre VII : Dispositions particulières aux baux à colonat partiaire ou métayage (art. L417-1 à L417-15)](#203)
-          - [Section 1 : Régime du bail. (art. L417-1 à L417-10)](#204)
-          - [Section 2 : Conversion en baux à ferme. (art. L417-11 à L417-15)](#205)
-      - [Titre II : Bail à cheptel. (art. L421-1)](#206)
-      - [Titre III : Bail à domaine congéable. (art. L431-1 à L431-23)](#207)
-      - [Titre IV : Bail à complant. (art. L441-1 à L441-13)](#208)
-      - [Titre V : Bail emphytéotique. (art. L451-1 à L451-13)](#209)
-      - [Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer (art. L461-1 à L464-2)](#210)
-        - [Chapitre Ier : Régime de droit commun (art. L461-1 à L461-28)](#211)
-          - [Section 2 : Conclusion, durée, prix du bail. (art. L461-2 à L461-4)](#212)
-          - [Section 3 : Résiliation, cession et sous-location. (art. L461-5 à L461-7)](#213)
-          - [Section 4 : Congé, renouvellement, reprise. (art. L461-8 à L461-14)](#214)
-          - [Section 5 : Indemnité du preneur sortant. (art. L461-15 à L461-17)](#215)
-          - [Section 6 : Droit de préemption. (art. L461-18 à L461-23)](#216)
-          - [Section 7 : Dispositions diverses. (art. L461-24 à L461-28)](#217)
-        - [Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage (art. L462-1 à L462-27)](#218)
-          - [Section 1 : Régime du bail. (art. L462-1 à L462-21)](#219)
-          - [Section 2 : Conversion en baux à ferme. (art. L462-22 à L462-26)](#220)
-          - [Section 3 : Dispositions diverses et d'application. (art. L462-27)](#221)
-        - [Chapitre III : Dispositions particulières aux baux à long terme. (art. L463-1)](#222)
-        - [Chapitre IV : Dispositions d'application. (art. L464-1 à L464-2)](#223)
-      - [Titre VII : Location de jardins familiaux. (art. L471-1 à L471-7)](#224)
-      - [Titre VIII : Contrats d'exploitation de terres à vocation pastorale. (art. L481-1)](#225)
-    - [Livre V : Organismes professionnels agricoles (art. L515-1 à L515-5)](#226)
-      - [Titre Ier : Chambres d'agriculture (art. L515-1 à L515-5)](#227)
-        - [Chapitre V : Dispositions relatives au statut des salariés membres des chambres d'agriculture. (art. L515-1 à L515-5)](#228)
-    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. L815-1 à L815-4)](#229)
-      - [Titre Ier : Enseignement et formation professionnelle agricoles (art. L815-1 à L815-4)](#230)
-        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole publics. (art. L815-1 à L815-4)](#231)
-  - [Partie réglementaire (art. R*221-36 à R832-19)](#232)
-    - [Livre II : Santé publique vétérinaire et protection des végétaux (art. R*221-36 à R*221-38)](#233)
-      - [Titre II : La lutte contre les maladies des animaux (art. R*221-36 à R*221-38)](#234)
-        - [Chapitre Ier : Dispositions générales (art. R*221-36 à R*221-38)](#235)
-          - [Section 3 : Les mesures techniques et administratives générales (art. R*221-36 à R*221-38)](#236)
-    - [Livre II : Protection de la nature (art. R*211-1 à R*262-1)](#237)
-      - [Titre Ier : Protection de la faune et de la flore (art. R*211-1 à R*215-3)](#238)
-        - [Chapitre Ier : Préservation du patrimoine biologique (art. R*211-1 à R*211-18)](#239)
-          - [Section 1 : Mesures de protection. (art. R*211-1 à R*211-5)](#240)
-          - [Section 2 : Autorisation de capture d'espèces protégées. (art. R*211-6 à R*211-11)](#241)
-          - [Section 3 : Protection des biotopes. (art. R*211-12 à R*211-14)](#242)
-          - [Section 4 : Réglementation particulière aux produits antiparasitaires et assimilés. (art. R*211-15)](#243)
-          - [Section 5 : Prises de vues ou de son. (art. R*211-16 à R*211-18)](#244)
-        - [Chapitre II : Activités soumises à autorisation (art. R*212-1 à R*212-10)](#245)
-          - [Section 1 : Régime général d'autorisation. (art. R*212-1 à R*212-7)](#246)
-            - [Sous-section 1 : Autorisation. (art. R*212-2 à R*212-6)](#247)
-            - [Sous-section 2 : Contrôle. (art. R*212-7)](#248)
-          - [Section 2 : Régime propre à la capture, au ramassage et à la cession de certaines espèces. (art. R*212-8 à R*212-10)](#249)
-        - [Chapitre III : Etablissements détenant des animaux d'espèces non domestiques (art. R*213-1 à R*213-34)](#250)
-          - [Section 1 : Etablissements soumis à autorisation d'ouverture (art. R*213-2 à R*213-22)](#251)
-            - [Sous-section 1 : Certificat de capacité. (art. R*213-2 à R*213-4)](#252)
-            - [Sous-section 2 : Autorisation d'ouverture des établissements (art. R*213-5 à R*213-19)](#253)
-              - [Paragraphe 1 : Demande d'autorisation. (art. R*213-7 à R*213-10)](#254)
-              - [Paragraphe 2 : Examen de la demande par le ministre. (art. R*213-11 à R*213-12)](#255)
-              - [Paragraphe 3 : Instruction par le préfet du département. (art. R*213-13 à R*213-19)](#256)
-            - [Sous-section 3 : Modifications concernant l'exploitation ou changement d'exploitant. (art. R*213-20 à R*213-21)](#257)
-            - [Sous-section 4 : Dispositions transitoires. (art. R*213-22)](#258)
-          - [Section 2 : Etablissements soumis au contrôle de l'autorité administrative (art. R*213-23 à R*213-27)](#259)
-          - [Section 3 : Sanctions administratives (art. R*213-28 à R*213-34)](#260)
-            - [Sous-section 1 : Dispositions propres aux établissements fonctionnant sans autorisation ou déclaration. (art. R*213-28 à R*213-30)](#261)
-            - [Sous-section 2 : Dispositions propres aux établissements fonctionnant en infraction aux dispositions qui leur sont imposées. (art. R*213-31 à R*213-32)](#262)
-            - [Sous-section 3 : Dispositions communes. (art. R*213-33 à R*213-34)](#263)
-        - [Chapitre IV : Dispositions diverses relatives à la conservation de la flore (art. R214-4 à R214-14)](#264)
-          - [Section 1 : Conservatoires botaniques nationaux. (art. R214-4 à R214-14)](#265)
-        - [Chapitre V : Dispositions pénales (art. R*215-1 à R*215-3)](#266)
-          - [Section 1 : Peines (art. R*215-1 à R*215-3)](#267)
-            - [Sous-section 1 : Préservation du patrimoine biologique. (art. R*215-1 à R*215-2)](#268)
-            - [Sous-section 2 : Activités soumises à autorisation. (art. R*215-3)](#269)
-      - [Titre II : Chasse (art. R*221-1 à R*229-21)](#270)
-        - [Chapitre Ier : Organisation de la chasse (art. R*221-1 à R*221-39)](#271)
-          - [Section 1 : Conseil national de la chasse et de la faune sauvage. (art. R*221-1 à R*221-7)](#272)
-          - [Section 2 : Office national de la chasse (art. R*221-8 à R*221-23)](#273)
-            - [Sous-section 1 : Dispositions générales. (art. R*221-8 à R*221-9)](#274)
-            - [Sous-section 2 : Administration générale (art. R*221-10 à R*221-17)](#275)
-              - [Paragraphe 1 : Conseil d'administration. (art. R*221-10 à R*221-15)](#276)
-              - [Paragraphe 2 : Directeur. (art. R*221-16)](#277)
-              - [Paragraphe 3 : Personnels. (art. R*221-17)](#278)
-            - [Sous-section 3 : Dispositions financières. (art. R*221-18 à R*221-21)](#279)
-            - [Sous-section 4 : Contrôle. (art. R*221-22 à R*221-23)](#280)
-          - [Section 3 : Régions cynégétiques. (art. R*221-24 à R*221-26)](#281)
-          - [Section 4 : Conseil départemental de la chasse et de la faune sauvage. (art. R*221-27 à R*221-31)](#282)
-          - [Section 5 : Fédérations des chasseurs (art. R*221-32 à R*221-35)](#283)
-            - [Sous-section 1 : Dispositions générales. (art. R*221-32 à R*221-35)](#284)
-          - [Section 6 : Dispositions diverses. (art. R*221-39)](#285)
-        - [Chapitre II : Territoire de chasse (art. R*222-1 à R222-87)](#286)
-          - [Section 1 : Associations communales et intercommunales de chasse agréées. (art. R*222-1 à R*222-81)](#287)
-            - [Sous-section 1 : Institution des associations communales de chasse agréées (art. R*222-5 à R*222-16)](#288)
-              - [Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées. (art. R*222-5 à R*222-11)](#289)
-              - [Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées dans certaines communes. (art. R*222-12 à R*222-16)](#290)
-            - [Sous-section 2 : Modalités de constitution de l'association communale de chasse agréée (art. R*222-17 à R*222-41)](#291)
-              - [Paragraphe 1 : Enquête. (art. R*222-17 à R*222-32)](#292)
-              - [Paragraphe 2 : Assemblée constitutive et agrément de l'association communale de chasse agréée. (art. R*222-33 à R*222-41)](#293)
-            - [Sous-section 3 : Territoire (art. R*222-42 à R*222-61)](#294)
-              - [Paragraphe 2 : Terrains faisant l'objet d'une opposition. (art. R*222-42 à R*222-46)](#295)
-              - [Paragraphe 3 : Apports. (art. R*222-47 à R*229-49)](#296)
-              - [Paragraphe 4 : Indemnisation des apports. (art. R*222-51 à R*222-53)](#297)
-              - [Paragraphe 5 : Modification du territoire de l'association. (art. R*222-54 à R*222-58)](#298)
-              - [Paragraphe 6 : Enclaves. (art. R*222-59 à R*222-61)](#299)
-            - [Sous-section 4 : Dispositions obligatoires des statuts des associations communales de chasse agréées. (art. R*222-62 à R*222-64)](#300)
-            - [Sous-section 5 : Réserves et garderie. (art. R*222-65 à R*222-69)](#301)
-            - [Sous-section 6 : Association intercommunale de chasse agréée. (art. R*222-70 à R*222-79)](#302)
-              - [Paragraphe 1 : Constitution des associations intercommunales de chasse agréées. (art. R*222-71 à R*222-74)](#303)
-              - [Paragraphe 2 : Dispositions obligatoires. (art. R*222-75 à R*222-78)](#304)
-              - [Paragraphe 3 : Réserves et garderie. (art. R*222-79)](#305)
-            - [Sous-section 7 : Dispositions diverses. (art. R*222-80 à R*222-81)](#306)
-          - [Section 2 : Réserves de chasse. (art. R*222-82)](#307)
-          - [Section 3 : Chasse maritime. (art. R*222-83)](#308)
-          - [Section 4 : Exploitation de la chasse sur le domaine de l'Etat (art. R222-84 à R222-87)](#309)
-            - [Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat. (art. R222-84)](#310)
-            - [Sous-section 2 : Exploitation de la chasse sur le domaine public fluvial. (art. R222-85 à R222-86)](#311)
-            - [Sous-section 3 : Exploitation de la chasse sur le domaine public maritime. (art. R222-87)](#312)
-        - [Chapitre III : Permis de chasser. (art. R*223-2 à R*223-36)](#313)
-          - [Section 1 : Examen pour la délivrance du permis de chasser. (art. R*223-2 à R*223-8)](#314)
-          - [Section 2 : Délivrance, visa et validation du permis de chasser (art. R*223-9 à R*223-32)](#315)
-            - [Sous-section 1 : Délivrance. (art. R*223-9 à R*223-11)](#316)
-            - [Sous-section 2 : Visa. (art. R*223-12 à R*223-22)](#317)
-            - [Sous-section 3 : Validation. (art. R*223-23 à R*223-26)](#318)
-            - [Sous-section 4 : Dispositions propres à la région parisienne. (art. R*223-27 à R*223-29)](#319)
-            - [Sous-section 6 : Licences. (art. R*223-30 à R*223-31)](#320)
-            - [Sous-section 7 : Refus et exclusions. (art. R*223-32)](#321)
-          - [Section 3 : Redevances cynégétiques. (art. R*223-33 à R*223-35)](#322)
-          - [Section 4 : Dispositions diverses et d'application. (art. R*223-36)](#323)
-        - [Chapitre IV : Exercice de la chasse (art. R*224-1 à R*224-17)](#324)
-          - [Section 2 : Temps de chasse (art. R*224-1 à R*224-9)](#325)
-            - [Sous-section 1 : Chasse à courre, à cor et à cri. (art. R*224-1 à R*224-2)](#326)
-            - [Sous-section 2 : Chasse à tir et chasse au vol. (art. R*224-3 à R*224-6)](#327)
-            - [Sous-section 3 : Dispositions communes. (art. R*224-7 à R*224-9)](#328)
-          - [Section 3 : Modes et moyens de chasse. (art. R*224-10 à R*224-12)](#329)
-          - [Section 4 : Commercialisation et transport du gibier (art. R*224-13 à R224-16)](#330)
-            - [Sous-section 1 : Interdiction permanente. (art. R*224-13 à R224-16)](#331)
-          - [Section 5 : Dispositions spéciales à la chasse maritime. (art. R*224-17)](#332)
-        - [Chapitre V : Plan de chasse. (art. R*225-1 à R*225-14)](#333)
-        - [Chapitre VI : Indemnisation des dégâts de gibier (art. R*226-1 à R*226-29)](#334)
-          - [Section 1 : Indemnisation par l'Office national de la chasse des dégâts causés par les sangliers et les grands gibiers (art. R*226-1 à R*226-19)](#335)
-            - [Sous-section 1 : Compte d'indemnisation. (art. R*226-1 à R*226-5)](#336)
-            - [Sous-section 2 : Conditions d'attribution de l'indemnisation pour dégâts de gibier (art. R*226-6 à R*226-19)](#337)
-              - [Paragraphe 1 : Commission nationale d'indemnisation. (art. R*226-6 à R*226-7)](#338)
-              - [Paragraphe 2 : Commission départementale d'indemnisation. (art. R*226-8 à R*226-11)](#339)
-              - [Paragraphe 3 : Demandes individuelles d'indemnisation. (art. R*226-12 à R*226-19)](#340)
-          - [Section 2 : Dispositions relatives à l'indemnisation judiciaire des dégâts causés aux récoltes. (art. R*226-20 à R*226-29)](#341)
-        - [Chapitre VII : Destruction des animaux nuisibles et louveterie (art. R*227-1 à R*227-27)](#342)
-          - [Section 1 : Mesures administratives (art. R*227-1 à R*227-4)](#343)
-            - [Sous-section 1 : Louveterie. (art. R*227-1 à R*227-3)](#344)
-            - [Sous-section 3 : Sécurité aérienne. (art. R*227-4)](#345)
-          - [Section 2 : Droits des particuliers (art. R*227-5 à R*227-27)](#346)
-            - [Sous-section 1 : Classement des animaux nuisibles. (art. R*227-5 à R*227-6)](#347)
-            - [Sous-section 2 : Exercice du droit de destruction. (art. R*227-7)](#348)
-            - [Sous-section 3 : Modalités de destruction. (art. R*227-8 à R*227-23)](#349)
-              - [Paragraphe 1 : Toxiques. (art. R*227-9)](#350)
-              - [Paragraphe 2 : Déterrage. (art. R*227-10 à R*227-11)](#351)
-              - [Paragraphe 3 : Piégeage. (art. R*227-12 à R*227-15)](#352)
-              - [Paragraphe 4 : Tir. (art. R*227-16 à R*227-22)](#353)
-              - [Paragraphe 5 : Utilisation des oiseaux de chasse au vol. (art. R*227-23)](#354)
-            - [Sous-section 4 : Transport, lâcher. (art. R*227-24 à R*227-26)](#355)
-            - [Sous-section 5 : Mesures diverses. (art. R*227-27)](#356)
-        - [Chapitre VIII : Dispositions pénales (art. R*228-1 à R*228-20)](#357)
-          - [Section 1 : Peines (art. R*228-1 à R*228-17)](#358)
-            - [Sous-section 1 : Territoire. (art. R*228-1 à R*228-2)](#359)
-            - [Sous-section 2 : Permis de chasser. (art. R*228-3 à R*228-4)](#360)
-            - [Sous-section 3 : Exercice de la chasse (art. R*228-5 à R*228-14)](#361)
-              - [Paragraphe 1 : Protection du gibier. (art. R*228-5 à R*228-6)](#362)
-              - [Paragraphe 2 : Temps de chasse. (art. R*228-7)](#363)
-              - [Paragraphe 3 : Modes et moyens. (art. R*228-8)](#364)
-              - [Paragraphe 4 : Transport et commercialisation du gibier. (art. R*228-9 à R*228-14)](#365)
-            - [Sous-section 4 : Plan de chasse. (art. R*228-15 à R*228-16)](#366)
-            - [Sous-section 5 : Destruction des animaux nuisibles et louveterie. (art. R*228-17)](#367)
-          - [Section 2 : Circonstances aggravantes et récidive. (art. R*228-18 à R228-19)](#368)
-          - [Section 4 : Constatation et poursuites (art. R*228-20)](#369)
-            - [Sous-section 1 : Constatation des infractions. (art. R*228-20)](#370)
-        - [Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. R*229-1 à R*229-21)](#371)
-          - [Section 2 : Exercice de la chasse (art. R*229-2 à R*229-6)](#372)
-            - [Sous-section 1 : Temps de chasse. (art. R*229-2 à R*229-5)](#373)
-            - [Sous-section 2 : Modes et moyens de chasse. (art. R*229-6)](#374)
-          - [Section 3 : Plan de chasse. (art. R*229-7)](#375)
-          - [Section 4 : Indemnisation des dégâts de gibier (art. R*229-8 à R*229-17)](#376)
-            - [Sous-section 1 : Indemnisation des dégâts de gibier autre que le sanglier. (art. R*229-8 à R*229-14)](#377)
-            - [Sous-section 2 : Indemnisation des dégâts causés par les sangliers. (art. R*229-15 à R*229-16)](#378)
-            - [Sous-section 3 : Dispositions diverses. (art. R*229-17)](#379)
-          - [Section 5 : Pénalités (art. R*229-18 à R*229-21)](#380)
-            - [Sous-section 1 : Peines (art. R*229-18 à R*229-20)](#381)
-              - [Paragraphe 1 : Territoire. (art. R*229-18 à R*229-19)](#382)
-              - [Paragraphe 2 : Exercice de la chasse. (art. R*229-20)](#383)
-            - [Sous-section 2 : Récidive. (art. R*229-21)](#384)
-      - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. R*231-1 à R*238-6)](#385)
-        - [Chapitre Ier : Champ d'application (art. R*231-1 à R*231-41)](#386)
-          - [Section 1 : Dispositions générales. (art. R*231-1 à R*231-6)](#387)
-          - [Section 2 : Piscicultures (art. R*231-7 à R*231-41)](#388)
-            - [Sous-section 1 : Dispositions générales. (art. R*231-7 à R*231-10)](#389)
-            - [Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture. (art. R*231-11 à R*231-26)](#390)
-            - [Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture. (art. R*231-27 à R*231-34)](#391)
-            - [Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984. (art. R*231-35 à R*231-37)](#392)
-            - [Sous-section 5 : Dispositions diverses. (art. R*231-38 à R*231-41)](#393)
-        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. R*232-1 à R232-23)](#394)
-          - [Section 4 : Contrôle des peuplements. (art. R*232-1 à R232-23)](#395)
-        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. R233-1 à R233-15)](#396)
-          - [Section 1 : Orientations de bassin. (art. R233-1 à R233-15)](#397)
-        - [Chapitre IV : Organisation des pêcheurs (art. R*234-1 à R*234-43)](#398)
-          - [Section 1 : Conseil supérieur de la pêche (art. R*234-1 à R234-21)](#399)
-            - [Sous-section 1 : Dispositions générales. (art. R*234-1 à R*234-4)](#400)
-            - [Sous-section 2 : Administration du conseil supérieur de la pêche (art. R*234-5 à R*234-15)](#401)
-              - [Paragraphe 1 : Le conseil d'administration. (art. R*234-6 à R*234-11)](#402)
-              - [Paragraphe 2 : Le directeur général. (art. R*234-12 à R*234-13)](#403)
-              - [Paragraphe 3 : Les gardes-pêche. (art. R*234-14 à R*234-15)](#404)
-            - [Sous-section 3 : Dispositions financières et comptables (art. R*234-16 à R234-21)](#405)
-              - [Paragraphe 1 : Organisation financière et comptable. (art. R*234-16 à R*234-20)](#406)
-              - [Paragraphe 2 : Contrôles. (art. R234-21)](#407)
-          - [Section 2 : Pêche de loisir. (art. R*234-22 à R*234-34)](#408)
-          - [Section 3 : Pêche professionnelle. (art. R*234-35 à R*234-43)](#409)
-        - [Chapitre V : Droit de pêche (art. R*235-1 à R*235-29)](#410)
-          - [Section 1 : Droit de pêche de l'Etat (art. R*235-2 à R*235-28)](#411)
-            - [Sous-section 1 : Conditions générales d'exploitation. (art. R*235-2 à R*235-13)](#412)
-            - [Sous-section 2 : Modalités de location des lots. (art. R*235-14 à R*235-21)](#413)
-            - [Sous-section 3 : Procédure d'adjudication publique. (art. R*235-22 à R*235-28)](#414)
-          - [Section 3 : Droit de passage. (art. R*235-29)](#415)
-        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R*236-2 à R*236-120)](#416)
-          - [Section 1 : Dispositions générales (art. R*236-2 à R*236-66)](#417)
-            - [Sous-section 1 : Temps et heures d'interdiction (art. R*236-6 à R236-20)](#418)
-              - [Paragraphe 1 : Temps d'interdiction. (art. R*236-6 à R*236-17)](#419)
-              - [Paragraphe 2 : Heures d'interdiction. (art. R*236-18 à R236-20)](#420)
-            - [Sous-section 2 : Taille minimale des poissons. (art. R*236-23 à R*236-26)](#421)
-            - [Sous-section 3 : Nombre de captures autorisées, conditions de capture. (art. R*236-27 à R*236-29)](#422)
-            - [Sous-section 4 : Procédés et modes de pêche autorisés. (art. R*236-30 à R*236-39)](#423)
-            - [Sous-section 5 : Procédés et modes de pêche prohibés. (art. R*236-40 à R*236-50)](#424)
-            - [Sous-section 6 : Dispositions diverses. (art. R*236-51 à R*236-53)](#425)
-            - [Sous-section 7 : Dispositions pénales. (art. R*236-54 à R*236-61)](#426)
-            - [Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories. (art. R*236-62 à R*236-66)](#427)
-          - [Section 2 : Autorisations exceptionnelles (art. R*236-67 à R*236-83)](#428)
-            - [Sous-section 1 : Autorisations de capture et de transport du poisson destiné à la reproduction ou au repeuplement et autorisations de capture du poisson à des fins sanitaires ou en cas de déséquilibres biologiques et de transport de ce poisson. (art. R*236-67 à R*236-73)](#429)
-            - [Sous-section 2 : Autorisations de capture du poisson à des fins scientifiques et de transport de ce poisson. (art. R*236-74 à R*236-78)](#430)
-            - [Sous-section 3 : Dispositions communes. (art. R*236-79 à R*236-83)](#431)
-          - [Section 4 : Réserves et interdictions permanentes de pêche (art. R*236-84 à R*236-95)](#432)
-            - [Sous-section 1 : Dispositions générales. (art. R*236-84)](#433)
-            - [Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche. (art. R*236-85 à R*236-89)](#434)
-            - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche. (art. R*236-90 à R*236-92)](#435)
-            - [Sous-section 4 : Dispositions communes. (art. R*236-93 à R*236-95)](#436)
-          - [Section 5 : Commercialisation. (art. R*236-96 à R*236-97)](#437)
-          - [Section 6 : Dispositions particulières (art. R*236-98 à R*236-120)](#438)
-            - [Sous-section 1 : Dispositions communes. (art. R*236-98)](#439)
-            - [Sous-section 2 : Réglementation de la pêche dans les eaux françaises du lac Léman. (art. R*236-99 à R*236-120)](#440)
-              - [Paragraphe 1 : Temps et heures d'interdiction. (art. R*236-100 à R*236-102)](#441)
-              - [Paragraphe 2 : Tailles minimales des poissons. (art. R*236-103)](#442)
-              - [Paragraphe 3 : Nombre de captures autorisées, conditions de capture. (art. R*236-104 à R*236-105)](#443)
-              - [Paragraphe 4 : Filets, engins et moyens de pêche autorisés ou prohibés. (art. R*236-106 à R*236-112)](#444)
-              - [Paragraphe 5 : Zones de protection du poisson. (art. R*236-113 à R*236-116)](#445)
-              - [Paragraphe 6 : Dispositions pénales. (art. R*236-117 à R*236-120)](#446)
-        - [Chapitre VII : Recherche et constatation des infractions (art. R*237-1 à R*237-7)](#447)
-          - [Section 1 : Agents compétents. (art. R*237-1 à R*237-3)](#448)
-          - [Section 3 : Recherche des infractions. (art. R*237-4 à R*237-5)](#449)
-          - [Section 4 : Saisies. (art. R*237-6 à R*237-7)](#450)
-        - [Chapitre VIII : Transaction, poursuites et règles d'application des peines (art. R*238-1 à R*238-6)](#451)
-          - [Section 1 : Transaction. (art. R*238-1 à R*238-4)](#452)
-          - [Section 2 : Poursuites pénales. (art. R*238-5 à R*238-6)](#453)
-      - [Titre IV : Espaces naturels (art. R*241-1 à R244-15)](#454)
-        - [Chapitre Ier : Parcs nationaux (art. R*241-1 à R*241-71)](#455)
-          - [Section 1 : Comité interministériel des parcs nationaux. (art. R*241-1 à R*241-2)](#456)
-          - [Section 2 : Création d'un parc national. (art. R*241-3 à R*241-14)](#457)
-          - [Section 3 : Aménagement et gestion des parcs nationaux (art. R*241-15 à R*241-48)](#458)
-            - [Sous-section 1 : Administration générale. (art. R*241-16 à R*241-27)](#459)
-              - [Paragraphe 1 : Conseil d'administration. (art. R*241-17 à R*241-24)](#460)
-              - [Paragraphe 2 : Directeur. (art. R*241-25 à R*241-26)](#461)
-              - [Paragraphe 3 : Personnels. (art. R*241-27)](#462)
-            - [Sous-section 2 : Ressources de l'établissement. (art. R*241-28)](#463)
-            - [Sous-section 3 : Programme d'aménagement du parc. (art. R*241-29)](#464)
-            - [Sous-section 4 : Gestion de certains biens des collectivités. (art. R*241-30 à R*241-34)](#465)
-            - [Sous-section 5 : Pouvoirs réglementaires du directeur. (art. R*241-35 à R*241-41)](#466)
-            - [Sous-section 6 : Consultation obligatoire de l'établissement. (art. R*241-42 à R*241-43)](#467)
-            - [Sous-section 7 : Contrôle. (art. R*241-44 à R*241-46)](#468)
-            - [Sous-section 8 : Contrôle de mesures susceptibles d'altérer le caractère du parc. (art. R*241-47 à R*241-48)](#469)
-          - [Section 4 : Mise en valeur des zones périphériques. (art. R*241-49 à R*241-51)](#470)
-          - [Section 5 : Réserves intégrales. (art. R*241-52 à R*241-55)](#471)
-          - [Section 6 : Indemnités. (art. R*241-56 à R*241-60)](#472)
-          - [Section 8 : Dispositions pénales (art. R*241-61 à R*241-71)](#473)
-            - [Sous-section 1 : Peines. (art. R*241-61 à R*241-70)](#474)
-            - [Sous-section 2 : Constatation et poursuites. (art. R*241-71)](#475)
-        - [Chapitre II : Réserves naturelles (art. R*242-1 à R*242-49)](#476)
-          - [Section 1 : Réserves naturelles établies par décret (art. R*242-1 à R*242-25)](#477)
-            - [Sous-section 1 : Classement (art. R*242-1 à R*242-18)](#478)
-              - [Paragraphe 1 : Dispositions générales. (art. R*242-1 à R*242-2)](#479)
-              - [Paragraphe 2 : Procédure comportant une enquête publique. (art. R*242-3 à R*242-9)](#480)
-              - [Paragraphe 3 : Procédure simplifiée. (art. R*242-10)](#481)
-              - [Paragraphe 4 : Décision de classement. (art. R*242-11 à R*242-17)](#482)
-              - [Paragraphe 5 : Modalités de gestion. (art. R*242-18)](#483)
-            - [Sous-section 2 : Modification de l'état ou de l'aspect d'une réserve naturelle. (art. R*242-19 à R*242-23)](#484)
-            - [Sous-section 3 : Modification des limites ou de la réglementation, déclassement. (art. R*242-24 à R*242-25)](#485)
-          - [Section 2 : Réserves naturelles volontaires (art. R*242-26 à R*242-35)](#486)
-            - [Sous-section 1 : Agrément. (art. R*242-26 à R*242-31)](#487)
-            - [Sous-section 2 : Modification, retrait, abrogation de l'agrément. (art. R*242-32 à R*242-35)](#488)
-          - [Section 3 : Dispositions communes (art. R*242-36 à R*242-37)](#489)
-            - [Sous-section 2 : Abords des réserves naturelles (art. R*242-36 à R*242-37)](#490)
-              - [Paragraphe 1 : Périmètres de protection. (art. R*242-36)](#491)
-              - [Paragraphe 2 : Zones de protection. (art. R*242-37)](#492)
-          - [Section 4 : Dispositions pénales (art. R*242-38 à R*242-49)](#493)
-            - [Sous-section 1 : Peines. (art. R*242-38 à R*242-49)](#494)
-        - [Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres (art. R*243-1 à R*243-33)](#495)
-          - [Section 1 : Dispositions générales. (art. R*243-1 à R*243-2)](#496)
-          - [Section 2 : Patrimoine du conservatoire (art. R*243-3 à R*243-9)](#497)
-            - [Sous-section 1 : Constitution, aliénation. (art. R*243-3 à R*243-7)](#498)
-            - [Sous-section 2 : Gestion. (art. R*243-8 à R*243-9)](#499)
-          - [Section 3 : Administration (art. R*243-10 à R*243-30)](#500)
-            - [Sous-section 1 : Conseil d'administration. (art. R*243-10 à R*243-21)](#501)
-            - [Sous-section 2 : Conseils de rivage. (art. R*243-22 à R*243-28)](#502)
-            - [Sous-section 3 : Directeur. (art. R*243-29)](#503)
-            - [Sous-section 4 : Personnels. (art. R*243-30)](#504)
-          - [Section 4 : Dispositions financières. (art. R*243-31 à R*243-33)](#505)
-        - [Chapitre IV : Parcs naturels régionaux (art. R244-1 à R244-15)](#506)
-          - [Section 1 : Principes généraux. (art. R244-1 à R244-2)](#507)
-          - [Section 1 : Commission des parcs naturels régionaux. (art. R244-3 à R244-4)](#508)
-          - [Section 2 : Classement. (art. R244-5 à R244-11)](#509)
-          - [Section 3 : Gestion. (art. R244-12 à R244-14)](#510)
-          - [Section 4 : Dispositions transitoires. (art. R244-15)](#511)
-      - [Titre V : Dispositions communes à la protection de la nature (art. R*251-1 à R*252-20)](#512)
-        - [Chapitre Ier : Conseil national de la protection de la nature (art. R*251-1 à R*251-21)](#513)
-          - [Section 1 : Composition. (art. R*251-2 à R*251-6)](#514)
-          - [Section 2 : Fonctionnement. (art. R*251-7 à R*251-10)](#515)
-          - [Section 3 : Comité permanent. (art. R*251-11 à R*251-18)](#516)
-          - [Section 4 : Experts. (art. R*251-19 à R*251-20)](#517)
-          - [Section 5 : Secrétariat administratif. (art. R*251-21)](#518)
-        - [Chapitre II : Associations ayant pour objet la protection de la nature et de l'environnement (art. R*252-1 à R*252-20)](#519)
-          - [Section 1 : Conditions d'obtention de l'agrément. (art. R*252-2 à R*252-4)](#520)
-          - [Section 2 : Procédure d'agrément (art. R*252-5 à R*252-18)](#521)
-            - [Sous-section 1 : Demande. (art. R*252-5 à R*252-9)](#522)
-            - [Sous-section 2 : Instruction de la demande. (art. R*252-10 à R*252-12)](#523)
-            - [Sous-section 3 : Décision. (art. R*252-13 à R*252-18)](#524)
-          - [Section 3 : Obligations de l'association agréée. (art. R*252-19 à R*252-20)](#525)
-      - [Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon et aux terres australes et antarctiques françaises (art. R261-2 à R*262-1)](#526)
-        - [Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R261-2)](#527)
-          - [Section 1 : Territoire de chasse. (art. R261-2)](#528)
-        - [Chapitre II : Dispositions particulières aux terres australes et antarctiques françaises. (art. R*262-1)](#529)
-    - [Livre IV : Baux ruraux (art. R*411-1 à R464-1)](#530)
-      - [Titre Ier : Statut du fermage et du métayage (art. R*411-1 à R417-3)](#531)
-        - [Chapitre Ier : Régime de droit commun (art. R*411-1 à R411-27)](#532)
-          - [Section 1 : Etablissement du contrat, durée et prix du bail (art. R*411-1 à R411-9)](#533)
-            - [Sous-section 3 : Prix du bail. (art. R*411-1 à R411-9)](#534)
-          - [Section 8 : Droit de renouvellement et droit de reprise. (art. R411-10 à R411-13)](#535)
-          - [Section 9 : Indemnité au preneur sortant. (art. R411-14 à R411-27)](#536)
-        - [Chapitre IV : Commissions consultatives paritaires des baux ruraux (art. R*414-2 à R414-6)](#537)
-          - [Section 1 : Commissions consultatives paritaires départementales des baux ruraux. (art. R*414-2 à R414-3)](#538)
-          - [Section 2 : Commissions consultatives paritaires régionales des baux ruraux. (art. R414-5)](#539)
-          - [Section 3 : Commission consultative paritaire nationale des baux ruraux. (art. R414-6)](#540)
-        - [Chapitre V : Dispositions diverses et d'application. (art. R*415-1 à R415-9)](#541)
-        - [Chapitre VI : Dispositions particulières au baux à long terme. (art. R416-1 à R416-3)](#542)
-        - [Chapitre VII : Dispositions particulières au baux à colonat partiaire ou métayage (art. R417-1 à R417-3)](#543)
-          - [Section 1 : Régime du bail. (art. R417-1)](#544)
-          - [Section 2 : Conversion en baux à ferme. (art. R417-2 à R417-3)](#545)
-      - [Titre III : Bail à domaine congéable (art. R431-1)](#546)
-      - [Titre IV : Bail à complant (art. R441-1 à R441-3)](#547)
-      - [Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer (art. R*461-1 à R464-1)](#548)
-        - [Chapitre Ier : Régime de droit commun (art. R*461-1 à R461-15)](#549)
-          - [Section 1 : Commission consultative des baux ruraux. (art. R*461-1 à R461-4)](#550)
-          - [Section 2 : Conclusion, durée, prix du bail. (art. R461-5 à R461-7)](#551)
-          - [Section 5 : Indemnité au preneur sortant. (art. R461-8 à R461-10)](#552)
-          - [Section 6 : Droit de préemption. (art. R461-11 à R461-13)](#553)
-          - [Section 7 : Dispositions diverses. (art. R461-14)](#554)
-          - [Section 8 : Dispositions diverses. (art. R461-15)](#555)
-        - [Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage (art. R*462-16 à R462-18)](#556)
-          - [Section 1 : Régime du bail. (art. R*462-16 à R462-15)](#557)
-          - [Section 2 : Conversion en baux à ferme. (art. R462-17)](#558)
-          - [Section 3 : Dispositions diverses et d'application. (art. R462-18)](#559)
-        - [Chapitre III : Dispositions particulières aux baux à long terme. (art. R463-1 à R463-3)](#560)
-        - [Chapitre IV : Dispositions d'application. (art. R464-1)](#561)
-    - [Livre V : Organismes professionnels agricoles (art. R523-9)](#562)
-      - [Titre II : Sociétés coopératives agricoles (art. R523-9)](#563)
-        - [Chapitre III : Capital social et dispositions financières (art. R523-9)](#564)
-          - [Section 4 : Participation et intéressement. (art. R523-9)](#565)
-    - [Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux (art. R*511-1 à R*564-3)](#566)
-      - [Titre Ier : Chambres d'agriculture (art. R*511-1 à R*514-7)](#567)
-        - [Chapitre Ier : Chambres départementales (art. R*511-1 à R*511-116)](#568)
-          - [Section 1 : Institution et attributions. (art. R*511-1 à R511-4)](#569)
-          - [Section 2 : Composition. (art. R*511-6 à R*511-7)](#570)
-          - [Section 3 : Elections (art. R*511-8 à R*511-53)](#571)
-            - [Sous-section 1 : Conditions requises pour être électeur (art. R*511-8 à R*511-11)](#572)
-              - [Paragraphe 1 : Electeurs votant individuellement. (art. R*511-8 à R*511-9)](#573)
-              - [Paragraphe 2 : Groupements électeurs. (art. R*511-10 à R*511-11)](#574)
-            - [Sous-section 2 : Listes électorales (art. R*511-12 à R*511-29)](#575)
-              - [Paragraphe 1 : Electeurs votant individuellement. (art. R*511-12 à R*511-25)](#576)
-              - [Paragraphe 2 : Groupements électeurs. (art. R*511-26 à R*511-29)](#577)
-            - [Sous-section 3 : Eligibilité et candidatures. (art. R*511-30 à R*511-35)](#578)
-            - [Sous-section 4 : Propagande. (art. R*511-36 à R*511-42)](#579)
-            - [Sous-section 5 : Mode de scrutin. (art. R*511-43)](#580)
-            - [Sous-section 6 : Opérations de vote (art. R*511-44 à R*511-49)](#581)
-              - [Paragraphe 1 : Date du scrutin. (art. R*511-44)](#582)
-              - [Paragraphe 2 : Electeurs votant individuellement. (art. R*511-45 à R*511-47)](#583)
-              - [Paragraphe 3 : Groupements électeurs. (art. R*511-48)](#584)
-              - [Paragraphe 4 : Recensement des votes. (art. R*511-49)](#585)
-            - [Sous-section 7 : Contentieux. (art. R*511-50)](#586)
-            - [Sous-section 8 : Cessation de mandat. (art. R*511-51)](#587)
-            - [Sous-section 9 : Elections partielles. (art. R*511-52 à R*511-53)](#588)
-          - [Section 4 : Fonctionnement. (art. R*511-54 à R*511-70)](#589)
-          - [Section 5 : Régime financier (art. R*511-71 à R511-96)](#590)
-            - [Sous-section 1 : Opérations du budget général. (art. R*511-72 à R511-82)](#591)
-            - [Sous-section 2 : Opérations des budgets spéciaux. (art. R511-86 à R511-90)](#592)
-            - [Sous-section 3 : Opérations communes au budget général et aux budgets spéciaux. (art. R*511-95 à R511-96)](#593)
-          - [Section 6 : Chambre interdépartementale de l'Ile-de-France. (art. R*511-97 à R*511-100)](#594)
-          - [Section 7 : Etablissements et services d'utilité agricole interchambres d'agriculture. (art. R511-102 à R511-110)](#595)
-          - [Section 8 : Dispositions communes aux chambres départementales d'agriculture et aux établissements et services d'utilité agricole interchambres d'agriculture. (art. R511-111 à R511-112)](#596)
-          - [Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer. (art. R*511-113 à R*511-116)](#597)
-        - [Chapitre II : Chambres régionales (art. R*512-1 à R512-11)](#598)
-          - [Section 1 : Dispositions particulières aux chambres régionales d'agriculture. (art. R*512-1 à R*512-8)](#599)
-          - [Section 2 : Dispositions financières particulières relatives aux chambres régionales d'agriculture. (art. R512-9 à R512-11)](#600)
-        - [Chapitre III : Assemblée permanente des chambres d'agriculture (art. R*513-1 à R513-28)](#601)
-          - [Section 1 : Organisation et fonctionnement. (art. R*513-1 à R513-11)](#602)
-          - [Section 2 : Comité permanent général, commissions et sections spécialisées. (art. R*513-12 à R513-21)](#603)
-          - [Section 3 : Régime financier. (art. R*513-22 à R513-28)](#604)
-        - [Chapitre IV : Dispositions financières communes (art. R*514-1 à R*514-7)](#605)
-      - [Titre II : Sociétés coopératives agricoles (art. R*521-1 à R*529-2)](#606)
-        - [Chapitre Ier : Dispositions générales, constitution (art. R*521-1 à R*521-15)](#607)
-          - [Section 1 : Dispositions générales. (art. R*521-1 à R*521-5)](#608)
-          - [Section 2 : Constitution. (art. R*521-6 à R*521-15)](#609)
-        - [Chapitre II : Associés, tiers non coopérateurs (art. R*522-1 à R*522-9)](#610)
-          - [Section 1 : Associés coopérateurs. (art. R*522-1 à R*522-8)](#611)
-          - [Section 3 : Tiers non coopérateurs. (art. R*522-9)](#612)
-        - [Chapitre III : Capital social et dispositions financières (art. R*523-1 à R523-11)](#613)
-          - [Section 1 : Capital social. (art. R*523-1 à R*523-5)](#614)
-          - [Section 2 : Fonds de développement coopératif. (art. R*523-6 à R*523-7)](#615)
-          - [Section 3 : Prises de participation. (art. R523-8 à R523-11)](#616)
-        - [Chapitre IV : Administration (art. R*524-1 à R*524-42)](#617)
-          - [Section 1 : Conseil d'administration. (art. R*524-1 à R*524-9)](#618)
-          - [Section 2 : Commissariat aux comptes. (art. R*524-10 à R*524-11)](#619)
-          - [Section 3 : Assemblée générale. (art. R*524-12 à R*524-22)](#620)
-          - [Section 4 : Dispositions concernant les unions de coopératives. (art. R*524-23 à R*524-25)](#621)
-          - [Section 5 : Directoire et conseil de surveillance. (art. R*524-26 à R*524-42)](#622)
-        - [Chapitre V : Agrément, contrôle (art. R*525-1 à R525-17)](#623)
-          - [Section 1 : Agrément. (art. R*525-1 à R*525-12)](#624)
-          - [Section 2 : Contrôle. (art. R*525-13 à R525-17)](#625)
-        - [Chapitre VI : Dissolution, liquidation. (art. R*526-1 à R*526-4)](#626)
-        - [Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle (art. R*527-1 à R527-12)](#627)
-          - [Section 1 : Fédérations de coopératives (art. R*527-1 à R527-12)](#628)
-            - [Sous-section 1 : Dispositions générales. (art. R*527-1 à R*527-3)](#629)
-            - [Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision. (art. R*527-4 à R*527-11)](#630)
-            - [Sous-section 3 : Dispositions particulières aux fédérations de coopératives agréées exerçant les fonctions de commissaire aux comptes. (art. R527-12)](#631)
-        - [Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole (art. R*528-1 à R528-9)](#632)
-          - [Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément. (art. R*528-1 à R*528-7)](#633)
-          - [Section 2 : Commission départementale des structures agricoles. (art. R*528-8 à R528-9)](#634)
-        - [Chapitre IX : Dispositions pénales, dispositions d'application. (art. R*529-1 à R*529-2)](#635)
-      - [Titre III : Sociétés d'intérêt collectif agricole (art. R*531-1 à R*535-1)](#636)
-        - [Chapitre Ier : Constitution. (art. R*531-1 à R531-7)](#637)
-        - [Chapitre II : Fonctionnement. (art. R*532-1 à R*532-5)](#638)
-        - [Chapitre III : Dispositions financières. (art. R*533-1 à R*533-3)](#639)
-        - [Chapitre IV : Transformation, dissolution, liquidation. (art. R*534-1 à R*534-4)](#640)
-        - [Chapitre V : Dispositions pénales. (art. R*535-1)](#641)
-      - [Titre IV : Sociétés mixtes d'intérêt agricole. (art. R541-1)](#642)
-      - [Titre V : Groupements de producteurs et comités économiques agricoles (art. R*551-1 à R*556-5)](#643)
-        - [Chapitre Ier : Groupements de producteurs. (art. R*551-1 à R*551-12)](#644)
-        - [Chapitre II : Comités économiques agricoles. (art. R*552-1 à R*552-15)](#645)
-        - [Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles (art. R*553-1 à R*553-17)](#646)
-          - [Section 1 : Droits d'inscription et cotisations. (art. R*553-1 à R*553-9)](#647)
-          - [Section 2 : Contrôle. (art. R*553-10 à R*553-16)](#648)
-          - [Section 3 : Dispositions diverses. (art. R*553-17)](#649)
-        - [Chapitre IV : Extension des règles édictées par les comités économiques agricoles (art. R*554-1 à R*554-29)](#650)
-          - [Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole. (art. R*554-1)](#651)
-          - [Section 2 : Procédure d'extension des règles (art. R*554-2 à R*554-29)](#652)
-            - [Sous-section 1 : Dispositions générales. (art. R*554-2 à R*554-6)](#653)
-            - [Sous-section 2 : Procédure de consultation des producteurs (art. R*554-7 à R*554-29)](#654)
-              - [Paragraphe 1 : Etablissement de la liste des producteurs. (art. R*554-7 à R*554-15)](#655)
-              - [Paragraphe 2 : Modalités de la consultation des producteurs. (art. R*554-16 à R*554-28)](#656)
-              - [Paragraphe 3 : Dispositions diverses. (art. R*554-29)](#657)
-        - [Chapitre V : Dispositions particulières aux départements d'outre-mer. (art. R*555-1 à R*555-4)](#658)
-        - [Chapitre VI : Pénalités. (art. R*556-1 à R*556-5)](#659)
-      - [Titre VI : Jardins familiaux (art. R*562-1 à R*564-3)](#660)
-        - [Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux (art. R*562-1)](#661)
-          - [Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER). (art. R*562-1)](#662)
-        - [Chapitre II : Préemption des terrains destinés à la création ou à l'aménagement de jardins familiaux (art. R*562-2 à R*562-3)](#663)
-          - [Section 2 : Droit de préemption des collectivités locales. (art. R*562-2 à R*562-3)](#664)
-        - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique. (art. R*563-1 à R*563-2)](#665)
-        - [Chapitre IV : Avantages divers et subventions. (art. R*564-1 à R*564-3)](#666)
-    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-1 à R832-19)](#667)
-      - [Titre Ier : Enseignement et formation professionnelle agricoles (art. R*811-1 à R*816-4)](#668)
-        - [Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles (art. R*811-1 à R*811-12)](#669)
-          - [Section 1 : Organisation générale (art. R*811-1 à R*811-12)](#670)
-            - [Sous-section 1 : Principes de base. (art. R*811-1 à R*811-2)](#671)
-            - [Sous-section 2 : Conseils et comités (art. R*811-3 à R*811-11)](#672)
-              - [Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale. (art. R*811-3 à R*811-9)](#673)
-              - [Paragraphe 2 : Comité de coordination. (art. R*811-10 à R*811-11)](#674)
-            - [Sous-section 3 : Promotion sociale. (art. R*811-12)](#675)
-        - [Chapitre II : Formations technologiques et professionnelles de cycle court (art. R*812-1 à R*812-6)](#676)
-          - [Section 1 : Enseignement technologique de cycle court par voie scolaire. (art. R*812-1 à R*812-4)](#677)
-          - [Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage. (art. R*812-5)](#678)
-          - [Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue et des formations alternées. (art. R*812-6)](#679)
-        - [Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles (art. R*813-1 à R*813-12)](#680)
-          - [Section 1 : Enseignement technologique de cycle long. (art. R*813-1 à R*813-5)](#681)
-          - [Section 2 : Formation des techniciens supérieurs agricoles. (art. R*813-6 à R*813-7)](#682)
-          - [Section 3 : Dispositions communes. (art. R*813-8 à R*813-12)](#683)
-        - [Chapitre IV : Enseignement supérieur (art. R*814-1 à R*814-61)](#684)
-          - [Section 1 : Dispositions générales. (art. R*814-1 à R*814-4)](#685)
-          - [Section 2 : Enseignement supérieur agricole (art. R*814-5 à R*814-27)](#686)
-            - [Sous-section 1 : Formation des ingénieurs spécialisés en agriculture. (art. R*814-5)](#687)
-            - [Sous-section 2 : Formation des spécialistes en horticulture et des paysagistes. (art. R*814-6 à R*814-7)](#688)
-            - [Sous-section 3 : Formation des ingénieurs des industries agricoles et alimentaires. (art. R*814-8 à R*814-9)](#689)
-            - [Sous-section 4 : Formation des ingénieurs agronomes à vocation générale (art. R*814-10 à R*814-26)](#690)
-              - [Paragraphe 1 : Dispositions générales. (art. R*814-10 à R*814-19)](#691)
-              - [Paragraphe 2 : Dispositions particulières aux élèves étrangers. (art. R*814-20 à R*814-26)](#692)
-            - [Sous-section 5 : Dispositions relatives à la délivrance des diplômes. (art. R*814-27)](#693)
-          - [Section 3 : Enseignement supérieur vétérinaire (art. R*814-28 à R*814-43)](#694)
-            - [Sous-section 1 : Dispositions générales. (art. R*814-28 à R*814-29)](#695)
-            - [Sous-section 2 : Conditions d'admission des élèves. (art. R*814-30 à R*814-31)](#696)
-            - [Sous-section 3 : Enseignement et recherche. (art. R*814-32 à R*814-36)](#697)
-            - [Sous-section 4 : Administration. (art. R*814-37)](#698)
-            - [Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire. (art. R*814-38 à R*814-43)](#699)
-          - [Section 4 : Enseignement de l'agronomie des régions chaudes (art. R*814-44 à R*814-61)](#700)
-            - [Sous-section 1 : Dispositions générales. (art. R*814-44 à R*814-47)](#701)
-            - [Sous-section 2 : Administration du centre. (art. R*814-48 à R*814-57)](#702)
-            - [Sous-section 3 : Régime financier du centre. (art. R*814-58 à R*814-61)](#703)
-        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#704)
-          - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#705)
-          - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#706)
-        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-4)](#707)
-      - [Titre II : Développement agricole (art. R*821-1 à R825-4)](#708)
-        - [Chapitre Ier : Actions de développement agricole. (art. R*821-1 à R*821-4)](#709)
-        - [Chapitre II : Convention avec l'association nationale pour le développement agricole. (art. R*822-1 à R*822-4)](#710)
-        - [Chapitre III : Fonds national de développement agricole. (art. R*823-1 à R*823-19)](#711)
-        - [Chapitre IV : Programmes départementaux, régionaux et national de développement agricole (art. R824-1 à R824-10)](#712)
-          - [Section 1 : Programmes départementaux. (art. R824-1 à R824-4)](#713)
-          - [Section 2 : Programmes régionaux. (art. R824-5 à R824-8)](#714)
-          - [Section 3 : Programme national. (art. R824-9 à R824-10)](#715)
-        - [Chapitre V : Conventions de développement. (art. R825-1 à R825-4)](#716)
-      - [Titre III : Recherche agronomique (art. R831-1 à R832-19)](#717)
-        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#718)
-          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#719)
-          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#720)
-          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#721)
-        - [Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts (art. R832-1 à R832-19)](#722)
-          - [Section 1 : Dispositions générales (art. R832-1 à R832-3)](#723)
-          - [Section 2 : Administration et direction du centre. (art. R*832-4 à R832-10)](#724)
-          - [Section 3 : Organisation du centre. (art. R832-11 à R832-14)](#725)
-          - [Section 4 : Conseil scientifique et technique et commissions spécialisées (art. R832-15 à R832-16)](#726)
-          - [Section 5 : Dispositions diverses (art. R832-17 à R832-19)](#727)
+          - [Section 2 : Droits des particuliers. (art. L227-8 à L227-10)](#60)
+        - [Chapitre VIII : Dispositions pénales (art. L228-1 à L228-44)](#61)
+          - [Section 1 : Peines (art. L228-1 à L228-8)](#62)
+            - [Sous-section 1 : Territoire. (art. L228-1 à L228-2)](#63)
+            - [Sous-section 2 : Permis de chasser. (art. L228-3 à L228-4)](#64)
+            - [Sous-section 3 : Exercice de la chasse (art. L228-5 à L228-8)](#65)
+              - [Paragraphe 2 : Temps de chasse. (art. L228-5)](#66)
+              - [Paragraphe 3 : Modes et moyens. (art. L228-6)](#67)
+              - [Paragraphe 4 : Transport et commercialisation du gibier. (art. L228-7 à L228-8)](#68)
+          - [Section 2 : Circonstances aggravantes et récidive. (art. L228-9 à L228-13)](#69)
+          - [Section 3 : Peines accessoires (art. L228-14 à L228-25)](#70)
+            - [Sous-section 1 : Confiscation. (art. L228-14 à L228-18)](#71)
+            - [Sous-section 2 : Frais de visa et validation du permis de chasser. (art. L228-19 à L228-20)](#72)
+            - [Sous-section 3 : Retrait et suspension du permis de chasser (art. L228-21 à L228-24)](#73)
+              - [Paragraphe 1 : Retrait. (art. L228-21)](#74)
+              - [Paragraphe 2 : Suspension. (art. L228-22 à L228-24)](#75)
+            - [Sous-section 4 : Suspension du permis de conduire. (art. L228-25)](#76)
+          - [Section 4 : Constatation et poursuites (art. L228-26 à L228-44)](#77)
+            - [Sous-section 1 : Constatation des infractions. (art. L228-26 à L228-34)](#78)
+            - [Sous-section 2 : Recherche des infractions. (art. L228-35 à L228-40)](#79)
+            - [Sous-section 3 : Poursuites. (art. L228-41)](#80)
+            - [Sous-section 4 : Règles d'application des peines. (art. L228-42 à L228-44)](#81)
+        - [Chapitre IX : Dispositions particulières aux départements du Bas-Rhin du Haut-Rhin et de la Moselle. (art. L229-1 à L229-37)](#82)
+          - [Section 1 : Administration de la chasse sur le ban communal (art. L229-2 à L229-15)](#83)
+            - [Sous-section 1 : Ban communal. (art. L229-2 à L229-4)](#84)
+            - [Sous-section 2 : Exploitation du droit de chasse. (art. L229-5 à L229-6)](#85)
+            - [Sous-section 3 : Produit de la location du droit de chasse. (art. L229-7 à L229-11)](#86)
+            - [Sous-section 4 : Adjudication. (art. L229-12 à L229-13)](#87)
+            - [Sous-section 5 : Enclaves. (art. L229-14)](#88)
+            - [Sous-section 6 : Dispositions diverses. (art. L229-15)](#89)
+          - [Section 2 : Exercice de la chasse (art. L229-16 à L229-19)](#90)
+            - [Sous-section 1 : Temps de chasse. (art. L229-16)](#91)
+            - [Sous-section 2 : Modes et moyens de chasse. (art. L229-17)](#92)
+            - [Sous-section 3 : Commercialisation et transport du gibier. (art. L229-18 à L229-19)](#93)
+          - [Section 4 : Indemnisation des dégâts de gibier. (art. L229-20 à L229-29)](#94)
+            - [Sous-section 1 : Indemnisation des dégâts de gibier autre que le sanglier. (art. L229-23)](#95)
+            - [Sous-section 2 : Indemnisation des dégâts causés par les sangliers. (art. L229-24 à L229-29)](#96)
+          - [Section 5 : Pénalités (art. L229-30 à L229-37)](#97)
+            - [Sous-section 1 : Peines (art. L229-30 à L229-34)](#98)
+              - [Paragraphe 1 : Territoire. (art. L229-30 à L229-33)](#99)
+              - [Paragraphe 2 : Exercice de la chasse. (art. L229-34)](#100)
+            - [Sous-section 2 : Récidive. (art. L229-35)](#101)
+            - [Sous-section 3 : Peines accessoires. (art. L229-36 à L229-37)](#102)
+      - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. L230-1 à L239-1)](#103)
+        - [Chapitre Ier : Champ d'application (art. L231-1 à L231-8)](#104)
+          - [Section 1 : Dispositions générales. (art. L231-1 à L231-5)](#105)
+          - [Section 2 : Piscicultures. (art. L231-6 à L231-8)](#106)
+        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. L232-1 à L232-12)](#107)
+          - [Section 1 : Obligations générales. (art. L232-1)](#108)
+          - [Section 2 : Protection de la faune piscicole et de son habitat. (art. L232-2 à L232-4)](#109)
+          - [Section 3 : Obligations relatives aux ouvrages. (art. L232-5 à L232-9)](#110)
+          - [Section 4 : Contrôle des peuplements. (art. L232-10 à L232-12)](#111)
+        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. L233-1 à L233-3)](#112)
+          - [Section 1 : Orientations de bassin. (art. L233-1)](#113)
+          - [Section 2 : Schéma départemental de vocation piscicole. (art. L233-2)](#114)
+          - [Section 3 : Obligation de gestion. (art. L233-3)](#115)
+        - [Chapitre IV : Organisation des pêcheurs (art. L234-1 à L234-6)](#116)
+          - [Section 1 : Conseil supérieur de la pêche. (art. L234-1 à L234-2)](#117)
+          - [Section 2 : Pêche de loisir. (art. L234-3 à L234-5)](#118)
+          - [Section 3 : Pêche professionnelle. (art. L234-6)](#119)
+        - [Chapitre V : Droit de pêche (art. L235-1 à L235-9)](#120)
+          - [Section 1 : Droit de pêche de l'Etat. (art. L235-1 à L235-3)](#121)
+          - [Section 2 : Droit de pêche des riverains. (art. L235-4 à L235-5)](#122)
+          - [Section 3 : Droit de passage. (art. L235-6 à L235-9)](#123)
+        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. L236-1 à L236-16)](#124)
+          - [Section 1 : Dispositions générales. (art. L236-1 à L236-8)](#125)
+          - [Section 2 : Autorisations exceptionnelles. (art. L236-9)](#126)
+          - [Section 3 : Estuaires. (art. L236-10 à L236-11)](#127)
+          - [Section 4 : Réserves et interdictions permanentes de pêche. (art. L236-12)](#128)
+          - [Section 5 : Commercialisation. (art. L236-13 à L236-16)](#129)
+        - [Chapitre VII : Recherche et constatation des infractions (art. L237-1 à L237-13)](#130)
+          - [Section 1 : Agents compétents. (art. L237-1 à L237-3)](#131)
+          - [Section 2 : Procès-verbaux. (art. L237-4 à L237-5)](#132)
+          - [Section 3 : Recherche des infractions. (art. L237-6 à L237-9)](#133)
+          - [Section 4 : Saisies. (art. L237-10 à L237-12)](#134)
+          - [Section 5 : Gardes-pêche particuliers. (art. L237-13)](#135)
+        - [Chapitre VIII : Transaction - Poursuites et règles d'application des peines (art. L238-1 à L238-9)](#136)
+          - [Section 1 : Transaction. (art. L238-1)](#137)
+          - [Section 2 : Poursuites pénales. (art. L238-2 à L238-4)](#138)
+          - [Section 3 : Règles d'application des peines. (art. L238-5 à L238-8)](#139)
+          - [Section 4 : Action civile. (art. L238-9)](#140)
+        - [Chapitre IX : Dispositions d'application. (art. L239-1)](#141)
+      - [Titre IV : Espaces naturels (art. L241-1 à L243-14)](#142)
+        - [Chapitre Ier : Parcs nationaux. (art. L241-1 à L241-20)](#143)
+          - [Section 2 : Création d'un parc national. (art. L241-3 à L241-4)](#144)
+          - [Section 3 : Aménagement et gestion des parcs nationaux. (art. L241-5 à L241-9)](#145)
+          - [Section 4 : Mise en valeur des zones périphériques. (art. L241-10)](#146)
+          - [Section 5 : Réserves intégrales. (art. L241-11)](#147)
+          - [Section 6 : Indemnités. (art. L241-12)](#148)
+          - [Section 7 : Dispositions diverses. (art. L241-13)](#149)
+          - [Section 8 : Dispositions pénales (art. L241-14 à L241-20)](#150)
+            - [Sous-section 2 : Constatation et poursuites. (art. L241-14 à L241-20)](#151)
+        - [Chapitre II : Réserves naturelles (art. L242-1 à L242-27)](#152)
+          - [Section 1 : Réserves naturelles établies par décret (art. L242-1 à L242-10)](#153)
+            - [Sous-section 1 : Classement. (art. L242-1 à L242-8)](#154)
+            - [Sous-section 2 : Modifications de l'état ou de l'aspect d'une réserve naturelle. (art. L242-9)](#155)
+            - [Sous-section 3 : Modifications des limites ou de la réglementation (déclassement). (art. L242-10)](#156)
+          - [Section 2 : Réserves naturelles volontaires. (art. L242-11 à L242-12)](#157)
+          - [Section 3 : Dispositions communes (art. L242-13 à L242-19)](#158)
+            - [Sous-section 1 : Protection des réserves naturelles. (art. L242-13 à L242-14)](#159)
+            - [Sous-section 2 : Abords des réserves naturelles (art. L242-15 à L242-18)](#160)
+              - [Paragraphe 1 : Périmètres de protection. (art. L242-15 à L242-17)](#161)
+              - [Paragraphe 2 : Zones de protection. (art. L242-18)](#162)
+            - [Sous-section 3 : Réserves naturelles créées en application de la loi du 2 mai 1930. (art. L242-19)](#163)
+          - [Section 4 : Dispositions pénales (art. L242-20 à L242-27)](#164)
+            - [Sous-section 1 : Peines. (art. L242-20 à L242-23)](#165)
+            - [Sous-section 2 : Constatation et poursuites. (art. L242-24 à L242-27)](#166)
+        - [Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres (art. L243-1 à L243-14)](#167)
+          - [Section 1 : Dispositions générales. (art. L243-1 à L243-2)](#168)
+          - [Section 2 : Patrimoine du Conservatoire (art. L243-3 à L243-10)](#169)
+            - [Sous-section 1 : Constitution, aliénation. (art. L243-3 à L243-8)](#170)
+            - [Sous-section 2 : Gestion. (art. L243-9 à L243-10)](#171)
+          - [Section 3 : Administration (art. L243-11 à L243-13)](#172)
+            - [Sous-section 1 : Conseil d'administration. (art. L243-11 à L243-12)](#173)
+            - [Sous-section 2 : Conseils de rivage. (art. L243-13)](#174)
+          - [Section 4 : Dispositions financières. (art. L243-14)](#175)
+      - [Titre V : Dispositions communes à la protection de la nature (art. L252-1 à L252-4)](#176)
+        - [Chapitre II : Associations ayant pour objet la protection de la nature et de l'environnement. (art. L252-1 à L252-4)](#177)
+      - [Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon et aux terres australes et antarctiques françaises (art. L261-1 à L262-1)](#178)
+        - [Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon. (art. L261-1)](#179)
+        - [Chapitre II : Dispositions particulières aux terres australes et antarctiques françaises. (art. L262-1)](#180)
+    - [Livre IV : Baux ruraux (art. L411-1 à L481-1)](#181)
+      - [Titre Ier : Statut du fermage et du métayage (art. L411-1 à L417-15)](#182)
+        - [Chapitre Ier : Régime de droit commun (art. L411-1 à L411-78)](#183)
+          - [Section 1 : Etablissement du contrat, durée et prix du bail (art. L411-4 à L411-24)](#184)
+            - [Sous-section 1 : Etablissement du contrat. (art. L411-4)](#185)
+            - [Sous-section 2 : Durée du bail. (art. L411-5 à L411-10)](#186)
+            - [Sous-section 3 : Prix du bail. (art. L411-11 à L411-24)](#187)
+          - [Section 2 : Droits et obligations du preneur en matière d'exploitation. (art. L411-25 à L411-29)](#188)
+          - [Section 3 : Résiliation du bail. (art. L411-30 à L411-34)](#189)
+          - [Section 4 : Cession du bail et sous-location. (art. L411-35 à L411-36)](#190)
+          - [Section 5 : Adhésion à une société. (art. L411-37 à L411-38)](#191)
+          - [Section 6 : Echange et location de parcelles. (art. L411-39)](#192)
+          - [Section 7 : Dispositions particulières aux locations annuelles renouvelables. (art. L411-40 à L411-45)](#193)
+          - [Section 8 : Droit de renouvellement et droit de reprise. (art. L411-46 à L411-68)](#194)
+          - [Section 9 : Indemnité au preneur sortant. (art. L411-69 à L411-78)](#195)
+        - [Chapitre II : Droit de préemption et droit de priorité (art. L412-1 à L412-15)](#196)
+          - [Section 1 : Droit de préemption en cas d'aliénation à titre onéreux de biens ruraux. (art. L412-1 à L412-13)](#197)
+          - [Section 2 : Dispositions relatives aux baux conclus entre copartageants d'une exploitation agricole par application de l'article 832-3 du code civil. (art. L412-14 à L412-15)](#198)
+        - [Chapitre III : Dispositions particulières aux preneurs de nationalité étrangère. (art. L413-1)](#199)
+        - [Chapitre V : Dispositions diverses et d'application. (art. L415-1 à L415-12)](#200)
+        - [Chapitre VI : Dispositions particulières aux baux à long terme. (art. L416-1 à L416-9)](#201)
+        - [Chapitre VII : Dispositions particulières aux baux à colonat partiaire ou métayage (art. L417-1 à L417-15)](#202)
+          - [Section 1 : Régime du bail. (art. L417-1 à L417-10)](#203)
+          - [Section 2 : Conversion en baux à ferme. (art. L417-11 à L417-15)](#204)
+      - [Titre II : Bail à cheptel. (art. L421-1)](#205)
+      - [Titre III : Bail à domaine congéable. (art. L431-1 à L431-23)](#206)
+      - [Titre IV : Bail à complant. (art. L441-1 à L441-13)](#207)
+      - [Titre V : Bail emphytéotique. (art. L451-1 à L451-13)](#208)
+      - [Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer (art. L461-1 à L464-2)](#209)
+        - [Chapitre Ier : Régime de droit commun (art. L461-1 à L461-28)](#210)
+          - [Section 2 : Conclusion, durée, prix du bail. (art. L461-2 à L461-4)](#211)
+          - [Section 3 : Résiliation, cession et sous-location. (art. L461-5 à L461-7)](#212)
+          - [Section 4 : Congé, renouvellement, reprise. (art. L461-8 à L461-14)](#213)
+          - [Section 5 : Indemnité du preneur sortant. (art. L461-15 à L461-17)](#214)
+          - [Section 6 : Droit de préemption. (art. L461-18 à L461-23)](#215)
+          - [Section 7 : Dispositions diverses. (art. L461-24 à L461-28)](#216)
+        - [Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage (art. L462-1 à L462-27)](#217)
+          - [Section 1 : Régime du bail. (art. L462-1 à L462-21)](#218)
+          - [Section 2 : Conversion en baux à ferme. (art. L462-22 à L462-26)](#219)
+          - [Section 3 : Dispositions diverses et d'application. (art. L462-27)](#220)
+        - [Chapitre III : Dispositions particulières aux baux à long terme. (art. L463-1)](#221)
+        - [Chapitre IV : Dispositions d'application. (art. L464-1 à L464-2)](#222)
+      - [Titre VII : Location de jardins familiaux. (art. L471-1 à L471-7)](#223)
+      - [Titre VIII : Contrats d'exploitation de terres à vocation pastorale. (art. L481-1)](#224)
+    - [Livre V : Organismes professionnels agricoles (art. L511-1 à L564-3)](#225)
+      - [Titre Ier : Chambres d'agriculture (art. L511-1 à L515-5)](#226)
+        - [Chapitre Ier : Chambres départementales (art. L511-1 à L511-12)](#227)
+          - [Section 1 : Institution et attributions. (art. L511-1 à L511-6)](#228)
+          - [Section 2 : Composition. (art. L511-7)](#229)
+          - [Section 3 : Elections. (art. L511-8 à L511-9)](#230)
+          - [Section 4 : Fonctionnement. (art. L511-10 à L511-11)](#231)
+          - [Section 5 : Régime financier. (art. L511-12)](#232)
+        - [Chapitre III : Assemblée permanente des chambres d'agriculture (art. L513-1 à L513-3)](#233)
+          - [Section 1 : Organisation et fonctionnement. (art. L513-1 à L513-3)](#234)
+        - [Chapitre IV : Dispositions financières communes. (art. L514-1)](#235)
+        - [Chapitre V : Dispositions relatives au statut des salariés membres des chambres d'agriculture. (art. L515-1 à L515-5)](#236)
+      - [Titre II : Sociétés coopératives agricoles (art. L521-1 à L529-6)](#237)
+        - [Chapitre Ier : Dispositions générales, constitution (art. L521-1 à L521-6)](#238)
+          - [Section 1 : Dispositions générales. (art. L521-1 à L521-6)](#239)
+        - [Chapitre II : Associés, tiers non coopérateurs (art. L522-1 à L522-5)](#240)
+          - [Section 1 : Associés coopérateurs. (art. L522-1 à L522-2)](#241)
+          - [Section 2 : Associés non coopérateurs. (art. L522-3 à L522-4)](#242)
+          - [Section 3 : Tiers non coopérateurs. (art. L522-5)](#243)
+        - [Chapitre III : Capital social et dispositions financières (art. L523-1 à L523-7)](#244)
+          - [Section 1 : Capital social. (art. L523-1 à L523-4)](#245)
+          - [Section 3 : Prises de participation. (art. L523-5)](#246)
+          - [Section 4 : Réévaluation des bilans. (art. L523-6 à L523-7)](#247)
+        - [Chapitre V : Agrément, contrôle (art. L525-1)](#248)
+          - [Section 1 : Agrément. (art. L525-1)](#249)
+        - [Chapitre VI : Dissolution, liquidation. (art. L526-1 à L526-2)](#250)
+        - [Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle (art. L527-1 à L527-3)](#251)
+          - [Section 1 : Fédérations de coopératives (art. L527-1)](#252)
+            - [Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision. (art. L527-1)](#253)
+          - [Section 2 : Sociétés coopératives de caution mutuelle. (art. L527-2 à L527-3)](#254)
+        - [Chapitre IX : Dispositions pénales, dispositions d'application. (art. L529-1 à L529-6)](#255)
+      - [Titre III : Sociétés d'intérêt collectif agricole (art. L531-1 à L535-4)](#256)
+        - [Chapitre Ier : Constitution. (art. L531-1 à L531-2)](#257)
+        - [Chapitre II : Fonctionnement. (art. L532-1)](#258)
+        - [Chapitre V : Dispositions pénales. (art. L535-1 à L535-4)](#259)
+      - [Titre IV : Sociétés mixtes d'intérêt agricole. (art. L541-1 à L541-4)](#260)
+      - [Titre V : Groupements de producteurs et comités économiques agricoles (art. L551-1 à L554-2)](#261)
+        - [Chapitre Ier : Groupements de producteurs. (art. L551-1 à L551-2)](#262)
+        - [Chapitre II : Comités économiques agricoles. (art. L552-1 à L552-2)](#263)
+        - [Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles (art. L553-1)](#264)
+          - [Section 1 : Droits d'inscription et cotisations. (art. L553-1)](#265)
+        - [Chapitre IV : Extension des règles édictées par les comités économiques agricoles. (art. L554-1 à L554-2)](#266)
+          - [Section 2 : Procédure d'extension des règles (art. L554-2)](#267)
+            - [Sous-section 1 : Dispositions générales. (art. L554-2)](#268)
+      - [Titre VI : Jardins familiaux (art. L561-1 à L564-3)](#269)
+        - [Chapitre Ier : Constitution. (art. L561-1 à L561-2)](#270)
+        - [Chapitre II : Préemption de terrains destinés à la création ou à la protection de jardins familiaux (art. L562-1 à L562-2)](#271)
+          - [Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER). (art. L562-1)](#272)
+          - [Section 2 : Droit de préemption des collectivités locales. (art. L562-2)](#273)
+        - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique. (art. L563-1)](#274)
+        - [Chapitre IV : Avantages et subventions. (art. L564-1 à L564-3)](#275)
+    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. L815-1 à L815-4)](#276)
+      - [Titre Ier : Enseignement et formation professionnelle agricoles (art. L815-1 à L815-4)](#277)
+        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole publics. (art. L815-1 à L815-4)](#278)
+  - [Partie réglementaire (art. R*221-36 à R832-19)](#279)
+    - [Livre II : Santé publique vétérinaire et protection des végétaux (art. R*221-36 à R*221-38)](#280)
+      - [Titre II : La lutte contre les maladies des animaux (art. R*221-36 à R*221-38)](#281)
+        - [Chapitre Ier : Dispositions générales (art. R*221-36 à R*221-38)](#282)
+          - [Section 3 : Les mesures techniques et administratives générales (art. R*221-36 à R*221-38)](#283)
+    - [Livre II : Protection de la nature (art. R*211-1 à R*262-1)](#284)
+      - [Titre Ier : Protection de la faune et de la flore (art. R*211-1 à R*215-3)](#285)
+        - [Chapitre Ier : Préservation du patrimoine biologique (art. R*211-1 à R*211-18)](#286)
+          - [Section 1 : Mesures de protection. (art. R*211-1 à R*211-5)](#287)
+          - [Section 2 : Autorisation de capture d'espèces protégées. (art. R*211-6 à R*211-11)](#288)
+          - [Section 3 : Protection des biotopes. (art. R*211-12 à R*211-14)](#289)
+          - [Section 4 : Réglementation particulière aux produits antiparasitaires et assimilés. (art. R*211-15)](#290)
+          - [Section 5 : Prises de vues ou de son. (art. R*211-16 à R*211-18)](#291)
+        - [Chapitre II : Activités soumises à autorisation (art. R*212-1 à R*212-10)](#292)
+          - [Section 1 : Régime général d'autorisation. (art. R*212-1 à R*212-7)](#293)
+            - [Sous-section 1 : Autorisation. (art. R*212-2 à R*212-6)](#294)
+            - [Sous-section 2 : Contrôle. (art. R*212-7)](#295)
+          - [Section 2 : Régime propre à la capture, au ramassage et à la cession de certaines espèces. (art. R*212-8 à R*212-10)](#296)
+        - [Chapitre III : Etablissements détenant des animaux d'espèces non domestiques (art. R*213-1 à R*213-34)](#297)
+          - [Section 1 : Etablissements soumis à autorisation d'ouverture (art. R*213-2 à R*213-22)](#298)
+            - [Sous-section 1 : Certificat de capacité. (art. R*213-2 à R*213-4)](#299)
+            - [Sous-section 2 : Autorisation d'ouverture des établissements (art. R*213-5 à R*213-19)](#300)
+              - [Paragraphe 1 : Demande d'autorisation. (art. R*213-7 à R*213-10)](#301)
+              - [Paragraphe 2 : Examen de la demande par le ministre. (art. R*213-11 à R*213-12)](#302)
+              - [Paragraphe 3 : Instruction par le préfet du département. (art. R*213-13 à R*213-19)](#303)
+            - [Sous-section 3 : Modifications concernant l'exploitation ou changement d'exploitant. (art. R*213-20 à R*213-21)](#304)
+            - [Sous-section 4 : Dispositions transitoires. (art. R*213-22)](#305)
+          - [Section 2 : Etablissements soumis au contrôle de l'autorité administrative (art. R*213-23 à R*213-27)](#306)
+          - [Section 3 : Sanctions administratives (art. R*213-28 à R*213-34)](#307)
+            - [Sous-section 1 : Dispositions propres aux établissements fonctionnant sans autorisation ou déclaration. (art. R*213-28 à R*213-30)](#308)
+            - [Sous-section 2 : Dispositions propres aux établissements fonctionnant en infraction aux dispositions qui leur sont imposées. (art. R*213-31 à R*213-32)](#309)
+            - [Sous-section 3 : Dispositions communes. (art. R*213-33 à R*213-34)](#310)
+        - [Chapitre IV : Dispositions diverses relatives à la conservation de la flore (art. R214-4 à R214-14)](#311)
+          - [Section 1 : Conservatoires botaniques nationaux. (art. R214-4 à R214-14)](#312)
+        - [Chapitre V : Dispositions pénales (art. R*215-1 à R*215-3)](#313)
+          - [Section 1 : Peines (art. R*215-1 à R*215-3)](#314)
+            - [Sous-section 1 : Préservation du patrimoine biologique. (art. R*215-1 à R*215-2)](#315)
+            - [Sous-section 2 : Activités soumises à autorisation. (art. R*215-3)](#316)
+      - [Titre II : Chasse (art. R*221-1 à R*229-21)](#317)
+        - [Chapitre Ier : Organisation de la chasse (art. R*221-1 à R*221-39)](#318)
+          - [Section 1 : Conseil national de la chasse et de la faune sauvage. (art. R*221-1 à R*221-7)](#319)
+          - [Section 2 : Office national de la chasse (art. R*221-8 à R*221-23)](#320)
+            - [Sous-section 1 : Dispositions générales. (art. R*221-8 à R*221-9)](#321)
+            - [Sous-section 2 : Administration générale (art. R*221-10 à R*221-17)](#322)
+              - [Paragraphe 1 : Conseil d'administration. (art. R*221-10 à R*221-15)](#323)
+              - [Paragraphe 2 : Directeur. (art. R*221-16)](#324)
+              - [Paragraphe 3 : Personnels. (art. R*221-17)](#325)
+            - [Sous-section 3 : Dispositions financières. (art. R*221-18 à R*221-21)](#326)
+            - [Sous-section 4 : Contrôle. (art. R*221-22 à R*221-23)](#327)
+          - [Section 3 : Régions cynégétiques. (art. R*221-24 à R*221-26)](#328)
+          - [Section 4 : Conseil départemental de la chasse et de la faune sauvage. (art. R*221-27 à R*221-31)](#329)
+          - [Section 5 : Fédérations des chasseurs (art. R*221-32 à R*221-35)](#330)
+            - [Sous-section 1 : Dispositions générales. (art. R*221-32 à R*221-35)](#331)
+          - [Section 6 : Dispositions diverses. (art. R*221-39)](#332)
+        - [Chapitre II : Territoire de chasse (art. R*222-1 à R222-87)](#333)
+          - [Section 1 : Associations communales et intercommunales de chasse agréées. (art. R*222-1 à R*222-81)](#334)
+            - [Sous-section 1 : Institution des associations communales de chasse agréées (art. R*222-5 à R*222-16)](#335)
+              - [Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées. (art. R*222-5 à R*222-11)](#336)
+              - [Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées dans certaines communes. (art. R*222-12 à R*222-16)](#337)
+            - [Sous-section 2 : Modalités de constitution de l'association communale de chasse agréée (art. R*222-17 à R*222-41)](#338)
+              - [Paragraphe 1 : Enquête. (art. R*222-17 à R*222-32)](#339)
+              - [Paragraphe 2 : Assemblée constitutive et agrément de l'association communale de chasse agréée. (art. R*222-33 à R*222-41)](#340)
+            - [Sous-section 3 : Territoire (art. R*222-42 à R*222-61)](#341)
+              - [Paragraphe 2 : Terrains faisant l'objet d'une opposition. (art. R*222-42 à R*222-46)](#342)
+              - [Paragraphe 3 : Apports. (art. R*222-47 à R*222-50)](#343)
+              - [Paragraphe 4 : Indemnisation des apports. (art. R*222-51 à R*222-53)](#344)
+              - [Paragraphe 5 : Modification du territoire de l'association. (art. R*222-54 à R*222-58)](#345)
+              - [Paragraphe 6 : Enclaves. (art. R*222-59 à R*222-61)](#346)
+            - [Sous-section 4 : Dispositions obligatoires des statuts des associations communales de chasse agréées. (art. R*222-62 à R*222-64)](#347)
+            - [Sous-section 5 : Réserves et garderie. (art. R*222-65 à R*222-69)](#348)
+            - [Sous-section 6 : Association intercommunale de chasse agréée. (art. R*222-70 à R*222-79)](#349)
+              - [Paragraphe 1 : Constitution des associations intercommunales de chasse agréées. (art. R*222-71 à R*222-74)](#350)
+              - [Paragraphe 2 : Dispositions obligatoires. (art. R*222-75 à R*222-78)](#351)
+              - [Paragraphe 3 : Réserves et garderie. (art. R*222-79)](#352)
+            - [Sous-section 7 : Dispositions diverses. (art. R*222-80 à R*222-81)](#353)
+          - [Section 2 : Réserves de chasse. (art. R*222-82)](#354)
+          - [Section 3 : Chasse maritime. (art. R*222-83)](#355)
+          - [Section 4 : Exploitation de la chasse sur le domaine de l'Etat (art. R222-84 à R222-87)](#356)
+            - [Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat. (art. R222-84)](#357)
+            - [Sous-section 2 : Exploitation de la chasse sur le domaine public fluvial. (art. R222-85 à R222-86)](#358)
+            - [Sous-section 3 : Exploitation de la chasse sur le domaine public maritime. (art. R222-87)](#359)
+        - [Chapitre III : Permis de chasser. (art. R*223-2 à R*223-36)](#360)
+          - [Section 1 : Examen pour la délivrance du permis de chasser. (art. R*223-2 à R*223-8)](#361)
+          - [Section 2 : Délivrance, visa et validation du permis de chasser (art. R*223-9 à R*223-32)](#362)
+            - [Sous-section 1 : Délivrance. (art. R*223-9 à R*223-11)](#363)
+            - [Sous-section 2 : Visa. (art. R*223-12 à R*223-22)](#364)
+            - [Sous-section 3 : Validation. (art. R*223-23 à R*223-26)](#365)
+            - [Sous-section 4 : Dispositions propres à la région parisienne. (art. R*223-27 à R*223-29)](#366)
+            - [Sous-section 6 : Licences. (art. R*223-30 à R*223-31)](#367)
+            - [Sous-section 7 : Refus et exclusions. (art. R*223-32)](#368)
+          - [Section 3 : Redevances cynégétiques. (art. R*223-33 à R*223-35)](#369)
+          - [Section 4 : Dispositions diverses et d'application. (art. R*223-36)](#370)
+        - [Chapitre IV : Exercice de la chasse (art. R*224-1 à R*224-17)](#371)
+          - [Section 2 : Temps de chasse (art. R*224-1 à R*224-9)](#372)
+            - [Sous-section 1 : Chasse à courre, à cor et à cri. (art. R*224-1 à R*224-2)](#373)
+            - [Sous-section 2 : Chasse à tir et chasse au vol. (art. R*224-3 à R*224-6)](#374)
+            - [Sous-section 3 : Dispositions communes. (art. R*224-7 à R*224-9)](#375)
+          - [Section 3 : Modes et moyens de chasse. (art. R*224-10 à R*224-12)](#376)
+          - [Section 4 : Commercialisation et transport du gibier (art. R*224-13 à R224-16)](#377)
+            - [Sous-section 1 : Interdiction permanente. (art. R*224-13 à R224-16)](#378)
+          - [Section 5 : Dispositions spéciales à la chasse maritime. (art. R*224-17)](#379)
+        - [Chapitre V : Plan de chasse. (art. R*225-1 à R*225-14)](#380)
+        - [Chapitre VI : Indemnisation des dégâts de gibier (art. R*226-1 à R*226-29)](#381)
+          - [Section 1 : Indemnisation par l'Office national de la chasse des dégâts causés par les sangliers et les grands gibiers (art. R*226-1 à R*226-19)](#382)
+            - [Sous-section 1 : Compte d'indemnisation. (art. R*226-1 à R*226-5)](#383)
+            - [Sous-section 2 : Conditions d'attribution de l'indemnisation pour dégâts de gibier (art. R*226-6 à R*226-19)](#384)
+              - [Paragraphe 1 : Commission nationale d'indemnisation. (art. R*226-6 à R*226-7)](#385)
+              - [Paragraphe 2 : Commission départementale d'indemnisation. (art. R*226-8 à R*226-11)](#386)
+              - [Paragraphe 3 : Demandes individuelles d'indemnisation. (art. R*226-12 à R*226-19)](#387)
+          - [Section 2 : Dispositions relatives à l'indemnisation judiciaire des dégâts causés aux récoltes. (art. R*226-20 à R*226-29)](#388)
+        - [Chapitre VII : Destruction des animaux nuisibles et louveterie (art. R*227-1 à R*227-27)](#389)
+          - [Section 1 : Mesures administratives (art. R*227-1 à R*227-4)](#390)
+            - [Sous-section 1 : Louveterie. (art. R*227-1 à R*227-3)](#391)
+            - [Sous-section 3 : Sécurité aérienne. (art. R*227-4)](#392)
+          - [Section 2 : Droits des particuliers (art. R*227-5 à R*227-27)](#393)
+            - [Sous-section 1 : Classement des animaux nuisibles. (art. R*227-5 à R*227-6)](#394)
+            - [Sous-section 2 : Exercice du droit de destruction. (art. R*227-7)](#395)
+            - [Sous-section 3 : Modalités de destruction. (art. R*227-8 à R*227-23)](#396)
+              - [Paragraphe 1 : Toxiques. (art. R*227-9)](#397)
+              - [Paragraphe 2 : Déterrage. (art. R*227-10 à R*227-11)](#398)
+              - [Paragraphe 3 : Piégeage. (art. R*227-12 à R*227-15)](#399)
+              - [Paragraphe 4 : Tir. (art. R*227-16 à R*227-22)](#400)
+              - [Paragraphe 5 : Utilisation des oiseaux de chasse au vol. (art. R*227-23)](#401)
+            - [Sous-section 4 : Transport, lâcher. (art. R*227-24 à R*227-26)](#402)
+            - [Sous-section 5 : Mesures diverses. (art. R*227-27)](#403)
+        - [Chapitre VIII : Dispositions pénales (art. R*228-1 à R*228-20)](#404)
+          - [Section 1 : Peines (art. R*228-1 à R*228-17)](#405)
+            - [Sous-section 1 : Territoire. (art. R*228-1 à R*228-2)](#406)
+            - [Sous-section 2 : Permis de chasser. (art. R*228-3 à R*228-4)](#407)
+            - [Sous-section 3 : Exercice de la chasse (art. R*228-5 à R*228-14)](#408)
+              - [Paragraphe 1 : Protection du gibier. (art. R*228-5 à R*228-6)](#409)
+              - [Paragraphe 2 : Temps de chasse. (art. R*228-7)](#410)
+              - [Paragraphe 3 : Modes et moyens. (art. R*228-8)](#411)
+              - [Paragraphe 4 : Transport et commercialisation du gibier. (art. R*228-9 à R*228-14)](#412)
+            - [Sous-section 4 : Plan de chasse. (art. R*228-15 à R*228-16)](#413)
+            - [Sous-section 5 : Destruction des animaux nuisibles et louveterie. (art. R*228-17)](#414)
+          - [Section 2 : Circonstances aggravantes et récidive. (art. R*228-18 à R228-19)](#415)
+          - [Section 4 : Constatation et poursuites (art. R*228-20)](#416)
+            - [Sous-section 1 : Constatation des infractions. (art. R*228-20)](#417)
+        - [Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. R*229-1 à R*229-21)](#418)
+          - [Section 2 : Exercice de la chasse (art. R*229-2 à R*229-6)](#419)
+            - [Sous-section 1 : Temps de chasse. (art. R*229-2 à R*229-5)](#420)
+            - [Sous-section 2 : Modes et moyens de chasse. (art. R*229-6)](#421)
+          - [Section 3 : Plan de chasse. (art. R*229-7)](#422)
+          - [Section 4 : Indemnisation des dégâts de gibier (art. R*229-8 à R*229-17)](#423)
+            - [Sous-section 1 : Indemnisation des dégâts de gibier autre que le sanglier. (art. R*229-8 à R*229-14)](#424)
+            - [Sous-section 2 : Indemnisation des dégâts causés par les sangliers. (art. R*229-15 à R*229-16)](#425)
+            - [Sous-section 3 : Dispositions diverses. (art. R*229-17)](#426)
+          - [Section 5 : Pénalités (art. R*229-18 à R*229-21)](#427)
+            - [Sous-section 1 : Peines (art. R*229-18 à R*229-20)](#428)
+              - [Paragraphe 1 : Territoire. (art. R*229-18 à R*229-19)](#429)
+              - [Paragraphe 2 : Exercice de la chasse. (art. R*229-20)](#430)
+            - [Sous-section 2 : Récidive. (art. R*229-21)](#431)
+      - [Titre III : Pêche en eau douce et gestion des ressources piscicoles (art. R*231-1 à R*238-6)](#432)
+        - [Chapitre Ier : Champ d'application (art. R*231-1 à R*231-41)](#433)
+          - [Section 1 : Dispositions générales. (art. R*231-1 à R*231-6)](#434)
+          - [Section 2 : Piscicultures (art. R*231-7 à R*231-41)](#435)
+            - [Sous-section 1 : Dispositions générales. (art. R*231-7 à R*231-10)](#436)
+            - [Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture. (art. R*231-11 à R*231-26)](#437)
+            - [Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture. (art. R*231-27 à R*231-34)](#438)
+            - [Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984. (art. R*231-35 à R*231-37)](#439)
+            - [Sous-section 5 : Dispositions diverses. (art. R*231-38 à R*231-41)](#440)
+        - [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole (art. R*232-1 à R232-23)](#441)
+          - [Section 4 : Contrôle des peuplements. (art. R*232-1 à R232-23)](#442)
+        - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles (art. R233-1 à R233-15)](#443)
+          - [Section 1 : Orientations de bassin. (art. R233-1 à R233-15)](#444)
+        - [Chapitre IV : Organisation des pêcheurs (art. R*234-1 à R*234-43)](#445)
+          - [Section 1 : Conseil supérieur de la pêche (art. R*234-1 à R234-21)](#446)
+            - [Sous-section 1 : Dispositions générales. (art. R*234-1 à R*234-4)](#447)
+            - [Sous-section 2 : Administration du conseil supérieur de la pêche (art. R*234-5 à R*234-15)](#448)
+              - [Paragraphe 1 : Le conseil d'administration. (art. R*234-6 à R*234-11)](#449)
+              - [Paragraphe 2 : Le directeur général. (art. R*234-12 à R*234-13)](#450)
+              - [Paragraphe 3 : Les gardes-pêche. (art. R*234-14 à R*234-15)](#451)
+            - [Sous-section 3 : Dispositions financières et comptables (art. R*234-16 à R234-21)](#452)
+              - [Paragraphe 1 : Organisation financière et comptable. (art. R*234-16 à R*234-20)](#453)
+              - [Paragraphe 2 : Contrôles. (art. R234-21)](#454)
+          - [Section 2 : Pêche de loisir. (art. R*234-22 à R*234-34)](#455)
+          - [Section 3 : Pêche professionnelle. (art. R*234-35 à R*234-43)](#456)
+        - [Chapitre V : Droit de pêche (art. R*235-1 à R*235-29)](#457)
+          - [Section 1 : Droit de pêche de l'Etat (art. R*235-2 à R*235-28)](#458)
+            - [Sous-section 1 : Conditions générales d'exploitation. (art. R*235-2 à R*235-13)](#459)
+            - [Sous-section 2 : Modalités de location des lots. (art. R*235-14 à R*235-21)](#460)
+            - [Sous-section 3 : Procédure d'adjudication publique. (art. R*235-22 à R*235-28)](#461)
+          - [Section 3 : Droit de passage. (art. R*235-29)](#462)
+        - [Chapitre VI : Conditions d'exercice du droit de pêche (art. R*236-2 à R*236-120)](#463)
+          - [Section 1 : Dispositions générales (art. R*236-2 à R*236-66)](#464)
+            - [Sous-section 1 : Temps et heures d'interdiction (art. R*236-6 à R236-20)](#465)
+              - [Paragraphe 1 : Temps d'interdiction. (art. R*236-6 à R*236-17)](#466)
+              - [Paragraphe 2 : Heures d'interdiction. (art. R*236-18 à R236-20)](#467)
+            - [Sous-section 2 : Taille minimale des poissons. (art. R*236-23 à R*236-26)](#468)
+            - [Sous-section 3 : Nombre de captures autorisées, conditions de capture. (art. R*236-27 à R*236-29)](#469)
+            - [Sous-section 4 : Procédés et modes de pêche autorisés. (art. R*236-30 à R*236-39)](#470)
+            - [Sous-section 5 : Procédés et modes de pêche prohibés. (art. R*236-40 à R*236-50)](#471)
+            - [Sous-section 6 : Dispositions diverses. (art. R*236-51 à R*236-53)](#472)
+            - [Sous-section 7 : Dispositions pénales. (art. R*236-54 à R*236-61)](#473)
+            - [Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories. (art. R*236-62 à R*236-66)](#474)
+          - [Section 2 : Autorisations exceptionnelles (art. R*236-67 à R*236-83)](#475)
+            - [Sous-section 1 : Autorisations de capture et de transport du poisson destiné à la reproduction ou au repeuplement et autorisations de capture du poisson à des fins sanitaires ou en cas de déséquilibres biologiques et de transport de ce poisson. (art. R*236-67 à R*236-73)](#476)
+            - [Sous-section 2 : Autorisations de capture du poisson à des fins scientifiques et de transport de ce poisson. (art. R*236-74 à R*236-78)](#477)
+            - [Sous-section 3 : Dispositions communes. (art. R*236-79 à R*236-83)](#478)
+          - [Section 4 : Réserves et interdictions permanentes de pêche (art. R*236-84 à R*236-95)](#479)
+            - [Sous-section 1 : Dispositions générales. (art. R*236-84)](#480)
+            - [Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche. (art. R*236-85 à R*236-89)](#481)
+            - [Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche. (art. R*236-90 à R*236-92)](#482)
+            - [Sous-section 4 : Dispositions communes. (art. R*236-93 à R*236-95)](#483)
+          - [Section 5 : Commercialisation. (art. R*236-96 à R*236-97)](#484)
+          - [Section 6 : Dispositions particulières (art. R*236-98 à R*236-120)](#485)
+            - [Sous-section 1 : Dispositions communes. (art. R*236-98)](#486)
+            - [Sous-section 2 : Réglementation de la pêche dans les eaux françaises du lac Léman. (art. R*236-99 à R*236-120)](#487)
+              - [Paragraphe 1 : Temps et heures d'interdiction. (art. R*236-100 à R*236-102)](#488)
+              - [Paragraphe 2 : Tailles minimales des poissons. (art. R*236-103)](#489)
+              - [Paragraphe 3 : Nombre de captures autorisées, conditions de capture. (art. R*236-104 à R*236-105)](#490)
+              - [Paragraphe 4 : Filets, engins et moyens de pêche autorisés ou prohibés. (art. R*236-106 à R*236-112)](#491)
+              - [Paragraphe 5 : Zones de protection du poisson. (art. R*236-113 à R*236-116)](#492)
+              - [Paragraphe 6 : Dispositions pénales. (art. R*236-117 à R*236-120)](#493)
+        - [Chapitre VII : Recherche et constatation des infractions (art. R*237-1 à R*237-7)](#494)
+          - [Section 1 : Agents compétents. (art. R*237-1 à R*237-3)](#495)
+          - [Section 3 : Recherche des infractions. (art. R*237-4 à R*237-5)](#496)
+          - [Section 4 : Saisies. (art. R*237-6 à R*237-7)](#497)
+        - [Chapitre VIII : Transaction, poursuites et règles d'application des peines (art. R*238-1 à R*238-6)](#498)
+          - [Section 1 : Transaction. (art. R*238-1 à R*238-4)](#499)
+          - [Section 2 : Poursuites pénales. (art. R*238-5 à R*238-6)](#500)
+      - [Titre IV : Espaces naturels (art. R*241-1 à R244-15)](#501)
+        - [Chapitre Ier : Parcs nationaux (art. R*241-1 à R*241-71)](#502)
+          - [Section 1 : Comité interministériel des parcs nationaux. (art. R*241-1 à R*241-2)](#503)
+          - [Section 2 : Création d'un parc national. (art. R*241-3 à R*241-14)](#504)
+          - [Section 3 : Aménagement et gestion des parcs nationaux (art. R*241-15 à R*241-48)](#505)
+            - [Sous-section 1 : Administration générale. (art. R*241-16 à R*241-27)](#506)
+              - [Paragraphe 1 : Conseil d'administration. (art. R*241-17 à R*241-24)](#507)
+              - [Paragraphe 2 : Directeur. (art. R*241-25 à R*241-26)](#508)
+              - [Paragraphe 3 : Personnels. (art. R*241-27)](#509)
+            - [Sous-section 2 : Ressources de l'établissement. (art. R*241-28)](#510)
+            - [Sous-section 3 : Programme d'aménagement du parc. (art. R*241-29)](#511)
+            - [Sous-section 4 : Gestion de certains biens des collectivités. (art. R*241-30 à R*241-34)](#512)
+            - [Sous-section 5 : Pouvoirs réglementaires du directeur. (art. R*241-35 à R*241-41)](#513)
+            - [Sous-section 6 : Consultation obligatoire de l'établissement. (art. R*241-42 à R*241-43)](#514)
+            - [Sous-section 7 : Contrôle. (art. R*241-44 à R*241-46)](#515)
+            - [Sous-section 8 : Contrôle de mesures susceptibles d'altérer le caractère du parc. (art. R*241-47 à R*241-48)](#516)
+          - [Section 4 : Mise en valeur des zones périphériques. (art. R*241-49 à R*241-51)](#517)
+          - [Section 5 : Réserves intégrales. (art. R*241-52 à R*241-55)](#518)
+          - [Section 6 : Indemnités. (art. R*241-56 à R*241-60)](#519)
+          - [Section 8 : Dispositions pénales (art. R*241-61 à R*241-71)](#520)
+            - [Sous-section 1 : Peines. (art. R*241-61 à R*241-70)](#521)
+            - [Sous-section 2 : Constatation et poursuites. (art. R*241-71)](#522)
+        - [Chapitre II : Réserves naturelles (art. R*242-1 à R*242-49)](#523)
+          - [Section 1 : Réserves naturelles établies par décret (art. R*242-1 à R*242-25)](#524)
+            - [Sous-section 1 : Classement (art. R*242-1 à R*242-18)](#525)
+              - [Paragraphe 1 : Dispositions générales. (art. R*242-1 à R*242-2)](#526)
+              - [Paragraphe 2 : Procédure comportant une enquête publique. (art. R*242-3 à R*242-9)](#527)
+              - [Paragraphe 3 : Procédure simplifiée. (art. R*242-10)](#528)
+              - [Paragraphe 4 : Décision de classement. (art. R*242-11 à R*242-17)](#529)
+              - [Paragraphe 5 : Modalités de gestion. (art. R*242-18)](#530)
+            - [Sous-section 2 : Modification de l'état ou de l'aspect d'une réserve naturelle. (art. R*242-19 à R*242-23)](#531)
+            - [Sous-section 3 : Modification des limites ou de la réglementation, déclassement. (art. R*242-24 à R*242-25)](#532)
+          - [Section 2 : Réserves naturelles volontaires (art. R*242-26 à R*242-35)](#533)
+            - [Sous-section 1 : Agrément. (art. R*242-26 à R*242-31)](#534)
+            - [Sous-section 2 : Modification, retrait, abrogation de l'agrément. (art. R*242-32 à R*242-35)](#535)
+          - [Section 3 : Dispositions communes (art. R*242-36 à R*242-37)](#536)
+            - [Sous-section 2 : Abords des réserves naturelles (art. R*242-36 à R*242-37)](#537)
+              - [Paragraphe 1 : Périmètres de protection. (art. R*242-36)](#538)
+              - [Paragraphe 2 : Zones de protection. (art. R*242-37)](#539)
+          - [Section 4 : Dispositions pénales (art. R*242-38 à R*242-49)](#540)
+            - [Sous-section 1 : Peines. (art. R*242-38 à R*242-49)](#541)
+        - [Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres (art. R*243-1 à R*243-33)](#542)
+          - [Section 1 : Dispositions générales. (art. R*243-1 à R*243-2)](#543)
+          - [Section 2 : Patrimoine du conservatoire (art. R*243-3 à R*243-9)](#544)
+            - [Sous-section 1 : Constitution, aliénation. (art. R*243-3 à R*243-7)](#545)
+            - [Sous-section 2 : Gestion. (art. R*243-8 à R*243-9)](#546)
+          - [Section 3 : Administration (art. R*243-10 à R*243-30)](#547)
+            - [Sous-section 1 : Conseil d'administration. (art. R*243-10 à R*243-21)](#548)
+            - [Sous-section 2 : Conseils de rivage. (art. R*243-22 à R*243-28)](#549)
+            - [Sous-section 3 : Directeur. (art. R*243-29)](#550)
+            - [Sous-section 4 : Personnels. (art. R*243-30)](#551)
+          - [Section 4 : Dispositions financières. (art. R*243-31 à R*243-33)](#552)
+        - [Chapitre IV : Parcs naturels régionaux (art. R244-1 à R244-15)](#553)
+          - [Section 1 : Principes généraux. (art. R244-1 à R244-2)](#554)
+          - [Section 1 : Commission des parcs naturels régionaux. (art. R244-3 à R244-4)](#555)
+          - [Section 2 : Classement. (art. R244-5 à R244-11)](#556)
+          - [Section 3 : Gestion. (art. R244-12 à R244-14)](#557)
+          - [Section 4 : Dispositions transitoires. (art. R244-15)](#558)
+      - [Titre V : Dispositions communes à la protection de la nature (art. R*251-1 à R*252-20)](#559)
+        - [Chapitre Ier : Conseil national de la protection de la nature (art. R*251-1 à R*251-21)](#560)
+          - [Section 1 : Composition. (art. R*251-2 à R*251-6)](#561)
+          - [Section 2 : Fonctionnement. (art. R*251-7 à R*251-10)](#562)
+          - [Section 3 : Comité permanent. (art. R*251-11 à R*251-18)](#563)
+          - [Section 4 : Experts. (art. R*251-19 à R*251-20)](#564)
+          - [Section 5 : Secrétariat administratif. (art. R*251-21)](#565)
+        - [Chapitre II : Associations ayant pour objet la protection de la nature et de l'environnement (art. R*252-1 à R*252-20)](#566)
+          - [Section 1 : Conditions d'obtention de l'agrément. (art. R*252-2 à R*252-4)](#567)
+          - [Section 2 : Procédure d'agrément (art. R*252-5 à R*252-18)](#568)
+            - [Sous-section 1 : Demande. (art. R*252-5 à R*252-9)](#569)
+            - [Sous-section 2 : Instruction de la demande. (art. R*252-10 à R*252-12)](#570)
+            - [Sous-section 3 : Décision. (art. R*252-13 à R*252-18)](#571)
+          - [Section 3 : Obligations de l'association agréée. (art. R*252-19 à R*252-20)](#572)
+      - [Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon et aux terres australes et antarctiques françaises (art. R261-2 à R*262-1)](#573)
+        - [Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R261-2)](#574)
+          - [Section 1 : Territoire de chasse. (art. R261-2)](#575)
+        - [Chapitre II : Dispositions particulières aux terres australes et antarctiques françaises. (art. R*262-1)](#576)
+    - [Livre IV : Baux ruraux (art. R*411-1 à R464-1)](#577)
+      - [Titre Ier : Statut du fermage et du métayage (art. R*411-1 à R417-3)](#578)
+        - [Chapitre Ier : Régime de droit commun (art. R*411-1 à R411-27)](#579)
+          - [Section 1 : Etablissement du contrat, durée et prix du bail (art. R*411-1 à R411-9)](#580)
+            - [Sous-section 3 : Prix du bail. (art. R*411-1 à R411-9)](#581)
+          - [Section 8 : Droit de renouvellement et droit de reprise. (art. R411-10 à R411-13)](#582)
+          - [Section 9 : Indemnité au preneur sortant. (art. R411-14 à R411-27)](#583)
+        - [Chapitre IV : Commissions consultatives paritaires des baux ruraux (art. R*414-2 à R414-6)](#584)
+          - [Section 1 : Commissions consultatives paritaires départementales des baux ruraux. (art. R*414-2 à R414-3)](#585)
+          - [Section 2 : Commissions consultatives paritaires régionales des baux ruraux. (art. R414-5)](#586)
+          - [Section 3 : Commission consultative paritaire nationale des baux ruraux. (art. R414-6)](#587)
+        - [Chapitre V : Dispositions diverses et d'application. (art. R*415-1 à R415-9)](#588)
+        - [Chapitre VI : Dispositions particulières au baux à long terme. (art. R416-1 à R416-3)](#589)
+        - [Chapitre VII : Dispositions particulières au baux à colonat partiaire ou métayage (art. R417-1 à R417-3)](#590)
+          - [Section 1 : Régime du bail. (art. R417-1)](#591)
+          - [Section 2 : Conversion en baux à ferme. (art. R417-2 à R417-3)](#592)
+      - [Titre III : Bail à domaine congéable (art. R431-1)](#593)
+      - [Titre IV : Bail à complant (art. R441-1 à R441-3)](#594)
+      - [Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer (art. R*461-1 à R464-1)](#595)
+        - [Chapitre Ier : Régime de droit commun (art. R*461-1 à R461-15)](#596)
+          - [Section 1 : Commission consultative des baux ruraux. (art. R*461-1 à R461-4)](#597)
+          - [Section 2 : Conclusion, durée, prix du bail. (art. R461-5 à R461-7)](#598)
+          - [Section 5 : Indemnité au preneur sortant. (art. R461-8 à R461-10)](#599)
+          - [Section 6 : Droit de préemption. (art. R461-11 à R461-13)](#600)
+          - [Section 7 : Dispositions diverses. (art. R461-14)](#601)
+          - [Section 8 : Dispositions diverses. (art. R461-15)](#602)
+        - [Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage (art. R*462-16 à R462-18)](#603)
+          - [Section 1 : Régime du bail. (art. R*462-16 à R462-15)](#604)
+          - [Section 2 : Conversion en baux à ferme. (art. R462-17)](#605)
+          - [Section 3 : Dispositions diverses et d'application. (art. R462-18)](#606)
+        - [Chapitre III : Dispositions particulières aux baux à long terme. (art. R463-1 à R463-3)](#607)
+        - [Chapitre IV : Dispositions d'application. (art. R464-1)](#608)
+    - [Livre V : Organismes professionnels agricoles (art. R*511-3 à R564-3)](#609)
+      - [Titre Ier : Chambres d'agriculture (art. R*511-3 à R*514-7)](#610)
+        - [Chapitre Ier : Chambres départementales (art. R*511-3 à R511-115)](#611)
+          - [Section 1 : Institution et attributions. (art. R*511-3 à R511-5)](#612)
+          - [Section 2 : Composition. (art. R*511-6 à R511-7)](#613)
+          - [Section 3 : Elections (art. R*511-8 à R511-52)](#614)
+            - [Sous-section 1 : Conditions requises pour être électeur (art. R*511-8 à R*511-11)](#615)
+              - [Paragraphe 1 : Electeurs votant individuellement. (art. R*511-8 à R*511-9)](#616)
+              - [Paragraphe 2 : Groupements électeurs. (art. R*511-10 à R*511-11)](#617)
+            - [Sous-section 2 : Listes électorales (art. R*511-12 à R511-26)](#618)
+              - [Paragraphe 1 : Electeurs votant individuellement. (art. R*511-12 à R511-25)](#619)
+              - [Paragraphe 2 : Groupements électeurs. (art. R*511-27 à R511-26)](#620)
+            - [Sous-section 3 : Eligibilité et candidatures. (art. R*511-30 à R511-34)](#621)
+            - [Sous-section 4 : Propagande. (art. R*511-36 à R*511-42)](#622)
+            - [Sous-section 5 : Mode de scrutin. (art. R*511-43)](#623)
+            - [Sous-section 6 : Opérations de vote (art. R*511-44 à R*511-49)](#624)
+              - [Paragraphe 1 : Date du scrutin. (art. R*511-44)](#625)
+              - [Paragraphe 2 : Electeurs votant individuellement. (art. R*511-45 à R*511-47)](#626)
+              - [Paragraphe 3 : Groupements électeurs. (art. R*511-48)](#627)
+              - [Paragraphe 4 : Recensement des votes. (art. R*511-49)](#628)
+            - [Sous-section 7 : Contentieux. (art. R*511-50)](#629)
+            - [Sous-section 8 : Cessation de mandat. (art. R*511-51)](#630)
+            - [Sous-section 9 : Elections partielles. (art. R*511-53 à R511-52)](#631)
+          - [Section 4 : Fonctionnement. (art. R*511-54 à R511-70)](#632)
+          - [Section 5 : Régime financier (art. R*511-71 à R511-96)](#633)
+            - [Sous-section 1 : Opérations du budget général. (art. R*511-72 à R511-82)](#634)
+            - [Sous-section 2 : Opérations des budgets spéciaux. (art. R511-86 à R511-90)](#635)
+            - [Sous-section 3 : Opérations communes au budget général et aux budgets spéciaux. (art. R511-91 à R511-96)](#636)
+          - [Section 6 : Chambre interdépartementale de l'Ile-de-France. (art. R511-97 à R511-100)](#637)
+          - [Section 7 : Etablissements et services d'utilité agricole interchambres d'agriculture. (art. R511-102 à R511-110)](#638)
+          - [Section 8 : Dispositions communes aux chambres départementales d'agriculture et aux établissements et services d'utilité agricole interchambres d'agriculture. (art. R511-111 à R511-112)](#639)
+          - [Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer. (art. R*511-116 à R511-115)](#640)
+        - [Chapitre II : Chambres régionales (art. R*512-3 à R512-11)](#641)
+          - [Section 1 : Dispositions particulières aux chambres régionales d'agriculture. (art. R*512-3 à R512-8)](#642)
+          - [Section 2 : Dispositions financières particulières relatives aux chambres régionales d'agriculture. (art. R512-9 à R512-11)](#643)
+        - [Chapitre III : Assemblée permanente des chambres d'agriculture (art. R*513-2 à R513-28)](#644)
+          - [Section 1 : Organisation et fonctionnement. (art. R*513-2 à R513-11)](#645)
+          - [Section 2 : Comité permanent général, commissions et sections spécialisées. (art. R513-12 à R513-21)](#646)
+          - [Section 3 : Régime financier. (art. R*513-22 à R513-28)](#647)
+        - [Chapitre IV : Dispositions financières communes (art. R*514-1 à R*514-7)](#648)
+      - [Titre II : Sociétés coopératives agricoles (art. R*521-2 à R529-1)](#649)
+        - [Chapitre Ier : Dispositions générales, constitution (art. R*521-2 à R521-15)](#650)
+          - [Section 1 : Dispositions générales. (art. R*521-2 à R521-3)](#651)
+          - [Section 2 : Constitution. (art. R*521-7 à R521-15)](#652)
+        - [Chapitre II : Associés, tiers non coopérateurs (art. R522-1 à R522-9)](#653)
+          - [Section 1 : Associés coopérateurs. (art. R522-1 à R522-8)](#654)
+          - [Section 3 : Tiers non coopérateurs. (art. R522-9)](#655)
+        - [Chapitre III : Capital social et dispositions financières (art. R*523-1 à R523-9)](#656)
+          - [Section 1 : Capital social. (art. R*523-1 à R523-4)](#657)
+          - [Section 2 : Fonds de développement coopératif. (art. R*523-6 à R*523-7)](#658)
+          - [Section 3 : Prises de participation. (art. R523-8 à R523-11)](#659)
+          - [Section 4 : Participation et intéressement. (art. R523-9)](#660)
+        - [Chapitre IV : Administration (art. R*524-1 à R524-42)](#661)
+          - [Section 1 : Conseil d'administration. (art. R*524-1 à R524-8)](#662)
+          - [Section 2 : Commissariat aux comptes. (art. R*524-10 à R524-11)](#663)
+          - [Section 3 : Assemblée générale. (art. R*524-13 à R524-21)](#664)
+          - [Section 4 : Dispositions concernant les unions de coopératives. (art. R*524-25 à R524-24)](#665)
+          - [Section 5 : Directoire et conseil de surveillance. (art. R*524-28 à R524-42)](#666)
+        - [Chapitre V : Agrément, contrôle (art. R*525-1 à R525-17)](#667)
+          - [Section 1 : Agrément. (art. R*525-1 à R525-12)](#668)
+          - [Section 2 : Contrôle. (art. R*525-13 à R525-17)](#669)
+        - [Chapitre VI : Dissolution, liquidation. (art. R*526-4 à R526-3)](#670)
+        - [Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle (art. R527-1 à R527-12)](#671)
+          - [Section 1 : Fédérations de coopératives (art. R527-1 à R527-12)](#672)
+            - [Sous-section 1 : Dispositions générales. (art. R527-1 à R527-3)](#673)
+            - [Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision. (art. R*527-4 à R527-11)](#674)
+            - [Sous-section 3 : Dispositions particulières aux fédérations de coopératives agréées exerçant les fonctions de commissaire aux comptes. (art. R527-12)](#675)
+        - [Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole (art. R*528-1 à R528-9)](#676)
+          - [Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément. (art. R*528-1 à R*528-7)](#677)
+          - [Section 2 : Commission départementale des structures agricoles. (art. R*528-8 à R528-9)](#678)
+        - [Chapitre IX : Dispositions pénales, dispositions d'application. (art. R*529-2 à R529-1)](#679)
+      - [Titre III : Sociétés d'intérêt collectif agricole (art. R*531-1 à R534-4)](#680)
+        - [Chapitre Ier : Constitution. (art. R*531-1 à R*531-3)](#681)
+        - [Chapitre II : Fonctionnement. (art. R532-1 à R532-5)](#682)
+        - [Chapitre III : Dispositions financières. (art. R*533-1 à R533-3)](#683)
+        - [Chapitre IV : Transformation, dissolution, liquidation. (art. R*534-1 à R534-4)](#684)
+      - [Titre IV : Sociétés mixtes d'intérêt agricole (art. R541-1)](#685)
+      - [Titre V : Groupements de producteurs et comités économiques agricoles (art. R*551-1 à R556-3)](#686)
+        - [Chapitre Ier : Groupements de producteurs. (art. R*551-1 à R*551-12)](#687)
+        - [Chapitre II : Comités économiques agricoles. (art. R*552-1 à R552-14)](#688)
+        - [Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles (art. R*553-1 à R*553-17)](#689)
+          - [Section 1 : Droits d'inscription et cotisations. (art. R*553-1 à R*553-9)](#690)
+          - [Section 2 : Contrôle. (art. R*553-10 à R*553-16)](#691)
+          - [Section 3 : Dispositions diverses. (art. R*553-17)](#692)
+        - [Chapitre IV : Extension des règles édictées par les comités économiques agricoles (art. R*554-1 à R*554-29)](#693)
+          - [Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole (art. R*554-1)](#694)
+          - [Section 2 : Procédure d'extension des règles (art. R*554-2 à R*554-29)](#695)
+            - [Sous-section 1 : Dispositions générales. (art. R*554-2 à R*554-6)](#696)
+            - [Sous-section 2 : Procédure de consultation des producteurs (art. R*554-7 à R*554-29)](#697)
+              - [Paragraphe 1 : Etablissement de la liste des producteurs. (art. R*554-7 à R*554-15)](#698)
+              - [Paragraphe 2 : Modalités de la consultation des producteurs. (art. R*554-16 à R*554-28)](#699)
+              - [Paragraphe 3 : Dispositions diverses. (art. R*554-29)](#700)
+        - [Chapitre V : Dispositions particulières aux départements d'outre-mer. (art. R555-1 à R555-4)](#701)
+        - [Chapitre VI : Pénalités (art. R*556-1 à R556-3)](#702)
+      - [Titre VI : Jardins familiaux (art. R562-1 à R564-3)](#703)
+        - [Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux (art. R562-1 à R562-3)](#704)
+          - [Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER). (art. R562-1)](#705)
+          - [Section 2 : Droit de préemption des collectivités locales. (art. R562-2 à R562-3)](#706)
+        - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique (art. R563-1 à R563-2)](#707)
+        - [Chapitre IV : Avantages divers et subventions (art. R564-1 à R564-3)](#708)
+    - [Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux (art. R*531-2 à R*535-1)](#709)
+      - [Titre III : Sociétés d'intérêt collectif agricole (art. R*531-2 à R*535-1)](#710)
+        - [Chapitre Ier : Constitution. (art. R*531-2 à R531-7)](#711)
+        - [Chapitre V : Dispositions pénales. (art. R*535-1)](#712)
+    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-1 à R832-19)](#713)
+      - [Titre Ier : Enseignement et formation professionnelle agricoles (art. R*811-1 à R*816-4)](#714)
+        - [Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles (art. R*811-1 à R*811-12)](#715)
+          - [Section 1 : Organisation générale (art. R*811-1 à R*811-12)](#716)
+            - [Sous-section 1 : Principes de base. (art. R*811-1 à R*811-2)](#717)
+            - [Sous-section 2 : Conseils et comités (art. R*811-3 à R*811-11)](#718)
+              - [Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale. (art. R*811-3 à R*811-9)](#719)
+              - [Paragraphe 2 : Comité de coordination. (art. R*811-10 à R*811-11)](#720)
+            - [Sous-section 3 : Promotion sociale. (art. R*811-12)](#721)
+        - [Chapitre II : Formations technologiques et professionnelles de cycle court (art. R*812-1 à R*812-6)](#722)
+          - [Section 1 : Enseignement technologique de cycle court par voie scolaire. (art. R*812-1 à R*812-4)](#723)
+          - [Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage. (art. R*812-5)](#724)
+          - [Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue et des formations alternées. (art. R*812-6)](#725)
+        - [Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles (art. R*813-1 à R*813-12)](#726)
+          - [Section 1 : Enseignement technologique de cycle long. (art. R*813-1 à R*813-5)](#727)
+          - [Section 2 : Formation des techniciens supérieurs agricoles. (art. R*813-6 à R*813-7)](#728)
+          - [Section 3 : Dispositions communes. (art. R*813-8 à R*813-12)](#729)
+        - [Chapitre IV : Enseignement supérieur (art. R*814-1 à R*814-61)](#730)
+          - [Section 1 : Dispositions générales. (art. R*814-1 à R*814-4)](#731)
+          - [Section 2 : Enseignement supérieur agricole (art. R*814-5 à R*814-27)](#732)
+            - [Sous-section 1 : Formation des ingénieurs spécialisés en agriculture. (art. R*814-5)](#733)
+            - [Sous-section 2 : Formation des spécialistes en horticulture et des paysagistes. (art. R*814-6 à R*814-7)](#734)
+            - [Sous-section 3 : Formation des ingénieurs des industries agricoles et alimentaires. (art. R*814-8 à R*814-9)](#735)
+            - [Sous-section 4 : Formation des ingénieurs agronomes à vocation générale (art. R*814-10 à R*814-26)](#736)
+              - [Paragraphe 1 : Dispositions générales. (art. R*814-10 à R*814-19)](#737)
+              - [Paragraphe 2 : Dispositions particulières aux élèves étrangers. (art. R*814-20 à R*814-26)](#738)
+            - [Sous-section 5 : Dispositions relatives à la délivrance des diplômes. (art. R*814-27)](#739)
+          - [Section 3 : Enseignement supérieur vétérinaire (art. R*814-28 à R*814-43)](#740)
+            - [Sous-section 1 : Dispositions générales. (art. R*814-28 à R*814-29)](#741)
+            - [Sous-section 2 : Conditions d'admission des élèves. (art. R*814-30 à R*814-31)](#742)
+            - [Sous-section 3 : Enseignement et recherche. (art. R*814-32 à R*814-36)](#743)
+            - [Sous-section 4 : Administration. (art. R*814-37)](#744)
+            - [Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire. (art. R*814-38 à R*814-43)](#745)
+          - [Section 4 : Enseignement de l'agronomie des régions chaudes (art. R*814-44 à R*814-61)](#746)
+            - [Sous-section 1 : Dispositions générales. (art. R*814-44 à R*814-47)](#747)
+            - [Sous-section 2 : Administration du centre. (art. R*814-48 à R*814-57)](#748)
+            - [Sous-section 3 : Régime financier du centre. (art. R*814-58 à R*814-61)](#749)
+        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#750)
+          - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#751)
+          - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#752)
+        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-4)](#753)
+      - [Titre II : Développement agricole (art. R*821-1 à R825-4)](#754)
+        - [Chapitre Ier : Actions de développement agricole. (art. R*821-1 à R*821-4)](#755)
+        - [Chapitre II : Convention avec l'association nationale pour le développement agricole. (art. R*822-1 à R*822-4)](#756)
+        - [Chapitre III : Fonds national de développement agricole. (art. R*823-1 à R*823-19)](#757)
+        - [Chapitre IV : Programmes départementaux, régionaux et national de développement agricole (art. R824-1 à R824-10)](#758)
+          - [Section 1 : Programmes départementaux. (art. R824-1 à R824-4)](#759)
+          - [Section 2 : Programmes régionaux. (art. R824-5 à R824-8)](#760)
+          - [Section 3 : Programme national. (art. R824-9 à R824-10)](#761)
+        - [Chapitre V : Conventions de développement. (art. R825-1 à R825-4)](#762)
+      - [Titre III : Recherche agronomique (art. R831-1 à R832-19)](#763)
+        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#764)
+          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#765)
+          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#766)
+          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#767)
+        - [Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts (art. R832-1 à R832-19)](#768)
+          - [Section 1 : Dispositions générales (art. R832-1 à R832-3)](#769)
+          - [Section 2 : Administration et direction du centre. (art. R*832-4 à R832-10)](#770)
+          - [Section 3 : Organisation du centre. (art. R832-11 à R832-14)](#771)
+          - [Section 4 : Conseil scientifique et technique et commissions spécialisées (art. R832-15 à R832-16)](#772)
+          - [Section 5 : Dispositions diverses (art. R832-17 à R832-19)](#773)
 # Partie législative<a id=1></a>
 
 ## Livre II : Protection de la nature<a id=2></a>
@@ -1135,26 +1181,30 @@ _Abrogé par_:
 
 ###### Article L215-3
 
-En outre, les infractions aux dispositions de l'article L. 211-1 sont passibles des sanctions prévues aux articles L. 228-8
-et L. 228-11.
+En outre, les infractions aux dispositions de l'article L. 211-1 sont passibles des sanctions prévues aux articles L. 228-14
+et L. 228-17.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural L211-1, L228-8, L228-11
+  - Code rural L211-1, L228-14, L228-17
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°76-629 1976-07-10 art. 32 al. 5
-
-_Créé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
+  - Décret n°90-879 du 28 septembre 1990 - art. 1 () JORF 30 septembre 1990
 
 _Codifié par_:
 
   - Loi n°91-363 1991-04-15
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+_Nouveaux textes_:
+
+  - Code de l'environnement - art. L415-4 (V)
 
 
 ###### Article L215-4
@@ -4267,8 +4317,6 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L427-9 (M)
 
 
-##### Section 3 : Commercialisation et transport.<a id=61></a>
-
 ###### Article L227-10
 
 Un décret peut réglementer la mise en vente, la vente, l'achat, le transport et le colportage des animaux classés comme
@@ -4276,25 +4324,28 @@ nuisibles et régulièrement détruits dans les conditions prévues au présent 
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code rural 372 al. 3
-  - Loi locale 1888-03-22 art. 5 al. 2
-
-_Créé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
+  - Décret n°90-879 du 28 septembre 1990 - art. 1 () JORF 30 septembre 1990
 
 _Codifié par_:
 
   - Loi n°91-363 1991-04-15
 
+_Abrogé par_:
 
-#### Chapitre VIII : Dispositions pénales<a id=62></a>
+  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
-##### Section 1 : Peines<a id=63></a>
+_Nouveaux textes_:
 
-##### Sous-section 1 : Territoire.<a id=64></a>
+  - Code de l'environnement - art. L427-10 (V)
+
+
+#### Chapitre VIII : Dispositions pénales<a id=61></a>
+
+##### Section 1 : Peines<a id=62></a>
+
+##### Sous-section 1 : Territoire.<a id=63></a>
 
 ###### Article L228-1
 
@@ -4366,7 +4417,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L428-1 (M)
 
 
-##### Sous-section 2 : Permis de chasser.<a id=65></a>
+##### Sous-section 2 : Permis de chasser.<a id=64></a>
 
 ###### Article L228-3
 
@@ -4420,9 +4471,9 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-##### Sous-section 3 : Exercice de la chasse<a id=66></a>
+##### Sous-section 3 : Exercice de la chasse<a id=65></a>
 
-##### Paragraphe 2 : Temps de chasse.<a id=67></a>
+##### Paragraphe 2 : Temps de chasse.<a id=66></a>
 
 ###### Article L228-5
 
@@ -4452,7 +4503,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L272-1 (V)
 
 
-##### Paragraphe 3 : Modes et moyens.<a id=68></a>
+##### Paragraphe 3 : Modes et moyens.<a id=67></a>
 
 ###### Article L228-6
 
@@ -4494,7 +4545,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L428-3 (M)
 
 
-##### Paragraphe 4 : Transport et commercialisation du gibier.<a id=69></a>
+##### Paragraphe 4 : Transport et commercialisation du gibier.<a id=68></a>
 
 ###### Article L228-7
 
@@ -4545,7 +4596,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L428-3 (M)
 
 
-##### Section 2 : Circonstances aggravantes et récidive.<a id=70></a>
+##### Section 2 : Circonstances aggravantes et récidive.<a id=69></a>
 
 ###### Article L228-9
 
@@ -4718,9 +4769,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L428-8 (Ab)
 
 
-##### Section 3 : Peines accessoires<a id=71></a>
+##### Section 3 : Peines accessoires<a id=70></a>
 
-##### Sous-section 1 : Confiscation.<a id=72></a>
+##### Sous-section 1 : Confiscation.<a id=71></a>
 
 ###### Article L228-14
 
@@ -4862,7 +4913,7 @@ _Abrogé par_:
   - Loi n°2000-698 du 26 juillet 2000 - art. 46 (V) JORF 27 juillet 2000
 
 
-##### Sous-section 2 : Frais de visa et validation du permis de chasser.<a id=73></a>
+##### Sous-section 2 : Frais de visa et validation du permis de chasser.<a id=72></a>
 
 ###### Article L228-19
 
@@ -4919,9 +4970,9 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-##### Sous-section 3 : Retrait et suspension du permis de chasser<a id=74></a>
+##### Sous-section 3 : Retrait et suspension du permis de chasser<a id=73></a>
 
-##### Paragraphe 1 : Retrait.<a id=75></a>
+##### Paragraphe 1 : Retrait.<a id=74></a>
 
 ###### Article L228-21
 
@@ -4949,7 +5000,7 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-##### Paragraphe 2 : Suspension.<a id=76></a>
+##### Paragraphe 2 : Suspension.<a id=75></a>
 
 ###### Article L228-22
 
@@ -5057,7 +5108,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L428-17 (V)
 
 
-##### Sous-section 4 : Suspension du permis de conduire.<a id=77></a>
+##### Sous-section 4 : Suspension du permis de conduire.<a id=76></a>
 
 ###### Article L228-25
 
@@ -5093,9 +5144,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L428-18 (M)
 
 
-##### Section 4 : Constatation et poursuites<a id=78></a>
+##### Section 4 : Constatation et poursuites<a id=77></a>
 
-##### Sous-section 1 : Constatation des infractions.<a id=79></a>
+##### Sous-section 1 : Constatation des infractions.<a id=78></a>
 
 ###### Article L228-26
 
@@ -5346,7 +5397,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L428-26 (Ab)
 
 
-##### Sous-section 2 : Recherche des infractions.<a id=80></a>
+##### Sous-section 2 : Recherche des infractions.<a id=79></a>
 
 ###### Article L228-35
 
@@ -5525,7 +5576,7 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-##### Sous-section 3 : Poursuites.<a id=81></a>
+##### Sous-section 3 : Poursuites.<a id=80></a>
 
 ###### Article L228-41
 
@@ -5565,7 +5616,7 @@ _Anciens textes_:
   - Code rural 389
 
 
-##### Sous-section 4 : Règles d'application des peines.<a id=82></a>
+##### Sous-section 4 : Règles d'application des peines.<a id=81></a>
 
 ###### Article L228-42
 
@@ -5653,7 +5704,7 @@ _Abrogé par_:
   - Loi n°2000-698 du 26 juillet 2000 - art. 46 (V) JORF 27 juillet 2000
 
 
-#### Chapitre IX : Dispositions particulières aux départements du Bas-Rhin du Haut-Rhin et de la Moselle.<a id=83></a>
+#### Chapitre IX : Dispositions particulières aux départements du Bas-Rhin du Haut-Rhin et de la Moselle.<a id=82></a>
 
 ###### Article L229-1
 
@@ -5693,9 +5744,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L429-1 (M)
 
 
-##### Section 1 : Administration de la chasse sur le ban communal<a id=84></a>
+##### Section 1 : Administration de la chasse sur le ban communal<a id=83></a>
 
-##### Sous-section 1 : Ban communal.<a id=85></a>
+##### Sous-section 1 : Ban communal.<a id=84></a>
 
 ###### Article L229-2
 
@@ -5789,7 +5840,7 @@ _Anciens textes_:
   - Loi locale 1881-02-07 art. 3
 
 
-##### Sous-section 2 : Exploitation du droit de chasse.<a id=86></a>
+##### Sous-section 2 : Exploitation du droit de chasse.<a id=85></a>
 
 ###### Article L229-5
 
@@ -5838,7 +5889,7 @@ _Anciens textes_:
   - Loi locale 1881-02-07 art. 4 al. 1
 
 
-##### Sous-section 3 : Produit de la location du droit de chasse.<a id=87></a>
+##### Sous-section 3 : Produit de la location du droit de chasse.<a id=86></a>
 
 ###### Article L229-7
 
@@ -5994,7 +6045,7 @@ _Anciens textes_:
   - Loi locale 1881-02-07 art. 6 al. 1
 
 
-##### Sous-section 4 : Adjudication.<a id=88></a>
+##### Sous-section 4 : Adjudication.<a id=87></a>
 
 ###### Article L229-12
 
@@ -6048,7 +6099,7 @@ _Anciens textes_:
   - Loi locale 1881-02-07 art. 6 al. 3
 
 
-##### Sous-section 5 : Enclaves.<a id=89></a>
+##### Sous-section 5 : Enclaves.<a id=88></a>
 
 ###### Article L229-14
 
@@ -6082,7 +6133,7 @@ _Anciens textes_:
   - Loi locale 1881-02-07 art. 7
 
 
-##### Sous-section 6 : Dispositions diverses.<a id=90></a>
+##### Sous-section 6 : Dispositions diverses.<a id=89></a>
 
 ###### Article L229-15
 
@@ -6111,9 +6162,9 @@ _Abrogé par_:
   - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 
-##### Section 2 : Exercice de la chasse<a id=91></a>
+##### Section 2 : Exercice de la chasse<a id=90></a>
 
-##### Sous-section 1 : Temps de chasse.<a id=92></a>
+##### Sous-section 1 : Temps de chasse.<a id=91></a>
 
 ###### Article L229-16
 
@@ -6143,7 +6194,7 @@ _Abrogé par_:
   - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 
-##### Sous-section 2 : Modes et moyens de chasse.<a id=93></a>
+##### Sous-section 2 : Modes et moyens de chasse.<a id=92></a>
 
 ###### Article L229-17
 
@@ -6173,7 +6224,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L429-20 (V)
 
 
-##### Sous-section 3 : Commercialisation et transport du gibier.<a id=94></a>
+##### Sous-section 3 : Commercialisation et transport du gibier.<a id=93></a>
 
 ###### Article L229-18
 
@@ -6240,7 +6291,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L429-22 (V)
 
 
-##### Section 4 : Indemnisation des dégâts de gibier.<a id=95></a>
+##### Section 4 : Indemnisation des dégâts de gibier.<a id=94></a>
 
 ###### Article L229-20
 
@@ -6333,7 +6384,7 @@ _Abrogé par_:
   - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 
-##### Sous-section 1 : Indemnisation des dégâts de gibier autre que le sanglier.<a id=96></a>
+##### Sous-section 1 : Indemnisation des dégâts de gibier autre que le sanglier.<a id=95></a>
 
 ###### Article L229-23
 
@@ -6370,7 +6421,7 @@ _Anciens textes_:
   - Loi locale 1899-04-17 art. 18
 
 
-##### Sous-section 2 : Indemnisation des dégâts causés par les sangliers.<a id=97></a>
+##### Sous-section 2 : Indemnisation des dégâts causés par les sangliers.<a id=96></a>
 
 ###### Article L229-24
 
@@ -6604,11 +6655,11 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L429-32 (M)
 
 
-##### Section 5 : Pénalités<a id=98></a>
+##### Section 5 : Pénalités<a id=97></a>
 
-##### Sous-section 1 : Peines<a id=99></a>
+##### Sous-section 1 : Peines<a id=98></a>
 
-##### Paragraphe 1 : Territoire.<a id=100></a>
+##### Paragraphe 1 : Territoire.<a id=99></a>
 
 ###### Article L229-30
 
@@ -6727,7 +6778,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L429-36 (V)
 
 
-##### Paragraphe 2 : Exercice de la chasse.<a id=101></a>
+##### Paragraphe 2 : Exercice de la chasse.<a id=100></a>
 
 ###### Article L229-34
 
@@ -6762,7 +6813,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L429-37 (V)
 
 
-##### Sous-section 2 : Récidive.<a id=102></a>
+##### Sous-section 2 : Récidive.<a id=101></a>
 
 ###### Article L229-35
 
@@ -6792,7 +6843,7 @@ _Anciens textes_:
   - Loi locale 1883-05-07 art. 16 al. 2
 
 
-##### Sous-section 3 : Peines accessoires.<a id=103></a>
+##### Sous-section 3 : Peines accessoires.<a id=102></a>
 
 ###### Article L229-36
 
@@ -6855,7 +6906,7 @@ _Anciens textes_:
   - Loi locale 1888-03-22 art. 7 al. 1
 
 
-### Titre III : Pêche en eau douce et gestion des ressources piscicoles<a id=104></a>
+### Titre III : Pêche en eau douce et gestion des ressources piscicoles<a id=103></a>
 
 ###### Article L230-1
 
@@ -6887,9 +6938,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L430-1 (V)
 
 
-#### Chapitre Ier : Champ d'application<a id=105></a>
+#### Chapitre Ier : Champ d'application<a id=104></a>
 
-##### Section 1 : Dispositions générales.<a id=106></a>
+##### Section 1 : Dispositions générales.<a id=105></a>
 
 ###### Article L231-1
 
@@ -7157,7 +7208,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L431-5 (M)
 
 
-##### Section 2 : Piscicultures.<a id=107></a>
+##### Section 2 : Piscicultures.<a id=106></a>
 
 ###### Article L231-6
 
@@ -7270,9 +7321,9 @@ _Codifié par_:
   - Loi n°92-1283 1992-12-11
 
 
-#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=108></a>
+#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=107></a>
 
-##### Section 1 : Obligations générales.<a id=109></a>
+##### Section 1 : Obligations générales.<a id=108></a>
 
 ###### Article L232-1
 
@@ -7319,7 +7370,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L432-1 (M)
 
 
-##### Section 2 : Protection de la faune piscicole et de son habitat.<a id=110></a>
+##### Section 2 : Protection de la faune piscicole et de son habitat.<a id=109></a>
 
 ###### Article L232-2
 
@@ -7411,7 +7462,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L432-4 (M)
 
 
-##### Section 3 : Obligations relatives aux ouvrages.<a id=111></a>
+##### Section 3 : Obligations relatives aux ouvrages.<a id=110></a>
 
 ###### Article L232-5
 
@@ -7596,7 +7647,7 @@ _Codifié par_:
   - Loi n°92-1283 1992-12-11
 
 
-##### Section 4 : Contrôle des peuplements.<a id=112></a>
+##### Section 4 : Contrôle des peuplements.<a id=111></a>
 
 ###### Article L232-10
 
@@ -7684,9 +7735,9 @@ _Codifié par_:
   - Loi n°92-1283 1992-12-11
 
 
-#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=113></a>
+#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=112></a>
 
-##### Section 1 : Orientations de bassin.<a id=114></a>
+##### Section 1 : Orientations de bassin.<a id=113></a>
 
 ###### Article L233-1
 
@@ -7728,7 +7779,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L433-1 (Ab)
 
 
-##### Section 2 : Schéma départemental de vocation piscicole.<a id=115></a>
+##### Section 2 : Schéma départemental de vocation piscicole.<a id=114></a>
 
 ###### Article L233-2
 
@@ -7779,7 +7830,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L433-2 (M)
 
 
-##### Section 3 : Obligation de gestion.<a id=116></a>
+##### Section 3 : Obligation de gestion.<a id=115></a>
 
 ###### Article L233-3
 
@@ -7822,9 +7873,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L433-3 (V)
 
 
-#### Chapitre IV : Organisation des pêcheurs<a id=117></a>
+#### Chapitre IV : Organisation des pêcheurs<a id=116></a>
 
-##### Section 1 : Conseil supérieur de la pêche.<a id=118></a>
+##### Section 1 : Conseil supérieur de la pêche.<a id=117></a>
 
 ###### Article L234-1
 
@@ -7929,7 +7980,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L434-2 (V)
 
 
-##### Section 2 : Pêche de loisir.<a id=119></a>
+##### Section 2 : Pêche de loisir.<a id=118></a>
 
 ###### Article L234-3
 
@@ -8045,7 +8096,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L434-5 (M)
 
 
-##### Section 3 : Pêche professionnelle.<a id=120></a>
+##### Section 3 : Pêche professionnelle.<a id=119></a>
 
 ###### Article L234-6
 
@@ -8081,9 +8132,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L434-6 (V)
 
 
-#### Chapitre V : Droit de pêche<a id=121></a>
+#### Chapitre V : Droit de pêche<a id=120></a>
 
-##### Section 1 : Droit de pêche de l'Etat.<a id=122></a>
+##### Section 1 : Droit de pêche de l'Etat.<a id=121></a>
 
 ###### Article L235-1
 
@@ -8205,7 +8256,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L435-3 (V)
 
 
-##### Section 2 : Droit de pêche des riverains.<a id=123></a>
+##### Section 2 : Droit de pêche des riverains.<a id=122></a>
 
 ###### Article L235-4
 
@@ -8291,7 +8342,7 @@ _Abrogé par_:
   - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 
-##### Section 3 : Droit de passage.<a id=124></a>
+##### Section 3 : Droit de passage.<a id=123></a>
 
 ###### Article L235-6
 
@@ -8433,9 +8484,9 @@ _Anciens textes_:
   - Code rural 431
 
 
-#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=125></a>
+#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=124></a>
 
-##### Section 1 : Dispositions générales.<a id=126></a>
+##### Section 1 : Dispositions générales.<a id=125></a>
 
 ###### Article L236-1
 
@@ -8796,7 +8847,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L436-8 (V)
 
 
-##### Section 2 : Autorisations exceptionnelles.<a id=127></a>
+##### Section 2 : Autorisations exceptionnelles.<a id=126></a>
 
 ###### Article L236-9
 
@@ -8835,7 +8886,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L436-9 (M)
 
 
-##### Section 3 : Estuaires.<a id=128></a>
+##### Section 3 : Estuaires.<a id=127></a>
 
 ###### Article L236-10
 
@@ -8917,7 +8968,7 @@ _Anciens textes_:
   - Code rural 436
 
 
-##### Section 4 : Réserves et interdictions permanentes de pêche.<a id=129></a>
+##### Section 4 : Réserves et interdictions permanentes de pêche.<a id=128></a>
 
 ###### Article L236-12
 
@@ -8949,7 +9000,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L436-12 (M)
 
 
-##### Section 5 : Commercialisation.<a id=130></a>
+##### Section 5 : Commercialisation.<a id=129></a>
 
 ###### Article L236-13
 
@@ -9079,9 +9130,9 @@ _Anciens textes_:
   - Code rural 442
 
 
-#### Chapitre VII : Recherche et constatation des infractions<a id=131></a>
+#### Chapitre VII : Recherche et constatation des infractions<a id=130></a>
 
-##### Section 1 : Agents compétents.<a id=132></a>
+##### Section 1 : Agents compétents.<a id=131></a>
 
 ###### Article L237-1
 
@@ -9197,7 +9248,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L437-3 (V)
 
 
-##### Section 2 : Procès-verbaux.<a id=133></a>
+##### Section 2 : Procès-verbaux.<a id=132></a>
 
 ###### Article L237-4
 
@@ -9258,7 +9309,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L437-5 (M)
 
 
-##### Section 3 : Recherche des infractions.<a id=134></a>
+##### Section 3 : Recherche des infractions.<a id=133></a>
 
 ###### Article L237-6
 
@@ -9390,7 +9441,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L437-9 (V)
 
 
-##### Section 4 : Saisies.<a id=135></a>
+##### Section 4 : Saisies.<a id=134></a>
 
 ###### Article L237-10
 
@@ -9489,7 +9540,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L437-12 (V)
 
 
-##### Section 5 : Gardes-pêche particuliers.<a id=136></a>
+##### Section 5 : Gardes-pêche particuliers.<a id=135></a>
 
 ###### Article L237-13
 
@@ -9530,9 +9581,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L437-13 (M)
 
 
-#### Chapitre VIII : Transaction - Poursuites et règles d'application des peines<a id=137></a>
+#### Chapitre VIII : Transaction - Poursuites et règles d'application des peines<a id=136></a>
 
-##### Section 1 : Transaction.<a id=138></a>
+##### Section 1 : Transaction.<a id=137></a>
 
 ###### Article L238-1
 
@@ -9573,7 +9624,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L437-14 (M)
 
 
-##### Section 2 : Poursuites pénales.<a id=139></a>
+##### Section 2 : Poursuites pénales.<a id=138></a>
 
 ###### Article L238-2
 
@@ -9664,7 +9715,7 @@ _Abrogé par_:
   - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 
-##### Section 3 : Règles d'application des peines.<a id=140></a>
+##### Section 3 : Règles d'application des peines.<a id=139></a>
 
 ###### Article L238-5
 
@@ -9793,7 +9844,7 @@ _Codifié par_:
   - Loi n°92-1283 1992-12-11
 
 
-##### Section 4 : Action civile.<a id=141></a>
+##### Section 4 : Action civile.<a id=140></a>
 
 ###### Article L238-9
 
@@ -9825,7 +9876,7 @@ _Codifié par_:
   - Loi n°92-1283 1992-12-11
 
 
-#### Chapitre IX : Dispositions d'application.<a id=142></a>
+#### Chapitre IX : Dispositions d'application.<a id=141></a>
 
 ###### Article L239-1
 
@@ -9854,9 +9905,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L438-2 (V)
 
 
-### Titre IV : Espaces naturels<a id=143></a>
+### Titre IV : Espaces naturels<a id=142></a>
 
-#### Chapitre Ier : Parcs nationaux.<a id=144></a>
+#### Chapitre Ier : Parcs nationaux.<a id=143></a>
 
 ###### Article L241-1
 
@@ -9972,7 +10023,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L331-7 (V)
 
 
-##### Section 2 : Création d'un parc national.<a id=145></a>
+##### Section 2 : Création d'un parc national.<a id=144></a>
 
 ###### Article L241-3
 
@@ -10065,7 +10116,7 @@ _Cite_:
   - Code rural L241-10
 
 
-##### Section 3 : Aménagement et gestion des parcs nationaux.<a id=146></a>
+##### Section 3 : Aménagement et gestion des parcs nationaux.<a id=145></a>
 
 ###### Article L241-5
 
@@ -10241,7 +10292,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L331-12 (Ab)
 
 
-##### Section 4 : Mise en valeur des zones périphériques.<a id=147></a>
+##### Section 4 : Mise en valeur des zones périphériques.<a id=146></a>
 
 ###### Article L241-10
 
@@ -10280,7 +10331,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L331-15 (M)
 
 
-##### Section 5 : Réserves intégrales.<a id=148></a>
+##### Section 5 : Réserves intégrales.<a id=147></a>
 
 ###### Article L241-11
 
@@ -10322,7 +10373,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L331-16 (M)
 
 
-##### Section 6 : Indemnités.<a id=149></a>
+##### Section 6 : Indemnités.<a id=148></a>
 
 ###### Article L241-12
 
@@ -10353,7 +10404,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L331-17 (M)
 
 
-##### Section 7 : Dispositions diverses.<a id=150></a>
+##### Section 7 : Dispositions diverses.<a id=149></a>
 
 ###### Article L241-13
 
@@ -10397,9 +10448,9 @@ _Cité par_:
   - Code rural - art. L741-4 (V)
 
 
-##### Section 8 : Dispositions pénales<a id=151></a>
+##### Section 8 : Dispositions pénales<a id=150></a>
 
-##### Sous-section 2 : Constatation et poursuites.<a id=152></a>
+##### Sous-section 2 : Constatation et poursuites.<a id=151></a>
 
 ###### Article L241-14
 
@@ -10573,11 +10624,11 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L331-25 (M)
 
 
-#### Chapitre II : Réserves naturelles<a id=153></a>
+#### Chapitre II : Réserves naturelles<a id=152></a>
 
-##### Section 1 : Réserves naturelles établies par décret<a id=154></a>
+##### Section 1 : Réserves naturelles établies par décret<a id=153></a>
 
-##### Sous-section 1 : Classement.<a id=155></a>
+##### Sous-section 1 : Classement.<a id=154></a>
 
 ###### Article L242-1
 
@@ -10899,7 +10950,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L332-8 (M)
 
 
-##### Sous-section 2 : Modifications de l'état ou de l'aspect d'une réserve naturelle.<a id=156></a>
+##### Sous-section 2 : Modifications de l'état ou de l'aspect d'une réserve naturelle.<a id=155></a>
 
 ###### Article L242-9
 
@@ -10934,7 +10985,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L332-9 (M)
 
 
-##### Sous-section 3 : Modifications des limites ou de la réglementation (déclassement).<a id=157></a>
+##### Sous-section 3 : Modifications des limites ou de la réglementation (déclassement).<a id=156></a>
 
 ###### Article L242-10
 
@@ -10970,7 +11021,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L332-10 (M)
 
 
-##### Section 2 : Réserves naturelles volontaires.<a id=158></a>
+##### Section 2 : Réserves naturelles volontaires.<a id=157></a>
 
 ###### Article L242-11
 
@@ -11030,9 +11081,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L332-12 (Ab)
 
 
-##### Section 3 : Dispositions communes<a id=159></a>
+##### Section 3 : Dispositions communes<a id=158></a>
 
-##### Sous-section 1 : Protection des réserves naturelles.<a id=160></a>
+##### Sous-section 1 : Protection des réserves naturelles.<a id=159></a>
 
 ###### Article L242-13
 
@@ -11089,9 +11140,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L332-14 (V)
 
 
-##### Sous-section 2 : Abords des réserves naturelles<a id=161></a>
+##### Sous-section 2 : Abords des réserves naturelles<a id=160></a>
 
-##### Paragraphe 1 : Périmètres de protection.<a id=162></a>
+##### Paragraphe 1 : Périmètres de protection.<a id=161></a>
 
 ###### Article L242-15
 
@@ -11186,7 +11237,7 @@ _Cite_:
   - Code rural L242-7, L242-8
 
 
-##### Paragraphe 2 : Zones de protection.<a id=163></a>
+##### Paragraphe 2 : Zones de protection.<a id=162></a>
 
 ###### Article L242-18
 
@@ -11223,7 +11274,7 @@ _Abrogé par_:
   - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 
-##### Sous-section 3 : Réserves naturelles créées en application de la loi du 2 mai 1930.<a id=164></a>
+##### Sous-section 3 : Réserves naturelles créées en application de la loi du 2 mai 1930.<a id=163></a>
 
 ###### Article L242-19
 
@@ -11257,9 +11308,9 @@ _Cite_:
   - Loi n°1930-05-02 art. 8 bis
 
 
-##### Section 4 : Dispositions pénales<a id=165></a>
+##### Section 4 : Dispositions pénales<a id=164></a>
 
-##### Sous-section 1 : Peines.<a id=166></a>
+##### Sous-section 1 : Peines.<a id=165></a>
 
 ###### Article L242-20
 
@@ -11387,7 +11438,7 @@ _Abrogé par_:
   - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 
-##### Sous-section 2 : Constatation et poursuites.<a id=167></a>
+##### Sous-section 2 : Constatation et poursuites.<a id=166></a>
 
 ###### Article L242-24
 
@@ -11542,9 +11593,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L332-23 (V)
 
 
-#### Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres<a id=168></a>
+#### Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres<a id=167></a>
 
-##### Section 1 : Dispositions générales.<a id=169></a>
+##### Section 1 : Dispositions générales.<a id=168></a>
 
 ###### Article L243-1
 
@@ -11621,9 +11672,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L322-2 (V)
 
 
-##### Section 2 : Patrimoine du Conservatoire<a id=170></a>
+##### Section 2 : Patrimoine du Conservatoire<a id=169></a>
 
-##### Sous-section 1 : Constitution, aliénation.<a id=171></a>
+##### Sous-section 1 : Constitution, aliénation.<a id=170></a>
 
 ###### Article L243-3
 
@@ -11685,25 +11736,29 @@ _Nouveaux textes_:
 ###### Article L243-4
 
 L'établissement public peut exproprier tous droits immobiliers et exercer, à défaut du département, le droit de préemption
-prévu à l'article L. 142-1 du code de l'urbanisme.
+prévu à l'article L. 142-3 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°75-602 1975-07-10 art. 2 al. 2
-
-_Créé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
+  - Décret n°90-879 du 28 septembre 1990 - art. 1 () JORF 30 septembre 1990
 
 _Codifié par_:
 
   - Loi n°91-363 1991-04-15
 
+_Abrogé par_:
+
+  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
 _Cite_:
 
-  - Code de l'urbanisme - art. L142-1 (M)
+  - Code de l'urbanisme - art. L142-3 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'environnement - art. L322-4 (V)
 
 
 ###### Article L243-5
@@ -11737,21 +11792,39 @@ _Nouveaux textes_:
 
 ###### Article L243-6
 
-L'établissement public peut être affectataire d'immeubles du domaine privé de l'Etat.
+L'établissement public peut être affectataire, à titre gratuit, d'immeubles dépendant du domaine privé de l'Etat. Toutefois,
+lorsque le service précédemment affectataire est doté de l'autonomie financière, l'immeuble est affecté à titre onéreux à
+l'établissement public ou lui est cédé dans les formes du droit commun.
+
+L'établissement public est substitué à l'Etat dans la gestion des immeubles qui lui sont affectés : il passe toutes
+conventions les concernant, notamment celles visées à l'article L. 243-9, perçoit à son profit tous leurs produits et
+supporte les charges y afférentes, de quelque nature qu'elles soient. Ces dispositions sont applicables aux immeubles
+domaniaux remis à l'établissement à titre de dotation.
+
+Les biens domaniaux qui lui sont affectés ou remis en dotation ne pourront être désaffectés ou retirés que dans les
+conditions prévues pour les aliénations du domaine propre.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°75-602 1975-07-10 art. 2 al. 3
-
-_Créé par_:
-
-  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
+  - Décret n°90-879 du 28 septembre 1990 - art. 1 () JORF 30 septembre 1990
 
 _Codifié par_:
 
   - Loi n°91-363 1991-04-15
+
+_Abrogé par_:
+
+  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+_Nouveaux textes_:
+
+  - Code de l'environnement - art. L322-6 (M)
+
+_Cite_:
+
+  - Code rural L243-9
 
 
 ###### Article L243-7
@@ -11819,7 +11892,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L322-8 (V)
 
 
-##### Sous-section 2 : Gestion.<a id=172></a>
+##### Sous-section 2 : Gestion.<a id=171></a>
 
 ###### Article L243-9
 
@@ -11875,9 +11948,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L322-10 (M)
 
 
-##### Section 3 : Administration<a id=173></a>
+##### Section 3 : Administration<a id=172></a>
 
-##### Sous-section 1 : Conseil d'administration.<a id=174></a>
+##### Sous-section 1 : Conseil d'administration.<a id=173></a>
 
 ###### Article L243-11
 
@@ -11936,7 +12009,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L322-12 (V)
 
 
-##### Sous-section 2 : Conseils de rivage.<a id=175></a>
+##### Sous-section 2 : Conseils de rivage.<a id=174></a>
 
 ###### Article L243-13
 
@@ -11974,7 +12047,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L322-13 (M)
 
 
-##### Section 4 : Dispositions financières.<a id=176></a>
+##### Section 4 : Dispositions financières.<a id=175></a>
 
 ###### Article L243-14
 
@@ -12003,9 +12076,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. L322-14 (V)
 
 
-### Titre V : Dispositions communes à la protection de la nature<a id=177></a>
+### Titre V : Dispositions communes à la protection de la nature<a id=176></a>
 
-#### Chapitre II : Associations ayant pour objet la protection de la nature et de l'environnement.<a id=178></a>
+#### Chapitre II : Associations ayant pour objet la protection de la nature et de l'environnement.<a id=177></a>
 
 ###### Article L252-1
 
@@ -12124,9 +12197,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R201-1 (Ab)
 
 
-### Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon et aux terres australes et antarctiques françaises<a id=179></a>
+### Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon et aux terres australes et antarctiques françaises<a id=178></a>
 
-#### Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=180></a>
+#### Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon.<a id=179></a>
 
 ###### Article L261-1
 
@@ -12147,7 +12220,7 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-#### Chapitre II : Dispositions particulières aux terres australes et antarctiques françaises.<a id=181></a>
+#### Chapitre II : Dispositions particulières aux terres australes et antarctiques françaises.<a id=180></a>
 
 ###### Article L262-1
 
@@ -12165,11 +12238,11 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-## Livre IV : Baux ruraux<a id=182></a>
+## Livre IV : Baux ruraux<a id=181></a>
 
-### Titre Ier : Statut du fermage et du métayage<a id=183></a>
+### Titre Ier : Statut du fermage et du métayage<a id=182></a>
 
-#### Chapitre Ier : Régime de droit commun<a id=184></a>
+#### Chapitre Ier : Régime de droit commun<a id=183></a>
 
 ###### Article L411-1
 
@@ -12301,9 +12374,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R333-1 (V)
 
 
-##### Section 1 : Etablissement du contrat, durée et prix du bail<a id=185></a>
+##### Section 1 : Etablissement du contrat, durée et prix du bail<a id=184></a>
 
-##### Sous-section 1 : Etablissement du contrat.<a id=186></a>
+##### Sous-section 1 : Etablissement du contrat.<a id=185></a>
 
 ###### Article L411-4
 
@@ -12349,7 +12422,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R411-9-11-2 (V)
 
 
-##### Sous-section 2 : Durée du bail.<a id=187></a>
+##### Sous-section 2 : Durée du bail.<a id=186></a>
 
 ###### Article L411-5
 
@@ -12509,26 +12582,30 @@ _Codifié par_:
 ###### Article L411-10
 
 Le bail non écrit d'un fonds rural répondant aux conditions fixées conformément aux dispositions de l'article L. 411-3, sous
-réserve des dispositions des articles L. 411-5 à L. 411-7 et L. 411-8, alinéa 1er, est censé fait pour le temps prévu par
-l'article 1774 du code civil.
+réserve des dispositions des articles L. 411-5 à L. 411-7 et L. 411-8, est censé fait pour le temps prévu par l'article 1774
+du code civil.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+  - Code rural L411-3, L411-5 à L411-7, L411-8
+  - Code civil - art. 1774 (V)
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 3 () JORF 30 septembre 1990
 
 _Codifié par_:
 
   - Loi n°91-363 1991-04-15
 
-_Cite_:
+_Abrogé par_:
 
-  - Code civil - art. 1774 (V)
-  - Code rural L411-3, L411-5 à L411-7, L411-8
+  - Ordonnance n°2006-870 du 13 juillet 2006 - art. 3 () JORF 14 juillet 2006
 
 
-##### Sous-section 3 : Prix du bail.<a id=188></a>
+##### Sous-section 3 : Prix du bail.<a id=187></a>
 
 ###### Article L411-11
 
@@ -12761,13 +12838,13 @@ _Codifié par_:
 
 Ainsi qu'il est dit à l'article 1765 du code civil, si dans un bail à ferme, on donne au fonds une contenance moindre ou plus
 grande que celle qu'ils ont réellement, il n'y a lieu à augmentation ou diminution de prix pour le fermier que dans les cas
-et suivant les règles prévues par le code civil au titre IV du livre III intitulé "De la vente".
+et suivant les règles prévues par le code civil au titre VI du livre III intitulé "De la vente".
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-212 du 16 mars 1983 - art. 1 (V) JORF 22 mars 1983 en vigueur le 1er décembre 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 3 () JORF 30 septembre 1990
 
 _Codifié par_:
 
@@ -12938,7 +13015,7 @@ _Cité par_:
   - Code rural - art. L417-8 (V)
 
 
-##### Section 2 : Droits et obligations du preneur en matière d'exploitation.<a id=189></a>
+##### Section 2 : Droits et obligations du preneur en matière d'exploitation.<a id=188></a>
 
 ###### Article L411-25
 
@@ -13087,7 +13164,7 @@ _Cité par_:
   - Code de l'environnement - art. L213-8-2 (V)
 
 
-##### Section 3 : Résiliation du bail.<a id=190></a>
+##### Section 3 : Résiliation du bail.<a id=189></a>
 
 ###### Article L411-30
 
@@ -13265,7 +13342,7 @@ _Cité par_:
   - Code rural - art. L461-21 (VD)
 
 
-##### Section 4 : Cession du bail et sous-location.<a id=191></a>
+##### Section 4 : Cession du bail et sous-location.<a id=190></a>
 
 ###### Article L411-35
 
@@ -13343,7 +13420,7 @@ _Abrogé par_:
   - Ordonnance n°2006-870 du 13 juillet 2006 - art. 6 () JORF 14 juillet 2006
 
 
-##### Section 5 : Adhésion à une société.<a id=192></a>
+##### Section 5 : Adhésion à une société.<a id=191></a>
 
 ###### Article L411-37
 
@@ -13424,7 +13501,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L411-31 (V)
 
 
-##### Section 6 : Echange et location de parcelles.<a id=193></a>
+##### Section 6 : Echange et location de parcelles.<a id=192></a>
 
 ###### Article L411-39
 
@@ -13473,7 +13550,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L411-31 (V)
 
 
-##### Section 7 : Dispositions particulières aux locations annuelles renouvelables.<a id=194></a>
+##### Section 7 : Dispositions particulières aux locations annuelles renouvelables.<a id=193></a>
 
 ###### Article L411-40
 
@@ -13610,7 +13687,7 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-##### Section 8 : Droit de renouvellement et droit de reprise.<a id=195></a>
+##### Section 8 : Droit de renouvellement et droit de reprise.<a id=194></a>
 
 ###### Article L411-46
 
@@ -13951,7 +14028,7 @@ _Cité par_:
 ###### Article L411-58
 
 Le bailleur a le droit de refuser le renouvellement du bail s'il veut reprendre le bien loué pour lui-même ou au profit du
-conjoint ou d'un descendant majeur ou mineur émancipé de plein droit.
+conjoint ou d'un descendant majeur ou mineur émancipé.
 
 Toutefois, le preneur peut s'opposer à la reprise lorsque lui-même, ou en cas de copreneurs l'un d'entre eux, se trouve à
 moins de cinq ans de l'âge auquel peut lui être accordée l'indemnité viagère de départ prévue par l'article 27 de la loi du 8
@@ -13988,13 +14065,13 @@ années suivant la date d'acquisition.
 
 _Cite_:
 
-  - Code rural L411-47
   - Loi n°62-933 1962-08-08 art. 26, art. 27
   - Loi n°62-933 du 8 août 1962 - art. 26 (V)
+  - Code rural L411-47
 
 _Modifié par_:
 
-  - Loi n°88-1202 du 30 décembre 1988 - art. 14 () JORF 31 décembre 1988
+  - Décret n°90-879 du 28 septembre 1990 - art. 3 () JORF 30 septembre 1990
 
 _Codifié par_:
 
@@ -14361,7 +14438,7 @@ _Cite_:
   - Code civil - art. 217 (V)
 
 
-##### Section 9 : Indemnité au preneur sortant.<a id=196></a>
+##### Section 9 : Indemnité au preneur sortant.<a id=195></a>
 
 ###### Article L411-69
 
@@ -14722,9 +14799,9 @@ _Cite_:
   - Code rural - art. L411-77 (V)
 
 
-#### Chapitre II : Droit de préemption et droit de priorité<a id=197></a>
+#### Chapitre II : Droit de préemption et droit de priorité<a id=196></a>
 
-##### Section 1 : Droit de préemption en cas d'aliénation à titre onéreux de biens ruraux.<a id=198></a>
+##### Section 1 : Droit de préemption en cas d'aliénation à titre onéreux de biens ruraux.<a id=197></a>
 
 ###### Article L412-1
 
@@ -15125,7 +15202,7 @@ _Cité par_:
   - Code rural - art. L461-4 (VD)
 
 
-##### Section 2 : Dispositions relatives aux baux conclus entre copartageants d'une exploitation agricole par application de l'article 832-3 du code civil.<a id=199></a>
+##### Section 2 : Dispositions relatives aux baux conclus entre copartageants d'une exploitation agricole par application de l'article 832-3 du code civil.<a id=198></a>
 
 ###### Article L412-14
 
@@ -15179,7 +15256,7 @@ _Cité par_:
   - Code civil - art. 832-2 (V)
 
 
-#### Chapitre III : Dispositions particulières aux preneurs de nationalité étrangère.<a id=200></a>
+#### Chapitre III : Dispositions particulières aux preneurs de nationalité étrangère.<a id=199></a>
 
 ###### Article L413-1
 
@@ -15205,7 +15282,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L462-27 (VT)
 
 
-#### Chapitre V : Dispositions diverses et d'application.<a id=201></a>
+#### Chapitre V : Dispositions diverses et d'application.<a id=200></a>
 
 ###### Article L415-1
 
@@ -15505,7 +15582,7 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-#### Chapitre VI : Dispositions particulières aux baux à long terme.<a id=202></a>
+#### Chapitre VI : Dispositions particulières aux baux à long terme.<a id=201></a>
 
 ###### Article L416-1
 
@@ -15775,9 +15852,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 885 H (Ab)
 
 
-#### Chapitre VII : Dispositions particulières aux baux à colonat partiaire ou métayage<a id=203></a>
+#### Chapitre VII : Dispositions particulières aux baux à colonat partiaire ou métayage<a id=202></a>
 
-##### Section 1 : Régime du bail.<a id=204></a>
+##### Section 1 : Régime du bail.<a id=203></a>
 
 ###### Article L417-1
 
@@ -15970,7 +16047,7 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-##### Section 2 : Conversion en baux à ferme.<a id=205></a>
+##### Section 2 : Conversion en baux à ferme.<a id=204></a>
 
 ###### Article L417-11
 
@@ -16109,7 +16186,7 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-### Titre II : Bail à cheptel.<a id=206></a>
+### Titre II : Bail à cheptel.<a id=205></a>
 
 ###### Article L421-1
 
@@ -16132,7 +16209,7 @@ _Cite_:
   - Code civil - art. 1800 (V)
 
 
-### Titre III : Bail à domaine congéable.<a id=207></a>
+### Titre III : Bail à domaine congéable.<a id=206></a>
 
 ###### Article L431-1
 
@@ -16592,7 +16669,7 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-### Titre IV : Bail à complant.<a id=208></a>
+### Titre IV : Bail à complant.<a id=207></a>
 
 ###### Article L441-1
 
@@ -16900,7 +16977,7 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-### Titre V : Bail emphytéotique.<a id=209></a>
+### Titre V : Bail emphytéotique.<a id=208></a>
 
 ###### Article L451-1
 
@@ -17162,9 +17239,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 689 (V)
 
 
-### Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer<a id=210></a>
+### Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer<a id=209></a>
 
-#### Chapitre Ier : Régime de droit commun<a id=211></a>
+#### Chapitre Ier : Régime de droit commun<a id=210></a>
 
 ###### Article L461-1
 
@@ -17189,7 +17266,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L761-16 (V)
 
 
-##### Section 2 : Conclusion, durée, prix du bail.<a id=212></a>
+##### Section 2 : Conclusion, durée, prix du bail.<a id=211></a>
 
 ###### Article L461-2
 
@@ -17276,7 +17353,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R461-6 (M)
 
 
-##### Section 3 : Résiliation, cession et sous-location.<a id=213></a>
+##### Section 3 : Résiliation, cession et sous-location.<a id=212></a>
 
 ###### Article L461-5
 
@@ -17390,7 +17467,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L181-6 (VT)
 
 
-##### Section 4 : Congé, renouvellement, reprise.<a id=214></a>
+##### Section 4 : Congé, renouvellement, reprise.<a id=213></a>
 
 ###### Article L461-8
 
@@ -17593,7 +17670,7 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-##### Section 5 : Indemnité du preneur sortant.<a id=215></a>
+##### Section 5 : Indemnité du preneur sortant.<a id=214></a>
 
 ###### Article L461-15
 
@@ -17647,7 +17724,7 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-##### Section 6 : Droit de préemption.<a id=216></a>
+##### Section 6 : Droit de préemption.<a id=215></a>
 
 ###### Article L461-18
 
@@ -17800,7 +17877,7 @@ _Abrogé par_:
   - Loi n°2006-11 du 5 janvier 2006 - art. 98 () JORF 6 janvier 2006
 
 
-##### Section 7 : Dispositions diverses.<a id=217></a>
+##### Section 7 : Dispositions diverses.<a id=216></a>
 
 ###### Article L461-24
 
@@ -17919,9 +17996,9 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-#### Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage<a id=218></a>
+#### Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage<a id=217></a>
 
-##### Section 1 : Régime du bail.<a id=219></a>
+##### Section 1 : Régime du bail.<a id=218></a>
 
 ###### Article L462-1
 
@@ -18425,7 +18502,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 707 bis (V)
 
 
-##### Section 2 : Conversion en baux à ferme.<a id=220></a>
+##### Section 2 : Conversion en baux à ferme.<a id=219></a>
 
 ###### Article L462-22
 
@@ -18553,7 +18630,7 @@ _Abrogé par_:
   - Ordonnance n°2016-391 du 31 mars 2016 - art. 6
 
 
-##### Section 3 : Dispositions diverses et d'application.<a id=221></a>
+##### Section 3 : Dispositions diverses et d'application.<a id=220></a>
 
 ###### Article L462-27
 
@@ -18575,7 +18652,7 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-#### Chapitre III : Dispositions particulières aux baux à long terme.<a id=222></a>
+#### Chapitre III : Dispositions particulières aux baux à long terme.<a id=221></a>
 
 ###### Article L463-1
 
@@ -18597,7 +18674,7 @@ _Codifié par_:
   - Loi n°91-363 1991-04-15
 
 
-#### Chapitre IV : Dispositions d'application.<a id=223></a>
+#### Chapitre IV : Dispositions d'application.<a id=222></a>
 
 ###### Article L464-1
 
@@ -18653,7 +18730,7 @@ _Abrogé par_:
   - Ordonnance n°2016-391 du 31 mars 2016 - art. 6
 
 
-### Titre VII : Location de jardins familiaux.<a id=224></a>
+### Titre VII : Location de jardins familiaux.<a id=223></a>
 
 ###### Article L471-1
 
@@ -18833,7 +18910,7 @@ _Cité par_:
   - Code rural - art. L471-4 (V)
 
 
-### Titre VIII : Contrats d'exploitation de terres à vocation pastorale.<a id=225></a>
+### Titre VIII : Contrats d'exploitation de terres à vocation pastorale.<a id=224></a>
 
 ###### Article L481-1
 
@@ -18887,11 +18964,413 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R480-1 (V)
 
 
-## Livre V : Organismes professionnels agricoles<a id=226></a>
+## Livre V : Organismes professionnels agricoles<a id=225></a>
 
-### Titre Ier : Chambres d'agriculture<a id=227></a>
+### Titre Ier : Chambres d'agriculture<a id=226></a>
 
-#### Chapitre V : Dispositions relatives au statut des salariés membres des chambres d'agriculture.<a id=228></a>
+#### Chapitre Ier : Chambres départementales<a id=227></a>
+
+##### Section 1 : Institution et attributions.<a id=228></a>
+
+###### Article L511-1
+
+Une chambre départementale d'agriculture siégeant au chef-lieu constitue dans chaque département auprès des pouvoirs publics
+l'organe consultatif et professionnel des intérêts agricoles.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code du travail - art. L5143-1 (V)
+  - Code rural - art. L571-4 (VD)
+  - Code rural et de la pêche maritime - art. L511-3 (VD)
+  - Code rural et de la pêche maritime - art. L512-4 (V)
+  - Code rural et de la pêche maritime - art. L571-1 (M)
+
+
+###### Article L511-2
+
+Les chambres d'agriculture sont des établissements publics ; elles peuvent, en cette qualité, acquérir, recevoir, posséder,
+emprunter, aliéner, ester en justice.
+
+Ainsi qu'il est dit à l'article 1er de la loi n° 56-1119 du 19 novembre 1956, l'usage d'une appellation comportant l'emploi
+des mots : "chambre d'agriculture" est réservé aux seuls établissements publics constitués dans les conditions prévues par
+les lois en vigueur, sous réserve des seules dérogations accordées à titre précaire par l'article 2 de cette loi. Les
+infractions sont passibles des peines prévues à l'article 4 de la même loi.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Loi n°56-1119 1956-11-19 art. 1, art. 2, art. 4
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+###### Article L511-3
+
+Les chambres départementales d'agriculture donnent aux pouvoirs publics les renseignements et avis qui leur sont demandés sur
+les questions agricoles.
+
+Elles sont appelées par l'autorité administrative à grouper, coordonner, codifier les coutumes et usages locaux à caractère
+agricole qui servent ordinairement de base aux décisions judiciaires.
+
+Les usages codifiés sont soumis à l'approbation du conseil général.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. D511-66 (V)
+  - Code rural - art. D571-11 (V)
+  - Code rural - art. D571-29 (V)
+  - Code rural - art. D571-35 (V)
+  - Code rural et de la pêche maritime - art. D511-1 (V)
+  - Code rural et de la pêche maritime - art. D511-111 (Ab)
+  - Code rural et de la pêche maritime - art. D512-5 (V)
+
+
+###### Article L511-4
+
+Les chambres d'agriculture peuvent, dans leur circonscription, créer ou subventionner tous établissements, institutions ou
+services d'utilité agricole, toutes entreprises collectives d'intérêt agricole.
+
+Les chambres d'agriculture peuvent se concerter avec les chambres de commerce et d'industrie en vue de créer ou subventionner
+des oeuvres ou entreprises collectives présentant un intérêt commun à l'agriculture, à l'industrie ou au commerce.
+
+Les établissements ou services d'utilité agricole créés par les chambres d'agriculture et par l'assemblée permanente des
+chambres d'agriculture en vertu du présent article sont gérés et leurs opérations sont comptabilisées conformément aux lois
+et usages du commerce.
+
+Les prévisions de recettes et de dépenses de ces établissements et services doivent faire l'objet de budgets spéciaux. Elles
+ne figurent au budget ordinaire de la chambre d'agriculture intéressée ou de l'assemblée permanente que par leur solde
+créditeur ou débiteur.
+
+Un arrêté conjoint des ministres intéressés fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural L514-2
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Ordonnance n°2011-864 du 22 juillet 2011 - art. 6 (V)
+  - Ordonnance n°2012-789 du 31 mai 2012 - art. 21 (M)
+  - Décret n°2015-781 du 29 juin 2015 (V)
+  - Arrêté du 28 décembre 2016 - art. 1 (V)
+  - Code rural - art. D511-4 (V)
+  - Code rural - art. D511-54-1 (V)
+  - Code rural - art. D571-35 (V)
+  - Code rural - art. D732-54 (V)
+  - Code rural et de la pêche maritime - art. D343-17-2 (V)
+  - Code rural et de la pêche maritime - art. D512-5 (V)
+
+
+###### Article L511-5
+
+Les chambres départementales peuvent faire partie des associations, syndicats, coopératives agricoles et, généralement, de
+tous groupements ayant un objet agricole, dans la mesure où les dispositions législatives et réglementaires applicables à ces
+organismes le permettent.
+
+Elles peuvent, avec l'accord de l'autorité supérieure, participer à la fondation ou au capital de sociétés par actions, à
+condition que l'objet de celles-ci entre dans le cadre de leurs attributions légales. Le conseil d'administration de ces
+sociétés, doit comprendre un représentant de chacune des chambres d'agriculture participantes.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. D511-2 (V)
+  - Code rural - art. L571-1 (M)
+
+
+###### Article L511-6
+
+Les chambres départementales d'agriculture peuvent se concerter en vue de poursuivre l'étude et la réalisation de projets
+communs à plusieurs départements.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-1207 du 2 octobre 2006 - art. 3 () JORF 3 octobre 2006
+
+
+##### Section 2 : Composition.<a id=229></a>
+
+###### Article L511-7
+
+Les membres des chambres d'agriculture sont élus pour six ans. Ils sont rééligibles.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code du travail - art. L2122-6 (V)
+  - Code rural et de la pêche maritime - art. L514-1 (M)
+
+
+##### Section 3 : Elections.<a id=230></a>
+
+###### Article L511-8
+
+Les tribunaux de l'ordre judiciaire sont compétents pour connaître des réclamations relatives à l'établissement des listes
+électorales pour les chambres d'agriculture.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+###### Article L511-9
+
+Sont applicables aux élections faites en vue de l'élection des membres des chambres d'agriculture, les dispositions pénales
+du chapitre VII du titre Ier du livre Ier du code électoral.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+##### Section 4 : Fonctionnement.<a id=231></a>
+
+###### Article L511-10
+
+L'autorité supérieure fait prononcer par décret l'annulation de tout acte ou délibération étranger aux attributions légales
+des chambres ou contraires aux lois et à l'ordre public.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. D511-60 (V)
+  - Code rural - art. D513-2 (V)
+  - Code rural - art. L513-4 (V)
+  - Code rural et de la pêche maritime - art. D512-5 (V)
+
+
+###### Article L511-11
+
+Les chambres qui contreviennent aux prescriptions législatives ou réglementaires du titre Ier du présent livre pourront être
+dissoutes par décret rendu en Conseil des ministres.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. D512-5 (V)
+
+
+##### Section 5 : Régime financier.<a id=232></a>
+
+###### Article L511-12
+
+Il est pourvu par le conseil général du département aux menues dépenses occasionnées par la tenue des sessions des chambres
+d'agriculture. Ces dépenses sont obligatoires et votées chaque année par le conseil général.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+#### Chapitre III : Assemblée permanente des chambres d'agriculture<a id=233></a>
+
+##### Section 1 : Organisation et fonctionnement.<a id=234></a>
+
+###### Article L513-1
+
+L'Assemblée permanente des chambres d'agriculture est auprès des pouvoirs publics l'organe consultatif et représentatif des
+intérêts généraux et spéciaux de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code forestier - art. L221-1 (VT)
+  - Code rural - art. L571-1 (M)
+  - Code rural et de la pêche maritime - art. D513-19 (V)
+  - Code rural et de la pêche maritime - art. L311-2 (V)
+
+
+###### Article L513-2
+
+L'assemblée permanente des chambres d'agriculture est composée des présidents des chambres départementales d'agriculture qui
+peuvent être suppléés par un délégué élu dans chaque chambre.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. D511-65 (V)
+  - Code rural et de la pêche maritime - art. D513-1 (V)
+  - Code rural et de la pêche maritime - art. D513-11 (V)
+
+
+###### Article L513-3
+
+L'Assemblée permanente des chambres d'agriculture est un établissement public doté de la personnalité civile.
+
+Les articles L. 511-4, L. 511-10 et L. 511-11 sont applicables à l'Assemblée permanente des chambres d'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L511-4, L511-10, L511-11
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. D511-65 (V)
+
+
+#### Chapitre IV : Dispositions financières communes.<a id=235></a>
+
+###### Article L514-1
+
+Les dispositions financières concernant les chambres d'agriculture et l'assemblée permanente des chambres d'agriculture sont
+prévues par les deux premiers alinéas de l'article 30 de la loi n° 59-1472 du 28 décembre 1959 et, en ce qui concerne les
+mesures fiscales, par l'article 1604 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1604
+  - Loi n°59-1472 du 28 décembre 1959 - art. 30, v. init.
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 115 (V)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 107 (M)
+  - Code général des impôts, CGI. - art. 1604 (V)
+  - Code rural - art. L571-1 (M)
+  - Code rural - art. L571-4 (VD)
+  - Code rural et de la pêche maritime - art. L512-4 (V)
+
+
+#### Chapitre V : Dispositions relatives au statut des salariés membres des chambres d'agriculture.<a id=236></a>
 
 ###### Article L515-1
 
@@ -19027,11 +19506,1782 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D511-85 (V)
 
 
-## Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique<a id=229></a>
+### Titre II : Sociétés coopératives agricoles<a id=237></a>
 
-### Titre Ier : Enseignement et formation professionnelle agricoles<a id=230></a>
+#### Chapitre Ier : Dispositions générales, constitution<a id=238></a>
 
-#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole publics.<a id=231></a>
+##### Section 1 : Dispositions générales.<a id=239></a>
+
+###### Article L521-1
+
+Les sociétés coopératives agricoles ont pour objet l'utilisation en commun par des agriculteurs de tous moyens propres à
+faciliter ou à développer leur activité économique, à améliorer ou à accroître les résultats de cette activité.
+
+Les sociétés coopératives agricoles et leurs unions forment une catégorie spéciale de sociétés, distinctes des sociétés
+civiles et des sociétés commerciales. Elles ont la personnalité morale et la pleine capacité.
+
+Les sociétés coopératives agricoles peuvent se grouper en unions de coopératives agricoles. Sauf stipulation expresse
+contraire, ces unions sont soumises aux mêmes dispositions que les sociétés coopératives agricoles.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Arrêté du 23 avril 2008 - art. (V)
+  - Code de commerce - art. L441-10 (V)
+  - Code de commerce - art. L441-6 (V)
+  - Code de l'énergie - art. R522-1 (V)
+  - Code de la sécurité sociale. - art. L651-1 (V)
+  - Code de la sécurité sociale. - art. L651-3 (M)
+  - Code de la sécurité sociale. - art. L834-1 (V)
+  - Code général des impôts, CGI. - art. 130 (V)
+  - Code général des impôts, CGI. - art. 38 sexies (V)
+  - Code général des impôts, CGI. - art. 72 D (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies G (V)
+  - Code rural - art. L342-1 (V)
+  - Code rural - art. L631-24 (V)
+  - Code rural - art. R521-1 (V)
+  - Code rural et de la pêche maritime - art. L582-3 (Ab)
+  - Code rural et de la pêche maritime - art. L631-25 (VD)
+
+
+###### Article L521-2
+
+Les coopératives agricoles et leurs unions sont obligatoirement à capital variable.
+
+Leur durée ne peut excéder quatre-vingt-dix-neuf ans, sauf prorogation.
+
+Les statuts de chaque société coopérative agricole fixent la circonscription territoriale de cette société. Les unions de
+sociétés coopératives agricoles ont pour circonscription territoriale l'ensemble des circonscriptions des sociétés
+coopératives adhérentes.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+###### Article L521-3
+
+Ne peuvent prétendre à la qualité et à la dénomination de coopérative ou d'union que les sociétés dont les statuts
+prévoient :
+
+a) L'obligation pour chaque coopérateur d'utiliser les services de la société pour une durée déterminée, et corrélativement,
+de souscrire une quote-part du capital en fonction de cet engagement d'activité ;
+
+b) L'obligation pour la société de ne faire d'opérations qu'avec ses seuls associés coopérateurs ;
+
+c) La limitation à 6 p. 100 net au maximum de l'intérêt versé au capital souscrit par les associés coopérateurs ;
+
+d) La répartition des excédents annuels disponibles entre les associés coopérateurs proportionnellement aux opérations qu'ils
+ont réalisées avec leur coopérative lors de l'exercice ;
+
+e) Le remboursement des parts sociales à leur valeur nominale ainsi qu'en cas de liquidation, la dévolution de l'actif net à
+d'autres coopératives ou à des oeuvres d'intérêt général agricole ;
+
+f) Un droit égal de vote pour chaque coopérateur aux assemblées générales ; pour l'exercice de ce droit, lorsqu'un groupement
+agricole d'exploitation en commun adhère à une société coopérative, tous les membres du groupement considérés comme chefs
+d'exploitation agricole sont réputés associés coopérateurs, sans que les chefs d'exploitation membres d'un même groupement
+puissent, en cette qualité, détenir plus de 49 p. 100 des voix.
+
+Toutefois, en ce qui concerne les b, e et f ci-dessus, les coopérateurs peuvent, soit à la fondation, soit en cours de vie
+sociale, exercer, dans les conditions et limites prévues, les choix qui leur sont couverts par les articles L. 522-5, L.
+523-1, L. 523-7, L. 524-4 et L. 526-2.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°88-1202 du 30 décembre 1988 - art. 4 () JORF 31 décembre 1988
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. L521-1-1 (V)
+  - Code rural - art. L521-3-1 (V)
+  - Code rural - art. L522-1 (V)
+  - Code rural - art. L523-2 (V)
+  - Code rural - art. L523-5-1 (V)
+  - Code rural - art. R523-1 (V)
+  - Code rural - art. R523-2 (V)
+  - Code rural et de la pêche maritime - art. L582-4 (Ab)
+  - Code rural et de la pêche maritime - art. R523-3 (VD)
+  - Code rural et de la pêche maritime - art. R523-5 (VD)
+
+_Cite_:
+
+  - Code rural L522-5, L523-1, L523-7, L524-4, L526-2
+
+
+###### Article L521-4
+
+Les sociétés coopératives agricoles et leurs unions peuvent convenir de soumettre à des arbitres les contestations qui
+viendraient à se produire à raison de leurs opérations.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+###### Article L521-5
+
+Les sociétés coopératives et leurs unions relèvent de la compétence des juridictions civiles.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+###### Article L521-6
+
+Sous réserve des dispositions du présent titre, les sociétés coopératives agricoles et leurs unions sont régies par les
+dispositions de la loi du 10 septembre 1947 modifiée portant statut de la coopération et du titre III de la loi du 24 juillet
+1867 sur les sociétés.
+
+**Nota:**
+
+(1) : Loi totalement abrogée par l'ordonnance n° 2000-912 du 18 septembre 2000 à l'exception de son article 80.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Loi n°1867-07-24
+  - Loi n°47-1775 1947-09-10
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+#### Chapitre II : Associés, tiers non coopérateurs<a id=240></a>
+
+##### Section 1 : Associés coopérateurs.<a id=241></a>
+
+###### Article L522-1
+
+Peuvent être associés coopérateurs d'une société coopérative agricole :
+
+1° Toute personne physique ou morale ayant la qualité d'agriculteur ou de forestier dans la circonscription de la société
+coopérative agricole ;
+
+2° Toute personne physique ou morale possédant dans cette circonscription des intérêts agricoles qui correspondent à l'objet
+social de la société coopérative agricole et souscrivant l'engagement d'activité prévu par le a du premier alinéa de
+l'article L. 521-3 ;
+
+3° Tout groupement agricole d'exploitation en commun de la circonscription ;
+
+4° Toutes associations et syndicats d'agriculteurs ayant avec la coopérative agricole un objet commun ou connexe ;
+
+5° D'autres sociétés coopératives agricoles, unions de ces sociétés et sociétés d'intérêt collectif agricole, alors même que
+leurs sièges sociaux seraient situés en dehors de la circonscription de la société coopérative agricole.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L521-3
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1451 (V)
+  - Code général des impôts, CGI. - art. 1468 (V)
+  - Code général des impôts, CGI. - art. 214 (V)
+  - Code général des impôts, CGI. - art. 302 G (V)
+  - Code rural - art. L532-1 (V)
+  - Code rural et de la pêche maritime - art. L582-3 (Ab)
+  - Code rural et de la pêche maritime - art. L582-5 (Ab)
+  - Code rural et de la pêche maritime - art. L583-3 (Ab)
+
+
+###### Article L522-2
+
+Peuvent être associés coopérateurs d'une union de sociétés coopératives agricoles, en sus des sociétés coopératives agricoles
+et de leurs unions, dans la limite du cinquième des voix à l'assemblée générale, toutes autres personnes morales intéressées
+par l'activité de l'union.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+##### Section 2 : Associés non coopérateurs.<a id=242></a>
+
+###### Article L522-3
+
+Les statuts de toute société coopérative agricole et de toute union de sociétés coopératives agricoles peuvent autoriser
+l'admission comme associés non coopérateurs :
+
+1° D'anciens associés coopérateurs ;
+
+2° Des salariés de la coopération agricole ;
+
+3° Des associations, fédérations ou syndicats agricoles ;
+
+4° De la caisse nationale de crédit agricole et de ses filiales ;
+
+5° Des caisses mutuelles d'assurance agricole ou de réassurance agricole ;
+
+6° Des chambres régionales ou départementales d'agriculture ;
+
+7° Des organismes de droit privé à caractère professionnel ou interprofessionnel intervenant dans l'orientation des
+productions agricoles et habilités par leur statut à prendre des participations en capital ;
+
+8° Des groupements d'intérêt économique professionnels ou interprofessionnels à vocation agricole ;
+
+9° De l'institut de développement industriel.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. R523-1 (V)
+  - Code rural et de la pêche maritime - art. L582-6 (Ab)
+
+
+###### Article L522-4
+
+L'importance et la durée de la participation des associés non coopérateurs sont déterminées par les statuts.
+
+Le capital social des sociétés coopératives agricoles et des unions ayant des associés non coopérateurs est partagé en deux
+fractions distinguant les apports de fonds des associés coopérateurs et ceux des associés non coopérateurs.
+
+Les parts des associés non coopérateurs n'ouvrent pas droit aux ristournes annuelles sur les éléments d'activité. Elles
+donnent droit à un intérêt dont les statuts peuvent fixer le taux à deux points au-dessus de celui des parts des associés
+coopérateurs. Les statuts peuvent aussi leur accorder une priorité sur les parts des associés coopérateurs pour le service de
+ces intérêts.
+
+Les parts des associés non coopérateurs participent à égalité avec les parts des associés coopérateurs aux revalorisations
+des parts sociales et au partage de l'actif net de liquidation.
+
+Les associés non coopérateurs répondent des dettes sociales à concurrence seulement de leurs parts.
+
+Les associés non coopérateurs sont tenus informés de l'évolution des affaires sociales.
+
+Ils ne peuvent détenir ensemble plus d'un cinquième des voix en assemblée générale, ces voix pouvant être pondérées dans les
+conditions fixées statutairement. En outre, aucun associé non coopérateur ne peut disposer de plus de 10 p. 100 des voix.
+
+Lorsque la majorité en voix des associés non coopérateurs le demande, la réunion de l'assemblée générale est de droit, dans
+la limite d'une fois par an.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. L523-5-1 (V)
+  - Code rural - art. R523-2 (V)
+  - Code rural - art. R523-4 (V)
+
+
+##### Section 3 : Tiers non coopérateurs.<a id=243></a>
+
+###### Article L522-5
+
+Lorsque les statuts le prévoient, des tiers non coopérateurs peuvent être admis à bénéficier des services d'une société
+coopérative agricole ou d'une union, dans la limite de 20 p. 100 du chiffre d'affaires annuel.
+
+Les opérations ainsi effectuées avec des tiers non associés font l'objet d'une comptabilité spéciale.
+
+Les excédents d'exploitation en provenant ne subissent pas de prélèvement pour l'alimentation de la réserve légale. Ils ne
+peuvent être ni distribués à titre de ristournes aux associés, ni incorporés au capital social, ni répartis entre les
+associés à la liquidation de la société ou union. Ils sont portés à une réserve indisponible spéciale, laquelle ne peut être
+utilisée pour amortir des pertes sociales qu'après épuisement des réserves libres d'affectation autres que la réserve
+légale ; elle doit être, en ce cas, reconstituée par prélèvement prioritaire sur les excédents ultérieurs subsistant après
+l'alimentation de la réserve légale.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Arrêté du 6 octobre 2014 - art. (V)
+  - Code rural - art. L522-6 (V)
+  - Code rural - art. L527-1 (V)
+  - Code rural - art. L571-12 (V)
+  - Code rural et de la pêche maritime - art. L521-3 (V)
+  - Code rural et de la pêche maritime - art. R522-9 (Ab)
+
+
+#### Chapitre III : Capital social et dispositions financières<a id=244></a>
+
+##### Section 1 : Capital social.<a id=245></a>
+
+###### Article L523-1
+
+Le capital social des sociétés coopératives agricoles et de leurs unions peut être augmenté, si les statuts de ces sociétés
+le prévoient, par prélèvement sur des réserves sociales libres d'affectation.
+
+En cas d'augmentation du capital, celle-ci sera effectuée dans la limite du barème en vigueur fixant le taux de majoration
+applicable aux rentes viagères.
+
+Cette augmentation, qui ne pourra intervenir qu'après présentation à l'assemblée générale extraordinaire d'un rapport spécial
+de révision établi par un organisme agréé en application de l'article L. 527-1, est cumulable avec celle prévue à l'article
+L. 123-7.
+
+Les deux opérations cumulées ne peuvent toutefois aboutir à une augmentation de capital social supérieure à celle qui
+résulterait de l'application du barème visé l'alinéa 2 ci-dessus.
+
+L'augmentation de capital donne lieu à majoration de la valeur nominale des parts sociales antérieurement émises ou à
+distribution de nouvelles parts sociales.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. L521-3 (V)
+  - Code rural - art. L526-2 (V)
+  - Code rural - art. L529-6 (V)
+  - Code rural - art. R524-21 (V)
+  - Code rural et de la pêche maritime - art. L582-11 (Ab)
+  - Code rural et de la pêche maritime - art. L582-14 (Ab)
+  - Code rural et de la pêche maritime - art. L582-4 (Ab)
+  - Code rural et de la pêche maritime - art. L582-7 (Ab)
+  - Code rural et de la pêche maritime - art. R523-5 (VD)
+
+_Cite_:
+
+  - Code rural L527-1, L123-7
+
+
+###### Article L523-2
+
+Le capital des sociétés coopératives agricoles et de leurs unions peut être augmenté par modification du rapport statutaire
+résultant des dispositions de l'article L. 521-3 (a). 
+
+Cette décision est prise en assemblée générale extraordinaire réunissant les deux tiers des voix des associés et à la
+majorité des deux tiers des voix présentes ou représentées.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cite_:
+
+  - Code rural - art. L521-3 (V)
+
+_Cité par_:
+
+  - Code rural - art. L526-4 (V)
+  - Code rural et de la pêche maritime - art. R524-15 (V)
+  - Code rural et de la pêche maritime - art. R526-11 (VD)
+
+
+###### Article L523-3
+
+Lorsqu'une société coopérative agricole a reçu un prêt sur les disponibilités du fonds forestier national son capital ne peut
+être réduit, dans les limites fixées par décret en Conseil d'Etat, que si ce prêt a été intégralement remboursé.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. L582-8 (Ab)
+
+
+###### Article L523-4
+
+Le Trésor jouit d'un privilège sur les parts des coopératives forestières pour toutes les somme dues à raison des prêts en
+numéraire consentis sur les disponibilités du fonds forestier national.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+##### Section 3 : Prises de participation.<a id=246></a>
+
+###### Article L523-5
+
+Seules les prises de participation des sociétés coopératives agricoles et de leurs unions dans des personnes morales dont
+l'activité principale n'est pas identique à l'activité de la société participante ou complémentaire de cette activité sont
+soumises à autorisation.
+
+L'autorité qui a prononcé l'agrément est, dans tous les cas, informée des prises de participations par la société coopérative
+ou l'union intéressée. Cette autorité s'assure que ces opérations ne dénaturent pas le caractère coopératif de la société.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Arrêté du 23 avril 2008 - art. (V)
+  - Code rural - art. R582-18 (V)
+  - Code rural et de la pêche maritime - art. L524-2-1 (M)
+
+
+##### Section 4 : Réévaluation des bilans.<a id=247></a>
+
+###### Article L523-6
+
+Les sociétés coopératives agricoles et leurs unions peuvent procéder à la réévaluation de tout ou partie de leurs bilans.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+###### Article L523-7
+
+Les réserves de réévaluation des bilans doivent servir, en premier lieu, à amortir les pertes sociales et à combler les
+insuffisances d'amortissement afférentes aux bilans réévalués.
+
+Le montant total des subventions reçues de l'Etat, de collectivités publiques ou d'établissements publics est porté à une
+réserve indisponible spéciale.
+
+En second lieu, les réserves de réévaluation peuvent être incorporées au capital social par décision de l'assemblée générale
+extraordinaire à l'effet de revaloriser les parts sociales. Cette décision ne pourra être prise qu'après présentation à
+l'assemblée générale extraordinaire d'un rapport spécial de révision établi par un organisme agréé en application des
+dispositions de l'article L. 527-1.
+
+En cas de revalorisation des parts sociales, celle-ci sera effectuée dans la limite du barème en vigueur fixant le taux de la
+majoration applicable aux rentes viagères.
+
+Le reliquat de ces réserves constitue une réserve libre d'affectation.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L527-1
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. L521-3 (V)
+  - Code rural - art. L523-1 (V)
+  - Code rural et de la pêche maritime - art. L582-11 (Ab)
+  - Code rural et de la pêche maritime - art. L582-7 (Ab)
+  - Code rural et de la pêche maritime - art. R523-5 (VD)
+
+
+#### Chapitre V : Agrément, contrôle<a id=248></a>
+
+##### Section 1 : Agrément.<a id=249></a>
+
+###### Article L525-1
+
+La création des sociétés coopératives agricoles et de leur unions doit être agréée par l'autorité administrative dans les
+conditions fixées par décret.
+
+L'agrément peut être refusé en raison d'irrégularités des formalités de constitution ou de non-conformité des dispositions
+statutaires aux dispositions législatives et réglementaires en vigueur.
+
+Il peut être retiré lorsque le fonctionnement de la coopérative fait apparaître soit l'inaptitude des administrateurs, soit
+la violation des dispositions législatives, réglementaires ou statutaires, soit la méconnaissance des intérêts du groupement.
+
+La décision portant refus ou retrait d'agrément est prise après avis d'un conseil ou de commissions dont la composition et
+les attributions sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Arrêté du 9 février 2009 (V)
+  - Code de l'urbanisme - art. R151-23 (V)
+  - Code de l'urbanisme - art. R151-25 (V)
+  - Code rural - art. R525-1 (V)
+  - Code rural - art. R525-3 (V)
+  - Code rural - art. R529-1 (V)
+  - Code rural - art. R582-34 (V)
+  - Code rural et de la pêche maritime - art. L582-13 (Ab)
+
+
+#### Chapitre VI : Dissolution, liquidation.<a id=250></a>
+
+###### Article L526-1
+
+La responsabilité de chaque coopérateur dans le passif de la coopérative ou de l'union est limitée au double du montant des
+parts qu'en application des statuts il a souscrites ou aurait dû souscrire.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+###### Article L526-2
+
+En cas de dissolution d'une société coopérative ou union de sociétés coopératives, si la liquidation fait apparaître un
+excédent de l'actif net sur le capital social augmenté, le cas échéant, dans les conditions définies à l'article L. 523-1, la
+dévolution de cet excédent s'opère suivant les règles ci-après :
+
+a) La fraction de cet actif net représentative des réserves indisponibles est attribuée soit à des établissements ou oeuvres
+d'intérêt général agricole avec l'assentiment de l'autorité administrative ou avec celui des collectivités publiques ou des
+établissements publics donateurs lorsque cette fraction a résulté de leurs libéralités, soit à d'autres coopératives
+agricoles ou unions ;
+
+b) Le surplus de cet actif net peut être réparti entre les associés coopérateurs avec l'assentiment de l'autorité
+administrative et suivant les modalités prévues aux statuts.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. R582-43 (V)
+  - Code rural et de la pêche maritime - art. L582-14 (Ab)
+
+_Cite_:
+
+  - Code rural L523-1
+
+
+#### Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle<a id=251></a>
+
+##### Section 1 : Fédérations de coopératives<a id=252></a>
+
+##### Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision.<a id=253></a>
+
+###### Article L527-1
+
+Les coopératives agricoles et leurs unions sont tenues d'adhérer à une fédération de coopératives, agréée par l'autorité
+supérieure, ayant pour objet de procéder, sous le nom de révision, à l'examen analytique et périodique des comptes et de la
+gestion des coopératives qui en font la demande, afin d'en dégager, à l'intention de l'organisme révisé et de ses membres,
+une appréciation critique.
+
+Les fédérations agréés doivent adhérer à l'association nationale de révision de la coopération agricole prévue ci-après.
+
+Cette association a pour objet de définir les principes et méthodes de la révision, d'organiser, suivre et contrôler sa mise
+en oeuvre, de faciliter le recrutement et la formation des réviseurs, d'agréer ces derniers, de gérer les ressources dont
+elle disposera à cet effet.
+
+Les statuts et le budget de l'association sont soumis à l'approbation de l'autorité supérieure.
+
+Ses ressources sont constituées notamment par une cotisation obligatoire de chaque société coopérative et union de sociétés
+coopératives agricoles, perçues par l'intermédiaire des fédérations.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Décret n°2008-242 du 10 mars 2008 - art. 1 (V)
+  - Arrêté du 23 avril 2008 - art. (V)
+  - Code de commerce - art. L612-1 (V)
+  - Code rural - art. L522-5 (V)
+  - Code rural - art. L523-1 (V)
+  - Code rural - art. L523-7 (V)
+  - Code rural - art. L524-6-3 (VD)
+  - Code rural - art. L527-1-1 (V)
+  - Code rural - art. R526-8 (V)
+  - Code rural - art. R527-10 (V)
+  - Code rural - art. R527-2 (V)
+  - Code rural - art. R527-4 (V)
+  - Code rural - art. R527-5 (V)
+  - Code rural - art. R527-9 (V)
+  - Code rural et de la pêche maritime - art. L529-6 (V)
+  - Code rural et de la pêche maritime - art. L582-15 (Ab)
+  - Code rural et de la pêche maritime - art. R522-9 (Ab)
+  - Code rural et de la pêche maritime - art. R531-6 (V)
+
+
+##### Section 2 : Sociétés coopératives de caution mutuelle.<a id=254></a>
+
+###### Article L527-2
+
+Des sociétés coopératives agricoles de caution mutuelle et des unions de ces sociétés peuvent être constituées pour faciliter
+le recours de leurs adhérents au crédit.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+###### Article L527-3
+
+Les dispositions du titre Ier, relatif aux sociétés de caution mutuelle, de la loi du 13 mars 1917 sur l'organisation du
+crédit au petit et au moyen commerce et à la petite et moyenne industrie, ainsi que des lois subséquentes, seront adaptées
+par décret en Conseil d'Etat au cas des sociétés coopératives agricoles de caution mutuelle et de leurs unions en vue de
+fixer leurs règles d'activité et de les soumettre aux régimes juridique et fiscal de la coopération agricole.
+
+Toutefois, les sociétés coopératives agricoles de caution mutuelle ne seront pas placées sous le contrôle technique et
+financier de la chambre syndicale des banques populaires prévu par l'article 2 de la loi du 24 juillet 1929, complétée par
+l'article 1er de l'ordonnance n° 45-1355 du 20 juin 1945.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Loi n°1917-03-13
+  - Loi n°1929-07-24 art. 2
+  - Ordonnance n°45-1355 du 20 juin 1945 - art. 1 (Ab)
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+#### Chapitre IX : Dispositions pénales, dispositions d'application.<a id=255></a>
+
+###### Article L529-1
+
+Les dispositions de l'article 457 de la loi n° 66-537 du 24 juillet 1966 sont applicables à tout commissaire aux comptes de
+coopératives agricoles ou d'unions de coopératives agricoles.
+
+Les articles 101 à 104 et 106 de la loi n° 66-537 du 24 juillet 1966 sont applicables aux sociétés coopératives agricoles et
+aux unions de coopératives agricoles.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°66-537 1966-07-24 art. 457, art. 101 à 104, art. 106
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. L535-4 (V)
+
+
+###### Article L529-2
+
+Est puni d'une amende de 4 000 F à 120 000 F tout administrateur d'une société coopérative agricole ou tout mandataire d'une
+telle société au conseil d'administration d'une union de coopératives :
+
+1° Qui n'a ni la nationalité française, ni celle d'un Etat membre de la Communauté économique européenne, ni celle d'un pays
+avec lequel existe un accord de réciprocité ou qui ne bénéficie pas d'une dérogation accordée par le ministre de
+l'agriculture ;
+
+2° Qui participe directement ou indirectement, d'une façon habituelle ou occasionnelle, à une activité concurrente de celle
+de la société qu'il administre ;
+
+3° Qui a fait l'objet d'une des condamnations mentionnés à l'article 6 du décret du 8 août 1935 instituant l'interdiction et
+la déchéance du droit de gérer et d'administrer une société.
+
+Les dispositions qui précédent sont applicables aux membres des conseils de surveillance des sociétés coopératives agricoles
+ou de leurs unions.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. L529-3 (V)
+  - Code rural - art. L529-4 (V)
+  - Code rural - art. L535-5 (V)
+  - Code rural - art. R525-3 (V)
+  - Code rural et de la pêche maritime - art. L582-16 (Ab)
+  - Code rural et de la pêche maritime - art. R524-1 (V)
+
+_Cite_:
+
+  - Décret n°1935-08-08 art. 6
+
+
+###### Article L529-3
+
+Est puni de la peine prévue à l'article L. 529-2 le directeur d'une société coopérative agricole ou d'une union de
+coopératives agricoles :
+
+1° Qui participe directement ou indirectement, d'une façon habituelle ou occasionnelle, à une activité concurrente de la
+société qu'il dirige ou des unions auxquelles celle-ci est adhérente ;
+
+2° Qui a fait l'objet d'une des condamnations visées à l'article 6 du décret du 8 août 1935 instituant l'interdiction et la
+déchéance du droit de gérer et d'administrer une société.
+
+Les dispositions qui précédent sont applicables aux membres des directoires des sociétés coopératives agricoles ou de leurs
+unions.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L529-2
+  - Décret n°1935-08-08 art. 6
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. L535-1 (V)
+  - Code rural et de la pêche maritime - art. R524-9 (VD)
+
+
+###### Article L529-4
+
+Est puni de la peine prévue à l'article L. 529-2 quiconque exerçant les fonctions de commissaire aux comptes d'une société
+coopérative agricole ou d'une union de coopératives agricoles : 
+
+1° Est parent ou allié jusqu'au quatrième degré inclusivement ou conjoint d'un administrateur de cette société ; 
+
+2° Reçoit sous une forme quelconque, à raison de fonctions autres que celles de commissaire aux comptes, un salaire ou une
+rémunération d'un administrateur de cette société ; 
+
+3° S'est vu interdire l'exercice de la fonction d'administrateur, de gérant ou de directeur ou qui est déchu du droit
+d'exercer cette fonction ; 
+
+4° Est le conjoint d'une des personnes ci-dessus mentionnées.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cite_:
+
+  - Code rural - art. L529-2 (V)
+
+_Cité par_:
+
+  - Code rural - art. L535-2 (V)
+
+
+###### Article L529-5
+
+Sont punis d'une peine de trois mois d'emprisonnement et de 25 000 F d'amende :
+
+1° Ceux qui, en récidive, ont employé le terme de "coopérative" avec l'un des qualificatifs "agricole", "paysanne", "rurale",
+ou "forestière", ou toute autre dénomination de nature à laisser entendre qu'il s'agit d'une société coopérative agricole au
+sujet d'un organisme qui n'est pas agréé conformément à la réglementation relative au statut juridique de la coopération
+agricole ;
+
+2° Ceux qui, en récidive, ont employé les termes d'"union de coopératives agricoles" ou de "fédération de coopératives
+agricoles" ou toute autre dénomination de nature à laisser entendre qu'il s'agit d'une telle union ou fédération au sujet
+d'une union ou d'une fédération qui n'est pas agréée ou constituée conformément à la réglementation relative au statut
+juridique de la coopération agricole.
+
+Les dispositions de l'article 131-35 du code pénal sont applicables.
+
+Le tribunal peut, en outre, ordonner la fermeture temporaire ou définitive de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 du 15 avril 1991
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 175 (V)
+
+_Cite_:
+
+  - Code pénal - art. 131-35
+
+
+###### Article L529-6
+
+Les modalités d'application des articles L. 523-1, L. 523-2, L. 523-5, L. 527-1, et des chapitres Ier, II, IV, V et VI du
+présent titre sont déterminées, en tant que de besoin, par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L523-1, L523-2, L523-5, L527-1
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+### Titre III : Sociétés d'intérêt collectif agricole<a id=256></a>
+
+#### Chapitre Ier : Constitution.<a id=257></a>
+
+###### Article L531-1
+
+Les sociétés d'intérêt collectif agricole peuvent se constituer soit sous le régime des sociétés civiles particulières régies
+par les articles 1832 et suivants du code civil, soit dans les formes prévues pour les sociétés par actions et les sociétés à
+responsabilité limitée par la loi du 24 juillet 1966 sur les sociétés commerciales. Elles peuvent également se constituer
+dans les formes prévues par le titre III de la loi du 24 juillet 1867 sur les sociétés.
+
+Les sociétés d'intérêt collectif agricole ont pour objet de créer ou de gérer des installations et équipements ou d'assurer
+des services soit dans l'intérêt des agriculteurs d'une région rurale déterminée, soit de façon plus générale dans celui des
+habitants de cette région sans distinction professionnelle.
+
+Les sociétés d'intérêt collectif agricole ont le statut de société coopérative et sont régies par la loi n° 47-1775 du 10
+septembre 1947 portant statut de la coopération, à l'exception des articles 3, 4, 9, du deuxième alinéa de l'article 16 et
+des deuxième et troisième alinéas de l'article 27.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°47-1775 du 10 septembre 1947 - art. 16 (M)
+  - Loi n°47-1775 du 10 septembre 1947 - art. 27 (M)
+  - Loi n°47-1775 du 10 septembre 1947 - art. 3 (M)
+  - Loi n°47-1775 du 10 septembre 1947 - art. 4 (V)
+  - Loi n°47-1775 du 10 septembre 1947 - art. 9 (M)
+  - Loi n°66-537 1966-07-24
+  - Code civil - art. 1832 (M)
+  - Loi n°1867-07-24
+
+_Modifié par_:
+
+  - Loi n°85-703 du 12 juillet 1985 - art. 6 () JORF 13 juillet 1985
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code de l'énergie - art. R522-1 (V)
+  - Code de la sécurité sociale. - art. L651-3 (M)
+  - Code général des impôts, CGI. - art. 221 (V)
+
+
+###### Article L531-2
+
+Seules peuvent se prévaloir du régime des sociétés d'intérêt collectif agricole les sociétés ayant obtenu l'agrément de
+l'autorité administrative.
+
+L'agrément peut être refusé ou retiré si les statuts de la société, ses liens avec d'autres organismes coopératifs agricoles,
+les opérations qu'elle envisage de réaliser ou réalise, ou ses modalités de fonctionnement ne sont pas conformes aux
+dispositions spécifiques qui régissent ces sociétés.
+
+Les décisions d'agrément, de retrait ou de refus d'agrément sont prises après avis d'une commission spéciale. Un décret fixe
+les modalités d'intervention de ces décisions ainsi que la composition et les modalités de fonctionnement de cette
+commission.
+
+Les sociétés d'intérêt collectif agricole constituées et enregistrées avant la date de publication de la loi n° 91-5 du 3
+janvier 1991 modifiant diverses dispositions intéressant l'agriculture et la forêt sont réputées détenir l'agrément prévu au
+présent article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°91-5 1991-01-03
+
+_Créé par_:
+
+  - Loi n°91-5 du 3 janvier 1991 - art. 8 () JORF 6 janvier 1991
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+#### Chapitre II : Fonctionnement.<a id=258></a>
+
+###### Article L532-1
+
+Les personnes physiques ou morales énumérées à l'article L. 522-1 doivent disposer de moins des quatre cinquièmes des voix
+dans les assemblées générales des sociétés d'intérêt collectif agricole constituées postérieurement au 29 septembre 1967.
+
+Ces sociétés ne peuvent effectuer plus de 50 p. 100 des opérations de chaque exercice avec des personnes physiques ou morales
+autres que les associés définis à l'article L. 522-1.
+
+Les modalités d'application du présent article sont déterminées, en tant que de besoin, par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L522-1
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. L583-3 (Ab)
+
+
+#### Chapitre V : Dispositions pénales.<a id=259></a>
+
+###### Article L535-1
+
+Les dispositions de l'article L. 529-3 sont applicables aux directeurs de sociétés d'intérêt collectif agricole.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cite_:
+
+  - Code rural - art. L529-3 (V)
+
+
+###### Article L535-2
+
+Les dispositions de l'article L. 529-4 sont applicables aux commissaires aux comptes de sociétés d'intérêt collectif
+agricole.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cite_:
+
+  - Code rural - art. L529-4 (V)
+
+
+###### Article L535-3
+
+Les dispositions de l'article L. 529-5 sont applicables aux dirigeants qui ont utilisé la dénomination de société d'intérêt
+collectif agricole pour un organisme qui n'observe pas la réglementation relative auxdites sociétés et n'a pas satisfait à la
+publicité exigée.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L529-5
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 du 15 avril 1991
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 175 (V)
+
+
+###### Article L535-4
+
+Les dispositions du deuxième alinéa de l'article L. 529-1 sont applicables aux sociétés d'intérêt collectif agricole.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cite_:
+
+  - Code rural - art. L529-1 (V)
+
+
+### Titre IV : Sociétés mixtes d'intérêt agricole.<a id=260></a>
+
+###### Article L541-1
+
+Peuvent être constituées, sous le nom de société mixte d'intérêt agricole, les sociétés commerciales non soumises au statut
+de la coopération et ayant pour objet la transformation ou la commercialisation des produits agricoles, dans lesquelles des
+parts ou actions représentant au moins 30 p. 100 du capital social sont détenues, directement on indirectement, soit par une
+ou plusieurs sociétés coopératives ou unions de sociétés coopératives agricoles, soit par des institutions ou groupements
+professionnels agricoles mentionnés aux titres Ier, II, III et IV du présent livre ainsi qu'au livre du Code rural relatif au
+crédit agricole. Ces sociétés peuvent bénéficier d'avantages particuliers en vertu de conventions passées avec l'Etat.
+
+Les actions entrant en compte pour le calcul des proportions, mentionnées ci-dessus doivent revêtir la forme nominative.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 217 quater (V)
+  - Code rural - art. L541-3 (V)
+
+
+###### Article L541-2
+
+Les statuts des sociétés mixtes d'intérêt agricole doivent prévoir que certaines décisions intéressant la gestion de la
+société et dont l'objet est précisé par décret ne peuvent être prises qu'à une majorité qualifiée de plus de 70 p. 100 des
+voix présentes ou représentées à l'assemblée générale.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. D541-1 (V)
+
+
+###### Article L541-3
+
+Après prélèvement pour la réserve légale et affectation au capital d'un dividende qui ne pourra être supérieur à 6 p. 100, le
+bénéfice réalisé par une société mixte d'intérêt agricole au cours d'un exercice, à l'exclusion de toutes plus-values sur
+actif immobilisé, est, après avoir été diminué de l'impôt sur les sociétés correspondant, divisé en deux parts égales. 
+
+La première de ces parts est attribuée aux détenteurs du capital à titre de rémunération complémentaire. 
+
+La seconde est affectée aux fournisseurs ou clients de l'entreprise qui ont la qualité d'agriculteur ou d'organisme mentionné
+à l'article L. 541-1 au prorata des opérations effectuées par chacun d'eux. 
+
+Quand ces derniers sont associés ou membres d'un des organismes mentionnés à l'article L. 541-1, lui-même associé, les sommes
+qui leur reviennent au titre de cette seconde part sont réparties en franchise d'impôt sur les sociétés dans la mesure où
+elles proviennent d'opérations faites avec eux. 
+
+Si la société est soumise aux dispositions de l'ordonnance du 17 août 1967 relative à la participation des salariés aux
+fruits de l'expansion des entreprises, les répartitions prévues aux alinéas 2 et 3 du présent article sont opérées, après
+prélèvement sur le bénéfice défini à l'alinéa 1er, de la réserve spéciale de participation des salariés, instituée par
+l'article 2 de ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cite_:
+
+  - Code rural - art. L541-1 (V)
+
+
+###### Article L541-4
+
+Les modalités d'application du présent titre sont déterminées, en tant que de soin, par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+### Titre V : Groupements de producteurs et comités économiques agricoles<a id=261></a>
+
+#### Chapitre Ier : Groupements de producteurs.<a id=262></a>
+
+###### Article L551-1
+
+Dans une région déterminée, les sociétés coopératives agricoles et leurs unions, les sociétés d'intérêt collectif agricole,
+les syndicats agricoles autres que les syndicats à vocation générale régis par les dispositions du livre IV du code du
+travail, les associations entre producteurs agricoles régies par les dispositions de la loi du 1er juillet 1901, lorsque ces
+syndicats et ces associations sont constitués soit pour améliorer la production, soit pour normaliser les relations avec une
+ou plusieurs parties contractantes pour l'écoulement des produits et assurer l'exécution des contrats conclus à cet effet,
+soit pour régulariser les cours, peuvent être reconnus par l'autorité administrative comme groupements, de producteurs si :
+
+1° Dans le cadre de leur compétence et de leurs pouvoirs légaux, ils édictent des règles destinés à organiser et discipliner
+la production et la mise en marché, à régulariser les cours, notamment par la fixation éventuelle d'un prix de retrait, et à
+orienter l'action de leurs membres vers les exigences du marché ;
+
+2° Ils couvrent un secteur ou des secteurs complémentaires de produits agricoles faisant ou pouvant faire l'objet d'un
+règlement communautaire d'organisation de marché dans le cadre de la politique agricole commune de la Communauté économique
+européenne, à moins qu'un décret ne décide d'appliquer le présent texte à d'autres secteurs de production ;
+
+3° Ils justifient d'une activité économique suffisante.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Décret n°97-1202 du 19 décembre 1997 - art. Annexe (V)
+  - Arrêté du 3 novembre 2008 (V)
+  - Arrêté du 13 mars 2009 (V)
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 94 (V)
+  - Décret n°2014-1229 du 21 octobre 2014 - art. 1 (V)
+  - ORDONNANCE n°2015-1248 du 7 octobre 2015 - art. 1
+  - Code général des collectivités territoriales - art. L3232-1-2 (V)
+  - Code général des impôts, CGI. - art. 199 decies H (V)
+  - Code général des impôts, CGI. - art. 200 quindecies (M)
+  - Code général des impôts, CGI. - art. 208 septies (V)
+  - Code rural - art. D551-14 (V)
+  - Code rural - art. D551-17 (V)
+  - Code rural - art. D551-2 (V)
+  - Code rural - art. D551-4 (V)
+  - Code rural - art. D551-53 (V)
+  - Code rural - art. D551-54 (V)
+  - Code rural - art. D551-69 (V)
+  - Code rural - art. D551-80 (V)
+  - Code rural - art. D553-10 (V)
+  - Code rural - art. D573-3 (V)
+  - Code rural - art. L623-2 (V)
+  - Code rural - art. L631-12 (V)
+  - Code rural - art. L631-17 (V)
+  - Code rural - art. L694-4 (VD)
+  - Code rural et de la pêche maritime - art. D551-121 (VD)
+  - Code rural et de la pêche maritime - art. D551-129 (V)
+  - Code rural et de la pêche maritime - art. D551-36 (V)
+  - Code rural et de la pêche maritime - art. D551-92 (V)
+  - Code rural et de la pêche maritime - art. D571-40 (V)
+  - Code rural et de la pêche maritime - art. D611-4 (T)
+  - Code rural et de la pêche maritime - art. D615-44-23 (Ab)
+  - Code rural et de la pêche maritime - art. L243-3 (V)
+  - Code rural et de la pêche maritime - art. L551-2 (M)
+  - Code rural et de la pêche maritime - art. L551-3 (M)
+  - Code rural et de la pêche maritime - art. L551-5 (Ab)
+  - Code rural et de la pêche maritime - art. L631-24 (V)
+  - Code rural et de la pêche maritime - art. L631-25 (VD)
+  - Code rural et de la pêche maritime - art. R203-10 (V)
+  - Code rural et de la pêche maritime - art. R527-11 (VD)
+  - Code rural et de la pêche maritime - art. R555-1 (V)
+
+_Cite_:
+
+  - Loi n°1901-07-01
+
+
+###### Article L551-2
+
+Les groupements de producteurs reconnus peuvent bénéficier de priorités et d'avantages particuliers dans l'attribution de
+l'aide que l'Etat pourra apporter pour l'organisation de la production ou pour le conditionnement, le stockage, la
+transformation, la commercialisation aux fins de vente en gros de produits agricoles. Les groupements de producteurs reconnus
+bénéficient également, à soumission égale, d'un droit de préférence dans les marchés par adjudication ou appel d'offres de
+l'Etat, des collectivités locales ou de leurs établissements publics.
+
+Les dispositions relatives aux marchés publics sont également applicables aux groupements de producteurs agricoles
+ressortissant des Etats membres de la Communauté économique européenne présentant des caractéristiques comparables et
+inscrits sur une liste établie par le ministre de l'agriculture.
+
+L'autorité administrative peut suspendre ou retirer la reconnaissance octroyée lorsqu'elle constate que les conditions ci-
+dessus ne sont plus satisfaites, ou que la gestion technique ou financière est défectueuse, ou que les règlements sur le
+commerce, la qualité des produits et la police sanitaire ne sont pas respectés.
+
+Les décisions de l'autorité administrative mentionnées au présent article et à l'article L. 551-1 sont prises après avis du
+conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire prévu à l'article 14 I la loi
+modifiée du 8 août 1962 complémentaire à la loi d'orientation agricole.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°62-933 1962-08-08 art. 14
+  - Code rural L551-1
+
+_Modifié par_:
+
+  - Loi n°85-703 du 12 juillet 1985 - art. 4 () JORF 13 juillet 1985
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. D551-4 (V)
+  - Code rural - art. L631-11 (V)
+  - Code rural et de la pêche maritime - art. D551-11 (V)
+  - Code rural et de la pêche maritime - art. D551-135 (V)
+
+
+#### Chapitre II : Comités économiques agricoles.<a id=263></a>
+
+###### Article L552-1
+
+Afin d'harmoniser les disciplines de production, de commercialisation, de prix et d'appliquer des règles communes de mise en
+marché, les organismes reconnus énumérés à l'article précédent et les syndicats agricoles à vocation générale ou spécialisée
+peuvent se grouper pour constituer, dans une région déterminée, et pour un même secteur de produits tel qu'il est défini au
+2° de l'article L. 551-1 un comité économique agricole.
+
+Les comités économiques agricoles doivent être soit des syndicats agricoles régis par le livre IV du code du travail, soit
+des associations régies par la loi du 1er juillet 1901 ; toutefois, l'adhésion ne peut être refusée à un groupement de
+producteurs reconnu qui en ferait la demande.
+
+Les comités économiques agricoles édictent des règles communes à leurs membres.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L551-1
+  - Loi n°1901-07-01
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Décret n°97-1202 du 19 décembre 1997 - art. Annexe (V)
+  - ORDONNANCE n°2015-1248 du 7 octobre 2015 - art. 1
+  - Code rural - art. D552-2 (V)
+  - Code rural et de la pêche maritime - art. R555-2 (V)
+
+
+###### Article L552-2
+
+Les priorités et les avantages particuliers dont bénéficient les groupements de producteurs reconnus peuvent être accordés
+aux comités économiques agricoles lorsqu'ils sont agréés par l'autorité administrative.
+
+L'agrément est accordé, suspendu ou retiré par l'autorité administrative, après avis du conseil supérieur d'orientation de
+l'économie agricole et alimentaire prévu à l'article 14 I de la loi modifiée du 8 août 1962 complémentaire à la loi
+d'orientation agricole.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°62-933 du 8 août 1962
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-459 du 6 mai 2010 - art. 3
+
+_Cité par_:
+
+  - Code rural - art. D552-16 (VT)
+
+
+#### Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles<a id=264></a>
+
+##### Section 1 : Droits d'inscription et cotisations.<a id=265></a>
+
+###### Article L553-1
+
+Les organismes reconnus ou agréés dans les conditions prévues aux articles L. 551-1 et L. 552-2 peuvent être autorisés par
+décret après avis du Conseil d'Etat à percevoir des droits d'inscription et des cotisations assises soit sur la valeur des
+produits, soit sur les superficies, soit sur ces deux éléments combinés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L551-1, L552-2
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+#### Chapitre IV : Extension des règles édictées par les comités économiques agricoles.<a id=266></a>
+
+###### Article L554-1
+
+Les comités économique agricoles justifiant d'une expérience satisfaisante de certaines disciplines peuvent demander à
+l'autorité administrative compétente que celles des règles acceptées par leurs membres, concernant l'organisation des
+productions, la promotion des ventes et la mise en marché, à l'exception de l'acte de vente, soient rendues obligatoires pour
+l'ensemble des producteurs de la région considérée.
+
+Lorsque les groupements de producteurs intéressés responsables des produits ont fixé des disciplines adaptant la production
+aux exigences du marché et contrôlent la vente de la totalité de la production de leurs membres, si l'effort de discipline
+ainsi réalisé risque d'être compromis, les comités économiques agricoles peuvent demander l'extension, à l'ensemble des
+producteurs de la région, des règles concernant le prix de retrait.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Arrêté du 29 août 2008 (V)
+  - Arrêté du 24 juin 2009 (V)
+  - Code rural - art. L664-2 (V)
+  - Code rural et de la pêche maritime - art. R664-30 (Ab)
+
+
+##### Section 2 : Procédure d'extension des règles<a id=267></a>
+
+##### Sous-section 1 : Dispositions générales.<a id=268></a>
+
+###### Article L554-2
+
+L'extension de tout ou partie des règles mentionnées à l'article L. 554-1 peut être prononcée après avis du conseil supérieur
+d'orientation de l'économie agricole et alimentaire, sauf si un tiers au moins des producteurs représentant au moins un tiers
+de la production commercialisée, préalablement consultés dans des conditions prévues par décret en Conseil d'Etat, ont fait
+connaître leur opposition.
+
+L'autorité compétente dispose d'un délai de trois mois à compter de la date de l'avis mentionné au précédent alinéa pour se
+prononcer sur la demande d'extension. si, au terme de ce délai, elle ne s'est pas prononcée, la demande est réputée acceptée.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code rural - art. D554-17 (V)
+  - Code rural - art. D554-5 (V)
+
+_Cite_:
+
+  - Code rural L554-1
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+### Titre VI : Jardins familiaux<a id=269></a>
+
+#### Chapitre Ier : Constitution.<a id=270></a>
+
+###### Article L561-1
+
+Les associations de jardins ouvriers, qui ont pour but de rechercher, aménager et répartir des terrains pour mettre à la
+disposition du chef de famille, comme tel, en dehors de toute autre considération, les parcelles de terre que leurs
+exploitants cultivent personnellement, en vue de subvenir aux besoins de leur foyer, à l'exclusion de tout usage commercial,
+doivent se constituer sous la forme d'associations déclarées ou reconnues d'utilité publique conformément à la loi du 1er
+juillet 1901.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi du 1er juillet 1901 (V)
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code général des collectivités territoriales - art. Annexe IX (V)
+  - Code général des impôts, CGI. - art. 1052 (V)
+  - Code général des impôts, CGI. - art. 1394 (V)
+  - Code rural - art. L471-6 (V)
+  - Code rural - art. L562-1 (V)
+  - Code rural - art. L564-2 (V)
+  - Code rural - art. L564-3 (V)
+  - Code rural et de la pêche maritime - art. D564-3 (V)
+  - Code rural et de la pêche maritime - art. R562-2 (V)
+  - Code rural et de la pêche maritime - art. R564-2 (V)
+
+
+###### Article L561-2
+
+Les associations ou sociétés qui ont pour but de grouper les exploitants de jardins familiaux pour faciliter l'exploitation
+de ceux-ci et de favoriser par une propagande éducative le développement des jardins familiaux doivent se constituer sous la
+forme d'association déclarée, conformément à la loi du 1er juillet 1901.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi du 1er juillet 1901 (V)
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1461 (V)
+  - Code général des impôts, CGI. - art. 208 (V)
+  - Code rural - art. L471-6 (V)
+  - Code rural et de la pêche maritime - art. R562-2 (V)
+
+
+#### Chapitre II : Préemption de terrains destinés à la création ou à la protection de jardins familiaux<a id=271></a>
+
+##### Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER).<a id=272></a>
+
+###### Article L562-1
+
+Les sociétés d'aménagement foncier et d'établissement rural (SAFER) peuvent exercer, à la demande d'un des organismes de
+jardins familiaux mentionnés aux articles L. 561-1 et L. 561-2 et dans les conditions définies à l'article 7 modifié de la
+loi n° 62-933 du 8 août 1962, leur droit de préemption en vue de l'acquisition de terrains destinés à la création ou à
+l'aménagement de jardins familiaux.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°62-933 du 8 août 1962 - art. 7 (Ab)
+  - Code rural - art. L561-1 (V)
+
+_Modifié par_:
+
+  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. L564-1 (V)
+  - Code rural - art. L571-3 (VD)
+  - Code rural - art. L571-5 (VD)
+  - Code rural - art. L572-3 (M)
+  - Code rural - art. R562-1 (V)
+
+
+##### Section 2 : Droit de préemption des collectivités locales.<a id=273></a>
+
+###### Article L562-2
+
+A la demande des organismes de jardins familiaux, les collectivités locales ou leurs groupements ayant compétence en matière
+d'urbanisme peuvent également exercer pour le même objet leur droit de préemption, conformément aux dispositions en vigueur
+du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. R562-2 (V)
+
+
+#### Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique.<a id=274></a>
+
+###### Article L563-1
+
+En cas d'expropriation ou de cession amiable, dans le cadre d'une opération déclarée d'utilité publique, de terrains
+exploités comme jardins familiaux, les associations ou les exploitants évincés membres de ces associations pourront, s'ils le
+souhaitent, obtenir de l'expropriant qu'il mette à leur disposition des terrains équivalents en surface et en équipements,
+sans préjudice des indemnités dues pour les frais de réaménagement.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code de l'expropriation pour cause d'utilité pu... - art. L24-1 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L322-13 (VD)
+  - Code rural - art. L564-1 (V)
+  - Code rural - art. R563-1 (V)
+  - Code rural - art. R563-2 (V)
+
+
+#### Chapitre IV : Avantages et subventions.<a id=275></a>
+
+###### Article L564-1
+
+Des décret en Conseil d'Etat règlent les modalités d'application des articles L. 562-1, L. 562-2 et L. 563-1 ainsi que les
+normes minimales auxquelles les jardins familiaux doivent satisfaire au regard de la protection de l'environnement et de la
+qualité de la vie afin de pouvoir prétendre aux subventions de l'Etat destinées soit à l'acquisition de leur emprise, soit à
+leur aménagement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L562-1, L562-2, L563-1
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. D564-3 (V)
+
+
+###### Article L564-2
+
+Un même organisme de jardins familiaux, dans la mesure où son objet social correspond à plusieurs des buts définis aux
+articles L. 561-1 et L. 561-2, peut cumuler les avantages prévus à l'article 956 du code rural avec ceux prévus au code
+général des impôts et par des dispositions réglementaires.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 956, L561-1, L561-2
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+
+###### Article L564-3
+
+Les organismes de jardins familiaux définis à l'article L. 561-1 peuvent bénéficier de subventions annuelles qui tiennent
+compte du nombre de jardins nouveaux créés ainsi que des frais engagés pour les terrains qu'ils répartissent.
+
+Toute personne qui, en vue d'obtenir les avantages prévus à l'alinéa précédent, aura sciemment fourni des renseignements
+inexacts ou prêté son concours à des déclarations frauduleuses sera tenue d'effectuer le remboursement de ces subventions et
+devra, en outre, verser une contribution égale à cinq fois le montant des subventions perçues.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L561-1
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Codifié par_:
+
+  - Loi n°91-363 1991-04-15
+
+_Cité par_:
+
+  - Code rural - art. R564-1 (V)
+
+
+## Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique<a id=276></a>
+
+### Titre Ier : Enseignement et formation professionnelle agricoles<a id=277></a>
+
+#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole publics.<a id=278></a>
 
 ###### Article L815-1
 
@@ -19147,15 +21397,15 @@ _Abrogé par_:
   - Loi n°93-935 du 22 juillet 1993 - art. 3 (V) JORF 23 juillet 1993
 
 
-# Partie réglementaire<a id=232></a>
+# Partie réglementaire<a id=279></a>
 
-## Livre II : Santé publique vétérinaire et protection des végétaux<a id=233></a>
+## Livre II : Santé publique vétérinaire et protection des végétaux<a id=280></a>
 
-### Titre II : La lutte contre les maladies des animaux<a id=234></a>
+### Titre II : La lutte contre les maladies des animaux<a id=281></a>
 
-#### Chapitre Ier : Dispositions générales<a id=235></a>
+#### Chapitre Ier : Dispositions générales<a id=282></a>
 
-##### Section 3 : Les mesures techniques et administratives générales<a id=236></a>
+##### Section 3 : Les mesures techniques et administratives générales<a id=283></a>
 
 ###### Article R*221-36
 
@@ -19230,13 +21480,13 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-## Livre II : Protection de la nature<a id=237></a>
+## Livre II : Protection de la nature<a id=284></a>
 
-### Titre Ier : Protection de la faune et de la flore<a id=238></a>
+### Titre Ier : Protection de la faune et de la flore<a id=285></a>
 
-#### Chapitre Ier : Préservation du patrimoine biologique<a id=239></a>
+#### Chapitre Ier : Préservation du patrimoine biologique<a id=286></a>
 
-##### Section 1 : Mesures de protection.<a id=240></a>
+##### Section 1 : Mesures de protection.<a id=287></a>
 
 ###### Article R*211-1
 
@@ -19429,7 +21679,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*211-5 (Ab)
 
 
-##### Section 2 : Autorisation de capture d'espèces protégées.<a id=241></a>
+##### Section 2 : Autorisation de capture d'espèces protégées.<a id=288></a>
 
 ###### Article R*211-6
 
@@ -19636,7 +21886,7 @@ _Nouveaux textes_:
   - Code de l'environnement R211-11
 
 
-##### Section 3 : Protection des biotopes.<a id=242></a>
+##### Section 3 : Protection des biotopes.<a id=289></a>
 
 ###### Article R*211-12
 
@@ -19750,7 +22000,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*211-14 (Ab)
 
 
-##### Section 4 : Réglementation particulière aux produits antiparasitaires et assimilés.<a id=243></a>
+##### Section 4 : Réglementation particulière aux produits antiparasitaires et assimilés.<a id=290></a>
 
 ###### Article R*211-15
 
@@ -19790,7 +22040,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*211-15 (Ab)
 
 
-##### Section 5 : Prises de vues ou de son.<a id=244></a>
+##### Section 5 : Prises de vues ou de son.<a id=291></a>
 
 ###### Article R*211-16
 
@@ -19914,9 +22164,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*211-18 (M)
 
 
-#### Chapitre II : Activités soumises à autorisation<a id=245></a>
+#### Chapitre II : Activités soumises à autorisation<a id=292></a>
 
-##### Section 1 : Régime général d'autorisation.<a id=246></a>
+##### Section 1 : Régime général d'autorisation.<a id=293></a>
 
 ###### Article R*212-1
 
@@ -19955,7 +22205,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*212-1 (Ab)
 
 
-##### Sous-section 1 : Autorisation.<a id=247></a>
+##### Sous-section 1 : Autorisation.<a id=294></a>
 
 ###### Article R*212-2
 
@@ -20139,7 +22389,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*212-6 (Ab)
 
 
-##### Sous-section 2 : Contrôle.<a id=248></a>
+##### Sous-section 2 : Contrôle.<a id=295></a>
 
 ###### Article R*212-7
 
@@ -20177,7 +22427,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*212-7 (Ab)
 
 
-##### Section 2 : Régime propre à la capture, au ramassage et à la cession de certaines espèces.<a id=249></a>
+##### Section 2 : Régime propre à la capture, au ramassage et à la cession de certaines espèces.<a id=296></a>
 
 ###### Article R*212-8
 
@@ -20281,7 +22531,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*212-10 (Ab)
 
 
-#### Chapitre III : Etablissements détenant des animaux d'espèces non domestiques<a id=250></a>
+#### Chapitre III : Etablissements détenant des animaux d'espèces non domestiques<a id=297></a>
 
 ###### Article R*213-1
 
@@ -20318,9 +22568,9 @@ _Cité par_:
   - Arrêté du 22 avril 2008 - art. 22 (V)
 
 
-##### Section 1 : Etablissements soumis à autorisation d'ouverture<a id=251></a>
+##### Section 1 : Etablissements soumis à autorisation d'ouverture<a id=298></a>
 
-##### Sous-section 1 : Certificat de capacité.<a id=252></a>
+##### Sous-section 1 : Certificat de capacité.<a id=299></a>
 
 ###### Article R*213-2
 
@@ -20395,7 +22645,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 2 : Autorisation d'ouverture des établissements<a id=253></a>
+##### Sous-section 2 : Autorisation d'ouverture des établissements<a id=300></a>
 
 ###### Article R*213-5
 
@@ -20453,7 +22703,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R213-7 (V)
 
 
-##### Paragraphe 1 : Demande d'autorisation.<a id=254></a>
+##### Paragraphe 1 : Demande d'autorisation.<a id=301></a>
 
 ###### Article R*213-7
 
@@ -20571,7 +22821,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 2 : Examen de la demande par le ministre.<a id=255></a>
+##### Paragraphe 2 : Examen de la demande par le ministre.<a id=302></a>
 
 ###### Article R*213-11
 
@@ -20624,7 +22874,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 3 : Instruction par le préfet du département.<a id=256></a>
+##### Paragraphe 3 : Instruction par le préfet du département.<a id=303></a>
 
 ###### Article R*213-13
 
@@ -20744,9 +22994,9 @@ L'arrêté d'autorisation d'ouverture fixe les conditions nécessaires pour assu
 prescriptions mentionnées aux articles R. 213-6, R. 213-11 et R. 213-12 ainsi que la liste des espèces et le nombre des
 animaux de chaque espèce dont la détention est autorisée.
 
-Cette autorisation ne peut, pour les établissements mobiles, être accordée que si les animaux non domestiques présentés au
-public participent à un spectacle dans les conditions prévues par le décret n° 87-223 du 26 mars 1987 relatif aux conditions
-d'utilisation des animaux dans les spectacles publics et les jeux.
+Cette autorisation ne peut, pour les établissements mobiles, être accordée que si les animaux d'espéces non domestiques
+présentés au public participent à un spectacle dans les conditions prévues par le décret n° 87-223 du 26 mars 1987 relatif
+aux conditions d'utilisation des animaux dans les spectacles publics et les jeux.
 
 **Liens relatifs à cet article**
 
@@ -20755,17 +23005,13 @@ _Cite_:
   - Code rural R213-6, R213-11, R213-12
   - Décret n°87-223 1987-03-26
 
-_Anciens textes_:
-
-  - Décret n°77-1297 du 25 novembre 1977 - art. 11 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
 
 
 ###### Article R*213-19
@@ -20799,7 +23045,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 3 : Modifications concernant l'exploitation ou changement d'exploitant.<a id=257></a>
+##### Sous-section 3 : Modifications concernant l'exploitation ou changement d'exploitant.<a id=304></a>
 
 ###### Article R*213-20
 
@@ -20851,7 +23097,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 4 : Dispositions transitoires.<a id=258></a>
+##### Sous-section 4 : Dispositions transitoires.<a id=305></a>
 
 ###### Article R*213-22
 
@@ -20886,7 +23132,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 2 : Etablissements soumis au contrôle de l'autorité administrative<a id=259></a>
+##### Section 2 : Etablissements soumis au contrôle de l'autorité administrative<a id=306></a>
 
 ###### Article R*213-23
 
@@ -21039,9 +23285,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 3 : Sanctions administratives<a id=260></a>
+##### Section 3 : Sanctions administratives<a id=307></a>
 
-##### Sous-section 1 : Dispositions propres aux établissements fonctionnant sans autorisation ou déclaration.<a id=261></a>
+##### Sous-section 1 : Dispositions propres aux établissements fonctionnant sans autorisation ou déclaration.<a id=308></a>
 
 ###### Article R*213-28
 
@@ -21129,7 +23375,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 2 : Dispositions propres aux établissements fonctionnant en infraction aux dispositions qui leur sont imposées.<a id=262></a>
+##### Sous-section 2 : Dispositions propres aux établissements fonctionnant en infraction aux dispositions qui leur sont imposées.<a id=309></a>
 
 ###### Article R*213-31
 
@@ -21194,7 +23440,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 3 : Dispositions communes.<a id=263></a>
+##### Sous-section 3 : Dispositions communes.<a id=310></a>
 
 ###### Article R*213-33
 
@@ -21257,9 +23503,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-#### Chapitre IV : Dispositions diverses relatives à la conservation de la flore<a id=264></a>
+#### Chapitre IV : Dispositions diverses relatives à la conservation de la flore<a id=311></a>
 
-##### Section 1 : Conservatoires botaniques nationaux.<a id=265></a>
+##### Section 1 : Conservatoires botaniques nationaux.<a id=312></a>
 
 ###### Article R214-4
 
@@ -21341,11 +23587,11 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-#### Chapitre V : Dispositions pénales<a id=266></a>
+#### Chapitre V : Dispositions pénales<a id=313></a>
 
-##### Section 1 : Peines<a id=267></a>
+##### Section 1 : Peines<a id=314></a>
 
-##### Sous-section 1 : Préservation du patrimoine biologique.<a id=268></a>
+##### Sous-section 1 : Préservation du patrimoine biologique.<a id=315></a>
 
 ###### Article R*215-1
 
@@ -21420,7 +23666,7 @@ _Nouveaux textes_:
   - Code de l'environnement R215-2
 
 
-##### Sous-section 2 : Activités soumises à autorisation.<a id=269></a>
+##### Sous-section 2 : Activités soumises à autorisation.<a id=316></a>
 
 ###### Article R*215-3
 
@@ -21455,11 +23701,11 @@ _Nouveaux textes_:
   - Code de l'environnement R215-3
 
 
-### Titre II : Chasse<a id=270></a>
+### Titre II : Chasse<a id=317></a>
 
-#### Chapitre Ier : Organisation de la chasse<a id=271></a>
+#### Chapitre Ier : Organisation de la chasse<a id=318></a>
 
-##### Section 1 : Conseil national de la chasse et de la faune sauvage.<a id=272></a>
+##### Section 1 : Conseil national de la chasse et de la faune sauvage.<a id=319></a>
 
 ###### Article R*221-1
 
@@ -21702,9 +23948,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*221-7 (Ab)
 
 
-##### Section 2 : Office national de la chasse<a id=273></a>
+##### Section 2 : Office national de la chasse<a id=320></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=274></a>
+##### Sous-section 1 : Dispositions générales.<a id=321></a>
 
 ###### Article R*221-8
 
@@ -21767,9 +24013,9 @@ _Cité par_:
   - Arrêté du 21 janvier 2009 - art. 3 (V)
 
 
-##### Sous-section 2 : Administration générale<a id=275></a>
+##### Sous-section 2 : Administration générale<a id=322></a>
 
-##### Paragraphe 1 : Conseil d'administration.<a id=276></a>
+##### Paragraphe 1 : Conseil d'administration.<a id=323></a>
 
 ###### Article R*221-10
 
@@ -21984,7 +24230,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 2 : Directeur.<a id=277></a>
+##### Paragraphe 2 : Directeur.<a id=324></a>
 
 ###### Article R*221-16
 
@@ -22023,7 +24269,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 3 : Personnels.<a id=278></a>
+##### Paragraphe 3 : Personnels.<a id=325></a>
 
 ###### Article R*221-17
 
@@ -22051,7 +24297,7 @@ _Cité par_:
   - Arrêté du 28 octobre 2009 (V)
 
 
-##### Sous-section 3 : Dispositions financières.<a id=279></a>
+##### Sous-section 3 : Dispositions financières.<a id=326></a>
 
 ###### Article R*221-18
 
@@ -22163,7 +24409,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 4 : Contrôle.<a id=280></a>
+##### Sous-section 4 : Contrôle.<a id=327></a>
 
 ###### Article R*221-22
 
@@ -22237,7 +24483,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 3 : Régions cynégétiques.<a id=281></a>
+##### Section 3 : Régions cynégétiques.<a id=328></a>
 
 ###### Article R*221-24
 
@@ -22304,7 +24550,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 4 : Conseil départemental de la chasse et de la faune sauvage.<a id=282></a>
+##### Section 4 : Conseil départemental de la chasse et de la faune sauvage.<a id=329></a>
 
 ###### Article R*221-27
 
@@ -22444,9 +24690,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 5 : Fédérations des chasseurs<a id=283></a>
+##### Section 5 : Fédérations des chasseurs<a id=330></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=284></a>
+##### Sous-section 1 : Dispositions générales.<a id=331></a>
 
 ###### Article R*221-32
 
@@ -22554,7 +24800,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 6 : Dispositions diverses.<a id=285></a>
+##### Section 6 : Dispositions diverses.<a id=332></a>
 
 ###### Article R*221-39
 
@@ -22575,9 +24821,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-#### Chapitre II : Territoire de chasse<a id=286></a>
+#### Chapitre II : Territoire de chasse<a id=333></a>
 
-##### Section 1 : Associations communales et intercommunales de chasse agréées.<a id=287></a>
+##### Section 1 : Associations communales et intercommunales de chasse agréées.<a id=334></a>
 
 ###### Article R*222-1
 
@@ -22698,9 +24944,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 1 : Institution des associations communales de chasse agréées<a id=288></a>
+##### Sous-section 1 : Institution des associations communales de chasse agréées<a id=335></a>
 
-##### Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées.<a id=289></a>
+##### Paragraphe 1 : Départements où des associations communales de chasse agréées doivent être créées.<a id=336></a>
 
 ###### Article R*222-5
 
@@ -22926,7 +25172,7 @@ _Cité par_:
   - Arrêté du 4 novembre 2010 - art. 1 (V)
 
 
-##### Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées dans certaines communes.<a id=290></a>
+##### Paragraphe 2 : Départements où des associations communales de chasse agréées peuvent être créées dans certaines communes.<a id=337></a>
 
 ###### Article R*222-12
 
@@ -23065,9 +25311,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 2 : Modalités de constitution de l'association communale de chasse agréée<a id=291></a>
+##### Sous-section 2 : Modalités de constitution de l'association communale de chasse agréée<a id=338></a>
 
-##### Paragraphe 1 : Enquête.<a id=292></a>
+##### Paragraphe 1 : Enquête.<a id=339></a>
 
 ###### Article R*222-17
 
@@ -23587,7 +25833,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*222-32 (Ab)
 
 
-##### Paragraphe 2 : Assemblée constitutive et agrément de l'association communale de chasse agréée.<a id=293></a>
+##### Paragraphe 2 : Assemblée constitutive et agrément de l'association communale de chasse agréée.<a id=340></a>
 
 ###### Article R*222-33
 
@@ -23874,9 +26120,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 3 : Territoire<a id=294></a>
+##### Sous-section 3 : Territoire<a id=341></a>
 
-##### Paragraphe 2 : Terrains faisant l'objet d'une opposition.<a id=295></a>
+##### Paragraphe 2 : Terrains faisant l'objet d'une opposition.<a id=342></a>
 
 ###### Article R*222-42
 
@@ -24009,7 +26255,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 3 : Apports.<a id=296></a>
+##### Paragraphe 3 : Apports.<a id=343></a>
 
 ###### Article R*222-47
 
@@ -24077,6 +26323,26 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
+###### Article R*222-49
+
+Les engagements prévus aux articles R. 222-47 a) et R. 222-48 sont conclus pour valoir jusqu'à l'expiration de périodes
+successives de six années chacune, la première ayant comme point de départ la date d'agrément de l'association communale.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R222-47, R222-48
+
+_Codifié par_:
+
+  - Décret n°89-805 1989-10-27
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
+
+
 ###### Article R*222-50
 
 Le propriétaire, dans le cas d'un apport consenti en application du a) de l'article R. 222-47, ou le détenteur du droit de
@@ -24109,31 +26375,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-###### Article R*229-49
-
-Les engagements prévus aux articles R. 222-47 a) et R. 222-48 sont conclus pour valoir jusqu'à l'expiration de périodes
-successives de six années chacune, la première ayant comme point de départ la date d'agrément de l'association communale.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R222-47, R222-48
-
-_Anciens textes_:
-
-  - Décret n°66-747 du 6 octobre 1966 - art. 20 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-
-##### Paragraphe 4 : Indemnisation des apports.<a id=297></a>
+##### Paragraphe 4 : Indemnisation des apports.<a id=344></a>
 
 ###### Article R*222-51
 
@@ -24223,7 +26465,7 @@ _Nouveaux textes_:
   - Code de l'environnement R222-53
 
 
-##### Paragraphe 5 : Modification du territoire de l'association.<a id=298></a>
+##### Paragraphe 5 : Modification du territoire de l'association.<a id=345></a>
 
 ###### Article R*222-54
 
@@ -24398,7 +26640,7 @@ _Cite_:
   - Code rural R222-54 à R222-57, R222-47 à R222-50
 
 
-##### Paragraphe 6 : Enclaves.<a id=299></a>
+##### Paragraphe 6 : Enclaves.<a id=346></a>
 
 ###### Article R*222-59
 
@@ -24504,7 +26746,7 @@ _Nouveaux textes_:
   - Code de l'environnement R222-61
 
 
-##### Sous-section 4 : Dispositions obligatoires des statuts des associations communales de chasse agréées.<a id=300></a>
+##### Sous-section 4 : Dispositions obligatoires des statuts des associations communales de chasse agréées.<a id=347></a>
 
 ###### Article R*222-62
 
@@ -24706,7 +26948,7 @@ _Nouveaux textes_:
   - Code de l'environnement R222-64
 
 
-##### Sous-section 5 : Réserves et garderie.<a id=301></a>
+##### Sous-section 5 : Réserves et garderie.<a id=348></a>
 
 ###### Article R*222-65
 
@@ -24840,7 +27082,7 @@ _Abrogé par_:
   - Décret n°2002-705 du 30 avril 2002 - art. 2 () JORF 3 mai 2002
 
 
-##### Sous-section 6 : Association intercommunale de chasse agréée.<a id=302></a>
+##### Sous-section 6 : Association intercommunale de chasse agréée.<a id=349></a>
 
 ###### Article R*222-70
 
@@ -24867,7 +27109,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 1 : Constitution des associations intercommunales de chasse agréées.<a id=303></a>
+##### Paragraphe 1 : Constitution des associations intercommunales de chasse agréées.<a id=350></a>
 
 ###### Article R*222-71
 
@@ -25016,7 +27258,7 @@ _Nouveaux textes_:
   - Code de l'environnement R222-74
 
 
-##### Paragraphe 2 : Dispositions obligatoires.<a id=304></a>
+##### Paragraphe 2 : Dispositions obligatoires.<a id=351></a>
 
 ###### Article R*222-75
 
@@ -25191,7 +27433,7 @@ _Nouveaux textes_:
   - Code de l'environnement R222-78
 
 
-##### Paragraphe 3 : Réserves et garderie.<a id=305></a>
+##### Paragraphe 3 : Réserves et garderie.<a id=352></a>
 
 ###### Article R*222-79
 
@@ -25225,7 +27467,7 @@ _Abrogé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Sous-section 7 : Dispositions diverses.<a id=306></a>
+##### Sous-section 7 : Dispositions diverses.<a id=353></a>
 
 ###### Article R*222-80
 
@@ -25281,7 +27523,7 @@ _Nouveaux textes_:
   - Code de l'environnement R222-81
 
 
-##### Section 2 : Réserves de chasse.<a id=307></a>
+##### Section 2 : Réserves de chasse.<a id=354></a>
 
 ###### Article R*222-82
 
@@ -25318,7 +27560,7 @@ _Abrogé par_:
   - Décret n°91-971 du 23 septembre 1991 - art. 1 (V) JORF 24 septembre 1991
 
 
-##### Section 3 : Chasse maritime.<a id=308></a>
+##### Section 3 : Chasse maritime.<a id=355></a>
 
 ###### Article R*222-83
 
@@ -25348,9 +27590,9 @@ _Cite_:
   - Code des communes R112-2
 
 
-##### Section 4 : Exploitation de la chasse sur le domaine de l'Etat<a id=309></a>
+##### Section 4 : Exploitation de la chasse sur le domaine de l'Etat<a id=356></a>
 
-##### Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat.<a id=310></a>
+##### Sous-section 1 : Exploitation de la chasse dans les forêts de l'Etat.<a id=357></a>
 
 ###### Article R222-84
 
@@ -25378,7 +27620,7 @@ _Nouveaux textes_:
   - Code rural R222-94
 
 
-##### Sous-section 2 : Exploitation de la chasse sur le domaine public fluvial.<a id=311></a>
+##### Sous-section 2 : Exploitation de la chasse sur le domaine public fluvial.<a id=358></a>
 
 ###### Article R222-85
 
@@ -25428,7 +27670,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 3 : Exploitation de la chasse sur le domaine public maritime.<a id=312></a>
+##### Sous-section 3 : Exploitation de la chasse sur le domaine public maritime.<a id=359></a>
 
 ###### Article R222-87
 
@@ -25453,9 +27695,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-#### Chapitre III : Permis de chasser.<a id=313></a>
+#### Chapitre III : Permis de chasser.<a id=360></a>
 
-##### Section 1 : Examen pour la délivrance du permis de chasser.<a id=314></a>
+##### Section 1 : Examen pour la délivrance du permis de chasser.<a id=361></a>
 
 ###### Article R*223-2
 
@@ -25640,9 +27882,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 2 : Délivrance, visa et validation du permis de chasser<a id=315></a>
+##### Section 2 : Délivrance, visa et validation du permis de chasser<a id=362></a>
 
-##### Sous-section 1 : Délivrance.<a id=316></a>
+##### Sous-section 1 : Délivrance.<a id=363></a>
 
 ###### Article R*223-9
 
@@ -25821,7 +28063,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 2 : Visa.<a id=317></a>
+##### Sous-section 2 : Visa.<a id=364></a>
 
 ###### Article R*223-12
 
@@ -26105,7 +28347,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 3 : Validation.<a id=318></a>
+##### Sous-section 3 : Validation.<a id=365></a>
 
 ###### Article R*223-23
 
@@ -26228,7 +28470,7 @@ _Cité par_:
   - Code rural - art. R223-30 (V)
 
 
-##### Sous-section 4 : Dispositions propres à la région parisienne.<a id=319></a>
+##### Sous-section 4 : Dispositions propres à la région parisienne.<a id=366></a>
 
 ###### Article R*223-27
 
@@ -26303,7 +28545,7 @@ _Abrogé par_:
   - Décret n°2001-551 du 27 juin 2001 - art. 4 () JORF 28 juin 2001
 
 
-##### Sous-section 6 : Licences.<a id=320></a>
+##### Sous-section 6 : Licences.<a id=367></a>
 
 ###### Article R*223-30
 
@@ -26361,7 +28603,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 7 : Refus et exclusions.<a id=321></a>
+##### Sous-section 7 : Refus et exclusions.<a id=368></a>
 
 ###### Article R*223-32
 
@@ -26401,7 +28643,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 3 : Redevances cynégétiques.<a id=322></a>
+##### Section 3 : Redevances cynégétiques.<a id=369></a>
 
 ###### Article R*223-33
 
@@ -26464,36 +28706,32 @@ _Cite_:
   - Code rural R223-33
 
 
-##### Section 4 : Dispositions diverses et d'application.<a id=323></a>
+##### Section 4 : Dispositions diverses et d'application.<a id=370></a>
 
 ###### Article R*223-36
 
 Des arrêtés conjoints du ministre de l'intérieur, du ministre des relations extérieures, du ministre de l'économie, des
-finances et du budget et du ministre chargé de la chasse fixeront les détails d'application de la présente section en ce qui
+finances et du budget et du ministre chargé de la chasse fixeront les détails d'application du présent chapitre en ce qui
 concerne les conditions de présentation de la demande de délivrance et de visa du permis de chasser et de sa validation ainsi
 que les procédures suivant lesquelles les redevances cynégétiques revenant à l'Office national de la chasse seront versées à
 cet établissement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°75-544 1975-06-30 art. 15 al. 1
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
 
 
-#### Chapitre IV : Exercice de la chasse<a id=324></a>
+#### Chapitre IV : Exercice de la chasse<a id=371></a>
 
-##### Section 2 : Temps de chasse<a id=325></a>
+##### Section 2 : Temps de chasse<a id=372></a>
 
-##### Sous-section 1 : Chasse à courre, à cor et à cri.<a id=326></a>
+##### Sous-section 1 : Chasse à courre, à cor et à cri.<a id=373></a>
 
 ###### Article R*224-1
 
@@ -26553,7 +28791,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*224-2 (M)
 
 
-##### Sous-section 2 : Chasse à tir et chasse au vol.<a id=327></a>
+##### Sous-section 2 : Chasse à tir et chasse au vol.<a id=374></a>
 
 ###### Article R*224-3
 
@@ -26656,8 +28894,6 @@ Mouflon, 1er septembre.
 
 Chamois, isard lorsqu'ils sont soumis au plan de chasse légal, 1er septembre.
 
-Date de clôture spécifique au plus tard le dernier jour de février.
-
 Conditions spécifiques de chasse :
 
 Avant la date d'ouverture générale, ces espèces ne peuvent être chassées qu'à l'approche ou à l'affût par les détenteurs
@@ -26714,25 +28950,21 @@ d'eau étant seul autorisé.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural R224-4
-
-_Anciens textes_:
-
-  - Décret n°86-571 du 14 mars 1986 - art. 6 (M)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Arrêté du 22 avril 2008 - art. 6 (V)
+
+_Cite_:
+
+  - Code rural R224-4
 
 
 ###### Article R*224-6
@@ -26760,7 +28992,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 3 : Dispositions communes.<a id=328></a>
+##### Sous-section 3 : Dispositions communes.<a id=375></a>
 
 ###### Article R*224-7
 
@@ -26876,7 +29108,7 @@ _Anciens textes_:
   - Code rural 373 al. 6, al. 7
 
 
-##### Section 3 : Modes et moyens de chasse.<a id=329></a>
+##### Section 3 : Modes et moyens de chasse.<a id=376></a>
 
 ###### Article R*224-10
 
@@ -26954,9 +29186,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*224-12 (Ab)
 
 
-##### Section 4 : Commercialisation et transport du gibier<a id=330></a>
+##### Section 4 : Commercialisation et transport du gibier<a id=377></a>
 
-##### Sous-section 1 : Interdiction permanente.<a id=331></a>
+##### Sous-section 1 : Interdiction permanente.<a id=378></a>
 
 ###### Article R*224-13
 
@@ -27090,7 +29322,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 5 : Dispositions spéciales à la chasse maritime.<a id=332></a>
+##### Section 5 : Dispositions spéciales à la chasse maritime.<a id=379></a>
 
 ###### Article R*224-17
 
@@ -27125,7 +29357,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*224-17 (Ab)
 
 
-#### Chapitre V : Plan de chasse.<a id=333></a>
+#### Chapitre V : Plan de chasse.<a id=380></a>
 
 ###### Article R*225-1
 
@@ -27215,11 +29447,12 @@ La demande doit être conforme au modèle fixé par arrêté du ministre chargé
 
 Elle est adressée chaque année :
 
-a) Pour les terrains entièrement soumis au régime forestier, au chef de centre de l'Office national des forêts ;
+a) Pour les terrains entièrement soumis au régime forestier, au représentant  de l'Office national des forêts dans le
+département ;
 
 b) Pour les terrains soumis pour partie au régime forestier et pour partie non soumis à ce régime, au président de la
-fédération départementale des chasseurs, à charge pour lui de joindre à son avis celui du chef de centre de l'Office national
-des forêts ;
+fédération départementale des chasseurs, à charge pour lui de joindre à son avis celui du représentant de l'Office national
+des forêts dans le département ;
 
 c) Pour les autres terrains, au président de la fédération départementale des chasseurs.
 
@@ -27227,38 +29460,31 @@ La demande est présentée à peine d'irrecevabilité dans les délais fixés pa
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°89-505 du 19 juillet 1989 - art. 5 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
 
 
 ###### Article R*225-5
 
-Les demandes, revêtues de l'avis du président de la fédération départementale des chasseurs ou du chef de centre de l'Office
-national des forêts, sont transmises dans les délais fixés par arrêté du ministre chargé de la chasse au directeur
-départemental de l'agriculture et de la forêt qui les récapitule et les présente au préfet avec l'avis d'ensemble nécessaire.
+Les demandes, revêtues de l'avis du président de la fédération départementale des chasseurs ou du représentant de l'Office
+national des forêts dans le département, sont transmises dans les délais fixés par arrêté du ministre chargé de la chasse au
+directeur départemental de l'agriculture et de la forêt qui les récapitule et les présente au préfet avec l'avis d'ensemble
+nécessaire.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°89-505 du 19 juillet 1989 - art. 6 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
 
 
 ###### Article R*225-6
@@ -27518,11 +29744,11 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-#### Chapitre VI : Indemnisation des dégâts de gibier<a id=334></a>
+#### Chapitre VI : Indemnisation des dégâts de gibier<a id=381></a>
 
-##### Section 1 : Indemnisation par l'Office national de la chasse des dégâts causés par les sangliers et les grands gibiers<a id=335></a>
+##### Section 1 : Indemnisation par l'Office national de la chasse des dégâts causés par les sangliers et les grands gibiers<a id=382></a>
 
-##### Sous-section 1 : Compte d'indemnisation.<a id=336></a>
+##### Sous-section 1 : Compte d'indemnisation.<a id=383></a>
 
 ###### Article R*226-1
 
@@ -27687,9 +29913,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R228-12 (V)
 
 
-##### Sous-section 2 : Conditions d'attribution de l'indemnisation pour dégâts de gibier<a id=337></a>
+##### Sous-section 2 : Conditions d'attribution de l'indemnisation pour dégâts de gibier<a id=384></a>
 
-##### Paragraphe 1 : Commission nationale d'indemnisation.<a id=338></a>
+##### Paragraphe 1 : Commission nationale d'indemnisation.<a id=385></a>
 
 ###### Article R*226-6
 
@@ -27759,7 +29985,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 2 : Commission départementale d'indemnisation.<a id=339></a>
+##### Paragraphe 2 : Commission départementale d'indemnisation.<a id=386></a>
 
 ###### Article R*226-8
 
@@ -27888,7 +30114,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 3 : Demandes individuelles d'indemnisation.<a id=340></a>
+##### Paragraphe 3 : Demandes individuelles d'indemnisation.<a id=387></a>
 
 ###### Article R*226-12
 
@@ -28133,7 +30359,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 2 : Dispositions relatives à l'indemnisation judiciaire des dégâts causés aux récoltes.<a id=341></a>
+##### Section 2 : Dispositions relatives à l'indemnisation judiciaire des dégâts causés aux récoltes.<a id=388></a>
 
 ###### Article R*226-20
 
@@ -28420,11 +30646,11 @@ _Cite_:
   - Nouveau code de procédure civile 517 à 522
 
 
-#### Chapitre VII : Destruction des animaux nuisibles et louveterie<a id=342></a>
+#### Chapitre VII : Destruction des animaux nuisibles et louveterie<a id=389></a>
 
-##### Section 1 : Mesures administratives<a id=343></a>
+##### Section 1 : Mesures administratives<a id=390></a>
 
-##### Sous-section 1 : Louveterie.<a id=344></a>
+##### Sous-section 1 : Louveterie.<a id=391></a>
 
 ###### Article R*227-1
 
@@ -28523,7 +30749,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 3 : Sécurité aérienne.<a id=345></a>
+##### Sous-section 3 : Sécurité aérienne.<a id=392></a>
 
 ###### Article R*227-4
 
@@ -28549,9 +30775,9 @@ _Nouveaux textes_:
   - Code de l'environnement R227-4
 
 
-##### Section 2 : Droits des particuliers<a id=346></a>
+##### Section 2 : Droits des particuliers<a id=393></a>
 
-##### Sous-section 1 : Classement des animaux nuisibles.<a id=347></a>
+##### Sous-section 1 : Classement des animaux nuisibles.<a id=394></a>
 
 ###### Article R*227-5
 
@@ -28594,7 +30820,7 @@ l'article R. 227-5, en fonction de la situation locale, et pour l'un des motifs 
 L'arrêté du préfet est pris après avis du conseil départemental de la chasse et de la faune sauvage et de la fédération des
 chasseurs.
 
-L'arrêté est pris chaque année. Il est publié avant le 1er décembre et entre en vigueur avant le 1er janvier suivant.
+L'arrêté est pris chaque année. Il est publié avant le 1er décembre et entre en vigueur le 1er janvier suivant.
 
 **Liens relatifs à cet article**
 
@@ -28602,20 +30828,24 @@ _Cite_:
 
   - Code rural R227-5
 
-_Anciens textes_:
-
-  - Décret n°88-940 du 30 septembre 1988 - art. 3 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R227-6
 
 
-##### Sous-section 2 : Exercice du droit de destruction.<a id=348></a>
+##### Sous-section 2 : Exercice du droit de destruction.<a id=395></a>
 
 ###### Article R*227-7
 
@@ -28647,7 +30877,7 @@ _Nouveaux textes_:
   - Code de l'environnement R227-7
 
 
-##### Sous-section 3 : Modalités de destruction.<a id=349></a>
+##### Sous-section 3 : Modalités de destruction.<a id=396></a>
 
 ###### Article R*227-8
 
@@ -28676,7 +30906,7 @@ _Nouveaux textes_:
   - Code de l'environnement R227-8
 
 
-##### Paragraphe 1 : Toxiques.<a id=350></a>
+##### Paragraphe 1 : Toxiques.<a id=397></a>
 
 ###### Article R*227-9
 
@@ -28707,7 +30937,7 @@ _Nouveaux textes_:
   - Code de l'environnement R227-9
 
 
-##### Paragraphe 2 : Déterrage.<a id=351></a>
+##### Paragraphe 2 : Déterrage.<a id=398></a>
 
 ###### Article R*227-10
 
@@ -28758,7 +30988,7 @@ _Nouveaux textes_:
   - Code de l'environnement R227-11
 
 
-##### Paragraphe 3 : Piégeage.<a id=352></a>
+##### Paragraphe 3 : Piégeage.<a id=399></a>
 
 ###### Article R*227-12
 
@@ -28884,7 +31114,7 @@ _Nouveaux textes_:
   - Code de l'environnement R227-15
 
 
-##### Paragraphe 4 : Tir.<a id=353></a>
+##### Paragraphe 4 : Tir.<a id=400></a>
 
 ###### Article R*227-16
 
@@ -29104,7 +31334,7 @@ _Abrogé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Paragraphe 5 : Utilisation des oiseaux de chasse au vol.<a id=354></a>
+##### Paragraphe 5 : Utilisation des oiseaux de chasse au vol.<a id=401></a>
 
 ###### Article R*227-23
 
@@ -29137,7 +31367,7 @@ _Nouveaux textes_:
   - Code de l'environnement R227-23
 
 
-##### Sous-section 4 : Transport, lâcher.<a id=355></a>
+##### Sous-section 4 : Transport, lâcher.<a id=402></a>
 
 ###### Article R*227-24
 
@@ -29230,7 +31460,7 @@ _Nouveaux textes_:
   - Code de l'environnement R227-26
 
 
-##### Sous-section 5 : Mesures diverses.<a id=356></a>
+##### Sous-section 5 : Mesures diverses.<a id=403></a>
 
 ###### Article R*227-27
 
@@ -29263,11 +31493,11 @@ _Abrogé par_:
   - Décret n°95-1221 du 14 novembre 1995 - art. 2 () JORF 17 novembre 1995
 
 
-#### Chapitre VIII : Dispositions pénales<a id=357></a>
+#### Chapitre VIII : Dispositions pénales<a id=404></a>
 
-##### Section 1 : Peines<a id=358></a>
+##### Section 1 : Peines<a id=405></a>
 
-##### Sous-section 1 : Territoire.<a id=359></a>
+##### Sous-section 1 : Territoire.<a id=406></a>
 
 ###### Article R*228-1
 
@@ -29336,7 +31566,7 @@ _Nouveaux textes_:
   - Code de l'environnement R228-2
 
 
-##### Sous-section 2 : Permis de chasser.<a id=360></a>
+##### Sous-section 2 : Permis de chasser.<a id=407></a>
 
 ###### Article R*228-3
 
@@ -29405,9 +31635,9 @@ _Abrogé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Sous-section 3 : Exercice de la chasse<a id=361></a>
+##### Sous-section 3 : Exercice de la chasse<a id=408></a>
 
-##### Paragraphe 1 : Protection du gibier.<a id=362></a>
+##### Paragraphe 1 : Protection du gibier.<a id=409></a>
 
 ###### Article R*228-5
 
@@ -29482,7 +31712,7 @@ _Nouveaux textes_:
   - Code de l'environnement R228-6
 
 
-##### Paragraphe 2 : Temps de chasse.<a id=363></a>
+##### Paragraphe 2 : Temps de chasse.<a id=410></a>
 
 ###### Article R*228-7
 
@@ -29516,7 +31746,7 @@ _Nouveaux textes_:
   - Code de l'environnement R228-7
 
 
-##### Paragraphe 3 : Modes et moyens.<a id=364></a>
+##### Paragraphe 3 : Modes et moyens.<a id=411></a>
 
 ###### Article R*228-8
 
@@ -29550,27 +31780,31 @@ _Nouveaux textes_:
   - Code de l'environnement R228-8
 
 
-##### Paragraphe 4 : Transport et commercialisation du gibier.<a id=365></a>
+##### Paragraphe 4 : Transport et commercialisation du gibier.<a id=412></a>
 
 ###### Article R*228-9
 
-Seront punis des peines prévues pour les contraventions de la 5e classe ceux qui auront mis en vente, vendu, transporté,
-colporté ou acheté sciemment du gibier mort soumis au plan de chasse, autorisé à la vente, non muni du bracelet de marquage
-dûment daté ou non accompagné d'une attestation justifiant l'origine.
+Seront punis des peines prévues pour les contraventions de la 5e classe ceux qui auront naturalisé, mis en vente, vendu,
+transporté, colporté ou acheté sciemment du gibier mort soumis au plan de chasse, autorisé à la vente, non muni du bracelet
+de marquage dûment daté ou non accompagné d'une attestation justifiant l'origine.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°65-458 1965-06-14 art. 2 al. 1 2°
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R228-9
 
 
 ###### Article R*228-10
@@ -29733,7 +31967,7 @@ _Nouveaux textes_:
   - Code de l'environnement R228-14
 
 
-##### Sous-section 4 : Plan de chasse.<a id=366></a>
+##### Sous-section 4 : Plan de chasse.<a id=413></a>
 
 ###### Article R*228-15
 
@@ -29767,27 +32001,23 @@ _Nouveaux textes_:
 
 Seront punis des peines prévues pour les contraventions de la 5e classe :
 
-1° Ceux qui, ayant l'obligation de marquer les grands gibiers tués en application du plan de chasse, sur le lieu même où ils
-ont été abattus ou retrouvés et, préalablement à tout transport, n'auront pas procédé à ce marquage ;
+1° Ceux qui, ayant l'obligation de marquer un animal tué en application du plan de chasse, sur le lieu même où il a été
+abattu ou retrouvé et, préalablement à tout transport, n'auront pas procédé à ce marquage ;
 
 2° Ceux qui n'auront pas daté du jour de la capture le dispositif de marquage préalablement à sa pose sur l'animal capturé.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°65-458 1965-06-14 art. 2 al. 1
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
 
 
-##### Sous-section 5 : Destruction des animaux nuisibles et louveterie.<a id=367></a>
+##### Sous-section 5 : Destruction des animaux nuisibles et louveterie.<a id=414></a>
 
 ###### Article R*228-17
 
@@ -29817,7 +32047,7 @@ _Nouveaux textes_:
   - Code de l'environnement R228-17
 
 
-##### Section 2 : Circonstances aggravantes et récidive.<a id=368></a>
+##### Section 2 : Circonstances aggravantes et récidive.<a id=415></a>
 
 ###### Article R*228-18
 
@@ -29888,30 +32118,30 @@ _Nouveaux textes_:
   - Code de l'environnement R228-19
 
 
-##### Section 4 : Constatation et poursuites<a id=369></a>
+##### Section 4 : Constatation et poursuites<a id=416></a>
 
-##### Sous-section 1 : Constatation des infractions.<a id=370></a>
+##### Sous-section 1 : Constatation des infractions.<a id=417></a>
 
 ###### Article R*228-20
 
-La gratification prévue à l'article L. 228-28 est de 30 F.
+La gratification prévue à l'article L. 228-34 est de 30 F.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural L228-28
+  - Code rural L228-34
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
 
 
-#### Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=371></a>
+#### Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=418></a>
 
 ###### Article R*229-1
 
@@ -29949,9 +32179,9 @@ _Cite_:
   - Code rural R222-1 à R222-81, R224-4, R224-8, R224-11, R225-10, R222-1 R226-3 à R226-29, R228-1 et R228-8
 
 
-##### Section 2 : Exercice de la chasse<a id=372></a>
+##### Section 2 : Exercice de la chasse<a id=419></a>
 
-##### Sous-section 1 : Temps de chasse.<a id=373></a>
+##### Sous-section 1 : Temps de chasse.<a id=420></a>
 
 ###### Article R*229-2
 
@@ -30072,7 +32302,7 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*229-5 (Ab)
 
 
-##### Sous-section 2 : Modes et moyens de chasse.<a id=374></a>
+##### Sous-section 2 : Modes et moyens de chasse.<a id=421></a>
 
 ###### Article R*229-6
 
@@ -30106,7 +32336,7 @@ _Abrogé par_:
   - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
-##### Section 3 : Plan de chasse.<a id=375></a>
+##### Section 3 : Plan de chasse.<a id=422></a>
 
 ###### Article R*229-7
 
@@ -30136,9 +32366,9 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*229-7 (Ab)
 
 
-##### Section 4 : Indemnisation des dégâts de gibier<a id=376></a>
+##### Section 4 : Indemnisation des dégâts de gibier<a id=423></a>
 
-##### Sous-section 1 : Indemnisation des dégâts de gibier autre que le sanglier.<a id=377></a>
+##### Sous-section 1 : Indemnisation des dégâts de gibier autre que le sanglier.<a id=424></a>
 
 ###### Article R*229-8
 
@@ -30370,7 +32600,7 @@ _Anciens textes_:
   - Loi locale 1899-04-17 art. 25
 
 
-##### Sous-section 2 : Indemnisation des dégâts causés par les sangliers.<a id=378></a>
+##### Sous-section 2 : Indemnisation des dégâts causés par les sangliers.<a id=425></a>
 
 ###### Article R*229-15
 
@@ -30442,7 +32672,7 @@ _Anciens textes_:
   - Loi n°1925-07-29 art. 6
 
 
-##### Sous-section 3 : Dispositions diverses.<a id=379></a>
+##### Sous-section 3 : Dispositions diverses.<a id=426></a>
 
 ###### Article R*229-17
 
@@ -30477,11 +32707,11 @@ _Nouveaux textes_:
   - Code de l'environnement - art. R*229-17 (Ab)
 
 
-##### Section 5 : Pénalités<a id=380></a>
+##### Section 5 : Pénalités<a id=427></a>
 
-##### Sous-section 1 : Peines<a id=381></a>
+##### Sous-section 1 : Peines<a id=428></a>
 
-##### Paragraphe 1 : Territoire.<a id=382></a>
+##### Paragraphe 1 : Territoire.<a id=429></a>
 
 ###### Article R*229-18
 
@@ -30541,7 +32771,7 @@ _Anciens textes_:
   - Loi locale 1883-05-07 art. 14 al. 1
 
 
-##### Paragraphe 2 : Exercice de la chasse.<a id=383></a>
+##### Paragraphe 2 : Exercice de la chasse.<a id=430></a>
 
 ###### Article R*229-20
 
@@ -30575,7 +32805,7 @@ _Anciens textes_:
   - Loi locale 1883-05-07 art. 12 al. 1
 
 
-##### Sous-section 2 : Récidive.<a id=384></a>
+##### Sous-section 2 : Récidive.<a id=431></a>
 
 ###### Article R*229-21
 
@@ -30609,11 +32839,11 @@ _Anciens textes_:
   - Loi locale 1883-05-07 art. 16 al. 1
 
 
-### Titre III : Pêche en eau douce et gestion des ressources piscicoles<a id=385></a>
+### Titre III : Pêche en eau douce et gestion des ressources piscicoles<a id=432></a>
 
-#### Chapitre Ier : Champ d'application<a id=386></a>
+#### Chapitre Ier : Champ d'application<a id=433></a>
 
-##### Section 1 : Dispositions générales.<a id=387></a>
+##### Section 1 : Dispositions générales.<a id=434></a>
 
 ###### Article R*231-1
 
@@ -30838,9 +33068,9 @@ _Nouveaux textes_:
   - Code de l'environnement R231-6
 
 
-##### Section 2 : Piscicultures<a id=388></a>
+##### Section 2 : Piscicultures<a id=435></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=389></a>
+##### Sous-section 1 : Dispositions générales.<a id=436></a>
 
 ###### Article R*231-7
 
@@ -30974,7 +33204,7 @@ _Nouveaux textes_:
   - Code de l'environnement R231-10
 
 
-##### Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture.<a id=390></a>
+##### Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture.<a id=437></a>
 
 ###### Article R*231-11
 
@@ -31580,7 +33810,7 @@ _Nouveaux textes_:
   - Code de l'environnement R231-26
 
 
-##### Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture.<a id=391></a>
+##### Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture.<a id=438></a>
 
 ###### Article R*231-27
 
@@ -31863,7 +34093,7 @@ _Cite_:
   - Code rural R231-23 à R231-26
 
 
-##### Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984.<a id=392></a>
+##### Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984.<a id=439></a>
 
 ###### Article R*231-35
 
@@ -31990,7 +34220,7 @@ _Nouveaux textes_:
   - Code de l'environnement R231-37
 
 
-##### Sous-section 5 : Dispositions diverses.<a id=393></a>
+##### Sous-section 5 : Dispositions diverses.<a id=440></a>
 
 ###### Article R*231-38
 
@@ -32133,9 +34363,9 @@ _Nouveaux textes_:
   - Code de l'environnement R231-41
 
 
-#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=394></a>
+#### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole<a id=441></a>
 
-##### Section 4 : Contrôle des peuplements.<a id=395></a>
+##### Section 4 : Contrôle des peuplements.<a id=442></a>
 
 ###### Article R*232-1
 
@@ -32609,9 +34839,9 @@ _Créé par_:
   - Décret n°90-804 du 7 septembre 1990 - art. 1 () JORF 13 septembre 1990
 
 
-#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=396></a>
+#### Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles<a id=443></a>
 
-##### Section 1 : Orientations de bassin.<a id=397></a>
+##### Section 1 : Orientations de bassin.<a id=444></a>
 
 ###### Article R233-1
 
@@ -33048,11 +35278,11 @@ _Abrogé par_:
   - Décret n°96-563 du 18 juin 1996 - art. 1 () JORF 25 juin 1996
 
 
-#### Chapitre IV : Organisation des pêcheurs<a id=398></a>
+#### Chapitre IV : Organisation des pêcheurs<a id=445></a>
 
-##### Section 1 : Conseil supérieur de la pêche<a id=399></a>
+##### Section 1 : Conseil supérieur de la pêche<a id=446></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=400></a>
+##### Sous-section 1 : Dispositions générales.<a id=447></a>
 
 ###### Article R*234-1
 
@@ -33220,7 +35450,7 @@ _Nouveaux textes_:
   - Code de l'environnement R234-4
 
 
-##### Sous-section 2 : Administration du conseil supérieur de la pêche<a id=401></a>
+##### Sous-section 2 : Administration du conseil supérieur de la pêche<a id=448></a>
 
 ###### Article R*234-5
 
@@ -33253,7 +35483,7 @@ _Nouveaux textes_:
   - Code de l'environnement R234-5
 
 
-##### Paragraphe 1 : Le conseil d'administration.<a id=402></a>
+##### Paragraphe 1 : Le conseil d'administration.<a id=449></a>
 
 ###### Article R*234-6
 
@@ -33527,7 +35757,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R234-10 (V)
 
 
-##### Paragraphe 2 : Le directeur général.<a id=403></a>
+##### Paragraphe 2 : Le directeur général.<a id=450></a>
 
 ###### Article R*234-12
 
@@ -33595,7 +35825,7 @@ _Nouveaux textes_:
   - Code de l'environnement R234-13
 
 
-##### Paragraphe 3 : Les gardes-pêche.<a id=404></a>
+##### Paragraphe 3 : Les gardes-pêche.<a id=451></a>
 
 ###### Article R*234-14
 
@@ -33658,9 +35888,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 3 : Dispositions financières et comptables<a id=405></a>
+##### Sous-section 3 : Dispositions financières et comptables<a id=452></a>
 
-##### Paragraphe 1 : Organisation financière et comptable.<a id=406></a>
+##### Paragraphe 1 : Organisation financière et comptable.<a id=453></a>
 
 ###### Article R*234-16
 
@@ -33842,7 +36072,7 @@ _Nouveaux textes_:
   - Code de l'environnement R234-20
 
 
-##### Paragraphe 2 : Contrôles.<a id=407></a>
+##### Paragraphe 2 : Contrôles.<a id=454></a>
 
 ###### Article R234-21
 
@@ -33878,7 +36108,7 @@ _Cite_:
   - Décret n°1935-10-25
 
 
-##### Section 2 : Pêche de loisir.<a id=408></a>
+##### Section 2 : Pêche de loisir.<a id=455></a>
 
 ###### Article R*234-22
 
@@ -34309,7 +36539,7 @@ _Cite_:
   - Code rural L234-4
 
 
-##### Section 3 : Pêche professionnelle.<a id=409></a>
+##### Section 3 : Pêche professionnelle.<a id=456></a>
 
 ###### Article R*234-35
 
@@ -34590,7 +36820,7 @@ _Nouveaux textes_:
   - Code de l'environnement R234-43
 
 
-#### Chapitre V : Droit de pêche<a id=410></a>
+#### Chapitre V : Droit de pêche<a id=457></a>
 
 ###### Article R*235-1
 
@@ -34618,9 +36848,9 @@ _Cité par_:
   - Code rural - art. R235-2 (V)
 
 
-##### Section 1 : Droit de pêche de l'Etat<a id=411></a>
+##### Section 1 : Droit de pêche de l'Etat<a id=458></a>
 
-##### Sous-section 1 : Conditions générales d'exploitation.<a id=412></a>
+##### Sous-section 1 : Conditions générales d'exploitation.<a id=459></a>
 
 ###### Article R*235-2
 
@@ -35082,7 +37312,7 @@ _Nouveaux textes_:
   - Code de l'environnement R235-13
 
 
-##### Sous-section 2 : Modalités de location des lots.<a id=413></a>
+##### Sous-section 2 : Modalités de location des lots.<a id=460></a>
 
 ###### Article R*235-14
 
@@ -35366,7 +37596,7 @@ _Cite_:
   - Code rural L237-1
 
 
-##### Sous-section 3 : Procédure d'adjudication publique.<a id=414></a>
+##### Sous-section 3 : Procédure d'adjudication publique.<a id=461></a>
 
 ###### Article R*235-22
 
@@ -35595,7 +37825,7 @@ _Nouveaux textes_:
   - Code de l'environnement R235-28
 
 
-##### Section 3 : Droit de passage.<a id=415></a>
+##### Section 3 : Droit de passage.<a id=462></a>
 
 ###### Article R*235-29
 
@@ -35624,9 +37854,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=416></a>
+#### Chapitre VI : Conditions d'exercice du droit de pêche<a id=463></a>
 
-##### Section 1 : Dispositions générales<a id=417></a>
+##### Section 1 : Dispositions générales<a id=464></a>
 
 ###### Article R*236-2
 
@@ -35738,9 +37968,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 1 : Temps et heures d'interdiction<a id=418></a>
+##### Sous-section 1 : Temps et heures d'interdiction<a id=465></a>
 
-##### Paragraphe 1 : Temps d'interdiction.<a id=419></a>
+##### Paragraphe 1 : Temps d'interdiction.<a id=466></a>
 
 ###### Article R*236-6
 
@@ -36116,7 +38346,7 @@ _Abrogé par_:
   - Décret n°94-978 du 10 novembre 1994 - art. 11 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 
-##### Paragraphe 2 : Heures d'interdiction.<a id=420></a>
+##### Paragraphe 2 : Heures d'interdiction.<a id=467></a>
 
 ###### Article R*236-18
 
@@ -36272,7 +38502,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-20
 
 
-##### Sous-section 2 : Taille minimale des poissons.<a id=421></a>
+##### Sous-section 2 : Taille minimale des poissons.<a id=468></a>
 
 ###### Article R*236-23
 
@@ -36396,7 +38626,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 3 : Nombre de captures autorisées, conditions de capture.<a id=422></a>
+##### Sous-section 3 : Nombre de captures autorisées, conditions de capture.<a id=469></a>
 
 ###### Article R*236-27
 
@@ -36468,7 +38698,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 4 : Procédés et modes de pêche autorisés.<a id=423></a>
+##### Sous-section 4 : Procédés et modes de pêche autorisés.<a id=470></a>
 
 ###### Article R*236-30
 
@@ -36854,7 +39084,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-39
 
 
-##### Sous-section 5 : Procédés et modes de pêche prohibés.<a id=424></a>
+##### Sous-section 5 : Procédés et modes de pêche prohibés.<a id=471></a>
 
 ###### Article R*236-40
 
@@ -37150,7 +39380,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 6 : Dispositions diverses.<a id=425></a>
+##### Sous-section 6 : Dispositions diverses.<a id=472></a>
 
 ###### Article R*236-51
 
@@ -37234,7 +39464,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 7 : Dispositions pénales.<a id=426></a>
+##### Sous-section 7 : Dispositions pénales.<a id=473></a>
 
 ###### Article R*236-54
 
@@ -37491,7 +39721,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories.<a id=427></a>
+##### Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories.<a id=474></a>
 
 ###### Article R*236-62
 
@@ -37643,9 +39873,9 @@ _Abrogé par_:
   - Décret n°97-482 du 9 mai 1997 - art. 2 (V) JORF 16 mai 1997
 
 
-##### Section 2 : Autorisations exceptionnelles<a id=428></a>
+##### Section 2 : Autorisations exceptionnelles<a id=475></a>
 
-##### Sous-section 1 : Autorisations de capture et de transport du poisson destiné à la reproduction ou au repeuplement et autorisations de capture du poisson à des fins sanitaires ou en cas de déséquilibres biologiques et de transport de ce poisson.<a id=429></a>
+##### Sous-section 1 : Autorisations de capture et de transport du poisson destiné à la reproduction ou au repeuplement et autorisations de capture du poisson à des fins sanitaires ou en cas de déséquilibres biologiques et de transport de ce poisson.<a id=476></a>
 
 ###### Article R*236-67
 
@@ -37869,7 +40099,7 @@ _Abrogé par_:
   - Décret n°97-787 du 31 juillet 1997 - art. 3 (V) JORF 13 août 1997
 
 
-##### Sous-section 2 : Autorisations de capture du poisson à des fins scientifiques et de transport de ce poisson.<a id=430></a>
+##### Sous-section 2 : Autorisations de capture du poisson à des fins scientifiques et de transport de ce poisson.<a id=477></a>
 
 ###### Article R*236-74
 
@@ -38029,7 +40259,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 3 : Dispositions communes.<a id=431></a>
+##### Sous-section 3 : Dispositions communes.<a id=478></a>
 
 ###### Article R*236-79
 
@@ -38169,9 +40399,9 @@ _Abrogé par_:
   - Décret n°97-787 du 31 juillet 1997 - art. 3 (V) JORF 13 août 1997
 
 
-##### Section 4 : Réserves et interdictions permanentes de pêche<a id=432></a>
+##### Section 4 : Réserves et interdictions permanentes de pêche<a id=479></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=433></a>
+##### Sous-section 1 : Dispositions générales.<a id=480></a>
 
 ###### Article R*236-84
 
@@ -38207,7 +40437,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-84
 
 
-##### Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche.<a id=434></a>
+##### Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche.<a id=481></a>
 
 ###### Article R*236-85
 
@@ -38344,7 +40574,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-89
 
 
-##### Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche.<a id=435></a>
+##### Sous-section 3 : Dispositions applicables aux réserves temporaires de pêche.<a id=482></a>
 
 ###### Article R*236-90
 
@@ -38419,7 +40649,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 4 : Dispositions communes.<a id=436></a>
+##### Sous-section 4 : Dispositions communes.<a id=483></a>
 
 ###### Article R*236-93
 
@@ -38515,7 +40745,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 5 : Commercialisation.<a id=437></a>
+##### Section 5 : Commercialisation.<a id=484></a>
 
 ###### Article R*236-96
 
@@ -38571,9 +40801,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 6 : Dispositions particulières<a id=438></a>
+##### Section 6 : Dispositions particulières<a id=485></a>
 
-##### Sous-section 1 : Dispositions communes.<a id=439></a>
+##### Sous-section 1 : Dispositions communes.<a id=486></a>
 
 ###### Article R*236-98
 
@@ -38603,7 +40833,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 2 : Réglementation de la pêche dans les eaux françaises du lac Léman.<a id=440></a>
+##### Sous-section 2 : Réglementation de la pêche dans les eaux françaises du lac Léman.<a id=487></a>
 
 ###### Article R*236-99
 
@@ -38632,7 +40862,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-99
 
 
-##### Paragraphe 1 : Temps et heures d'interdiction.<a id=441></a>
+##### Paragraphe 1 : Temps et heures d'interdiction.<a id=488></a>
 
 ###### Article R*236-100
 
@@ -38739,7 +40969,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 2 : Tailles minimales des poissons.<a id=442></a>
+##### Paragraphe 2 : Tailles minimales des poissons.<a id=489></a>
 
 ###### Article R*236-103
 
@@ -38770,7 +41000,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 3 : Nombre de captures autorisées, conditions de capture.<a id=443></a>
+##### Paragraphe 3 : Nombre de captures autorisées, conditions de capture.<a id=490></a>
 
 ###### Article R*236-104
 
@@ -38828,7 +41058,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-105
 
 
-##### Paragraphe 4 : Filets, engins et moyens de pêche autorisés ou prohibés.<a id=444></a>
+##### Paragraphe 4 : Filets, engins et moyens de pêche autorisés ou prohibés.<a id=491></a>
 
 ###### Article R*236-106
 
@@ -39041,7 +41271,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Paragraphe 5 : Zones de protection du poisson.<a id=445></a>
+##### Paragraphe 5 : Zones de protection du poisson.<a id=492></a>
 
 ###### Article R*236-113
 
@@ -39152,7 +41382,7 @@ _Nouveaux textes_:
   - Code de l'environnement R236-116
 
 
-##### Paragraphe 6 : Dispositions pénales.<a id=446></a>
+##### Paragraphe 6 : Dispositions pénales.<a id=493></a>
 
 ###### Article R*236-117
 
@@ -39285,9 +41515,9 @@ _Abrogé par_:
   - Décret n°94-978 du 10 novembre 1994 - art. 37 () JORF 13 novembre 1994 en vigueur le 1er janvier 1995
 
 
-#### Chapitre VII : Recherche et constatation des infractions<a id=447></a>
+#### Chapitre VII : Recherche et constatation des infractions<a id=494></a>
 
-##### Section 1 : Agents compétents.<a id=448></a>
+##### Section 1 : Agents compétents.<a id=495></a>
 
 ###### Article R*237-1
 
@@ -39390,7 +41620,7 @@ _Nouveaux textes_:
   - Code de l'environnement R237-3
 
 
-##### Section 3 : Recherche des infractions.<a id=449></a>
+##### Section 3 : Recherche des infractions.<a id=496></a>
 
 ###### Article R*237-4
 
@@ -39456,7 +41686,7 @@ _Cite_:
   - Code rural L237-1
 
 
-##### Section 4 : Saisies.<a id=450></a>
+##### Section 4 : Saisies.<a id=497></a>
 
 ###### Article R*237-6
 
@@ -39527,9 +41757,9 @@ _Nouveaux textes_:
   - Code de l'environnement R237-7
 
 
-#### Chapitre VIII : Transaction, poursuites et règles d'application des peines<a id=451></a>
+#### Chapitre VIII : Transaction, poursuites et règles d'application des peines<a id=498></a>
 
-##### Section 1 : Transaction.<a id=452></a>
+##### Section 1 : Transaction.<a id=499></a>
 
 ###### Article R*238-1
 
@@ -39662,7 +41892,7 @@ _Nouveaux textes_:
   - Code de l'environnement R238-4
 
 
-##### Section 2 : Poursuites pénales.<a id=453></a>
+##### Section 2 : Poursuites pénales.<a id=500></a>
 
 ###### Article R*238-5
 
@@ -39746,11 +41976,11 @@ _Nouveaux textes_:
   - Code de l'environnement R238-6
 
 
-### Titre IV : Espaces naturels<a id=454></a>
+### Titre IV : Espaces naturels<a id=501></a>
 
-#### Chapitre Ier : Parcs nationaux<a id=455></a>
+#### Chapitre Ier : Parcs nationaux<a id=502></a>
 
-##### Section 1 : Comité interministériel des parcs nationaux.<a id=456></a>
+##### Section 1 : Comité interministériel des parcs nationaux.<a id=503></a>
 
 ###### Article R*241-1
 
@@ -39821,7 +42051,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-2
 
 
-##### Section 2 : Création d'un parc national.<a id=457></a>
+##### Section 2 : Création d'un parc national.<a id=504></a>
 
 ###### Article R*241-3
 
@@ -40227,7 +42457,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-14
 
 
-##### Section 3 : Aménagement et gestion des parcs nationaux<a id=458></a>
+##### Section 3 : Aménagement et gestion des parcs nationaux<a id=505></a>
 
 ###### Article R*241-15
 
@@ -40257,7 +42487,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-15
 
 
-##### Sous-section 1 : Administration générale.<a id=459></a>
+##### Sous-section 1 : Administration générale.<a id=506></a>
 
 ###### Article R*241-16
 
@@ -40291,7 +42521,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-16
 
 
-##### Paragraphe 1 : Conseil d'administration.<a id=460></a>
+##### Paragraphe 1 : Conseil d'administration.<a id=507></a>
 
 ###### Article R*241-17
 
@@ -40540,7 +42770,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-24
 
 
-##### Paragraphe 2 : Directeur.<a id=461></a>
+##### Paragraphe 2 : Directeur.<a id=508></a>
 
 ###### Article R*241-25
 
@@ -40605,7 +42835,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-26
 
 
-##### Paragraphe 3 : Personnels.<a id=462></a>
+##### Paragraphe 3 : Personnels.<a id=509></a>
 
 ###### Article R*241-27
 
@@ -40632,7 +42862,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 2 : Ressources de l'établissement.<a id=463></a>
+##### Sous-section 2 : Ressources de l'établissement.<a id=510></a>
 
 ###### Article R*241-28
 
@@ -40676,7 +42906,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 3 : Programme d'aménagement du parc.<a id=464></a>
+##### Sous-section 3 : Programme d'aménagement du parc.<a id=511></a>
 
 ###### Article R*241-29
 
@@ -40712,7 +42942,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-29
 
 
-##### Sous-section 4 : Gestion de certains biens des collectivités.<a id=465></a>
+##### Sous-section 4 : Gestion de certains biens des collectivités.<a id=512></a>
 
 ###### Article R*241-30
 
@@ -40899,7 +43129,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-34
 
 
-##### Sous-section 5 : Pouvoirs réglementaires du directeur.<a id=466></a>
+##### Sous-section 5 : Pouvoirs réglementaires du directeur.<a id=513></a>
 
 ###### Article R*241-35
 
@@ -41137,7 +43367,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-41
 
 
-##### Sous-section 6 : Consultation obligatoire de l'établissement.<a id=467></a>
+##### Sous-section 6 : Consultation obligatoire de l'établissement.<a id=514></a>
 
 ###### Article R*241-42
 
@@ -41205,7 +43435,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-43
 
 
-##### Sous-section 7 : Contrôle.<a id=468></a>
+##### Sous-section 7 : Contrôle.<a id=515></a>
 
 ###### Article R*241-44
 
@@ -41301,7 +43531,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-46
 
 
-##### Sous-section 8 : Contrôle de mesures susceptibles d'altérer le caractère du parc.<a id=469></a>
+##### Sous-section 8 : Contrôle de mesures susceptibles d'altérer le caractère du parc.<a id=516></a>
 
 ###### Article R*241-47
 
@@ -41368,7 +43598,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-48
 
 
-##### Section 4 : Mise en valeur des zones périphériques.<a id=470></a>
+##### Section 4 : Mise en valeur des zones périphériques.<a id=517></a>
 
 ###### Article R*241-49
 
@@ -41468,7 +43698,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-51
 
 
-##### Section 5 : Réserves intégrales.<a id=471></a>
+##### Section 5 : Réserves intégrales.<a id=518></a>
 
 ###### Article R*241-52
 
@@ -41619,7 +43849,7 @@ _Nouveaux textes_:
   - Code de l'environnement R241-55
 
 
-##### Section 6 : Indemnités.<a id=472></a>
+##### Section 6 : Indemnités.<a id=519></a>
 
 ###### Article R*241-56
 
@@ -41819,9 +44049,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique L13-5 à L13-9, L13-12, L13-14 à L13-25, L14-3, L15-3, L16-3, R13-22 à R13-53, L13-17, R13-43 à R13-46
 
 
-##### Section 8 : Dispositions pénales<a id=473></a>
+##### Section 8 : Dispositions pénales<a id=520></a>
 
-##### Sous-section 1 : Peines.<a id=474></a>
+##### Sous-section 1 : Peines.<a id=521></a>
 
 ###### Article R*241-61
 
@@ -42204,39 +44434,43 @@ _Nouveaux textes_:
   - Code de l'environnement R241-70
 
 
-##### Sous-section 2 : Constatation et poursuites.<a id=475></a>
+##### Sous-section 2 : Constatation et poursuites.<a id=522></a>
 
 ###### Article R*241-71
 
-Les dispositions de l'article L. 228-28 sont applicables aux agents verbalisateurs constatant les infractions prévues à la
+Les dispositions de l'article L. 228-34 sont applicables aux agents verbalisateurs constatant les infractions prévues à la
 présente section.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural L228-28
-
-_Anciens textes_:
-
-  - Décret n°61-1195 du 31 octobre 1961 - art. 45 (Ab)
+  - Code rural L228-34
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R241-71
 
 
-#### Chapitre II : Réserves naturelles<a id=476></a>
+#### Chapitre II : Réserves naturelles<a id=523></a>
 
-##### Section 1 : Réserves naturelles établies par décret<a id=477></a>
+##### Section 1 : Réserves naturelles établies par décret<a id=524></a>
 
-##### Sous-section 1 : Classement<a id=478></a>
+##### Sous-section 1 : Classement<a id=525></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=479></a>
+##### Paragraphe 1 : Dispositions générales.<a id=526></a>
 
 ###### Article R*242-1
 
@@ -42312,7 +44546,7 @@ _Nouveaux textes_:
   - Code de l'environnement R242-2
 
 
-##### Paragraphe 2 : Procédure comportant une enquête publique.<a id=480></a>
+##### Paragraphe 2 : Procédure comportant une enquête publique.<a id=527></a>
 
 ###### Article R*242-3
 
@@ -42545,7 +44779,7 @@ _Nouveaux textes_:
   - Code de l'environnement R242-9
 
 
-##### Paragraphe 3 : Procédure simplifiée.<a id=481></a>
+##### Paragraphe 3 : Procédure simplifiée.<a id=528></a>
 
 ###### Article R*242-10
 
@@ -42596,7 +44830,7 @@ _Cite_:
   - Code rural R242-2
 
 
-##### Paragraphe 4 : Décision de classement.<a id=482></a>
+##### Paragraphe 4 : Décision de classement.<a id=529></a>
 
 ###### Article R*242-11
 
@@ -42860,7 +45094,7 @@ _Nouveaux textes_:
   - Code de l'environnement R242-17
 
 
-##### Paragraphe 5 : Modalités de gestion.<a id=483></a>
+##### Paragraphe 5 : Modalités de gestion.<a id=530></a>
 
 ###### Article R*242-18
 
@@ -42902,7 +45136,7 @@ _Cite_:
   - Loi n°1901-07-01
 
 
-##### Sous-section 2 : Modification de l'état ou de l'aspect d'une réserve naturelle.<a id=484></a>
+##### Sous-section 2 : Modification de l'état ou de l'aspect d'une réserve naturelle.<a id=531></a>
 
 ###### Article R*242-19
 
@@ -43081,7 +45315,7 @@ _Nouveaux textes_:
   - Code de l'environnement R242-23
 
 
-##### Sous-section 3 : Modification des limites ou de la réglementation, déclassement.<a id=485></a>
+##### Sous-section 3 : Modification des limites ou de la réglementation, déclassement.<a id=532></a>
 
 ###### Article R*242-24
 
@@ -43148,9 +45382,9 @@ _Nouveaux textes_:
   - Code de l'environnement R242-25
 
 
-##### Section 2 : Réserves naturelles volontaires<a id=486></a>
+##### Section 2 : Réserves naturelles volontaires<a id=533></a>
 
-##### Sous-section 1 : Agrément.<a id=487></a>
+##### Sous-section 1 : Agrément.<a id=534></a>
 
 ###### Article R*242-26
 
@@ -43249,7 +45483,7 @@ La décision d'agrément fixe :
 
 1° Les limites de la réserve ;
 
-2° La nature des mesures conservatoires dont la réserve est affectée en vertu des dispositions de l'article R. 242-28 ;
+2° La nature des mesures conservatoires dont la réserve est affectée en vertu des dispositions de l'article R. 242-29 ;
 
 3° Les obligations du propriétaire en matière de surveillance et de protection de la réserve.
 
@@ -43258,21 +45492,25 @@ applicables au territoire en cause.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural R242-28
-
-_Anciens textes_:
-
-  - Décret n°77-1298 du 25 novembre 1977 - art. 19 (M)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R242-28
+
+_Cite_:
+
+  - Code rural R242-29
 
 
 ###### Article R*242-29
@@ -43387,7 +45625,7 @@ _Nouveaux textes_:
   - Code de l'environnement R242-31
 
 
-##### Sous-section 2 : Modification, retrait, abrogation de l'agrément.<a id=488></a>
+##### Sous-section 2 : Modification, retrait, abrogation de l'agrément.<a id=535></a>
 
 ###### Article R*242-32
 
@@ -43538,11 +45776,11 @@ _Nouveaux textes_:
   - Code de l'environnement R242-35
 
 
-##### Section 3 : Dispositions communes<a id=489></a>
+##### Section 3 : Dispositions communes<a id=536></a>
 
-##### Sous-section 2 : Abords des réserves naturelles<a id=490></a>
+##### Sous-section 2 : Abords des réserves naturelles<a id=537></a>
 
-##### Paragraphe 1 : Périmètres de protection.<a id=491></a>
+##### Paragraphe 1 : Périmètres de protection.<a id=538></a>
 
 ###### Article R*242-36
 
@@ -43576,7 +45814,7 @@ _Cite_:
   - Code rural L242-15
 
 
-##### Paragraphe 2 : Zones de protection.<a id=492></a>
+##### Paragraphe 2 : Zones de protection.<a id=539></a>
 
 ###### Article R*242-37
 
@@ -43606,9 +45844,9 @@ _Nouveaux textes_:
   - Code de l'environnement R242-37
 
 
-##### Section 4 : Dispositions pénales<a id=493></a>
+##### Section 4 : Dispositions pénales<a id=540></a>
 
-##### Sous-section 1 : Peines.<a id=494></a>
+##### Sous-section 1 : Peines.<a id=541></a>
 
 ###### Article R*242-38
 
@@ -44030,9 +46268,9 @@ _Nouveaux textes_:
   - Code de l'environnement R242-49
 
 
-#### Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres<a id=495></a>
+#### Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres<a id=542></a>
 
-##### Section 1 : Dispositions générales.<a id=496></a>
+##### Section 1 : Dispositions générales.<a id=543></a>
 
 ###### Article R*243-1
 
@@ -44095,9 +46333,9 @@ _Nouveaux textes_:
   - Code de l'environnement R243-2
 
 
-##### Section 2 : Patrimoine du conservatoire<a id=497></a>
+##### Section 2 : Patrimoine du conservatoire<a id=544></a>
 
-##### Sous-section 1 : Constitution, aliénation.<a id=498></a>
+##### Sous-section 1 : Constitution, aliénation.<a id=545></a>
 
 ###### Article R*243-3
 
@@ -44252,7 +46490,7 @@ _Nouveaux textes_:
   - Code de l'environnement R243-7
 
 
-##### Sous-section 2 : Gestion.<a id=499></a>
+##### Sous-section 2 : Gestion.<a id=546></a>
 
 ###### Article R*243-8
 
@@ -44320,9 +46558,9 @@ _Nouveaux textes_:
   - Code de l'environnement R243-9
 
 
-##### Section 3 : Administration<a id=500></a>
+##### Section 3 : Administration<a id=547></a>
 
-##### Sous-section 1 : Conseil d'administration.<a id=501></a>
+##### Sous-section 1 : Conseil d'administration.<a id=548></a>
 
 ###### Article R*243-10
 
@@ -44739,7 +46977,7 @@ _Nouveaux textes_:
   - Code de l'environnement R243-21
 
 
-##### Sous-section 2 : Conseils de rivage.<a id=502></a>
+##### Sous-section 2 : Conseils de rivage.<a id=549></a>
 
 ###### Article R*243-22
 
@@ -44930,7 +47168,7 @@ _Nouveaux textes_:
   - Code de l'environnement R243-28
 
 
-##### Sous-section 3 : Directeur.<a id=503></a>
+##### Sous-section 3 : Directeur.<a id=550></a>
 
 ###### Article R*243-29
 
@@ -44978,7 +47216,7 @@ _Nouveaux textes_:
   - Code de l'environnement R243-29
 
 
-##### Sous-section 4 : Personnels.<a id=504></a>
+##### Sous-section 4 : Personnels.<a id=551></a>
 
 ###### Article R*243-30
 
@@ -45008,7 +47246,7 @@ _Nouveaux textes_:
   - Code de l'environnement R243-30
 
 
-##### Section 4 : Dispositions financières.<a id=505></a>
+##### Section 4 : Dispositions financières.<a id=552></a>
 
 ###### Article R*243-31
 
@@ -45116,9 +47354,9 @@ _Nouveaux textes_:
   - Code de l'environnement R243-33
 
 
-#### Chapitre IV : Parcs naturels régionaux<a id=506></a>
+#### Chapitre IV : Parcs naturels régionaux<a id=553></a>
 
-##### Section 1 : Principes généraux.<a id=507></a>
+##### Section 1 : Principes généraux.<a id=554></a>
 
 ###### Article R244-1
 
@@ -45184,7 +47422,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 1 : Commission des parcs naturels régionaux.<a id=508></a>
+##### Section 1 : Commission des parcs naturels régionaux.<a id=555></a>
 
 ###### Article R244-3
 
@@ -45262,7 +47500,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 2 : Classement.<a id=509></a>
+##### Section 2 : Classement.<a id=556></a>
 
 ###### Article R244-5
 
@@ -45426,7 +47664,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 3 : Gestion.<a id=510></a>
+##### Section 3 : Gestion.<a id=557></a>
 
 ###### Article R244-12
 
@@ -45510,7 +47748,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 4 : Dispositions transitoires.<a id=511></a>
+##### Section 4 : Dispositions transitoires.<a id=558></a>
 
 ###### Article R244-15
 
@@ -45535,9 +47773,9 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-### Titre V : Dispositions communes à la protection de la nature<a id=512></a>
+### Titre V : Dispositions communes à la protection de la nature<a id=559></a>
 
-#### Chapitre Ier : Conseil national de la protection de la nature<a id=513></a>
+#### Chapitre Ier : Conseil national de la protection de la nature<a id=560></a>
 
 ###### Article R*251-1
 
@@ -45568,7 +47806,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 1 : Composition.<a id=514></a>
+##### Section 1 : Composition.<a id=561></a>
 
 ###### Article R*251-2
 
@@ -45720,7 +47958,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 2 : Fonctionnement.<a id=515></a>
+##### Section 2 : Fonctionnement.<a id=562></a>
 
 ###### Article R*251-7
 
@@ -45840,7 +48078,7 @@ _Nouveaux textes_:
   - Code de l'environnement R251-10
 
 
-##### Section 3 : Comité permanent.<a id=516></a>
+##### Section 3 : Comité permanent.<a id=563></a>
 
 ###### Article R*251-11
 
@@ -46041,7 +48279,7 @@ _Nouveaux textes_:
   - Code de l'environnement R251-18
 
 
-##### Section 4 : Experts.<a id=517></a>
+##### Section 4 : Experts.<a id=564></a>
 
 ###### Article R*251-19
 
@@ -46094,7 +48332,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Section 5 : Secrétariat administratif.<a id=518></a>
+##### Section 5 : Secrétariat administratif.<a id=565></a>
 
 ###### Article R*251-21
 
@@ -46116,7 +48354,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-#### Chapitre II : Associations ayant pour objet la protection de la nature et de l'environnement<a id=519></a>
+#### Chapitre II : Associations ayant pour objet la protection de la nature et de l'environnement<a id=566></a>
 
 ###### Article R*252-1
 
@@ -46151,7 +48389,7 @@ _Cite_:
   - Code rural L252-1
 
 
-##### Section 1 : Conditions d'obtention de l'agrément.<a id=520></a>
+##### Section 1 : Conditions d'obtention de l'agrément.<a id=567></a>
 
 ###### Article R*252-2
 
@@ -46241,9 +48479,9 @@ _Abrogé par_:
   - Décret n°96-170 du 28 février 1996 - art. 5 (V) JORF 7 mars 1996
 
 
-##### Section 2 : Procédure d'agrément<a id=521></a>
+##### Section 2 : Procédure d'agrément<a id=568></a>
 
-##### Sous-section 1 : Demande.<a id=522></a>
+##### Sous-section 1 : Demande.<a id=569></a>
 
 ###### Article R*252-5
 
@@ -46387,7 +48625,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 2 : Instruction de la demande.<a id=523></a>
+##### Sous-section 2 : Instruction de la demande.<a id=570></a>
 
 ###### Article R*252-10
 
@@ -46470,7 +48708,7 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-##### Sous-section 3 : Décision.<a id=524></a>
+##### Sous-section 3 : Décision.<a id=571></a>
 
 ###### Article R*252-13
 
@@ -46659,7 +48897,7 @@ _Cite_:
   - Code de l'urbanisme - art. L121-8 (M)
 
 
-##### Section 3 : Obligations de l'association agréée.<a id=525></a>
+##### Section 3 : Obligations de l'association agréée.<a id=572></a>
 
 ###### Article R*252-19
 
@@ -46715,11 +48953,11 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-### Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon et aux terres australes et antarctiques françaises<a id=526></a>
+### Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon et aux terres australes et antarctiques françaises<a id=573></a>
 
-#### Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=527></a>
+#### Chapitre Ier : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=574></a>
 
-##### Section 1 : Territoire de chasse.<a id=528></a>
+##### Section 1 : Territoire de chasse.<a id=575></a>
 
 ###### Article R261-2
 
@@ -46733,20 +48971,16 @@ _Cite_:
 
   - Code rural R222-1 à R222-81
 
-_Anciens textes_:
-
-  - Décret n°66-747 du 6 octobre 1966 - art. 56 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°90-879 du 28 septembre 1990 - art. 2 () JORF 30 septembre 1990
 
 
-#### Chapitre II : Dispositions particulières aux terres australes et antarctiques françaises.<a id=529></a>
+#### Chapitre II : Dispositions particulières aux terres australes et antarctiques françaises.<a id=576></a>
 
 ###### Article R*262-1
 
@@ -46764,15 +48998,15 @@ _Créé par_:
   - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
 
 
-## Livre IV : Baux ruraux<a id=530></a>
+## Livre IV : Baux ruraux<a id=577></a>
 
-### Titre Ier : Statut du fermage et du métayage<a id=531></a>
+### Titre Ier : Statut du fermage et du métayage<a id=578></a>
 
-#### Chapitre Ier : Régime de droit commun<a id=532></a>
+#### Chapitre Ier : Régime de droit commun<a id=579></a>
 
-##### Section 1 : Etablissement du contrat, durée et prix du bail<a id=533></a>
+##### Section 1 : Etablissement du contrat, durée et prix du bail<a id=580></a>
 
-##### Sous-section 3 : Prix du bail.<a id=534></a>
+##### Sous-section 3 : Prix du bail.<a id=581></a>
 
 ###### Article R*411-1
 
@@ -46980,7 +49214,7 @@ _Cite_:
   - Code rural - art. L411-76 (V)
 
 
-##### Section 8 : Droit de renouvellement et droit de reprise.<a id=535></a>
+##### Section 8 : Droit de renouvellement et droit de reprise.<a id=582></a>
 
 ###### Article R411-10
 
@@ -47047,7 +49281,7 @@ _Abrogé par_:
   - Décret n°2017-1771 du 27 décembre 2017 - art. 9
 
 
-##### Section 9 : Indemnité au preneur sortant.<a id=536></a>
+##### Section 9 : Indemnité au preneur sortant.<a id=583></a>
 
 ###### Article R411-14
 
@@ -47403,9 +49637,9 @@ _Créé par_:
   - Décret n°86-881 1986-07-28 art. 1 JORF 30 juillet 1986
 
 
-#### Chapitre IV : Commissions consultatives paritaires des baux ruraux<a id=537></a>
+#### Chapitre IV : Commissions consultatives paritaires des baux ruraux<a id=584></a>
 
-##### Section 1 : Commissions consultatives paritaires départementales des baux ruraux.<a id=538></a>
+##### Section 1 : Commissions consultatives paritaires départementales des baux ruraux.<a id=585></a>
 
 ###### Article R*414-2
 
@@ -47559,7 +49793,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R414-4-1 (V)
 
 
-##### Section 2 : Commissions consultatives paritaires régionales des baux ruraux.<a id=539></a>
+##### Section 2 : Commissions consultatives paritaires régionales des baux ruraux.<a id=586></a>
 
 ###### Article R414-5
 
@@ -47629,7 +49863,7 @@ _Modifié par_:
   - Décret n°90-187 du 28 février 1990 - art. 6 () JORF 1er mars 1990
 
 
-##### Section 3 : Commission consultative paritaire nationale des baux ruraux.<a id=540></a>
+##### Section 3 : Commission consultative paritaire nationale des baux ruraux.<a id=587></a>
 
 ###### Article R414-6
 
@@ -47706,7 +49940,7 @@ _Modifié par_:
   - Décret n°90-187 du 28 février 1990 - art. 6 () JORF 1er mars 1990
 
 
-#### Chapitre V : Dispositions diverses et d'application.<a id=541></a>
+#### Chapitre V : Dispositions diverses et d'application.<a id=588></a>
 
 ###### Article R*415-1
 
@@ -47875,7 +50109,7 @@ _Abrogé par_:
   - Décret n°2017-1771 du 27 décembre 2017 - art. 9
 
 
-#### Chapitre VI : Dispositions particulières au baux à long terme.<a id=542></a>
+#### Chapitre VI : Dispositions particulières au baux à long terme.<a id=589></a>
 
 ###### Article R416-1
 
@@ -47930,9 +50164,9 @@ _Cite_:
   - Code rural - art. L416-5
 
 
-#### Chapitre VII : Dispositions particulières au baux à colonat partiaire ou métayage<a id=543></a>
+#### Chapitre VII : Dispositions particulières au baux à colonat partiaire ou métayage<a id=590></a>
 
-##### Section 1 : Régime du bail.<a id=544></a>
+##### Section 1 : Régime du bail.<a id=591></a>
 
 ###### Article R417-1
 
@@ -47949,7 +50183,7 @@ _Cite_:
   - Code rural - art. L417-2 (V)
 
 
-##### Section 2 : Conversion en baux à ferme.<a id=545></a>
+##### Section 2 : Conversion en baux à ferme.<a id=592></a>
 
 ###### Article R417-2
 
@@ -47981,7 +50215,7 @@ _Cite_:
   - Code rural - art. L411-12 (V)
 
 
-### Titre III : Bail à domaine congéable<a id=546></a>
+### Titre III : Bail à domaine congéable<a id=593></a>
 
 ###### Article R431-1
 
@@ -48000,7 +50234,7 @@ _Cite_:
   - Code rural - art. L431-14 (V)
 
 
-### Titre IV : Bail à complant<a id=547></a>
+### Titre IV : Bail à complant<a id=594></a>
 
 ###### Article R441-1
 
@@ -48049,11 +50283,11 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-### Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer<a id=548></a>
+### Titre VI : Dispositions particulières au statut du fermage et du métayage dans les départements d'outre-mer<a id=595></a>
 
-#### Chapitre Ier : Régime de droit commun<a id=549></a>
+#### Chapitre Ier : Régime de droit commun<a id=596></a>
 
-##### Section 1 : Commission consultative des baux ruraux.<a id=550></a>
+##### Section 1 : Commission consultative des baux ruraux.<a id=597></a>
 
 ###### Article R*461-1
 
@@ -48167,7 +50401,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-##### Section 2 : Conclusion, durée, prix du bail.<a id=551></a>
+##### Section 2 : Conclusion, durée, prix du bail.<a id=598></a>
 
 ###### Article R461-5
 
@@ -48223,7 +50457,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-##### Section 5 : Indemnité au preneur sortant.<a id=552></a>
+##### Section 5 : Indemnité au preneur sortant.<a id=599></a>
 
 ###### Article R461-8
 
@@ -48282,7 +50516,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-##### Section 6 : Droit de préemption.<a id=553></a>
+##### Section 6 : Droit de préemption.<a id=600></a>
 
 ###### Article R461-11
 
@@ -48342,7 +50576,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-##### Section 7 : Dispositions diverses.<a id=554></a>
+##### Section 7 : Dispositions diverses.<a id=601></a>
 
 ###### Article R461-14
 
@@ -48356,7 +50590,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-##### Section 8 : Dispositions diverses.<a id=555></a>
+##### Section 8 : Dispositions diverses.<a id=602></a>
 
 ###### Article R461-15
 
@@ -48373,9 +50607,9 @@ _Abrogé par_:
   - Décret n°2013-754 du 14 août 2013 - art. 11
 
 
-#### Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage<a id=556></a>
+#### Chapitre II : Dispositions particulières aux baux à colonat partiaire ou métayage<a id=603></a>
 
-##### Section 1 : Régime du bail.<a id=557></a>
+##### Section 1 : Régime du bail.<a id=604></a>
 
 ###### Article R*462-16
 
@@ -48745,7 +50979,7 @@ _Abrogé par_:
   - Décret n°2016-781 du 10 juin 2016 - art. 5
 
 
-##### Section 2 : Conversion en baux à ferme.<a id=558></a>
+##### Section 2 : Conversion en baux à ferme.<a id=605></a>
 
 ###### Article R462-17
 
@@ -48767,7 +51001,7 @@ _Abrogé par_:
   - Décret n°2016-781 du 10 juin 2016 - art. 5
 
 
-##### Section 3 : Dispositions diverses et d'application.<a id=559></a>
+##### Section 3 : Dispositions diverses et d'application.<a id=606></a>
 
 ###### Article R462-18
 
@@ -48780,7 +51014,7 @@ _Codifié par_:
   - Décret n°83-213 1983-03-16
 
 
-#### Chapitre III : Dispositions particulières aux baux à long terme.<a id=560></a>
+#### Chapitre III : Dispositions particulières aux baux à long terme.<a id=607></a>
 
 ###### Article R463-1
 
@@ -48871,7 +51105,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R463-2 (Ab)
 
 
-#### Chapitre IV : Dispositions d'application.<a id=561></a>
+#### Chapitre IV : Dispositions d'application.<a id=608></a>
 
 ###### Article R464-1
 
@@ -48890,41 +51124,60 @@ _Abrogé par_:
   - Décret n°2016-781 du 10 juin 2016 - art. 5
 
 
-## Livre V : Organismes professionnels agricoles<a id=562></a>
+## Livre V : Organismes professionnels agricoles<a id=609></a>
 
-### Titre II : Sociétés coopératives agricoles<a id=563></a>
+### Titre Ier : Chambres d'agriculture<a id=610></a>
 
-#### Chapitre III : Capital social et dispositions financières<a id=564></a>
+#### Chapitre Ier : Chambres départementales<a id=611></a>
 
-##### Section 4 : Participation et intéressement.<a id=565></a>
+##### Section 1 : Institution et attributions.<a id=612></a>
 
-###### Article R523-9
+###### Article R*511-3
 
-La décision de la commission spéciale accordant cette autorisation doit être prise à l'unanimité des membres présents.
+Lorsqu'en application de l'article L. 511-4 du présent code et afin, notamment, de bénéficier des aides du Fonds national de
+développement agricole, une chambre départementale d'agriculture décide la création d'un service d'utilité agricole du
+développement, celui-ci est organisé et fonctionne selon les dispositions suivantes :
 
-Si l'unanimité n'est pas obtenue, l'autorisation ne peut être accordée que par décision conjointe des ministres de
-l'agriculture, de l'économie et du budget.
+Il est présidé par le président de la chambre d'agriculture ou son représentant, assisté d'un comité de direction.
+
+Le nombre des membres de ce comité, qui ne peut être supérieur à douze, est fixé par la chambre d'agriculture.
+
+Ce comité est composé :
+
+1° Outre le président ou son délégué, de membres de la chambre d'agriculture, dont un au titre des salariés ;
+
+2° En nombre égal aux précédents de représentants des organisations professionnelles à vocation générale.
+
+Les représentants de ces organisations sont désignés par le préfet sur proposition, d'une part, des organisations syndicales
+d'exploitants agricoles à vocation générale habilitées en application de l'article 1er du décret n° 90-187 du 28 février 1990
+et, d'autre part, des organisations de coopération, de crédit et de mutualité agricoles.
+
+Un fonctionnaire, désigné par le commissaire de la République, participe aux travaux de ce comité, avec voix consultative.
+
+Par dérogation aux articles R. 511-87 et R. 511-90, le budget de ce service, préparé par son comité de direction, fait
+l'objet d'une section spéciale au sein du budget voté par la chambre d'agriculture.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L511-4, R511-87, R511-90
+  - Décret n°90-187 1990-02-28 art. 1
 
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. D511-4 (M)
 
 
-## Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux<a id=566></a>
-
-### Titre Ier : Chambres d'agriculture<a id=567></a>
-
-#### Chapitre Ier : Chambres départementales<a id=568></a>
-
-##### Section 1 : Institution et attributions.<a id=569></a>
-
-###### Article R*511-1
+###### Article R511-1
 
 Dans le cadre de leurs attributions consultatives, les chambres d'agriculture transmettent aux commissaires de la République
 leurs voeux sur toutes matières d'intérêt agricole. Ces voeux sont également adressés au président du conseil général
@@ -48945,16 +51198,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-1122 1986-10-17 art. 1 JORF 18 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*511-2
+###### Article R511-2
 
 L'accord de l'autorité supérieure mentionné à l'article L. 511-5 est donné par le commissaire de la République dans un délai
 de deux mois à compter de la date de réception de la demande de la chambre d'agriculture. A défaut d'accord exprès dans ce
@@ -48971,48 +51220,18 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-1123 1986-10-17 art. 1 JORF 18 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*511-3
+###### Article R511-4
 
-Lorsqu'en application de l'article L. 511-4 du présent code et afin, notamment, de bénéficier des aides du Fonds national de
-développement agricole, une chambre départementale d'agriculture décide la création d'un service d'utilité agricole du
-développement, celui-ci est organisé et fonctionne selon les dispositions suivantes :
-
-Il est présidé par le président de la chambre d'agriculture ou son représentant, assisté d'un comité de direction.
-
-Le nombre des membres de ce comité, qui ne peut être supérieur à douze, est fixé par la chambre d'agriculture.
-
-Ce comité est composé :
-
-1° Outre le président ou son délégué, de membres de la chambre d'agriculture, dont un au titre des salariés ;
-
-2° En nombre égal aux précédents de représentants des organisations professionnelles à vocation générale.
-
-Les représentants de ces organisations sont désignés par le préfet sur proposition, d'une part, des organisations syndicales
-d'exploitants agricoles à vocation générale habilitées en application de l'article 1er du décret n° 90-187 du 28 février 1990
-et, d'autre part, des organisations de coopération, de crédit et de mutualité agricoles. Dans le cas d'un service
-interdépartemental, ces représentants sont désignés par les mêmes organisations à la diligence des commissaires de la
-République concernés.
-
-Un fonctionnaire, désigné par le commissaire de la République, participe aux travaux de ce comité, avec voix consultative.
-
-Par dérogation aux articles R. 511-87 et R. 511-90, le budget de ce service, préparé par son comité de direction, fait
-l'objet d'une section spéciale au sein du budget voté par la chambre d'agriculture.
+Plusieurs chambres d'agriculture peuvent, avec l'autorisation du ministre de l'agriculture, constituer un seul service
+d'utilité agricole pour plusieurs départements. Dans ce cas, le nombre des membres du service d'utilité agricole de
+développement, désignés comme il est dit à l'article précédent, ne peut excéder trente.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L511-4, R511-87, R511-90
-  - Décret n°90-187 1990-02-28 art. 1
 
 _Codifié par_:
 
@@ -49020,14 +51239,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-187 du 28 février 1990 - art. 6 () JORF 1er mars 1990
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
-_Cité par_:
+_Abrogé par_:
 
-  - Code rural et de la pêche maritime - art. D511-4 (M)
+  - Décret n°2007-345 du 14 mars 2007 - art. 8 () JORF 16 mars 2007
 
 
-###### Article R*511-5
+###### Article R511-5
 
 Dans le cas où plusieurs chambres d'agriculture envisagent de participer à la fondation ou au capital d'une même société, le
 ministre de l'agriculture peut, sur demande de chacune des chambres intéressées, les autoriser à se faire représenter au
@@ -49045,33 +51264,16 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R511-4
-
-Plusieurs chambres d'agriculture peuvent, avec l'autorisation du ministre de l'agriculture, constituer un seul service
-d'utilité agricole pour plusieurs départements. Dans ce cas, le nombre des membres du service d'utilité agricole de
-développement, désignés comme il est dit à l'article précédent, ne peut excéder trente.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-484 du 14 mars 1986 - art. 2 () JORF 16 mars 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2007-345 du 14 mars 2007 - art. 8 () JORF 16 mars 2007
 
 
-##### Section 2 : Composition.<a id=570></a>
+##### Section 2 : Composition.<a id=613></a>
 
 ###### Article R*511-6
 
@@ -49123,7 +51325,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-1070 1988-11-29 art. 1, art. 2, art. 3 JORF 30 novembre 1988
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -49169,7 +51371,7 @@ _Cite_:
   - Code forestier - art. L221-3 (M)
 
 
-###### Article R*511-7
+###### Article R511-7
 
 Les chambres d'agriculture peuvent désigner, dans la limite de cinq, des membres associés qui participent aux sessions avec
 voix consultative. Leur choix pourra se porter sur des personnes qui, par leur activité et leurs responsabilités, sont en
@@ -49185,14 +51387,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 1 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 4 JORF 30 décembre 1987
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -49209,11 +51406,11 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D512-5 (V)
 
 
-##### Section 3 : Elections<a id=571></a>
+##### Section 3 : Elections<a id=614></a>
 
-##### Sous-section 1 : Conditions requises pour être électeur<a id=572></a>
+##### Sous-section 1 : Conditions requises pour être électeur<a id=615></a>
 
-##### Paragraphe 1 : Electeurs votant individuellement.<a id=573></a>
+##### Paragraphe 1 : Electeurs votant individuellement.<a id=616></a>
 
 ###### Article R*511-8
 
@@ -49234,7 +51431,7 @@ c) Etre au nombre des bénéficiaires du régime agricole des assurances sociale
 Sont également électeurs dans la catégorie des chefs d'exploitation mentionnés ci-dessus, lorsqu'ils consacrent leur activité
 principale à cette exploitation agricole, les membres de toute société, quelles qu'en soient la forme et la dénomination,
 ayant pour objet la gestion d'une exploitation agricole et qui ne figure pas sur la liste des groupements professionnels
-agricoles : il en est de même pour leurs conjoints, leurs aides familiaux et leurs associés d'exploitation.
+agricoles : il en est de même pour leurs conjoints, leurs aides familiaux et leurs associés d'exploitation ;
 
 2. Les personnes qui, ayant ou non la qualité d'exploitant, sont propriétaires ou usufruitiers dans le département, de
 parcelles soumises au statut du fermage conformément aux dispositions des articles L. 411-3 et L. 411-4 du code rural ; les
@@ -49267,14 +51464,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 5 JORF 30 décembre 1987
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -49343,15 +51535,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 6 JORF 30 décembre 1987
-  - Décret n°88-877 du 12 août 1988 - art. 1 () JORF 14 août 1988
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -49365,7 +51551,7 @@ _Cite_:
   - Code rural R511-8
 
 
-##### Paragraphe 2 : Groupements électeurs.<a id=574></a>
+##### Paragraphe 2 : Groupements électeurs.<a id=617></a>
 
 ###### Article R*511-10
 
@@ -49390,14 +51576,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 7 JORF 30 décembre 1987
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -49439,22 +51620,13 @@ régulièrement affiliés dans ce département.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural R511-6
-
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 8 JORF 30 décembre 1987
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -49463,10 +51635,14 @@ _Cité par_:
   - Code rural - art. R571-6 (V)
   - Code rural et de la pêche maritime - art. R571-10 (Ab)
 
+_Cite_:
 
-##### Sous-section 2 : Listes électorales<a id=575></a>
+  - Code rural R511-6
 
-##### Paragraphe 1 : Electeurs votant individuellement.<a id=576></a>
+
+##### Sous-section 2 : Listes électorales<a id=618></a>
+
+##### Paragraphe 1 : Electeurs votant individuellement.<a id=619></a>
 
 ###### Article R*511-12
 
@@ -49497,6 +51673,14 @@ remplacée par la mention de ladite inscription sur la déclaration prévue au p
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
 _Cité par_:
 
   - Code rural - art. D511-61 (V)
@@ -49506,44 +51690,6 @@ _Cité par_:
 _Cite_:
 
   - Code rural R511-8, R511-9
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 9 JORF 30 décembre 1987
-  - Décret n°88-877 du 12 août 1988 - art. 2 () JORF 14 août 1988
-
-
-###### Article R*511-13
-
-Les propriétaires et usufruitiers doivent, dans tous les cas, justifier que les parcelles qu'ils possèdent en ces qualités
-satisfont aux conditions prévues à l'article R. 511-8 (2°).
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R511-8
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
 
 
 ###### Article R*511-14
@@ -49562,13 +51708,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*511-15
@@ -49582,6 +51724,10 @@ mairie.
 
 **Liens relatifs à cet article**
 
+_Cité par_:
+
+  - Code rural - art. R511-27 (V)
+
 _Cite_:
 
   - Code rural R511-6
@@ -49590,18 +51736,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 10, art. 11 JORF 30 décembre 1987
-
-_Cité par_:
-
-  - Code rural - art. R511-27 (V)
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*511-16
@@ -49612,17 +51749,17 @@ inscrites sur les listes électorales au titre de l'article R. 511-8.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code rural R511-8
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -49632,10 +51769,6 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R511-15 (V)
   - Code rural et de la pêche maritime - art. R511-28 (V)
   - Code rural et de la pêche maritime - art. R571-11 (Ab)
-
-_Cite_:
-
-  - Code rural R511-8
 
 
 ###### Article R*511-17
@@ -49659,14 +51792,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 12 JORF 30 décembre 1987
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -49686,13 +51814,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*511-19
@@ -49712,14 +51836,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 13 JORF 30 décembre 1987
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*511-20
@@ -49738,14 +51857,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 14 JORF 30 décembre 1987
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -49790,14 +51904,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 15 JORF 30 décembre 1987
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -49839,14 +51948,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 16, art. 17 JORF 30 décembre 1987
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -49867,15 +51971,18 @@ simple lettre du secrétaire-greffier.
 Toutefois, si la demande soumise au tribunal d'instance pose une question préjudicielle, le tribunal renvoie les parties à se
 pourvoir devant le tribunal compétent, conformément aux dispositions du nouveau Code de procédure civile.
 
-Le secrétaire-greffier du tribunal d'instance adresse, dans les deux jours, copie de la décision au président de la
-commission départementale, aux maires des communes intéressées et, par lettre recommandée avec demande d'avis de réception,
-aux parties.
+Le greffier du tribunal d'instance adresse, dans les deux jours, copie de la décision au président de la commission
+départementale, aux maires des communes intéressées et, par lettre recommandée avec demande d'avis de réception, aux parties.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -49902,21 +52009,36 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 18 JORF 30 décembre 1987
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cite_:
 
   - Nouveau code de procédure civile 999 à 1008
 
 
-###### Article R*511-25
+###### Article R511-13
+
+Les propriétaires et usufruitiers doivent, dans tous les cas, justifier que les parcelles qu'ils possèdent en ces qualités
+satisfont aux conditions prévues à l'article R. 511-8 (2°).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R511-8
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R511-25
 
 La liste électorale est rectifiée, s'il y a lieu, en application des décisions judiciaires.
 
@@ -49926,44 +52048,16 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Code rural - art. R511-22 (V)
 
 
-##### Paragraphe 2 : Groupements électeurs.<a id=577></a>
-
-###### Article R*511-26
-
-Tout groupement professionnel agricole demandant son inscription sur la liste électorale de l'un des collèges mentionnés au
-5° de l'article R. 511-6 doit souscrire une déclaration.
-
-Cette déclaration adressée au préfet  par le président du groupement comporte : le nom du groupement, le collège auquel ce
-groupement appartient, les noms, prénoms et adresses des personnes appelées à voter au nom du groupement. Elle est revêtue de
-la signature de chacune de ces personnes.
-
-Elle est accompagnée en outre, pour les groupements mentionnés au 5° b de l'article R. 511-6, de la mention du nombre
-d'adhérents au 1er juillet précédant l'élection et d'un extrait de la délibération du conseil d'administration ou de
-l'assemblée ayant désigné les électeurs dudit groupement.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R511-6
-
-_Modifié par_:
-
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
-
+##### Paragraphe 2 : Groupements électeurs.<a id=620></a>
 
 ###### Article R*511-27
 
@@ -49977,16 +52071,20 @@ _Cite_:
 
   - Code rural R511-6, R511-15
 
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*511-28
 
 La liste électorale comportant les noms des groupements et des personnes appelées à voter au nom de ces groupements est
 établie, pour chacun des collèges mentionnés au 5° de l'article R. 511-6, par la commission départementale prévue à l'article
-R. 511-21. Quatre présidents de groupements professionnels agricoles désignés par le préfet  participent, avec voix
+R. 511-21. Quatre présidents de groupements professionnels agricoles désignés par le préfet participent, avec voix
 consultative, aux travaux relatifs à l'établissement de la liste électorale des groupements électeurs.
 
 Lorsque la commission refuse d'inscrire un groupement électeur, ou lui demande de modifier sa déclaration, cette décision est
@@ -49996,17 +52094,21 @@ heures pour présenter des observations.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code rural R511-6, R511-21
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Arrêté du 1 décembre 2006 - art. 4 (V)
-
-_Cite_:
-
-  - Code rural R511-6, R511-21
 
 
 ###### Article R*511-29
@@ -50035,20 +52137,52 @@ punie d'une contravention de la 5e classe.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code rural R511-23
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Code rural - art. R511-53 (V)
 
+
+###### Article R511-26
+
+Tout groupement professionnel agricole demandant son inscription sur la liste électorale de l'un des collèges mentionnés au
+5° de l'article R. 511-6 doit souscrire une déclaration.
+
+Cette déclaration adressée au préfet  par le président du groupement comporte : le nom du groupement, le collège auquel ce
+groupement appartient, les noms, prénoms et adresses des personnes appelées à voter au nom du groupement. Elle est revêtue de
+la signature de chacune de ces personnes.
+
+Elle est accompagnée en outre, pour les groupements mentionnés au 5° b de l'article R. 511-6, de la mention du nombre
+d'adhérents au 1er juillet précédant l'élection et d'un extrait de la délibération du conseil d'administration ou de
+l'assemblée ayant désigné les électeurs dudit groupement.
+
+**Liens relatifs à cet article**
+
 _Cite_:
 
-  - Code rural R511-23
+  - Code rural R511-6
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Sous-section 3 : Eligibilité et candidatures.<a id=578></a>
+##### Sous-section 3 : Eligibilité et candidatures.<a id=621></a>
 
 ###### Article R*511-30
 
@@ -50074,67 +52208,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 19 JORF 30 décembre 1987
-
-
-###### Article R*511-31
-
-Les fonctionnaires qui, à un titre quelconque, exercent un contrôle sur les chambres d'agriculture et les agents des
-chambres, de l'assemblée permanente des chambres d'agriculture ou des services interdépartementaux qu'elles ont créés, sont
-inéligibles. Cette inéligibilité prend fin un an après la cessation du motif qui les a rendus inéligibles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-
-
-###### Article R*511-32
-
-Nul ne peut être à la fois membre d'une chambre d'agriculture, d'une part, d'une chambre de commerce et d'industrie ou d'une
-chambre de métiers, d'autre part. Tout membre d'une chambre d'agriculture qui est ou devient membre d'une chambre de commerce
-et d'industrie ou d'une chambre de métiers, est réputé avoir opté en faveur de l'organisme dont il est devenu membre en
-dernier lieu, s'il n'a exercé une option contraire dans le délai d'un mois à compter de la date à laquelle il est devenu
-membre de cet organisme.
-
-Ainsi qu'il est dit à l'article R. 221-15 du code forestier, les fonctions d'administrateur d'un centre régional de la
-propriété forestière sont incompatibles avec celles de membre élu d'une chambre d'agriculture située dans le ressort de ce
-centre. Les conditions et délais de l'option pour l'une de ces fonctions sont ceux définis par l'article R. 221-15
-susmentionné.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-
-_Cite_:
-
-  - Code forestier - art. R221-15 (M)
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*511-33
@@ -50165,37 +52241,14 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 20 JORF 30 décembre 1987
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Code rural - art. R511-35 (V)
   - Code rural - art. R571-23 (V)
-
-
-###### Article R*511-34
-
-Le préfet  enregistre les listes.
-
-L'enregistrement est refusé à toute liste non conforme aux dispositions de la présente section. Le préfet  notifie
-immédiatement sa décision au mandataire de la liste. Celui-ci dispose d'un délai de quarante-huit heures pour déposer une
-liste comportant les modifications nécessaires ou pour saisir le tribunal administratif qui statue dans les trois jours.
-
-La liste est enregistrée, si le délai imparti à l'autorité administrative n'a pas été respecté ou si la juridiction
-administrative n'a pas rejeté le recours dans les trois jours.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
 
 
 ###### Article R*511-35
@@ -50215,12 +52268,83 @@ _Cite_:
 
   - Code rural R511-33, R511-6
 
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Sous-section 4 : Propagande.<a id=579></a>
+###### Article R511-31
+
+Les fonctionnaires qui, à un titre quelconque, exercent un contrôle sur les chambres d'agriculture et les agents des
+chambres, de l'assemblée permanente des chambres d'agriculture ou des services interdépartementaux qu'elles ont créés, sont
+inéligibles. Cette inéligibilité prend fin un an après la cessation du motif qui les a rendus inéligibles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R511-32
+
+Nul ne peut être à la fois membre d'une chambre d'agriculture, d'une part, d'une chambre de commerce et d'industrie ou d'une
+chambre de métiers, d'autre part. Tout membre d'une chambre d'agriculture qui est ou devient membre d'une chambre de commerce
+et d'industrie ou d'une chambre de métiers, est réputé avoir opté en faveur de l'organisme dont il est devenu membre en
+dernier lieu, s'il n'a exercé une option contraire dans le délai d'un mois à compter de la date à laquelle il est devenu
+membre de cet organisme.
+
+Ainsi qu'il est dit à l'article R. 221-15 du code forestier, les fonctions d'administrateur d'un centre régional de la
+propriété forestière sont incompatibles avec celles de membre élu d'une chambre d'agriculture située dans le ressort de ce
+centre. Les conditions et délais de l'option pour l'une de ces fonctions sont ceux définis par l'article R. 221-15
+susmentionné.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Code forestier - art. R221-15 (M)
+
+
+###### Article R511-34
+
+Le préfet  enregistre les listes.
+
+L'enregistrement est refusé à toute liste non conforme aux dispositions de la présente section. Le préfet  notifie
+immédiatement sa décision au mandataire de la liste. Celui-ci dispose d'un délai de quarante-huit heures pour déposer une
+liste comportant les modifications nécessaires ou pour saisir le tribunal administratif qui statue dans les trois jours.
+
+La liste est enregistrée, si le délai imparti à l'autorité administrative n'a pas été respecté ou si la juridiction
+administrative n'a pas rejeté le recours dans les trois jours.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+##### Sous-section 4 : Propagande.<a id=622></a>
 
 ###### Article R*511-36
 
@@ -50229,25 +52353,21 @@ qu'une seule circulaire sur un feuillet de format 210 x 297 mm.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code rural R511-39
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Code rural - art. R511-39 (V)
-
-_Cite_:
-
-  - Code rural R511-39
 
 
 ###### Article R*511-37
@@ -50267,13 +52387,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -50310,13 +52426,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -50344,13 +52456,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -50368,9 +52476,13 @@ Tout engagement de dépenses décidé par la commission de propagande en vue d'a
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*511-41
@@ -50400,13 +52512,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*511-42
@@ -50437,16 +52545,20 @@ grammes au mètre carré, Afnor II/1.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Code rural - art. R511-41 (V)
 
 
-##### Sous-section 5 : Mode de scrutin.<a id=580></a>
+##### Sous-section 5 : Mode de scrutin.<a id=623></a>
 
 ###### Article R*511-43
 
@@ -50487,7 +52599,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-1070 1988-11-29 art. 4 JORF 30 novembre 1988
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -50504,9 +52616,9 @@ _Cite_:
   - Code rural R511-6
 
 
-##### Sous-section 6 : Opérations de vote<a id=581></a>
+##### Sous-section 6 : Opérations de vote<a id=624></a>
 
-##### Paragraphe 1 : Date du scrutin.<a id=582></a>
+##### Paragraphe 1 : Date du scrutin.<a id=625></a>
 
 ###### Article R*511-44
 
@@ -50522,15 +52634,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 23 JORF 30 décembre 1987
-  - Décret n°88-877 du 12 août 1988 - art. 3 () JORF 14 août 1988
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -50539,7 +52645,7 @@ _Cité par_:
   - Code rural - art. R511-36 (V)
 
 
-##### Paragraphe 2 : Electeurs votant individuellement.<a id=583></a>
+##### Paragraphe 2 : Electeurs votant individuellement.<a id=626></a>
 
 ###### Article R*511-45
 
@@ -50567,13 +52673,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -50593,27 +52695,23 @@ prévue à l'article R. 511-49.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural R511-49
-
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Arrêté du 1 décembre 2006 - art. 1 (V)
   - Arrêté du 1 décembre 2006 - art. 2 (V)
   - Code rural - art. R511-39 (V)
+
+_Cite_:
+
+  - Code rural R511-49
 
 
 ###### Article R*511-47
@@ -50631,13 +52729,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -50645,7 +52739,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D571-2 (M)
 
 
-##### Paragraphe 3 : Groupements électeurs.<a id=584></a>
+##### Paragraphe 3 : Groupements électeurs.<a id=627></a>
 
 ###### Article R*511-48
 
@@ -50679,20 +52773,16 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Code rural et de la pêche maritime - art. R511-38 (V)
 
 
-##### Paragraphe 4 : Recensement des votes.<a id=585></a>
+##### Paragraphe 4 : Recensement des votes.<a id=628></a>
 
 ###### Article R*511-49
 
@@ -50713,16 +52803,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Sous-section 7 : Contentieux.<a id=586></a>
+##### Sous-section 7 : Contentieux.<a id=629></a>
 
 ###### Article R*511-50
 
@@ -50745,16 +52831,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Sous-section 8 : Cessation de mandat.<a id=587></a>
+##### Sous-section 8 : Cessation de mandat.<a id=630></a>
 
 ###### Article R*511-51
 
@@ -50778,9 +52860,13 @@ d'expiration du mandat des membres qu'ils remplacent.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cite_:
 
@@ -50795,49 +52881,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D513-10 (V)
 
 
-##### Sous-section 9 : Elections partielles.<a id=588></a>
-
-###### Article R*511-52
-
-Des élections partielles ont lieu :
-
-1. Dans le cas où l'annulation des opérations électorales d'un collège est devenue définitive ;
-
-2. En cas de dissolution de la chambre d'agriculture ;
-
-3. Lorsque le nombre des membres d'une chambre départementale d'agriculture est réduit de plus d'un quart ;
-
-4. Lorsque le nombre des membres représentant le collège des exploitants et assimilés est réduit de plus d'un quart ;
-
-5. Lorsque la représentation de l'un des collèges mentionnés aux 2°, 3°, 4° et 5° de l'article R. 511-6 est réduite de plus
-de moitié.
-
-Dans les cas définis aux 3°, 4° et 5° ci-dessus, le président de la chambre d'agriculture avise immédiatement le préfet.
-
-Celui-ci convoque, dans les quatre mois, les électeurs du ou des collèges intéressés afin de pourvoir les sièges vacants.
-Toutefois, il n'est procédé à aucune élection partielle dans les douze mois qui précèdent le renouvellement des chambres
-d'agriculture.
-
-Le décret de dissolution mentionné à l'article L. 511-11 est pris sur la proposition du ministre de l'agriculture.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V)
-
-_Cité par_:
-
-  - Code rural - art. D511-63 (V)
-  - Code rural - art. R511-53 (V)
-  - Code rural - art. R571-25 (V)
-  - Code rural et de la pêche maritime - art. D512-5 (V)
-  - Code rural et de la pêche maritime - art. R511-51 (V)
-
-_Cite_:
-
-  - Code rural L511-11, R511-6
-
+##### Sous-section 9 : Elections partielles.<a id=631></a>
 
 ###### Article R*511-53
 
@@ -50874,21 +52918,62 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 2 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 24 JORF 30 décembre 1987
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Code rural - art. R571-26 (V)
 
 
-##### Section 4 : Fonctionnement.<a id=589></a>
+###### Article R511-52
+
+Des élections partielles ont lieu :
+
+1. Dans le cas où l'annulation des opérations électorales d'un collège est devenue définitive ;
+
+2. En cas de dissolution de la chambre d'agriculture ;
+
+3. Lorsque le nombre des membres d'une chambre départementale d'agriculture est réduit de plus d'un quart ;
+
+4. Lorsque le nombre des membres représentant le collège des exploitants et assimilés est réduit de plus d'un quart ;
+
+5. Lorsque la représentation de l'un des collèges mentionnés aux 2°, 3°, 4° et 5° de l'article R. 511-6 est réduite de plus
+de moitié.
+
+Dans les cas définis aux 3°, 4° et 5° ci-dessus, le président de la chambre d'agriculture avise immédiatement le préfet.
+
+Celui-ci convoque, dans les quatre mois, les électeurs du ou des collèges intéressés afin de pourvoir les sièges vacants.
+Toutefois, il n'est procédé à aucune élection partielle dans les douze mois qui précèdent le renouvellement des chambres
+d'agriculture.
+
+Le décret de dissolution mentionné à l'article L. 511-11 est pris sur la proposition du ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code rural - art. D511-63 (V)
+  - Code rural - art. R511-53 (V)
+  - Code rural - art. R571-25 (V)
+  - Code rural et de la pêche maritime - art. D512-5 (V)
+  - Code rural et de la pêche maritime - art. R511-51 (V)
+
+_Cite_:
+
+  - Code rural L511-11, R511-6
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+##### Section 4 : Fonctionnement.<a id=632></a>
 
 ###### Article R*511-54
 
@@ -50916,199 +53001,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*511-55
-
-Si au jour fixé par la convocation la chambre d'agriculture ne réunit pas plus de la moitié de ses membres, la session est
-renvoyée de plein droit à huitaine ; une convocation spéciale est faite d'urgence par le président ; les délibérations sont
-alors valables quel que soit le nombre des membres présents. La durée de la session court du jour fixé pour la deuxième
-réunion.
-
-Lorsque, en cours de session, les membres présents ne forment pas la majorité de la chambre, les délibérations sont renvoyées
-au surlendemain du jour où l'insuffisance numérique a été constatée. A partir de cette dernière date, les délibérations sont
-valables quel que soit le nombre des votants.
-
-Dans tous les cas, les noms des absents sont inscrits au procès-verbal.
-
-Les employeurs sont tenus de laisser aux salariés de leur entreprise, membres d'une chambre d'agriculture, le temps
-nécessaire à leur participation aux sessions, aux réunions du bureau lorsqu'ils en sont membres, aux réunions de commissions
-auxquelles ils sont conviés, aux sessions de formation organisées pour les préparer à l'exercice de leur mandat, ainsi que
-pour assurer la représentation de la chambre dans les cas prévus par les lois et règlements.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
 _Modifié par_:
 
-  - Décret n°90-870 du 25 septembre 1990 - art. 1 () JORF 29 septembre 1990
-
-
-###### Article R*511-56
-
-Les délibérations sont prises à la majorité absolue des votants. En cas de partage égal des voix, la voix du président est
-prépondérante, excepté dans les scrutins secrets. Le vote a lieu au scrutin public sur la demande du quart des membres
-présents. Les noms des votants, avec l'indication de leur vote, sont alors insérés au procès-verbal.
-
-Ce vote a lieu au scrutin secret toutes les fois que le tiers des membres présents le réclame ou qu'il s'agit de procéder à
-une nomination ou présentation.
-
-Dans ce dernier cas, après deux tours de scrutin secret, si aucun des candidats n'a obtenu la majorité absolue, il est
-procédé pour la nomination ou présentation à un troisième tour de scrutin et l'élection a lieu à la majorité relative. A
-égalité de voix, l'élection est acquise au plus âgé des candidats.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*511-57
-
-Le président de la chambre d'agriculture avise le commissaire de la République et le président du conseil général au moins
-huit jours à l'avance de la date fixée pour la tenue des réunions et de l'ordre du jour des travaux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°86-1122 1986-10-17 art. 2 JORF 18 octobre 1986
-
-
-###### Article R*511-58
-
-Le commissaire de la République et le président du conseil général du département où la chambre d'agriculture a son siège
-peuvent assister aux séances de la chambre. Ils sont entendus chaque fois qu'ils le demandent. Ils peuvent se faire assister
-ou représenter.
-
-Le directeur départemental de l'agriculture assiste à titre consultatif aux réunions de la chambre d'agriculture. Il peut se
-faire suppléer et se faire accompagner par tout fonctionnaire qualifié pour l'assister dans l'exercice de ses fonctions.
-
-Les chambres d'agriculture peuvent aussi entendre les personnes qu'il leur paraît utile de consulter.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°86-1122 1986-10-17 art. 3 JORF 18 octobre 1986
-
-
-###### Article R*511-59
-
-Les séances des chambres d'agriculture ne sont pas publiques mais les chambres peuvent décider la publication de leurs
-procès-verbaux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*511-60
-
-Les procès-verbaux des séances des chambres d'agriculture doivent être transmis dans le mois au préfet du siège de la chambre
-qui les transmet au ministre de l'agriculture. En application des dispositions de l'article L. 511-10, dans les deux mois de
-cette dernière transmission, tout acte ou délibération à la loi et à l'ordre public est annulé par décret pris sur le rapport
-du ministre de l'agriculture.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L511-10
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*511-61
-
-En cas de démission de l'ensemble des membres de la chambre, de dissolution, d'annulation des élections ou d'empêchement
-collectif des membres de la chambre, une délégation spéciale de trois membres est chargée de l'administration de la chambre
-jusqu'à l'installation de ses nouveaux membres. Cette délégation est choisie parmi les électeurs mentionnés à l'article R.
-511-12.
-
-La délégation spéciale est nommée par arrêté du commissaire de la République intervenant dans les quinze jours de la
-constatation d'une absence totale de membres de la chambre d'agriculture.
-
-La délégation spéciale élit son président. Les pouvoirs de cette délégation spéciale sont limités aux actes d'administration
-conservatoires et urgents. En aucun cas il n'est permis au président de la délégation d'engager les finances de la chambre
-au-delà des ressources disponibles de l'exercice courant. La délégation ne prend aucune décision définitive concernant le
-personnel, sauf celles imposées par les textes.
-
-Les membres de la délégation spéciale sont indemnisés dans les conditions prévues à l'article R. 511-85.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R511-12, R511-85
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°90-870 du 25 septembre 1990 - art. 2 () JORF 29 septembre 1990
-
-
-###### Article R*511-62
-
-En cas de réduction d'un tiers au moins du nombre des membres de la chambre et dans l'attente d'élections dans les conditions
-prévues à l'article R. 511-52, si le président et le premier vice-président ne sont plus en fonctions, la chambre
-d'agriculture, convoquée par le préfet, procède à l'élection d'un président et d'un premier vice-président.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R511-52
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*511-63
@@ -51158,13 +53053,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 3 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*511-64
@@ -51183,12 +53074,194 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*511-65
+###### Article R511-55
+
+Si au jour fixé par la convocation la chambre d'agriculture ne réunit pas plus de la moitié de ses membres, la session est
+renvoyée de plein droit à huitaine ; une convocation spéciale est faite d'urgence par le président ; les délibérations sont
+alors valables quel que soit le nombre des membres présents. La durée de la session court du jour fixé pour la deuxième
+réunion.
+
+Lorsque, en cours de session, les membres présents ne forment pas la majorité de la chambre, les délibérations sont renvoyées
+au surlendemain du jour où l'insuffisance numérique a été constatée. A partir de cette dernière date, les délibérations sont
+valables quel que soit le nombre des votants.
+
+Dans tous les cas, les noms des absents sont inscrits au procès-verbal.
+
+Les employeurs sont tenus de laisser aux salariés de leur entreprise, membres d'une chambre d'agriculture, le temps
+nécessaire à leur participation aux sessions, aux réunions du bureau lorsqu'ils en sont membres, aux réunions de commissions
+auxquelles ils sont conviés, aux sessions de formation organisées pour les préparer à l'exercice de leur mandat, ainsi que
+pour assurer la représentation de la chambre dans les cas prévus par les lois et règlements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R511-56
+
+Les délibérations sont prises à la majorité absolue des votants. En cas de partage égal des voix, la voix du président est
+prépondérante, excepté dans les scrutins secrets. Le vote a lieu au scrutin public sur la demande du quart des membres
+présents. Les noms des votants, avec l'indication de leur vote, sont alors insérés au procès-verbal.
+
+Ce vote a lieu au scrutin secret toutes les fois que le tiers des membres présents le réclame ou qu'il s'agit de procéder à
+une nomination ou présentation.
+
+Dans ce dernier cas, après deux tours de scrutin secret, si aucun des candidats n'a obtenu la majorité absolue, il est
+procédé pour la nomination ou présentation à un troisième tour de scrutin et l'élection a lieu à la majorité relative. A
+égalité de voix, l'élection est acquise au plus âgé des candidats.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R511-57
+
+Le président de la chambre d'agriculture avise le commissaire de la République et le président du conseil général au moins
+huit jours à l'avance de la date fixée pour la tenue des réunions et de l'ordre du jour des travaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R511-58
+
+Le commissaire de la République et le président du conseil général du département où la chambre d'agriculture a son siège
+peuvent assister aux séances de la chambre. Ils sont entendus chaque fois qu'ils le demandent. Ils peuvent se faire assister
+ou représenter.
+
+Le directeur départemental de l'agriculture assiste à titre consultatif aux réunions de la chambre d'agriculture. Il peut se
+faire suppléer et se faire accompagner par tout fonctionnaire qualifié pour l'assister dans l'exercice de ses fonctions.
+
+Les chambres d'agriculture peuvent aussi entendre les personnes qu'il leur paraît utile de consulter.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R511-59
+
+Les séances des chambres d'agriculture ne sont pas publiques mais les chambres peuvent décider la publication de leurs
+procès-verbaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R511-60
+
+Les procès-verbaux des séances des chambres d'agriculture doivent être transmis dans le mois au préfet du siège de la chambre
+qui les transmet au ministre de l'agriculture. En application des dispositions de l'article L. 511-10, dans les deux mois de
+cette dernière transmission, tout acte ou délibération étranger aux attributions des chambres ou contraire à la loi et à
+l'ordre public est annulé par décret pris sur le rapport du ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L511-10
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R511-61
+
+En cas de démission de l'ensemble des membres de la chambre, de dissolution, d'annulation des élections ou d'empêchement
+collectif des membres de la chambre, une délégation spéciale de trois membres est chargée de l'administration de la chambre
+jusqu'à l'installation de ses nouveaux membres. Cette délégation est choisie parmi les électeurs mentionnés à l'article R.
+511-12.
+
+La délégation spéciale est nommée par arrêté du commissaire de la République intervenant dans les quinze jours de la
+constatation d'une absence totale de membres de la chambre d'agriculture.
+
+La délégation spéciale élit son président. Les pouvoirs de cette délégation spéciale sont limités aux actes d'administration
+conservatoires et urgents. En aucun cas il n'est permis au président de la délégation d'engager les finances de la chambre
+au-delà des ressources disponibles de l'exercice courant. La délégation ne prend aucune décision définitive concernant le
+personnel, sauf celles imposées par les textes.
+
+Les membres de la délégation spéciale sont indemnisés dans les conditions prévues à l'article R. 511-85.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R511-12, R511-85
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R511-62
+
+En cas de réduction d'un tiers au moins du nombre des membres de la chambre et dans l'attente d'élections dans les conditions
+prévues à l'article R. 511-52, si le président et le premier vice-président ne sont plus en fonctions, la chambre
+d'agriculture, convoquée par le préfet, procède à l'élection d'un président et d'un premier vice-président.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R511-52
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R511-65
 
 Sous réserve des dispositions de l'article L. 513-2, le premier vice-président supplée le président en cas de démission,
 d'empêchement ou de décès.
@@ -51203,12 +53276,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*511-66
+###### Article R511-66
 
 Lorsque l'avis de la chambre d'agriculture est demandé conformément à l'article L. 511-3, le bureau de la chambre
 d'agriculture, pendant l'intervalle des sessions et en cas d'urgence, a qualité pour donner cet avis aux lieu et place de la
@@ -51224,12 +53297,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*511-67
+###### Article R511-67
 
 Les chambres d'agriculture correspondent par leur président sur les questions qui sont de leur compétence avec le ministre de
 l'agriculture et le préfet ou les préfets de leur circonscription, ainsi qu'avec les autres chambres d'agriculture.
@@ -51240,12 +53313,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*511-68
+###### Article R511-68
 
 La chambre d'agriculture établit son règlement intérieur.
 
@@ -51255,12 +53328,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*511-69
+###### Article R511-69
 
 Pour l'exercice des activités prévues aux articles L. 511-3 et R. 511-1, les chambres d'agriculture constituent des services
 généraux.
@@ -51291,16 +53364,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-1122 1986-10-17 art. 4 JORF 18 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*511-70
+###### Article R511-70
 
 Dans les cérémonies publiques, les membres des chambres d'agriculture prennent rang immédiatement après ceux des tribunaux de
 commerce et concurremment avec ceux des chambres de commerce et d'industrie et avec ceux des chambres de métiers. Le
@@ -51313,12 +53382,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 5 : Régime financier<a id=590></a>
+##### Section 5 : Régime financier<a id=633></a>
 
 ###### Article R*511-71
 
@@ -51334,21 +53403,16 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 14 () JORF 11 février 1984 en vigueur le 15 février 1984
-  - Décret n°86-1124 1986-10-17 art. 1 JORF 18 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Code rural et de la pêche maritime - art. D513-22 (V)
 
 
-##### Sous-section 1 : Opérations du budget général.<a id=591></a>
+##### Sous-section 1 : Opérations du budget général.<a id=634></a>
 
 ###### Article R*511-72
 
@@ -51427,13 +53491,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-1123 1986-10-17 art. 2 JORF 18 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -51459,9 +53519,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*511-83
@@ -51480,9 +53540,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -51500,9 +53560,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*511-85
@@ -51539,7 +53599,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-870 du 25 septembre 1990 - art. 3 () JORF 29 septembre 1990
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-74
@@ -51551,6 +53611,10 @@ Au budget général est rattaché le solde créditeur ou débiteur de chacun des
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D511-74
+
 _Cite_:
 
   - Code rural L511-4
@@ -51559,9 +53623,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-75
@@ -51584,13 +53648,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 15 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-76
@@ -51605,13 +53665,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 16 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-77
@@ -51630,6 +53686,10 @@ la chambre d'agriculture.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D511-77
+
 _Cite_:
 
   - Code rural R511-74, R514-1, R511-102
@@ -51638,9 +53698,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-78
@@ -51650,13 +53710,17 @@ président et par l'agent comptable.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D511-78
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-79
@@ -51667,6 +53731,10 @@ de ses membres pour suppléer le président dans ses fonctions.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D511-79
+
 _Cite_:
 
   - Décret n°62-1587 1962-12-29
@@ -51675,9 +53743,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-80
@@ -51696,6 +53764,10 @@ et comptes).
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D511-80
+
 _Cite_:
 
   - Décret n°62-1587 1962-12-29
@@ -51704,9 +53776,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-81
@@ -51715,13 +53787,17 @@ La gestion de l'agent comptable est placée sous la surveillance du trésorier-p
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D511-81
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-82
@@ -51750,27 +53826,22 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 17 () JORF 11 février 1984 en vigueur le 15 février 1984
-  - Décret n°86-1124 1986-10-17 art. 2 JORF 18 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Décret n°2010-1629 du 23 décembre 2010 - art. 8 (VT)
 
 
-##### Sous-section 2 : Opérations des budgets spéciaux.<a id=592></a>
+##### Sous-section 2 : Opérations des budgets spéciaux.<a id=635></a>
 
 ###### Article R511-86
 
 Les opérations financières et comptables des établissements et services d'utilité agricole, à l'exception de ceux mentionnés
-à l'article R. 511-102, sont exécutées par le président de la chambre d'agriculture, dans les conditions définies à l'article
-L. 511-4.
+à l'article R. 511-102, sont exécutées par le président de la chambre d'agriculture et par l'agent comptable de la chambre
+d'agriculture, dans les conditions définies à l'article L. 511-4.
 
 L'agent comptable est personnellement et pécuniairement responsable du recouvrement des recettes prévues au budget, du
 paiement des dépenses dans la limite des crédits régulièrement ouverts, ainsi que de la conservation des fonds et valeurs
@@ -51778,6 +53849,10 @@ provenant de la gestion des établissements et services d'utilité agricole ou u
 responsable de la sincérité des écritures.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D511-86
 
 _Cite_:
 
@@ -51787,9 +53862,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-87
@@ -51823,13 +53898,13 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-484 du 14 mars 1986 - art. 5 () JORF 16 mars 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2007-345 du 14 mars 2007 - art. 2 () JORF 16 mars 2007
 
 
 ###### Article R511-88
@@ -51839,13 +53914,17 @@ l'égard de tout établissement ou service d'utilité agricole.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D511-88
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-89
@@ -51856,7 +53935,7 @@ création. Ils sont votés par la chambre d'agriculture.
 
 Toutefois, les budgets spéciaux des établissements ou services mentionnés au quatrième alinéa de l'article R. 511-87 sont
 préparés par le président du comité de direction et votés par ledit comité, la chambre d'agriculture votant sa contribution
-au fonctionnement de l'établissement ou du service. 
+au fonctionnement de l'établissement ou du service.
 
 Les budgets spéciaux ci-dessus mentionnés sont soumis par le président de la chambre d'agriculture, avant le 30 novembre, à
 l'approbation du commissaire de la République.
@@ -51871,13 +53950,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 18 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-90
@@ -51911,30 +53986,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Sous-section 3 : Opérations communes au budget général et aux budgets spéciaux.<a id=593></a>
-
-###### Article R*511-95
-
-Les fonds libres de la chambre d'agriculture sont déposés soit au Trésor, soit au service des chèques postaux, soit dans les
-caisses de crédit agricole mutuel aux conditions consenties aux autres déposants.
-
-Les fonds des chambres d'agriculture sont insaisissables.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
+##### Sous-section 3 : Opérations communes au budget général et aux budgets spéciaux.<a id=636></a>
 
 ###### Article R511-91
 
@@ -51954,6 +54011,10 @@ du ministre de l'agriculture.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D511-91
+
 _Cite_:
 
   - Code rural R511-94
@@ -51962,9 +54023,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-92
@@ -51985,9 +54046,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-93
@@ -51997,13 +54058,17 @@ exercice ne peuvent être employés à l'acquittement de dépenses d'un autre ex
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D511-93
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-94
@@ -52013,13 +54078,35 @@ budget.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D511-94
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R511-95
+
+Les fonds libres de la chambre d'agriculture sont déposés soit au Trésor, soit au service des chèques postaux, soit dans les
+caisses de crédit agricole mutuel aux conditions consenties aux autres déposants.
+
+Les fonds des chambres d'agriculture sont insaisissables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-96
@@ -52035,18 +54122,22 @@ l'agent comptable.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D511-96
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 6 : Chambre interdépartementale de l'Ile-de-France.<a id=594></a>
+##### Section 6 : Chambre interdépartementale de l'Ile-de-France.<a id=637></a>
 
-###### Article R*511-97
+###### Article R511-97
 
 Par dérogation à l'article L. 511-1, une chambre interdépartementale d'agriculture de l'Ile-de-France, dont le siège est fixé
 dans le département des Yvelines, a pour circonscription Paris et les départements des Yvelines, de l'Essonne, du Val-d'Oise,
@@ -52065,16 +54156,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 4 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*511-98
+###### Article R511-98
 
 Pour l'application du présent chapitre, la circonscription de la chambre interdépartementale d'agriculture de l'Ile-de-France
 est considérée comme un département.
@@ -52085,16 +54172,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 4 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*511-99
+###### Article R511-99
 
 La chambre d'agriculture de l'Ile-de-France élit un bureau composé au minimum de :
 
@@ -52117,17 +54200,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 4 () JORF 5 août 1982
-  - Décret n°86-484 du 14 mars 1986 - art. 4 () JORF 16 mars 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*511-100
+###### Article R511-100
 
 Les attributions et obligations dévolues aux commissaires de la République par les dispositions relatives aux chambres
 départementales d'agriculture sont exercées, en ce qui concerne la chambre d'agriculture de l'Ile-de-France, par le
@@ -52145,17 +54223,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 4 () JORF 5 août 1982
-  - Décret n°86-1122 1986-10-17 art. 5 JORF 18 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 7 : Etablissements et services d'utilité agricole interchambres d'agriculture.<a id=595></a>
+##### Section 7 : Etablissements et services d'utilité agricole interchambres d'agriculture.<a id=638></a>
 
 ###### Article R511-102
 
@@ -52196,16 +54269,13 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-1126 du 17 octobre 1986 - art. 1 () JORF 19 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 2 () JORF 19 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 3 () JORF 19 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 4 () JORF 19 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2007-345 du 14 mars 2007 - art. 2 () JORF 16 mars 2007
 
 
 ###### Article R511-103
@@ -52228,16 +54298,13 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-1126 du 17 octobre 1986 - art. 1 () JORF 19 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 4 () JORF 19 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 5 () JORF 19 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 6 () JORF 19 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2007-345 du 14 mars 2007 - art. 2 () JORF 16 mars 2007
 
 
 ###### Article R511-104
@@ -52264,15 +54331,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-1126 du 17 octobre 1986 - art. 1 () JORF 19 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 4 () JORF 19 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 5 () JORF 19 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R511-105
@@ -52288,15 +54349,13 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-1126 du 17 octobre 1986 - art. 1 () JORF 19 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 4 () JORF 19 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 5 () JORF 19 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2007-345 du 14 mars 2007 - art. 2 () JORF 16 mars 2007
 
 
 ###### Article R511-106
@@ -52318,14 +54377,13 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-1126 du 17 octobre 1986 - art. 1 () JORF 19 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 4 () JORF 19 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2007-345 du 14 mars 2007 - art. 2 () JORF 16 mars 2007
 
 
 ###### Article R511-107
@@ -52362,14 +54420,13 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-1126 du 17 octobre 1986 - art. 1 () JORF 19 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 7 () JORF 19 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2007-345 du 14 mars 2007 - art. 2 () JORF 16 mars 2007
 
 
 ###### Article R511-108
@@ -52406,14 +54463,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-1123 1986-10-17 art. 3 JORF 18 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 1 () JORF 19 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -52439,15 +54491,13 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 19 () JORF 11 février 1984 en vigueur le 15 février 1984
-  - Décret n°86-1124 1986-10-17 art. 3 JORF 18 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 1 () JORF 19 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2007-345 du 14 mars 2007 - art. 2 () JORF 16 mars 2007
 
 
 ###### Article R511-110
@@ -52484,18 +54534,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 20 () JORF 11 février 1984 en vigueur le 15 février 1984
-  - Décret n°86-1126 du 17 octobre 1986 - art. 1 () JORF 19 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 4 () JORF 19 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 8 : Dispositions communes aux chambres départementales d'agriculture et aux établissements et services d'utilité agricole interchambres d'agriculture.<a id=596></a>
+##### Section 8 : Dispositions communes aux chambres départementales d'agriculture et aux établissements et services d'utilité agricole interchambres d'agriculture.<a id=639></a>
 
 ###### Article R511-111
 
@@ -52513,15 +54557,13 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 21 () JORF 11 février 1984 en vigueur le 15 février 1984
-  - Décret n°86-1126 du 17 octobre 1986 - art. 4 () JORF 19 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 5 () JORF 19 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2007-345 du 14 mars 2007 - art. 2 () JORF 16 mars 2007
 
 
 ###### Article R511-112
@@ -52553,85 +54595,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 22 () JORF 11 février 1984 en vigueur le 15 février 1984
-  - Décret n°86-1126 du 17 octobre 1986 - art. 4 () JORF 19 octobre 1986
-  - Décret n°86-1126 du 17 octobre 1986 - art. 5 () JORF 19 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer.<a id=597></a>
-
-###### Article R*511-113
-
-Les quatre membres mentionnés à l'article R. 511-6, 5 (b) sont élus par les autres sociétés coopératives agricoles, leurs
-unions et fédérations, ainsi que par les sociétés d'intérêt collectif agricole ayant pour objet d'assurer des services dans
-l'intérêt des agriculteurs.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R511-6
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°88-1070 1988-11-29 art. 6 JORF 30 novembre 1988
-
-
-###### Article R*511-114
-
-Outre les personnes mentionnées au 2° de l'article R. 511-8, sont électeurs, au titre du collège mentionné à l'article R.
-511-6, 2°, les propriétaires et usufruitiers de parcelles soumises aux dispositions relatives au colonat partiaire.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R511-8, R511-6
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°82-897 du 19 octobre 1982 - art. 2 () JORF 20 octobre 1982
-  - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
-
-
-###### Article R*511-115
-
-Les préfets ont délégation permanente du ministre de l'agriculture pour demander la convocation de la chambre d'agriculture
-en session extraordinaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°82-897 du 19 octobre 1982 - art. 2 () JORF 20 octobre 1982
-  - Décret n°88-528 du 3 mai 1988 - art. 2 () JORF 6 mai 1988
-
+##### Section 9 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer.<a id=640></a>
 
 ###### Article R*511-116
 
@@ -52642,7 +54611,7 @@ Par dérogation aux dispositions de l'article R. 511-6, la chambre d'agriculture
 
 a) Celui des électeurs exploitant moins de 10 ha, à raison de 7 ;
 
-b) Celui des électeurs exploitant plus de 10 ha, à raison de 5 ;
+b) Celui des électeurs exploitant plus de 10 ha, à raison de 5.
 
 2. D'un membre élu, au scrutin de liste départemental, par les propriétaires ou usufruitiers mentionnés à l'article R. 511-8,
 2°.
@@ -52662,9 +54631,34 @@ agriculteurs, y compris leurs unions et fédérations.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - TXT_SOURCE: Code rural R511-6, R511-8
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R511-113
+
+Les quatre membres mentionnés à l'article R. 511-6, 5 (b) sont élus par les autres sociétés coopératives agricoles, leurs
+unions et fédérations, ainsi que par les sociétés d'intérêt collectif agricole ayant pour objet d'assurer des services dans
+l'intérêt des agriculteurs.
+
+**Liens relatifs à cet article**
+
 _Cite_:
 
-  - Code rural R511-6, R511-8
+  - Code rural R511-6
+
+_Nouveaux textes_:
+
+  - Code rural art. R511-102
 
 _Codifié par_:
 
@@ -52672,66 +54666,68 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-1070 1988-11-29 art. 16 JORF 30 novembre 1988
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2007-345 du 14 mars 2007 - art. 2 () JORF 16 mars 2007
 
 
-#### Chapitre II : Chambres régionales<a id=598></a>
+###### Article R511-114
 
-##### Section 1 : Dispositions particulières aux chambres régionales d'agriculture.<a id=599></a>
-
-###### Article R*512-1
-
-Une chambre régionale d'agriculture, ayant le même statut d'établissement public que les chambres départementales, constitue
-pour chaque région, auprès des pouvoirs publics, l'organe consultatif et professionnel des intérêts agricoles.
-
-Le siège de cette chambre se trouve, selon le cas, soit au chef-lieu de la région, soit au siège désigné par arrêté du
-commissaire de la République de région sur proposition de la chambre régionale intéressée.
+Outre les personnes mentionnées au 2° de l'article R. 511-8, sont électeurs, au titre du collège mentionné à l'article R.
+511-6, 2°, les propriétaires et usufruitiers de parcelles soumises aux dispositions relatives au colonat partiaire.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code rural R511-8, R511-6
+
+_Nouveaux textes_:
+
+  - Code rural art. R511-104
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 5 () JORF 5 août 1982
-  - Décret n°84-96 du 9 février 1984 - art. 23 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2007-345 du 14 mars 2007 - art. 2 () JORF 16 mars 2007
 
 
-###### Article R*512-2
+###### Article R511-115
 
-La fusion en une chambre interrégionale d'agriculture de deux chambres régionales peut être autorisée par décret pris sur la
-proposition du ministre de l'agriculture, après avis concordants des chambres régionales concernées et de l'ensemble des
-chambres départementales d'agriculture de deux régions voisines, le nombre total des départements concernés ne pouvant
-cependant pas être supérieur à huit.
-
-Les fusions réalisées antérieurement au 1er juillet 1982 sont considérées comme satisfaisant aux conditions du présent
-article.
-
-Pour l'application du présent chapitre une chambre interrégionale d'agriculture est considérée comme une chambre régionale.
-
-Des chambres régionales distinctes peuvent être rétablies par décret pris sur la proposition du ministre de l'agriculture sur
-la demande des deux tiers au moins des membres de la chambre interrégionale.
+Les préfets ont délégation permanente du ministre de l'agriculture pour demander la convocation de la chambre d'agriculture
+en session extraordinaire.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural art. R511-106
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 5 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
+_Transféré par_:
+
+  - Décret n°2007-345 du 14 mars 2007 - art. 2 () JORF 16 mars 2007
+
+
+#### Chapitre II : Chambres régionales<a id=641></a>
+
+##### Section 1 : Dispositions particulières aux chambres régionales d'agriculture.<a id=642></a>
 
 ###### Article R*512-3
 
@@ -52782,6 +54778,10 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
 _Cité par_:
 
   - Code rural - art. R512-4 (V)
@@ -52790,10 +54790,6 @@ _Cité par_:
 _Cite_:
 
   - Code rural R511-6
-
-_Modifié par_:
-
-  - Décret n°88-1070 1981-11-29 art. 5 JORF 30 novembre 1988
 
 
 ###### Article R*512-4
@@ -52816,14 +54812,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 5 () JORF 5 août 1982
-  - Décret n°87-1058 1987-12-24 art. 26 JORF 30 décembre 1987
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -52882,7 +54873,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-1070 1988-11-29 art. 8 JORF 30 novembre 1988
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*512-7
@@ -52899,16 +54890,57 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R512-1
+
+Une chambre régionale d'agriculture, ayant le même statut d'établissement public que les chambres départementales, constitue
+pour chaque région, auprès des pouvoirs publics, l'organe consultatif et professionnel des intérêts agricoles.
+
+Le siège de cette chambre se trouve, selon le cas, soit au chef-lieu de la région, soit au siège désigné par arrêté du
+commissaire de la République de région sur proposition de la chambre régionale intéressée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
 
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 5 () JORF 5 août 1982
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*512-8
+###### Article R512-2
+
+La fusion en une chambre interrégionale d'agriculture de deux chambres régionales peut être autorisée par décret pris sur la
+proposition du ministre de l'agriculture, après avis concordants des chambres régionales concernées et de l'ensemble des
+chambres départementales d'agriculture de deux régions voisines, le nombre total des départements concernés ne pouvant
+cependant pas être supérieur à huit.
+
+Les fusions réalisées antérieurement au 1er juillet 1982 sont considérées comme satisfaisant aux conditions du présent
+article.
+
+Pour l'application du présent chapitre une chambre interrégionale d'agriculture est considérée comme une chambre régionale.
+
+Des chambres régionales distinctes peuvent être rétablies par décret pris sur la proposition du ministre de l'agriculture sur
+la demande des deux tiers au moins des membres de la chambre interrégionale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R512-8
 
 Les recettes et les dépenses des chambres régionales et leur régime financier sont déterminés par décret pris sur le rapport
 du ministre de l'agriculture et du ministre chargé du budget.
@@ -52927,18 +54959,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°82-688 du 3 août 1982 - art. 5 () JORF 5 août 1982
-  - Décret n°84-96 du 9 février 1984 - art. 24 () JORF 11 février 1984 en vigueur le 15 février 1984
-  - Décret n°86-1124 1986-10-17 art. 6 JORF 18 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 2 : Dispositions financières particulières relatives aux chambres régionales d'agriculture.<a id=600></a>
+##### Section 2 : Dispositions financières particulières relatives aux chambres régionales d'agriculture.<a id=643></a>
 
 ###### Article R512-9
 
@@ -52954,13 +54980,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-1126 du 17 octobre 1986 - art. 8 () JORF 19 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R512-10
@@ -52997,13 +55019,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-1126 du 17 octobre 1986 - art. 8 () JORF 19 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R512-11
@@ -53039,43 +55057,14 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°86-1126 du 17 octobre 1986 - art. 8 () JORF 19 octobre 1986
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre III : Assemblée permanente des chambres d'agriculture<a id=601></a>
+#### Chapitre III : Assemblée permanente des chambres d'agriculture<a id=644></a>
 
-##### Section 1 : Organisation et fonctionnement.<a id=602></a>
-
-###### Article R*513-1
-
-Pour l'exécution des missions définies à l'article L. 513-1, les articles L. 511-5, R. 511-2, R. 511-5 et R. 511-51, alinéa
-2, sont applicables à l'assemblée permanente des chambres d'agriculture.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L513-1, L511-5, R511-2, R511-5 à R511-51
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. D513-12 (V)
-  - Code rural et de la pêche maritime - art. D513-22 (V)
-
+##### Section 1 : Organisation et fonctionnement.<a id=645></a>
 
 ###### Article R*513-2
 
@@ -53093,16 +55082,41 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Code rural et de la pêche maritime - art. D513-17 (V)
 
 
-###### Article R*513-3
+###### Article R513-1
+
+Pour l'exécution des missions définies à l'article L. 513-1, les articles L. 511-5, R. 511-2, R. 511-5 et R. 511-51, alinéa
+2, sont applicables à l'assemblée permanente des chambres d'agriculture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L513-1, L511-5, R511-2, R511-5 à R511-51
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. D513-12 (V)
+  - Code rural et de la pêche maritime - art. D513-22 (V)
+
+
+###### Article R513-3
 
 L'assemblée permanente des chambres d'agriculture établit son règlement intérieur.
 
@@ -53112,9 +55126,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-4
@@ -53131,9 +55145,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-5
@@ -53163,9 +55177,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-6
@@ -53176,13 +55190,17 @@ des questions financières, peuvent se faire représenter par un commissaire du 
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D513-6
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-7
@@ -53200,13 +55218,17 @@ Dans tous les cas, les noms des absents sont inscrits au procès-verbal.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D513-7
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-8
@@ -53230,9 +55252,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-9
@@ -53250,9 +55272,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-10
@@ -53264,13 +55286,17 @@ leurs représentants à l'assemblée permanente.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D513-10
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-11
@@ -53285,6 +55311,10 @@ de loi déposés devant le Parlement.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D513-11
+
 _Cite_:
 
   - Code rural L511-3
@@ -53293,14 +55323,14 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 2 : Comité permanent général, commissions et sections spécialisées.<a id=603></a>
+##### Section 2 : Comité permanent général, commissions et sections spécialisées.<a id=646></a>
 
-###### Article R*513-12
+###### Article R513-12
 
 L'assemblée permanente des chambres d'agriculture désigne les membres d'un comité permanent général dont la composition et
 les attributions sont fixées par la présente section. Dans les attributions consultatives et représentatives qu'il exerce au
@@ -53317,9 +55347,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -53333,13 +55363,17 @@ présenter des propositions aux lieu et place de l'assemblée elle-même.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D513-13
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-14
@@ -53356,6 +55390,10 @@ assuré par les services de l'assemblée.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D513-14
+
 _Cite_:
 
   - Code rural R513-12
@@ -53364,9 +55402,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-15
@@ -53380,13 +55418,17 @@ session.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D513-15
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-16
@@ -53421,13 +55463,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°87-1058 1987-12-24 art. 29 JORF 30 décembre 1987
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-17
@@ -53440,13 +55478,17 @@ mandat, un troisième vice-président et des secrétaires adjoints dont le nombr
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D513-17
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-18
@@ -53459,13 +55501,17 @@ Aucune discussion ne peut avoir lieu sur des questions non portées à l'ordre d
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D513-18
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-19
@@ -53484,13 +55530,17 @@ de tout acte étranger aux attributions légales de l'assemblée ou contraire au
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D513-19
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-20
@@ -53508,13 +55558,17 @@ l'assemblée permanente des chambres d'agriculture.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Nouveaux textes_:
 
-  - Décret n°81-277 1981-03-03 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Code rural D513-20
 
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-21
@@ -53525,16 +55579,20 @@ généralement, dans tous les organismes collectifs constitués ou à constituer
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Nouveaux textes_:
 
-  - Décret n°81-277 1981-03-03 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Code rural D513-21
 
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
+_Modifié par_:
 
-##### Section 3 : Régime financier.<a id=604></a>
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+##### Section 3 : Régime financier.<a id=647></a>
 
 ###### Article R*513-22
 
@@ -53556,26 +55614,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*513-26
-
-Les fonds libres de l'assemblée permanente des chambres d'agriculture sont déposés en compte courant au Trésor, sans
-intérêts, à l'exception des sommes figurant au crédit du compte courant postal ouvert au nom de l'agent comptable et des
-sommes déposées, aux conditions consenties aux autres déposants, dans les caisses de crédit agricole mutuel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-23
@@ -53588,13 +55629,17 @@ Un membre élu par le comité permanent général peut suppléer le président d
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D513-23
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-24
@@ -53609,13 +55654,17 @@ l'inspection générale de l'agriculture. Il est justiciable de la Cour des comp
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D513-24
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-25
@@ -53634,13 +55683,34 @@ comptable.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D513-25
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R513-26
+
+Les fonds libres de l'assemblée permanente des chambres d'agriculture sont déposés en compte courant au Trésor, sans
+intérêts, à l'exception des sommes figurant au crédit du compte courant postal ouvert au nom de l'agent comptable et des
+sommes déposées, aux conditions consenties aux autres déposants, dans les caisses de crédit agricole mutuel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-27
@@ -53668,9 +55738,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R513-28
@@ -53680,16 +55750,20 @@ communication de tous documents, registres et pièces justificatives qu'ils juge
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D513-28
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre IV : Dispositions financières communes<a id=605></a>
+#### Chapitre IV : Dispositions financières communes<a id=648></a>
 
 ###### Article R*514-1
 
@@ -53706,9 +55780,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -53727,9 +55801,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*514-3
@@ -53766,9 +55840,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*514-4
@@ -53797,9 +55871,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*514-5
@@ -53823,9 +55897,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*514-6
@@ -53844,9 +55918,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -53871,18 +55945,105 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-### Titre II : Sociétés coopératives agricoles<a id=606></a>
+### Titre II : Sociétés coopératives agricoles<a id=649></a>
 
-#### Chapitre Ier : Dispositions générales, constitution<a id=607></a>
+#### Chapitre Ier : Dispositions générales, constitution<a id=650></a>
 
-##### Section 1 : Dispositions générales.<a id=608></a>
+##### Section 1 : Dispositions générales.<a id=651></a>
 
-###### Article R*521-1
+###### Article R*521-2
+
+Des arrêtés conjoints du ministre de l'agriculture et du ministre chargé du commerce peuvent accorder à titre temporaire aux
+coopératives et unions de coopératives mentionnées au a de l'article R. 521-1 des dérogations relatives à la provenance des
+produits agricoles, lorsque des circonstances économiques exceptionnelles sont susceptibles de diminuer de plus de 50 p. 100
+la capacité normale d'exploitation desdites sociétés.
+
+Les sociétés coopératives agricoles adhérant à une même union peuvent être autorisées par cette union à se procurer
+mutuellement, par son entremise et sous son contrôle, les produits qui leur sont indispensables pour parer à l'insuffisance
+quantitative et, éventuellement, qualitative, soit des récoltes, soit des produits à livrer à leurs associés coopérateurs.
+
+Elles peuvent, dans les mêmes conditions, être autorisées à échanger entre elles les services qui leur sont indispensables.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R521-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Décret n°97-1202 du 19 décembre 1997 - art. Annexe (V)
+  - Code rural - art. R582-5 (V)
+
+
+###### Article R*521-4
+
+Les sociétés coopératives agricoles et leurs unions peuvent constituer des unions mixtes avec d'autres sociétés coopératives
+ou leurs unions.
+
+Les conditions de fonctionnement des unions mixtes sont fixées conformément à la loi du 10 septembre 1947 modifiée portant
+statut de la coopération, par décret en Conseil d'Etat pris après avis du conseil supérieur de la coopération.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°47-1775 1947-09-10
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 3 (V) JORF 30 décembre 1992
+
+
+###### Article R*521-5
+
+Dans les factures, annonces, publications et tous autres documents provenant de sociétés coopératives agricoles, d'unions de
+coopératives agricoles ou de fédérations de coopératives agricoles, la dénomination sociale doit être précédée ou suivie des
+mentions en toutes lettres ci-après : "société coopérative agricole" ou "union de coopératives agricoles" ou "fédération de
+coopératives agricoles". Sauf pour les fédérations non soumises à agrément, cette dénomination doit, en outre, être suivie du
+numéro d'immatriculation prévu à l'article R. 525-12.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R525-12
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R582-7 (V)
+
+
+###### Article R521-1
 
 L'objet des sociétés coopératives agricoles, qui doit être déterminé par leurs statuts, est l'exercice, quels que soient les
 moyens et techniques mis en oeuvre par elles, d'une ou plusieurs des activités ci-dessous définies :
@@ -53917,9 +56078,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -53927,40 +56088,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R521-2 (VD)
 
 
-###### Article R*521-2
-
-Des arrêtés conjoints du ministre de l'agriculture et du ministre chargé du commerce peuvent accorder à titre temporaire aux
-coopératives et unions de coopératives mentionnées au a de l'article R. 521-1 des dérogations relatives à la provenance des
-produits agricoles, lorsque des circonstances économiques exceptionnelles sont susceptibles de diminuer de plus de 50 p. 100
-la capacité normale d'exploitation desdites sociétés.
-
-Les sociétés coopératives agricoles adhérant à une même union peuvent être autorisées par cette union à se procurer
-mutuellement, par son entremise et sous son contrôle, les produits qui leur sont indispensables pour parer à l'insuffisance
-quantitative et, éventuellement, qualitative, soit des récoltes, soit des produits à livrer à leurs associés coopérateurs.
-
-Elles peuvent, dans les mêmes conditions, être autorisées à échanger entre elles les services qui leur sont indispensables.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R521-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Décret n°97-1202 du 19 décembre 1997 - art. Annexe (V)
-  - Code rural - art. R582-5 (V)
-
-
-###### Article R*521-3
+###### Article R521-3
 
 Les sociétés coopératives agricoles peuvent fournir à l'union à laquelle elles adhèrent les services nécessaires à la
 réalisation de son objet statutaire.
@@ -53981,93 +56109,16 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Code rural - art. R582-6 (V)
 
 
-###### Article R*521-4
-
-Les sociétés coopératives agricoles et leurs unions peuvent constituer des unions mixtes avec d'autres sociétés coopératives
-ou leurs unions.
-
-Les conditions de fonctionnement des unions mixtes sont fixées conformément à la loi du 10 septembre 1947 modifiée portant
-statut de la coopération, par décret en Conseil d'Etat pris après avis du conseil supérieur de la coopération.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°47-1775 1947-09-10
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*521-5
-
-Dans les factures, annonces, publications et tous autres documents provenant de sociétés coopératives agricoles, d'unions de
-coopératives agricoles ou de fédérations de coopératives agricoles, la dénomination sociale doit être précédée ou suivie des
-mentions en toutes lettres ci-après : "société coopérative agricole" ou "union de coopératives agricoles" ou "fédération de
-coopératives agricoles". Sauf pour les fédérations non soumises à agrément, cette dénomination doit, en outre, être suivie du
-numéro d'immatriculation prévu à l'article R. 525-12.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural - art. R582-7 (V)
-
-_Cite_:
-
-  - Code rural R525-12
-
-
-##### Section 2 : Constitution.<a id=609></a>
-
-###### Article R*521-6
-
-La création de sociétés coopératives agricoles doit être constatée par un acte authentique ou sous seing privé.
-
-Si cet acte n'est pas signé de tous les souscripteurs du capital social et s'il ne désigne pas les membres du conseil
-d'administration et les commissaires aux comptes, l'assemblée générale constitutive qui a pour mission d'approuver les
-statuts doit être tenue dans le mois suivant l'acte de création de la société et procéder aux nominations. Elle suit les
-règles des assemblées générales extraordinaires. 
-
-La liste des souscriptions du capital initial et l'état des versements opérés par les souscripteurs sont annexés, suivant le
-cas, à l'acte constitutif ou au procès-verbal de l'assemblée générale constitutive.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. R524-23 (VD)
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-03 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
+##### Section 2 : Constitution.<a id=652></a>
 
 ###### Article R*521-7
 
@@ -54083,20 +56134,83 @@ de leur siège.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
 _Cité par_:
 
   - Code rural - art. R582-8 (V)
 
-_Créé par_:
 
-  - Décret n°81-277 1981-03-03 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+###### Article R*521-11
+
+Les dispositions des articles R. 521-8 à R. 521-10 ne sont pas applicables aux sociétés coopératives agricoles et leurs
+unions, constituées avant le 1er juillet 1978 et non immatriculées au registre du commerce et des sociétés.
+
+Tant qu'elles ne sont pas immatriculées, ces sociétés déposent au greffe du tribunal de grande instance du lieu de leur siège
+social toute modification apportée à leur dénomination, à leur durée, à leur siège social, à leur objet, à leur
+circonscription, à la désignation des commissaires aux comptes et des personnes autorisées à signer pour la société ; il est
+donné récépissé de ces dépôts, les documents ainsi déposés sont communiqués à toute personne qui en fait la demande.
+
+Les modifications faisant l'objet des dépôts prévus ci-dessus sont publiées dans un journal habilité à recevoir les annonces
+légales dans le département ou l'arrondissement où la société a son siège ou, s'il s'agit d'une union nationale, au Journal
+officiel de la République française.
+
+Les formalités de dépôt et de publicité prévues au présent article sont accomplies dans le mois suivant l'acte ou la
+délibération entraînant la modification.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R521-8 à R521-10
 
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
+_Modifié par_:
 
-###### Article R*521-8
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2002-1085 du 7 août 2002 - art. 2 () JORF 11 août 2002 en vigueur le 1er novembre 2002
+
+
+###### Article R521-6
+
+La création de sociétés coopératives agricoles doit être constatée par un acte authentique ou sous seing privé.
+
+Si cet acte n'est pas signé de tous les souscripteurs du capital social et s'il ne désigne pas les membres du conseil
+d'administration et les commissaires aux comptes, l'assemblée générale constitutive qui a pour mission d'approuver les
+statuts doit être tenue dans le mois suivant l'acte de création de la société et procéder aux nominations. Elle suit les
+règles des assemblées générales extraordinaires.
+
+La liste des souscriptions du capital initial et l'état des versements opérés par les souscripteurs sont annexés, suivant le
+cas, à l'acte constitutif ou au procès-verbal de l'assemblée générale constitutive.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. R524-23 (VD)
+
+
+###### Article R521-8
 
 L'avis de constitution prévu par l'article 22 du décret du 3 juillet 1978 comporte, lorsqu'il s'agit de sociétés coopératives
 agricoles et de leurs unions, les indications suivantes :
@@ -54119,16 +56233,16 @@ _Cite_:
 
   - Décret n°78-705 1978-07-03 art. 22, art. 27, art. 29
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-03 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
+_Modifié par_:
 
-###### Article R*521-9
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R521-9
 
 La demande d'immatriculation de la société, prévue par l'article 15 du décret n° 84-406 du 30 mai 1984 relatif au registre du
 commerce et des sociétés, contient les indications suivantes :
@@ -54175,17 +56289,9 @@ celles prévues par les articles 15 et 73 du décret n° 84-406 du 30 mai 1984 r
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-03 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°84-407 1984-05-30 art. 1 JORF 31 mai 1984
 
 _Cite_:
 
@@ -54194,12 +56300,16 @@ _Cite_:
   - Décret n°84-406 du 30 mai 1984 - art. 74 (M)
   - Décret n°84-406 du 30 mai 1984 - art. 75 (M)
 
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
 _Cité par_:
 
   - Code rural - art. R582-9 (V)
 
 
-###### Article R*521-10
+###### Article R521-10
 
 La demande d'immatriculation est accompagnée de la liste de tous les administrateurs mentionnant leurs nom, prénom usuel,
 date, lieu de naissance, nationalité et domicile personnel.
@@ -54226,48 +56336,20 @@ _Cite_:
 
   - Code rural R524-1
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-03 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
+_Modifié par_:
 
-###### Article R*521-11
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
-Les dispositions des articles R. 521-8 à R. 521-10 ne sont pas applicables aux sociétés coopératives agricoles et leurs
-unions, constituées avant le 1er juillet 1978 et non immatriculées au registre du commerce et des sociétés.
+_Abrogé par_:
 
-Tant qu'elles ne sont pas immatriculées, ces sociétés déposent au greffe du tribunal de grande instance du lieu de leur siège
-social toute modification apportée à leur dénomination, à leur durée, à leur siège social, à leur objet, à leur
-circonscription, à la désignation des commissaires aux comptes et des personnes autorisées à signer pour la société ; il est
-donné récépissé de ces dépôts, les documents ainsi déposés sont communiqués à toute personne qui en fait la demande.
-
-Les modifications faisant l'objet des dépôts prévus ci-dessus sont publiées dans un journal habilité à recevoir les annonces
-légales dans le département ou l'arrondissement où la société a son siège ou, s'il s'agit d'une union nationale, au Journal
-officiel de la République française.
-
-Les formalités de dépôt et de publicité prévues au présent article sont accomplies dans le mois suivant l'acte ou la
-délibération entraînant la modification.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R521-8 à R521-10
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-03 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
+  - Décret n°2007-1218 du 10 août 2007 - art. 1 () JORF 14 août 2007
 
 
-###### Article R*521-12
+###### Article R521-12
 
 Les actes et pièces déposés par une société coopérative agricole ou union au greffe du tribunal de grande instance avant son
 immatriculation sont conservés par ce greffe, même si la société est immatriculée ultérieurement. Ces documents sont
@@ -54275,16 +56357,20 @@ communiqués à toute personne qui en fait la demande.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-03 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
+_Modifié par_:
 
-###### Article R*521-13
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2007-1218 du 10 août 2007 - art. 1 () JORF 14 août 2007
+
+
+###### Article R521-13
 
 Lorsqu'une société coopérative agricole ou union dont les actes et pièces sont déposés au greffe du tribual de grande
 instance demande à être immatriculée au registre du commerce et des sociétés, elle doit déposer au greffe du tribunal de
@@ -54305,16 +56391,20 @@ _Cite_:
 
   - Code rural R521-8 à R521-10
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-03 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
+_Modifié par_:
 
-###### Article R*521-14
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2007-1218 du 10 août 2007 - art. 1 () JORF 14 août 2007
+
+
+###### Article R521-14
 
 Les sociétés coopératives agricoles ou leurs unions dont la demande d'immatriculation, établie conformément au régime
 provisoire prévu à l'article 69 du décret n° 78-704 du 3 juillet 1978, a été déposée avant le 23 mars 1980 ne sont pas tenues
@@ -54332,36 +56422,44 @@ _Cite_:
   - Code rural R521-13, R524-41
   - Décret n°78-704 du 3 juillet 1978 - art. 69 (V)
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-03 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
+_Modifié par_:
 
-###### Article R*521-15
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2007-1218 du 10 août 2007 - art. 1 () JORF 14 août 2007
+
+
+###### Article R521-15
 
 Toute personne peut exiger qu'il lui soit donné, au siège de la société, connaissance des statuts ou qu'il lui soit délivré,
 à ses frais, copie certifiée.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-03 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
+_Modifié par_:
 
-#### Chapitre II : Associés, tiers non coopérateurs<a id=610></a>
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
-##### Section 1 : Associés coopérateurs.<a id=611></a>
+_Abrogé par_:
 
-###### Article R*522-1
+  - Décret n°2008-375 du 17 avril 2008 - art. 1
+
+
+#### Chapitre II : Associés, tiers non coopérateurs<a id=653></a>
+
+##### Section 1 : Associés coopérateurs.<a id=654></a>
+
+###### Article R522-1
 
 Toute société coopérative agricole doit avoir au moins sept membres qui peuvent être soit des personnes morales, soit des
 personnes physiques, celles-ci devant être chefs d'exploitation.
@@ -54381,9 +56479,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -54391,7 +56489,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R524-23 (VD)
 
 
-###### Article R*522-2
+###### Article R522-2
 
 Le refus d'admission d'un candidat associé coopérateur doit résulter d'une décision du conseil d'administration prise dans un
 délai de trois mois à compter de la date de la demande d'adhésion, à la majorité des membres en fonction.
@@ -54407,9 +56505,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -54417,7 +56515,7 @@ _Cité par_:
   - Code rural - art. R522-8-1 (V)
 
 
-###### Article R*522-3
+###### Article R522-3
 
 L'adhésion à la coopérative entraîne pour l'associé coopérateur :
 
@@ -54433,14 +56531,6 @@ toutefois des dispositions de l'article R. 523-3, alinéas 3 et 4, de l'article 
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Cité par_:
 
   - Code rural - art. R582-13 (V)
@@ -54449,8 +56539,16 @@ _Cite_:
 
   - Code rural 731, R523-1, R523-3
 
+_Codifié par_:
 
-###### Article R*522-4
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R522-4
 
 Sauf en cas de force majeure dûment justifié et soumis à l'appréciation du conseil d'administration, nul associé coopérateur
 ne peut se retirer de la coopérative avant l'expiration de sa période d'engagement.
@@ -54484,9 +56582,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -54500,7 +56598,7 @@ _Cite_:
   - Code rural 731, R523-3
 
 
-###### Article R*522-5
+###### Article R522-5
 
 Les statuts doivent prévoir que l'associé coopérateur s'engage, en cas de mutation de propriété ou de jouissance de
 l'exploitation au titre de laquelle ont été pris les engagements d'activité, à transférer ses parts sociales au nouvel
@@ -54524,9 +56622,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -54535,7 +56633,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R524-7 (VD)
 
 
-###### Article R*522-6
+###### Article R522-6
 
 En cas de décès, d'exclusion, d'interdiction, de mise en état de règlement judiciaire ou de faillite, de déconfiture ou de
 retrait d'un associé coopérateur ou lorsqu'il y a dissolution de la communauté conjugale, la société n'est pas dissoute ;
@@ -54547,16 +56645,16 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Code rural et de la pêche maritime - art. R524-23 (VD)
 
 
-###### Article R*522-7
+###### Article R522-7
 
 En aucun cas un associé coopérateur, ni son héritier ou ayant droit ne peut provoquer l'apposition des scellés sur les biens
 ou valeurs de la société, ni en demander le partage ou la licitation, ni s'immiscer en aucune façon dans les affaires
@@ -54568,12 +56666,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*522-8
+###### Article R522-8
 
 L'exclusion d'un associé coopérateur peut être prononcée par le conseil d'administration pour des raisons graves, notamment
 si l'associé coopérateur a été condamné à une peine criminelle, s'il a nui sérieusement ou tenté de nuire à la société par
@@ -54590,13 +56688,17 @@ déduction éventuelle des pénalités prévues par les statuts ou le règlement
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code rural R523-5
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -54605,14 +56707,10 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R522-5 (VD)
   - Code rural et de la pêche maritime - art. R631-10 (V)
 
-_Cite_:
 
-  - Code rural R523-5
+##### Section 3 : Tiers non coopérateurs.<a id=655></a>
 
-
-##### Section 3 : Tiers non coopérateurs.<a id=612></a>
-
-###### Article R*522-9
+###### Article R522-9
 
 Lorsqu'en application des dispositions du premier alinéa de l'article L. 522-5, les statuts des sociétés coopératives
 agricoles et de leurs unions prévoient que des tiers non coopérateurs peuvent être admis à bénéficier de leurs services dans
@@ -54630,18 +56728,18 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Code rural - art. R582-15 (V)
 
 
-#### Chapitre III : Capital social et dispositions financières<a id=613></a>
+#### Chapitre III : Capital social et dispositions financières<a id=656></a>
 
-##### Section 1 : Capital social.<a id=614></a>
+##### Section 1 : Capital social.<a id=657></a>
 
 ###### Article R*523-1
 
@@ -54665,6 +56763,14 @@ coopératives créées antérieurement au 20 mai 1955 et de 10 francs au moins p
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
 _Cité par_:
 
   - Code rural - art. R523-1-1 (V)
@@ -54676,108 +56782,6 @@ _Cité par_:
 _Cite_:
 
   - Code rural R522-5, R523-4
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*523-2
-
-Les parts ne peuvent recevoir qu'un intérêt dont la limite est fixée par le c de l'article L. 521-3 et le troisième alinéa de
-l'article L. 522-4, à l'exclusion de tout dividende.
-
-L'assemblée générale, sur proposition du conseil d'administration et en fonction des résultats de l'exercice clos, décide,
-s'il y a lieu, d'attribuer un intérêt au capital et, le cas échéant, en fixe le taux dans la limite ci-dessus prévue.
-
-Cet intérêt ne peut être servi que si des excédents ont été réalisés au cours de l'exercice. Toutefois, les statuts peuvent
-prévoir qu'en cas d'insuffisance des résultats d'un exercice, les sommes nécessaires pour parfaire l'intérêt y afférent
-pourront être prélevées sur une provision spécialement constituée à cet effet par l'assemblée générale par prélèvement sur
-les excédents du ou des exercices antérieurs.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L521-3, L522-4
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*523-3
-
-Le capital social souscrit est soumis aux variations normales résultant de la souscription de parts nouvelles par les
-associés coopérateurs ou de l'annulation des parts des associés coopérateurs sortants ou décédés.
-
-Aucune limitation n'est fixée pour le capital initial ni pour ses augmentations successives.
-
-Le capital social souscrit ne peut être réduit au-dessous des trois quarts du montant le plus élevé constaté par une
-assemblée générale depuis la constitution de la société.
-
-Toutefois, cette limite ne s'applique pas lorsque les parts sont remboursées à la suite d'un retrait ou d'une exclusion des
-associés coopérateurs dans les cas prévus par les articles R. 522-4 à R. 522-8 et R. 523-5 et si lesdites parts n'ont pu au
-préalable être cédées à un tiers ou à d'autres associés coopérateurs.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code rural - art. R522-4 (V)
-  - Code rural - art. R523-1-1 (V)
-  - Code rural et de la pêche maritime - art. R522-3 (VD)
-
-_Cite_:
-
-  - Code rural R522-4 à R522-8, R523-5
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*523-4
-
-Les parts des membres sortant de la société avec son accord sont remboursables dans les conditions fixées par l'article R.
-523-5.
-
-Le conseil d'administration peut autoriser le transfert de parts par voie de cession d'un associé coopérateur à un autre
-associé coopérateur ou à un tiers dont l'adhésion a été acceptée. La transmission des parts s'opère par simple transcription
-sur le registre des associés coopérateurs.
-
-La cession ne peut être autorisée si elle a pour résultat de réduire le nombre des parts de l'associé coopérateur cédant au-
-dessous du minimum statutaire prévu à l'article R. 523-1.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R523-5, R523-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural - art. R523-1-1 (V)
 
 
 ###### Article R*523-5
@@ -54806,16 +56810,16 @@ ministre de l'agriculture.
 
 _Cite_:
 
-  - Code rural L523-1, L523-7, R522-4, R526-3
   - Loi n°47-1775 du 10 septembre 1947 - art. 18 (M)
+  - Code rural L523-1, L523-7, R522-4, R526-3
 
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -54826,7 +56830,101 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R523-9 (V)
 
 
-##### Section 2 : Fonds de développement coopératif.<a id=615></a>
+###### Article R523-2
+
+Les parts ne peuvent recevoir qu'un intérêt dont la limite est fixée par le c de l'article L. 521-3 et le troisième alinéa de
+l'article L. 522-4, à l'exclusion de tout dividende.
+
+L'assemblée générale, sur proposition du conseil d'administration et en fonction des résultats de l'exercice clos, décide,
+s'il y a lieu, d'attribuer un intérêt au capital et, le cas échéant, en fixe le taux dans la limite ci-dessus prévue.
+
+Cet intérêt ne peut être servi que si des excédents ont été réalisés au cours de l'exercice. Toutefois, les statuts peuvent
+prévoir qu'en cas d'insuffisance des résultats d'un exercice, les sommes nécessaires pour parfaire l'intérêt y afférent
+pourront être prélevées sur une provision spécialement constituée à cet effet par l'assemblée générale par prélèvement sur
+les excédents du ou des exercices antérieurs.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L521-3, L522-4
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R523-3
+
+Le capital social souscrit est soumis aux variations normales résultant de la souscription de parts nouvelles par les
+associés coopérateurs ou de l'annulation des parts des associés coopérateurs sortants ou décédés.
+
+Aucune limitation n'est fixée pour le capital initial ni pour ses augmentations successives.
+
+Le capital social souscrit ne peut être réduit au-dessous des trois quarts du montant le plus élevé constaté par une
+assemblée générale depuis la constitution de la société.
+
+Toutefois, cette limite ne s'applique pas lorsque les parts sont remboursées à la suite d'un retrait ou d'une exclusion des
+associés coopérateurs dans les cas prévus par les articles R. 522-4 à R. 522-8 et R. 523-5 et si lesdites parts n'ont pu au
+préalable être cédées à un tiers ou à d'autres associés coopérateurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R522-4 (V)
+  - Code rural - art. R523-1-1 (V)
+  - Code rural et de la pêche maritime - art. R522-3 (VD)
+
+_Cite_:
+
+  - Code rural R522-4 à R522-8, R523-5
+
+
+###### Article R523-4
+
+Les parts des membres sortant de la société avec son accord sont remboursables dans les conditions fixées par l'article R.
+523-5.
+
+Le conseil d'administration peut autoriser le transfert de parts par voie de cession d'un associé coopérateur à un autre
+associé coopérateur ou à un tiers dont l'adhésion a été acceptée. La transmission des parts s'opère par simple transcription
+sur le registre des associés coopérateurs.
+
+La cession ne peut être autorisée si elle a pour résultat de réduire le nombre des parts de l'associé coopérateur cédant au-
+dessous du minimum statutaire prévu à l'article R. 523-1.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R523-5, R523-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R523-1-1 (V)
+
+
+##### Section 2 : Fonds de développement coopératif.<a id=658></a>
 
 ###### Article R*523-6
 
@@ -54864,9 +56962,13 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 3 (V) JORF 30 décembre 1992
 
 
 ###### Article R*523-7
@@ -54898,12 +57000,16 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 3 (V) JORF 30 décembre 1992
 
 
-##### Section 3 : Prises de participation.<a id=616></a>
+##### Section 3 : Prises de participation.<a id=659></a>
 
 ###### Article R523-8
 
@@ -54930,14 +57036,6 @@ Son secrétariat est assuré par le bureau compétent du ministère de l'agricul
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Cité par_:
 
   - Arrêté du 23 avril 2008 - art. (V)
@@ -54946,6 +57044,14 @@ _Cité par_:
 _Cite_:
 
   - Code rural L523-5
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R523-10
@@ -54964,6 +57070,10 @@ société participante et la société dans laquelle la participation est prise.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D523-10
+
 _Cite_:
 
   - Code rural R523-8
@@ -54972,9 +57082,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R523-11
@@ -54999,6 +57109,10 @@ alinéa.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural D523-11
+
 _Cite_:
 
   - Code rural R523-10, R523-8, R523-9
@@ -55007,14 +57121,38 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre IV : Administration<a id=617></a>
+##### Section 4 : Participation et intéressement.<a id=660></a>
 
-##### Section 1 : Conseil d'administration.<a id=618></a>
+###### Article R523-9
+
+La décision de la commission spéciale accordant cette autorisation doit être prise à l'unanimité des membres présents.
+
+Si l'unanimité n'est pas obtenue, l'autorisation ne peut être accordée que par décision conjointe des ministres de
+l'agriculture, de l'économie et du budget.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D523-9
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+#### Chapitre IV : Administration<a id=661></a>
+
+##### Section 1 : Conseil d'administration.<a id=662></a>
 
 ###### Article R*524-1
 
@@ -55048,17 +57186,13 @@ lorsqu'il est demandé avant l'assemblée générale ou dans le cours de celle-c
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°1935-08-08 art. 6
-
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -55067,172 +57201,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R524-23 (VD)
   - Code rural et de la pêche maritime - art. R528-2 (VD)
 
-
-###### Article R*524-2
-
-Les administrateurs sont nommés pour deux, trois ou quatre ans et renouvelables par moitié, tiers ou quart tous les ans ; les
-statuts fixent la durée de leur mandat et le rythme de leur renouvellement.
-
-Les premières séries sont désignées par le sort, le renouvellement se fait ensuite à l'ancienneté.
-
-Tout membre du conseil d'administration peut être révoqué par l'assemblée générale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*524-3
-
-En cas de décès, démission ou départ pour toute autre cause d'un ou plusieurs administrateurs, le conseil d'administration
-peut procéder provisoirement à leur remplacement. Toutefois, cette faculté n'est laissée au conseil d'administration que si,
-au cours d'un exercice, le nombre des vacances n'atteint pas la moitié du nombre statutaire des administrateurs.
-
-Le choix du conseil doit être soumis à la ratification de la prochaine assemblée générale. Chaque membre ainsi nommé demeure
-en fonction jusqu'à la date d'expiration du mandat de l'administrateur qu'il remplace.
-
-Si le nombre des vacances atteint la moitié du nombre statutaire des administrateurs, il y a lieu de convoquer
-extraordinairement une assemblée générale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*524-4
-
-L'indemnité compensatrice de l'activité consacrée à l'administration de la coopérative qui peut être allouée aux
-administrateurs en vertu de l'article L. 524-3 est attribuée dans la limite d'une allocation globale décidée et fixée chaque
-année par l'assemblée générale. Cette indemnité est indépendante du remboursement des frais spéciaux exposés, le cas échéant,
-par les administrateurs pour l'exercice de leurs fonctions.
-
-**Liens relatifs à cet article**
-
 _Cite_:
 
-  - Code rural L524-3
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*524-5
-
-Les administrateurs sont responsables selon les règles du droit commun, individuellement ou solidairement, suivant les cas,
-envers la société ou envers les tiers, des fautes qu'ils auraient commises dans leur gestion.
-
-Outre les parts souscrites en application de l'article R. 523-1, chacun d'eux doit être propriétaire, pendant toute la durée
-de son mandat, d'un nombre de parts fixé par les statuts de la société.
-
-Ces dernières parts sont affectées à la garantie de tous les actes de leur gestion, même de ceux qui leur seraient
-exclusivement personnels. Elles sont inaliénables et, s'il a été délivré des certificats correspondants, ceux-ci sont frappés
-d'un timbre indiquant leur inaliénabilité et déposés au siège social.
-
-Toute convention entre la coopérative et l'un de ses administrateurs, soit directe, soit indirecte, soit par personne
-interposée, doit être soumise à l'autorisation préalable du conseil d'administration. Avis en est donné aux commissaires aux
-comptes. Cette disposition n'est pas applicable aux engagements et obligations mentionnés à l'article R. 522-3, alinéa 1.
-
-Il est interdit aux administrateurs autres que les personnes morales de contracter, sous quelque forme que ce soit, des
-emprunts auprès de la société, de se faire consentir par elle un découvert dont la durée dépasse une année ainsi que de faire
-cautionner ou avaliser par elle leurs engagements envers des tiers.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R523-1, R522-3
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*524-6
-
-Le conseil d'administration est chargé de la gestion de la société et doit assurer le bon fonctionnement de celle-ci.
-
-Sans aucune limitation autre que celle des pouvoirs et attributions expressément réservés aux assemblées générales par le
-présent chapitre ou, éventuellement, par les statuts de chaque coopérative, le conseil d'administration dispose des pouvoirs
-les plus étendus.
-
-Le président du conseil d'administration représente la société en justice, tant en demandant qu'en défendant. C'est à sa
-requête ou contre lui que doivent être intentées toutes les actions judiciaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*524-7
-
-Le conseil d'administration se réunit aussi souvent que l'intérêt de la société l'exige et au moins une fois par trimestre,
-sur la convocation du président ou, en cas d'empêchement, sur celle de l'un des vice-présidents, ou encore toutes les fois
-que le tiers de ses membres en fait la demande.
-
-Pour délibérer valablement, le conseil d'administration doit réunir au moins la moitié de ses membres en exercice.
-
-Sauf dans le cas prévu à l'article R. 522-8, les délibérations sont prises à la majorité des membres présents. En cas de
-partage, la voix du président est prépondérante.
-
-Nul ne peut voter par procuration au sein du conseil.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R522-8
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*524-8
-
-Le conseil d'administration peut conférer des délégations de pouvoir à un ou plusieurs de ses membres. Il peut, en outre,
-pour un ou plusieurs objets déterminés, conférer des mandats spéciaux à des associés coopérateurs non administrateurs ou à
-des tiers.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°1935-08-08 art. 6
 
 
 ###### Article R*524-9
@@ -55266,9 +57237,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -55280,7 +57251,174 @@ _Cite_:
   - Décret n°1935-08-08 art. 6
 
 
-##### Section 2 : Commissariat aux comptes.<a id=619></a>
+###### Article R524-2
+
+Les administrateurs sont nommés pour deux, trois ou quatre ans et renouvelables par moitié, tiers ou quart tous les ans ; les
+statuts fixent la durée de leur mandat et le rythme de leur renouvellement.
+
+Les premières séries sont désignées par le sort, le renouvellement se fait ensuite à l'ancienneté.
+
+Tout membre du conseil d'administration peut être révoqué par l'assemblée générale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R524-3
+
+En cas de décès, démission ou départ pour toute autre cause d'un ou plusieurs administrateurs, le conseil d'administration
+peut procéder provisoirement à leur remplacement. Toutefois, cette faculté n'est laissée au conseil d'administration que si,
+au cours d'un exercice, le nombre des vacances n'atteint pas la moitié du nombre statutaire des administrateurs.
+
+Le choix du conseil doit être soumis à la ratification de la prochaine assemblée générale. Chaque membre ainsi nommé demeure
+en fonction jusqu'à la date d'expiration du mandat de l'administrateur qu'il remplace.
+
+Si le nombre des vacances atteint la moitié du nombre statutaire des administrateurs, il y a lieu de convoquer
+extraordinairement une assemblée générale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R524-4
+
+L'indemnité compensatrice de l'activité consacrée à l'administration de la coopérative qui peut être allouée aux
+administrateurs en vertu de l'article L. 524-3 est attribuée dans la limite d'une allocation globale décidée et fixée chaque
+année par l'assemblée générale. Cette indemnité est indépendante du remboursement des frais spéciaux exposés, le cas échéant,
+par les administrateurs pour l'exercice de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L524-3
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R524-5
+
+Les administrateurs sont responsables selon les règles du droit commun, individuellement ou solidairement, suivant les cas,
+envers la société ou envers les tiers, des fautes qu'ils auraient commises dans leur gestion.
+
+Outre les parts souscrites en application de l'article R. 523-1, chacun d'eux doit être propriétaire, pendant toute la durée
+de son mandat, d'un nombre de parts fixé par les statuts de la société.
+
+Ces dernières parts sont affectées à la garantie de tous les actes de leur gestion, même de ceux qui leur seraient
+exclusivement personnels. Elles sont inaliénables et, s'il a été délivré des certificats correspondants, ceux-ci sont frappés
+d'un timbre indiquant leur inaliénabilité et déposés au siège social.
+
+Toute convention entre la coopérative et l'un de ses administrateurs, soit directe, soit indirecte, soit par personne
+interposée, doit être soumise à l'autorisation préalable du conseil d'administration. Avis en est donné aux commissaires aux
+comptes. Cette disposition n'est pas applicable aux engagements et obligations mentionnés à l'article R. 522-3, alinéa 1.
+
+Il est interdit aux administrateurs autres que les personnes morales de contracter, sous quelque forme que ce soit, des
+emprunts auprès de la société, de se faire consentir par elle un découvert dont la durée dépasse une année ainsi que de faire
+cautionner ou avaliser par elle leurs engagements envers des tiers.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R523-1, R522-3
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R524-6
+
+Le conseil d'administration est chargé de la gestion de la société et doit assurer le bon fonctionnement de celle-ci.
+
+Sans aucune limitation autre que celle des pouvoirs et attributions expressément réservés aux assemblées générales par le
+présent chapitre ou, éventuellement, par les statuts de chaque coopérative, le conseil d'administration dispose des pouvoirs
+les plus étendus.
+
+Le président du conseil d'administration représente la société en justice, tant en demandant qu'en défendant. C'est à sa
+requête ou contre lui que doivent être intentées toutes les actions judiciaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R524-7
+
+Le conseil d'administration se réunit aussi souvent que l'intérêt de la société l'exige et au moins une fois par trimestre,
+sur la convocation du président ou, en cas d'empêchement, sur celle de l'un des vice-présidents, ou encore toutes les fois
+que le tiers de ses membres en fait la demande.
+
+Pour délibérer valablement, le conseil d'administration doit réunir au moins la moitié de ses membres en exercice.
+
+Sauf dans le cas prévu à l'article R. 522-8, les délibérations sont prises à la majorité des membres présents. En cas de
+partage, la voix du président est prépondérante.
+
+Nul ne peut voter par procuration au sein du conseil.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R522-8
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R524-8
+
+Le conseil d'administration peut conférer des délégations de pouvoir à un ou plusieurs de ses membres. Il peut, en outre,
+pour un ou plusieurs objets déterminés, conférer des mandats spéciaux à des associés coopérateurs non administrateurs ou à
+des tiers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+##### Section 2 : Commissariat aux comptes.<a id=663></a>
 
 ###### Article R*524-10
 
@@ -55322,16 +57460,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°85-295 du 1 mars 1985 - art. 27 () JORF 5 mars 1985
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*524-11
+###### Article R524-11
 
 Ne peuvent être choisis comme commissaires :
 
@@ -55361,43 +57495,16 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°85-295 du 1 mars 1985 - art. 27 () JORF 5 mars 1985
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2007-1218 du 10 août 2007 - art. 4 () JORF 14 août 2007
 
 
-##### Section 3 : Assemblée générale.<a id=620></a>
-
-###### Article R*524-12
-
-L'assemblée générale réunit tous les associés coopérateurs de la coopérative.
-
-L'assemblée générale ordinaire doit être convoquée par le conseil d'administration au moins une fois par an dans les six mois
-qui suivent la clôture de l'exercice afin d'examiner les comptes ; ce délai est porté à neuf mois pour les unions de
-coopératives. Elle doit l'être également lorsque le cinquième au moins des membres de la société en fait la demande écrite ou
-lorsque le conseil d'administration ou les commissaires aux comptes l'estiment nécessaire.
-
-L'assemblée générale extraordinaire est convoquée par le conseil d'administration à l'initiative du conseil ou lorsqu'un
-quart au moins des membres de la société en fait la demande par écrit.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural - art. R524-40 (V)
-
+##### Section 3 : Assemblée générale.<a id=664></a>
 
 ###### Article R*524-13
 
@@ -55428,91 +57535,15 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Code rural - art. R571-43 (V)
   - Code rural - art. R582-23 (V)
   - Code rural et de la pêche maritime - art. R572-2 (Ab)
-
-
-###### Article R*524-14
-
-L'associé coopérateur empêché peut donner mandat de le représenter à l'assemblée générale.
-
-Le mandataire doit être un autre associé coopérateur, le conjoint du mandant, un de ses descendants majeurs ou un allié au
-même degré. Les mandataires non associés coopérateurs ne peuvent représenter que leur conjoint, ascendant ou allié.
-
-L'associé coopérateur mandaté par d'autres associés coopérateurs ne peut disposer que de cinq voix au maximum, la sienne
-comprise.
-
-Toutefois, lorsque, en application des dispositions de l'article R. 514-16, une assemblée générale est précédée d'assemblées
-de section, l'associé coopérateur mandaté à l'assemblée plénière ne peut disposer que de deux voix au maximum, la sienne
-comprise.
-
-Dans toutes les assemblées générales, il est tenu une feuille de présence indiquant pour chacun des associés coopérateurs son
-nom, son domicile et, si l'assemblée n'a pas été précédée d'assemblées de section, le nombre de parts dont il est porteur.
-Cette feuille de présence est émargée par les associés coopérateurs et certifiée exacte par les membres du bureau de
-l'assemblée.
-
-Elle est annexée au procès-verbal avec les mandats ci-dessus mentionnés.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R514-16
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*524-15
-
-L'assemblée générale ordinaire peut délibérer si le tiers des associés coopérateurs est présent ou représenté.
-
-L'assemblée générale extraordinaire délibère sur les modifications des statuts, sur l'augmentation collective du capital, sur
-la dissolution de la société ou sur sa prorogation dans les formes prévues par l'article 1844-6 du code civil. Sous réserve
-des dispositions de l'article L. 523-2, elle doit être composée d'un nombre de membres présents ou représentés au moins égal
-à la moitié de celui des associés coopérateurs inscrits à la date de la convocation.
-
-Lorsque les diverses conditions prévues ci-dessus ne sont pas réalisées, une deuxième convocation est faite dix jours avant
-la date de la nouvelle réunion suivant les mêmes règles que la première, en indiquant la date et les résultats de la
-précédente assemblée.
-
-Sous réserve des dispositions de l'article L. 523-2, la deuxième assemblée délibère valablement, quel que soit le nombre des
-membres présents ou représentés.
-
-Dans les assemblées générales ordinaires, les décisions sont prises à la majorité des suffrages exprimés.
-
-Dans les assemblées générales extraordinaires, les décisions sont prises à la majorité des deux tiers des membres présents ou
-représentés.
-
-Les règles posées ci-dessus s'appliquent à toutes les assemblées générales, qu'elles soient ou non précédées d'assemblées de
-section.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L523-2
-  - Code civil - art. 1844-6 (V)
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
 ###### Article R*524-16
@@ -55547,45 +57578,22 @@ conseil d'administration.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural R524-15
-
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Code rural - art. R524-14 (V)
   - Code rural - art. R524-40 (V)
 
+_Cite_:
 
-###### Article R*524-17
-
-L'assemblée générale annuelle doit, après lecture du rapport moral et financier du conseil d'administration et du rapport des
-commissaires aux comptes, examiner, approuver ou rectifier les comptes, donner ou refuser le quitus aux administrateurs,
-déterminer éventuellement les modalités de répartition des excédents, procéder à la nomination des administrateurs et des
-commissaires aux comptes, constater la variation du capital social au cours de l'exercice, délibérer sur toutes autres
-questions figurant à l'ordre du jour.
-
-L'ordre du jour est établi par le conseil d'administration ; il doit comporter toute question présentée audit conseil six
-semaines au moins avant la convocation de l'assemblée générale sur proposition écrite revêtue de la signature d'un dixième au
-moins du nombre total des associés coopérateurs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Code rural R524-15
 
 
 ###### Article R*524-18
@@ -55614,43 +57622,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°85-295 du 1 mars 1985 - art. 28 () JORF 5 mars 1985
-
-
-###### Article R*524-19
-
-Le commissaire aux comptes de la coopérative présente ses observations et rapports sur les documents que les coopératives
-sont tenues d'établir en application de l'article 28 de la loi n° 84-148 du 1er mars 1984 précitée et de l'article 25 du
-décret pris pour son application dans les conditions et suivant les modalités prévues par ces articles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cite_:
-
-  - Loi n°84-148 du 1 mars 1984 - art. 28 (MMN)
-  - Décret n°85-295 1985-03-01
-
-_Modifié par_:
-
-  - Décret n°85-295 du 1 mars 1985 - art. 28 () JORF 5 mars 1985
-
-_Cité par_:
-
-  - Code rural - art. R582-24 (V)
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*524-20
@@ -55668,40 +57642,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*524-21
-
-Il est fait annuellement sur les excédents nets un prélèvement d'un dixième affecté à la formation d'un fonds de réserve. Ce
-prélèvement cesse d'être obligatoire quand le fonds de réserve atteint une somme correspondant au montant du capital social.
-
-Les statuts de chaque société coopérative peuvent prévoir, en outre, la constitution de fonds supplémentaires de réserves
-auxquels sont affectés des prélèvements spéciaux sur les excédents de recettes.
-
-Sauf dans les cas prévus aux articles L. 523-1 et L. 523-7, alinéas 3, 4 et 5, les réserves, quelles qu'elles soient, ne
-peuvent être partagées entre les associés pendant la durée de la société.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L523-1, L523-7
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Arrêté du 23 avril 2008 - art. (V)
-  - Code rural - art. R523-9 (V)
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*524-22
@@ -55716,10 +57659,6 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Cite_:
 
   - Décret n°83-1020 1983-11-29
@@ -55727,16 +57666,218 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°85-295 du 1 mars 1985 - art. 29 () JORF 5 mars 1985
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Décret n°2009-767 du 22 juin 2009 - art. 25 (V)
 
 
-##### Section 4 : Dispositions concernant les unions de coopératives.<a id=621></a>
+###### Article R524-12
 
-###### Article R*524-23
+L'assemblée générale réunit tous les associés coopérateurs de la coopérative.
+
+L'assemblée générale ordinaire doit être convoquée par le conseil d'administration au moins une fois par an dans les six mois
+qui suivent la clôture de l'exercice afin d'examiner les comptes ; ce délai est porté à neuf mois pour les unions de
+coopératives. Elle doit l'être également lorsque le cinquième au moins des membres de la société en fait la demande écrite ou
+lorsque le conseil d'administration ou les commissaires aux comptes l'estiment nécessaire.
+
+L'assemblée générale extraordinaire est convoquée par le conseil d'administration à l'initiative du conseil ou lorsqu'un
+quart au moins des membres de la société en fait la demande par écrit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R524-40 (V)
+
+
+###### Article R524-14
+
+L'associé coopérateur empêché peut donner mandat de le représenter à l'assemblée générale.
+
+Le mandataire doit être un autre associé coopérateur, le conjoint du mandant, un de ses descendants majeurs ou un allié au
+même degré. Les mandataires non associés coopérateurs ne peuvent représenter que leur conjoint, ascendant ou allié.
+
+L'associé coopérateur mandaté par d'autres associés coopérateurs ne peut disposer que de cinq voix au maximum, la sienne
+comprise.
+
+Toutefois, lorsque, en application des dispositions de l'article R. 514-16, une assemblée générale est précédée d'assemblées
+de section, l'associé coopérateur mandaté à l'assemblée plénière ne peut disposer que de deux voix au maximum, la sienne
+comprise.
+
+Dans toutes les assemblées générales, il est tenu une feuille de présence indiquant pour chacun des associés coopérateurs son
+nom, son domicile et, si l'assemblée n'a pas été précédée d'assemblées de section, le nombre de parts dont il est porteur.
+Cette feuille de présence est émargée par les associés coopérateurs et certifiée exacte par les membres du bureau de
+l'assemblée.
+
+Elle est annexée au procès-verbal avec les mandats ci-dessus mentionnés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R514-16
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R524-15
+
+L'assemblée générale ordinaire peut délibérer si le tiers des associés coopérateurs est présent ou représenté.
+
+L'assemblée générale extraordinaire délibère sur les modifications des statuts, sur l'augmentation collective du capital, sur
+la dissolution de la société ou sur sa prorogation dans les formes prévues par l'article 1844-6 du code civil. Sous réserve
+des dispositions de l'article L. 523-2, elle doit être composée d'un nombre de membres présents ou représentés au moins égal
+à la moitié de celui des associés coopérateurs inscrits à la date de la convocation.
+
+Lorsque les diverses conditions prévues ci-dessus ne sont pas réalisées, une deuxième convocation est faite dix jours avant
+la date de la nouvelle réunion suivant les mêmes règles que la première, en indiquant la date et les résultats de la
+précédente assemblée.
+
+Sous réserve des dispositions de l'article L. 523-2, la deuxième assemblée délibère valablement, quel que soit le nombre des
+membres présents ou représentés.
+
+Dans les assemblées générales ordinaires, les décisions sont prises à la majorité des suffrages exprimés.
+
+Dans les assemblées générales extraordinaires, les décisions sont prises à la majorité des deux tiers des membres présents ou
+représentés.
+
+Les règles posées ci-dessus s'appliquent à toutes les assemblées générales, qu'elles soient ou non précédées d'assemblées de
+section.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L523-2
+  - Code civil - art. 1844-6 (V)
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R524-17
+
+L'assemblée générale annuelle doit, après lecture du rapport moral et financier du conseil d'administration et du rapport des
+commissaires aux comptes, examiner, approuver ou rectifier les comptes, donner ou refuser le quitus aux administrateurs,
+déterminer éventuellement les modalités de répartition des excédents, procéder à la nomination des administrateurs et des
+commissaires aux comptes, constater la variation du capital social au cours de l'exercice, délibérer sur toutes autres
+questions figurant à l'ordre du jour.
+
+L'ordre du jour est établi par le conseil d'administration ; il doit comporter toute question présentée audit conseil six
+semaines au moins avant la convocation de l'assemblée générale sur proposition écrite revêtue de la signature d'un dixième au
+moins du nombre total des associés coopérateurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R524-19
+
+Le commissaire aux comptes de la coopérative présente ses observations et rapports sur les documents que les coopératives
+sont tenues d'établir en application de l'article 28 de la loi n° 84-148 du 1er mars 1984 précitée et de l'article 25 du
+décret pris pour son application dans les conditions et suivant les modalités prévues par ces articles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Cite_:
+
+  - Loi n°84-148 du 1 mars 1984 - art. 28 (MMN)
+  - Décret n°85-295 1985-03-01
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R582-24 (V)
+
+
+###### Article R524-21
+
+Il est fait annuellement sur les excédents nets un prélèvement d'un dixième affecté à la formation d'un fonds de réserve. Ce
+prélèvement cesse d'être obligatoire quand le fonds de réserve atteint une somme correspondant au montant du capital social.
+
+Les statuts de chaque société coopérative peuvent prévoir, en outre, la constitution de fonds supplémentaires de réserves
+auxquels sont affectés des prélèvements spéciaux sur les excédents de recettes.
+
+Sauf dans les cas prévus aux articles L. 523-1 et L. 523-7, alinéas 3, 4 et 5, les réserves, quelles qu'elles soient, ne
+peuvent être partagées entre les associés pendant la durée de la société.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 23 avril 2008 - art. (V)
+  - Code rural - art. R523-9 (V)
+
+_Cite_:
+
+  - Code rural L523-1, L523-7
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+##### Section 4 : Dispositions concernant les unions de coopératives.<a id=665></a>
+
+###### Article R*524-25
+
+Les unions peuvent être autorisées par le ministre de l'agriculture, après avis de la commission centrale d'agrément, à
+inclure dans leurs statuts toutes dispositions permettant à l'assemblée générale de tenir lieu de conseil d'administration.
+
+L'assemblée générale doit alors être réunie au moins trois fois par an sur convocation de son président. Le président est élu
+chaque année au cours de la session chargée d'approuver les comptes de l'exercice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R524-23
 
 Les conditions de fonctionnement et d'administration des unions de coopératives sont les mêmes que celles prévues par les
 articles R. 522-1 à R. 522-8, R. 523-1 à R. 523-7 et R. 524-1 à R. 524-22 pour les sociétés coopératives agricoles.
@@ -55755,10 +57896,6 @@ Dans le cas prévu au précédent alinéa, les statuts peuvent également stipul
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Code rural - art. R524-24 (V)
-
 _Cite_:
 
   - Code rural R522-1 à R522-8, R523-1 à R523-7, R524-1 à R524-22, L524-4
@@ -55767,12 +57904,16 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R524-24 (V)
 
 
-###### Article R*524-24
+###### Article R524-24
 
 Toute société coopérative élue administrateur de l'union est représentée au conseil d'administration de cette dernière par
 une personne physique mandataire de la coopérative et désignée par son conseil d'administration.
@@ -55791,69 +57932,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*524-25
-
-Les unions peuvent être autorisées par le ministre de l'agriculture, après avis de la commission centrale d'agrément, à
-inclure dans leurs statuts toutes dispositions permettant à l'assemblée générale de tenir lieu de conseil d'administration.
-
-L'assemblée générale doit alors être réunie au moins trois fois par an sur convocation de son président. Le président est élu
-chaque année au cours de la session chargée d'approuver les comptes de l'exercice.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 5 : Directoire et conseil de surveillance.<a id=622></a>
-
-###### Article R*524-26
-
-Il peut être stipulé par les statuts de toute société coopérative agricole ou union que la gestion est assurée par un
-directoire placé sous le contrôle d'un conseil de surveillance, dans les conditions fixées par la présente section.
-
-L'introduction dans les statuts de cette stipulation ou sa suppression peut être décidée au cours de l'existence de la
-société.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*524-27
-
-Le directoire est composé de trois à cinq membres.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural - art. R524-28 (V)
-
+##### Section 5 : Directoire et conseil de surveillance.<a id=666></a>
 
 ###### Article R*524-28
 
@@ -55876,16 +57960,82 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Code rural et de la pêche maritime - art. R528-2 (VD)
 
 
-###### Article R*524-29
+###### Article R*524-39
+
+Sont applicables aux sociétés coopératives agricoles et à leurs unions les dispositions des articles 133, 135, 137, 139, 143
+à 148, alinéas 1 à 3, 149 et 150 de la loi modifiée du 24 juillet 1966 sur les sociétés commerciales, relatives notamment à
+l'incompatibilité des fonctions de membre du conseil de surveillance et du directoire, à la désignation des personnes morales
+au conseil de surveillance, au remplacement de ses membres en cas de vacance par décès ou démission, aux conditions de
+validité des délibérations du conseil de surveillance et aux conventions intéressant les membres du directoire ou du conseil
+de surveillance.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°66-537 1966-07-24 art. 133, art. 135, art. 137, art. 139, art. 143 à art. 148, art. 149, art. 150
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R524-36 (V)
+
+
+###### Article R524-26
+
+Il peut être stipulé par les statuts de toute société coopérative agricole ou union que la gestion est assurée par un
+directoire placé sous le contrôle d'un conseil de surveillance, dans les conditions fixées par la présente section.
+
+L'introduction dans les statuts de cette stipulation ou sa suppression peut être décidée au cours de l'existence de la
+société.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R524-27
+
+Le directoire est composé de trois à cinq membres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R524-28 (V)
+
+
+###### Article R524-29
 
 Nul ne peut appartenir au directoire de plus de deux sociétés coopératives agricoles ou unions ayant leur siège social en
 France métropolitaine.
@@ -55903,9 +58053,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -55914,7 +58064,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R572-3 (VD)
 
 
-###### Article R*524-30
+###### Article R524-30
 
 Le directoire est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom de la société. Il les exerce
 dans la limite de l'objet social et sous réserve des pouvoirs propres aux assemblées générales et de ceux qui sont
@@ -55930,12 +58080,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*524-31
+###### Article R524-31
 
 Le conseil de surveillance exerce le contrôle permanent de la gestion de la société coopérative ou union par le directoire.
 
@@ -55961,9 +58111,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -55972,7 +58122,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R572-4 (VD)
 
 
-###### Article R*524-32
+###### Article R524-32
 
 Après la clôture de chaque exercice, le directoire soumet au conseil de surveillance aux fins de vérification et de contrôle,
 l'inventaire et les comptes annuels.
@@ -55992,16 +58142,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°85-295 du 1 mars 1985 - art. 30 () JORF 5 mars 1985
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*524-33
+###### Article R524-33
 
 Le conseil de surveillance est composé de trois membres au moins pour les sociétés coopératives agricoles et de deux membres
 au moins pour les unions.
@@ -56012,12 +58158,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*524-34
+###### Article R524-34
 
 Chaque membre du conseil de surveillance doit être propriétaire, pendant toute la durée de son mandat et jusqu'à
 l'approbation par l'assemblée générale ordinaire des comptes du dernier exercice au cours duquel l'intéressé a rempli ses
@@ -56036,12 +58182,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*524-35
+###### Article R524-35
 
 Une indemnité compensatrice de l'activité consacrée à l'administration de la société peut être allouée aux membres du conseil
 de surveillance. Son montant est fixé par l'assemblée générale.
@@ -56052,42 +58198,42 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*524-36
+###### Article R524-36
 
 Les membres du conseil de surveillance sont nommés, parmi les associés, par l'assemblée générale, au scrutin secret si la
 demande en est faite par un ou plusieurs associés. La durée de leurs fonctions est déterminée par les statuts, sans pouvoir
 excéder six ans en cas de nomination par les assemblées générales et trois ans en cas de nomination dans les statuts. Ces
 membres peuvent être renouvelés par fraction, les premières séries étant désignées par le sort. Ils sont rééligibles sauf
-stipulation contraire des statuts et peuvent être révoqués à tout moment par l'assemblée générale ordinaire.
+stipulation contraire des statuts et peuvent être révoqués à tout moment par l'assemblée générale ordinaire. 
 
 Toute nomination intervenue en violation des dispositions précédentes est nulle, à l'exception de celles auxquelles il peut
 être procédé dans les conditions prévues à l'article R. 524-39 pour les cas de vacance par décès ou démission.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural R524-39
-
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Code rural - art. R524-39 (V)
 
 _Cité par_:
 
   - Code rural et de la pêche maritime - art. R528-2 (VD)
 
 
-###### Article R*524-37
+###### Article R524-37
 
 Une personne physique ne peut appartenir simultanément au conseil de surveillance de plus de huit sociétés coopératives
 agricoles ou unions ayant leur siège social en France métropolitaine.
@@ -56102,9 +58248,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -56112,7 +58258,7 @@ _Cité par_:
   - Code rural - art. R582-28 (V)
 
 
-###### Article R*524-38
+###### Article R524-38
 
 Le conseil de surveillance élit en son sein, pour une durée d'un an, un président et un vice-président qui sont chargés de
 convoquer le conseil dans les conditions fixées par les statuts et d'en diriger les débats. Le président et le vice-président
@@ -56127,40 +58273,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*524-39
-
-Sont applicables aux sociétés coopératives agricoles et à leurs unions les dispositions des articles 133, 135, 137, 139, 143
-à 148, alinéas 1 à 3, 149 et 150 de la loi modifiée du 24 juillet 1966 sur les sociétés commerciales, relatives notamment à
-l'incompatibilité des fonctions de membre du conseil de surveillance et du directoire, à la désignation des personnes morales
-au conseil de surveillance, au remplacement de ses membres en cas de vacance par décès ou démission, aux conditions de
-validité des délibérations du conseil de surveillance et aux conventions intéressant les membres du directoire ou du conseil
-de surveillance.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°66-537 1966-07-24 art. 133, art. 135, art. 137, art. 139, art. 143 à art. 148, art. 149, art. 150
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural - art. R524-36 (V)
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*524-40
+###### Article R524-40
 
 Lorsqu'une coopérative agricole ou union gérée par un directoire placé sous le contrôle d'un conseil de surveillance demande
 à être immatriculée au registre du commerce et des sociétés, les renseignements exigés pour le président du conseil
@@ -56180,20 +58298,16 @@ déclarations qui y sont jointes sont établies et déposées selon les modalit�
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural R521-9, L529-3
-
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*524-41
+###### Article R524-41
 
 Les dispositions de l'article R. 524-40 ne sont pas applicables aux membres du directoire et des conseils de surveillance des
 sociétés coopératives agricoles et de leurs unions constituées avant le 1er juillet 1978.
@@ -56215,12 +58329,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*524-42
+###### Article R524-42
 
 L'assemblée générale de la société coopérative agricole ou de l'union est convoquée par le directoire dans les conditions
 fixées aux articles R. 524-12 à R. 524-16. Elle peut également, dans les mêmes conditions être convoquée par le conseil de
@@ -56235,18 +58349,26 @@ _Cite_:
 
   - Code rural R524-12 à R524-16
 
+_Nouveaux textes_:
+
+  - Code rural R524-41
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2007-1218 du 10 août 2007 - art. 4 () JORF 14 août 2007
 
 
-#### Chapitre V : Agrément, contrôle<a id=623></a>
+#### Chapitre V : Agrément, contrôle<a id=667></a>
 
-##### Section 1 : Agrément.<a id=624></a>
+##### Section 1 : Agrément.<a id=668></a>
 
 ###### Article R*525-1
 
@@ -56263,21 +58385,21 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*525-2
 
-Sont agréées par arrêté du commissaire de la République du département de leur siège social, après avis de la commission
-départementale des structures, les coopératives dont la circonscription est au plus égale à celle du département ou dont la
-circonscription s'étend au plus à un arrondissement d'un département voisin.
+Sont agréées par arrêté du préfet du département de leur siège social, après avis de la commission départementale des
+structures, les coopératives dont la circonscription est au plus égale à celle du département ou dont la circonscription
+s'étend au plus à un arrondissement d'un département voisin.
 
-Sont agréées par arrêté du commissaire de la République de la région de leur siège social, après avis des commissions
-départementales des structures de tous les départements intéressés, les coopératives agricoles dont la circonscription est au
-plus égale à celle de la région ou dont la circonscription s'étend au plus à un arrondissement d'une région voisine et dont
-l'agrément ne relève pas de l'autorité départementale.
+Sont agréées par arrêté du préfet de la région de leur siège social, après avis des commissions départementales des
+structures de tous les départements intéressés, les coopératives agricoles dont la circonscription est au plus égale à celle
+de la région ou dont la circonscription s'étend au plus à un arrondissement d'une région voisine et dont l'agrément ne relève
+pas de l'autorité départementale.
 
 Sont agréées par arrêté du ministre de l'agriculture, après avis de la commission centrale d'agrément prévue à l'article R.
 528-2, les unions de coopératives agricoles et les unions mixtes prévues par l'article R. 521-4 ainsi que toutes les sociétés
@@ -56289,13 +58411,10 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 26 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -56325,9 +58444,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -56344,12 +58463,12 @@ Le secrétariat de la commission centrale enregistre la demande dès qu'un dossi
 l'article R. 525-5 a été régulièrement constitué. Dans les huit jours qui suivent cet enregistrement, il envoie au président
 du conseil d'administration du groupement coopératif un accusé de réception portant mention de la date de dépôt.
 
-Les demandes d'agrément des sociétés coopératives agricoles dont l'agrément doit être prononcé par arrêté du commissaire de
-la République de région sont adressées à l'ingénieur général chargé de la région où se trouve le siège social de la société.
+Les demandes d'agrément des sociétés coopératives agricoles dont l'agrément doit être prononcé par arrêté du préfet de région
+sont adressées à l'ingénieur général chargé de la région où se trouve le siège social de la société.
 
-Les demandes d'agrément des sociétés coopératives agricoles, dont l'agrément doit être prononcé par arrêté du commissaire de
-la République du département, sont adressées au secrétariat de la commission départementale des structures où se trouve le
-siège social de la société.
+Les demandes d'agrément des sociétés coopératives agricoles, dont l'agrément doit être prononcé par arrêté du préfet du
+département, sont adressées au secrétariat de la commission départementale des structures où se trouve le siège social de la
+société.
 
 Le directeur départemental de l'agriculture enregistre la demande et en accuse réception dans les mêmes conditions que celles
 prévues au deuxième alinéa du présent article.
@@ -56360,13 +58479,10 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 27 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -56402,79 +58518,17 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*525-6
-
-Le ministre notifie sa décision au président du conseil d'administration de la coopérative intéressée dans le délai de quatre
-mois à compter de la date de dépôt indiquée à l'article R. 525-4.
-
-Le commissaire de la République de la région ou du département notifie sa décision au président du conseil d'administration
-de la coopérative intéressée dans le délai de deux mois à compter de la date de dépôt indiquée à l'article R. 525-4. Toute
-modification aux statuts doit être portée, dans le mois suivant l'adoption de cette modification, à la connaissance de
-l'autorité qualifiée pour accorder l'agrément.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R525-4
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 28 () JORF 11 février 1984 en vigueur le 15 février 1984
-
-_Cité par_:
-
-  - Code rural - art. R525-8 (V)
-  - Code rural - art. R582-32 (V)
-
-
-###### Article R*525-7
-
-L'agrément est considéré comme acquis aux organismes qui en ont régulièrement fait la demande et qui ont déposé les pièces
-nécessaires pour l'examen de leur dossier au secrétariat de la commission d'agrément compétente ou auprès de l'ingénieur
-général du génie rural, des eaux et des forêts, chargé de la région si aucune notification de décision ne leur a été adressée
-dans le délai de deux mois à partir de la date de ce dépôt. Ce délai est porté à quatre mois pour les coopératives relevant
-de la commission centrale d'agrément et pour les unions de coopératives.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°84-96 du 9 février 1984 - art. 29 () JORF 11 février 1984 en vigueur le 15 février 1984
-
-_Cité par_:
-
-  - Code rural - art. R582-33 (V)
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*525-8
 
-La décision de refus d'agrément mentionnée au quatrième alinéa de l'article L. 525-1 est prise, selon les cas, par le
-commissaire de la République de la région après avis des commissions départementales des structures agricoles ou par le
-commissaire de la République du département après avis de la commission départementale des structures agricoles. La
-composition et les attributions de ce conseil et de ces commissions font l'objet des dispositions du chapitre VIII du présent
-titre.
+La décision de refus d'agrément mentionnée au quatrième alinéa de l'article L. 525-1 est prise, selon les cas, par le préfet
+de la région après avis des commissions départementales des structures agricoles ou par le préfet du département après avis
+de la commission départementale des structures agricoles. La composition et les attributions de ce conseil et de ces
+commissions font l'objet des dispositions du chapitre VIII du présent titre.
 
 L'agrément ne peut être refusé que dans le cas d'irrégularité des formalités de constitution, de maintien de statuts non
 conformes aux statuts types élaborés par le conseil supérieur de la coopération agricole et homologués par le ministre de
@@ -56484,33 +58538,29 @@ sont applicables.
 L'agrément peut être refusé, outre les cas prévus à l'alinéa précédent, lorsque deux coopératives de même objet fonctionnent
 déjà dans le secteur intéressé.
 
-En cas de refus d'agrément par le commissaire de la République du département ou par le commissaire de la République de
-région, les organismes intéressés peuvent dans le délai de deux mois à compter de la notification du refus, formuler un
-recours devant le ministre de l'agriculture qui se prononce dans le délai de quatre mois après avis du conseil supérieur de
-la coopération agricole, ou, dans les conditions prévues à l'article R. 528-2, par la commission centrale d'agrément
-mentionnée au même article.
+En cas de refus d'agrément par le préfet du département ou par le préfet de région, les organismes intéressés peuvent dans le
+délai de deux mois à compter de la notification du refus, formuler un recours devant le ministre de l'agriculture qui se
+prononce dans le délai de quatre mois après avis du conseil supérieur de la coopération agricole, ou, dans les conditions
+prévues à l'article R. 528-2, par la commission centrale d'agrément mentionnée au même article.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L525-1, R528-2
 
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 30 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Code rural - art. R582-34 (V)
-
-_Cite_:
-
-  - Code rural L525-1, R528-2
 
 
 ###### Article R*525-9
@@ -56527,9 +58577,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -56558,13 +58608,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 31 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*525-11
@@ -56584,12 +58630,69 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2006-1528 du 5 décembre 2006 - art. 1 () JORF 6 décembre 2006 en vigueur le 1er janvier 2007
 
 
-###### Article R*525-12
+###### Article R525-6
+
+Le ministre notifie sa décision au président du conseil d'administration de la coopérative intéressée dans le délai de quatre
+mois à compter de la date de dépôt indiquée à l'article R. 525-4.
+
+Le commissaire de la République de la région ou du département notifie sa décision au président du conseil d'administration
+de la coopérative intéressée dans le délai de deux mois à compter de la date de dépôt indiquée à l'article R. 525-4. Toute
+modification aux statuts doit être portée, dans le mois suivant l'adoption de cette modification, à la connaissance de
+l'autorité qualifiée pour accorder l'agrément.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R525-4
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R525-8 (V)
+  - Code rural - art. R582-32 (V)
+
+
+###### Article R525-7
+
+L'agrément est considéré comme acquis aux organismes qui en ont régulièrement fait la demande et qui ont déposé les pièces
+nécessaires pour l'examen de leur dossier au secrétariat de la commission d'agrément compétente ou auprès de l'ingénieur
+général du génie rural, des eaux et des forêts, chargé de la région si aucune notification de décision ne leur a été adressée
+dans le délai de deux mois à partir de la date de ce dépôt. Ce délai est porté à quatre mois pour les coopératives relevant
+de la commission centrale d'agrément et pour les unions de coopératives.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R582-33 (V)
+
+
+###### Article R525-12
 
 Les listes de sociétés coopératives et unions de coopératives agréées et de celles ayant fait l'objet d'un retrait d'agrément
 sont publiées, dans un délai de six mois, à dater de l'agrément ou du retrait d'agrément, soit au Journal officiel, soit au
@@ -56605,16 +58708,16 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 32 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2006-1528 du 5 décembre 2006 - art. 1 () JORF 6 décembre 2006 en vigueur le 1er janvier 2007
 
 
-##### Section 2 : Contrôle.<a id=625></a>
+##### Section 2 : Contrôle.<a id=669></a>
 
 ###### Article R*525-13
 
@@ -56632,9 +58735,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*525-14
@@ -56657,24 +58760,16 @@ du conseil supérieur de la coopération agricole.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural R525-13
-
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 33 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R525-15
+###### Article R*525-15
 
 En vue de permettre le contrôle prévu à l'article R. 525-13, les sociétés coopératives agricoles et les unions de
 coopératives agricoles doivent, chaque année, et dans le délai d'un mois à compter de la date de la réunion de l'assemblée
@@ -56701,13 +58796,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 34 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R525-16
@@ -56718,17 +58809,21 @@ de contrôle au commissaire de la République du département où se trouve leur
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code rural R525-9
+
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 35 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-1528 du 5 décembre 2006 - art. 1 () JORF 6 décembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article R525-17
@@ -56739,89 +58834,20 @@ leurs activités, à leur fonctionnement et à leur situation financière.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-#### Chapitre VI : Dissolution, liquidation.<a id=626></a>
-
-###### Article R*526-1
-
-En cas de perte des trois quarts du capital social augmenté des réserves, une assemblée générale extraordinaire doit se
-prononcer sur la dissolution de la société. Sa résolution doit être publiée dans les trente jours dans un journal habilité à
-recevoir les annonces légales dans le département ou l'arrondissement où la société a son siège.
-
-A défaut de décision de l'assemblée, tout associé coopérateur peut demander la dissolution judiciaire de la coopérative.
-
-**Liens relatifs à cet article**
+  - Code rural D525-17
 
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural - art. R582-41 (V)
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*526-2
-
-En cas de dissolution anticipée, de même qu'à l'expiration de la durée contractuelle de la société, l'assemblée générale
-règle le mode de liquidation. Elle nomme un ou plusieurs liquidateurs ou confie la liquidation aux administrateurs en
-exercice. Pendant la liquidation, les pouvoirs de l'assemblée se continuent comme pendant l'existence de la société.
-
-Toutes les valeurs de la société sont réalisées par les liquidateurs qui disposent à cet effet des pouvoirs les plus étendus.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*526-3
-
-Dans le cas où la liquidation des sociétés et unions constituées après le 6 août 1961 fait apparaître des pertes excédant le
-montant du capital social lui-même, ces pertes seront, tant à l'égard des créanciers qu'à l'égard des associés coopérateurs
-eux-mêmes, divisées entre les associés coopérateurs proportionnellement au nombre de parts du capital appartenant à chacun
-d'eux ou qu'ils auraient dû souscrire.
-
-Toutefois, et sous réserve des dispositions des articles 656 et 732 du code rural, l'associé coopérateur n'est soumis de ce
-fait qu'à la seule obligation de libérer le solde des parts qu'il a souscrites ou aurait dû souscrire et de verser en
-complément une somme égale au montant de ces parts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 656, 732
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural - art. R582-42 (V)
-  - Code rural et de la pêche maritime - art. R523-5 (VD)
-
+#### Chapitre VI : Dissolution, liquidation.<a id=670></a>
 
 ###### Article R*526-4
 
@@ -56841,22 +58867,95 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R526-1
+
+En cas de perte des trois quarts du capital social augmenté des réserves, une assemblée générale extraordinaire doit se
+prononcer sur la dissolution de la société. Sa résolution doit être publiée dans les trente jours dans un journal habilité à
+recevoir les annonces légales dans le département ou l'arrondissement où la société a son siège.
+
+A défaut de décision de l'assemblée, tout associé coopérateur peut demander la dissolution judiciaire de la coopérative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
 
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 36 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R582-41 (V)
 
 
-#### Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle<a id=627></a>
+###### Article R526-2
 
-##### Section 1 : Fédérations de coopératives<a id=628></a>
+En cas de dissolution anticipée, de même qu'à l'expiration de la durée contractuelle de la société, l'assemblée générale
+règle le mode de liquidation. Elle nomme un ou plusieurs liquidateurs ou confie la liquidation aux administrateurs en
+exercice. Pendant la liquidation, les pouvoirs de l'assemblée se continuent comme pendant l'existence de la société.
 
-##### Sous-section 1 : Dispositions générales.<a id=629></a>
+Toutes les valeurs de la société sont réalisées par les liquidateurs qui disposent à cet effet des pouvoirs les plus étendus.
 
-###### Article R*527-1
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R526-3
+
+Dans le cas où la liquidation des sociétés et unions constituées après le 6 août 1961 fait apparaître des pertes excédant le
+montant du capital social lui-même, ces pertes seront, tant à l'égard des créanciers qu'à l'égard des associés coopérateurs
+eux-mêmes, divisées entre les associés coopérateurs proportionnellement au nombre de parts du capital appartenant à chacun
+d'eux ou qu'ils auraient dû souscrire.
+
+Toutefois, et sous réserve des dispositions des articles 656 et 732 du code rural, l'associé coopérateur n'est soumis de ce
+fait qu'à la seule obligation de libérer le solde des parts qu'il a souscrites ou aurait dû souscrire et de verser en
+complément une somme égale au montant de ces parts.
+
+**Nota:**
+
+Nota - Décret n° 2005-1007 du 2 août 2005, art. 5 I : abrogation des articles 656 et 732 du code rural ancien.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 656, 732
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R582-42 (V)
+  - Code rural et de la pêche maritime - art. R523-5 (VD)
+
+
+#### Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle<a id=671></a>
+
+##### Section 1 : Fédérations de coopératives<a id=672></a>
+
+##### Sous-section 1 : Dispositions générales.<a id=673></a>
+
+###### Article R527-1
 
 Les sociétés coopératives agricoles et leurs unions peuvent constituer entre elles des fédérations de coopératives ou
 d'unions de coopératives régies soit par le titre Ier du livre IV du code du travail, soit par la loi du 1er juillet 1901 sur
@@ -56871,9 +58970,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -56886,7 +58985,7 @@ _Cite_:
   - Loi n°1901-07-01
 
 
-###### Article R*527-2
+###### Article R527-2
 
 Les fédérations de coopératives ou d'union de coopératives agricoles peuvent poursuivre un ou plusieurs des objectifs
 suivants :
@@ -56915,12 +59014,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*527-3
+###### Article R527-3
 
 Les fédérations de coopératives agricoles constituées sous le régime de la loi du 1er juillet 1901 avant le 6 août 1961
 peuvent se placer sous le régime du titre Ier du livre IV du code du travail à condition d'observer les formalités prévues
@@ -56932,16 +59031,16 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cite_:
 
   - Loi n°1901-07-01
 
 
-##### Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision.<a id=630></a>
+##### Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision.<a id=674></a>
 
 ###### Article R*527-4
 
@@ -56965,45 +59064,14 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
   - Décret n°2014-1297 du 23 octobre 2014 - art. (V)
   - Code rural et de la pêche maritime - art. R527-5-1 (V)
-
-
-###### Article R*527-5
-
-Les demandes d'agrément sont adressées par les fédérations intéressées à l'association nationale de révision de la
-coopération agricole créée par l'article L. 527-1 et dont les statuts sont approuvés, en application du même article, par le
-ministre de l'agriculture et le ministre du budget.
-
-A chaque demande d'agrément, est joint un dossier comprenant :
-
-1° Un exemplaire des statuts de la fédération comportant notamment l'indication de sa circonscription ;
-
-2° Une copie de l'acte constitutif et une pièce établissant que les formalités de dépôt ou de déclaration ont été
-accomplies ;
-
-3° Les nom, domicile, qualité des dirigeants de la fédération et de ceux qui sont autorisés à signer pour elle ainsi qu'un
-extrait de leur casier judiciaire.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L527-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
 ###### Article R*527-6
@@ -57029,9 +59097,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*527-7
@@ -57046,29 +59114,29 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*527-8
 
 Le taux des cotisations obligatoires prévues à l'article L. 527-1 et les délais de paiement de celles-ci sont fixés, chaque
-année, par des délibérations de l'association nationale de révision, qui sont soumises à l'approbation du ministre de
+année, par des délibérations de l'association nationale de revision, qui sont soumises à l'approbation du ministre de
 l'agriculture et du ministre du budget, ainsi que le budget de ladite association, en application du quatrième alinéa de
 l'article L. 527-1.
 
 Le recouvrement de ces cotisations est opéré par les fédérations régionales de révision pour le compte de l'association
-nationale de révision de la coopération agricole. Jusqu'à ce que, dans une région déterminée, l'agrément prévu à l'article R.
+nationale de revision de la coopération agricole. Jusqu'à ce que, dans une région déterminée, l'agrément prévu à l'article R.
 527-4 ait été attribué à une fédération régionale apte à le recevoir, le recouvrement des cotisations obligatoires est
-effectué directement par l'association nationale de révision.
+effectué directement par l'association nationale de revision.
 
 Faute par une coopérative agricole ou une union de coopératives agricoles d'avoir payé, dans le délai fixé dans les
 conditions prévues à l'alinéa précédent, la cotisation dont elle est redevable, l'organisme chargé du recouvrement lui
 adresse une mise en demeure, par lettre recommandée avec demande d'avis de réception.
 
 Si cette mise en demeure n'est pas suivie d'effet, l'agrément dont bénéficie la coopérative ou l'union de coopératives
-défaillante peut, sur le rapport de l'association nationale de révision, être retiré par l'autorité qui, en vertu des
+défaillante peut, sur le rapport de l'association nationale de revision, être retiré par l'autorité qui, en vertu des
 dispositions applicables à ladite coopérative ou union de coopératives, conformément à son statut, a compétence pour prendre
 une telle mesure, dans les formes prescrites par ces dispositions.
 
@@ -57082,9 +59150,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*527-9
@@ -57105,9 +59173,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*527-10
@@ -57128,12 +59196,43 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*527-11
+###### Article R527-5
+
+Les demandes d'agrément sont adressées par les fédérations intéressées à l'association nationale de révision de la
+coopération agricole créée par l'article L. 527-1 et dont les statuts sont approuvés, en application du même article, par le
+ministre de l'agriculture et le ministre du budget.
+
+A chaque demande d'agrément, est joint un dossier comprenant :
+
+1° Un exemplaire des statuts de la fédération comportant notamment l'indication de sa circonscription ;
+
+2° Une copie de l'acte constitutif et une pièce établissant que les formalités de dépôt ou de déclaration ont été
+accomplies ;
+
+3° Les nom, domicile, qualité des dirigeants de la fédération et de ceux qui sont autorisés à signer pour elle ainsi qu'un
+extrait de leur casier judiciaire.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L527-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R527-11
 
 Les fédérations agréées peuvent fournir leur concours pour des opérations de révision aux sociétés d'intérêt collectif
 agricole, aux associations et syndicats reconnus en qualité de groupements de producteurs en application de l'article L.
@@ -57149,12 +59248,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Sous-section 3 : Dispositions particulières aux fédérations de coopératives agréées exerçant les fonctions de commissaire aux comptes.<a id=631></a>
+##### Sous-section 3 : Dispositions particulières aux fédérations de coopératives agréées exerçant les fonctions de commissaire aux comptes.<a id=675></a>
 
 ###### Article R527-12
 
@@ -57167,7 +59266,7 @@ ministre de l'agriculture.
 
 Les articles R. 527-4 à R. 527-7, R. 527-9 et R. 527-10 sont applicables à ces fédérations.
 
-Pour l'application de l'article L. 527-1, l'association nationale de révision de la coopération agricole veille à la mise en
+Pour l'application de l'article L. 527-1, l'Association nationale de révision de la coopération agricole veille à la mise en
 oeuvre du commissariat aux comptes par les fédérations et au respect des règles d'indépendance et de discipline des personnes
 physiques qui exercent les fonctions de commissaire aux comptes au nom de chaque fédération. Un arrêté conjoint du garde des
 sceaux, ministre de la justice, et du ministre de l'agriculture fixe les modalités d'application du présent alinéa.
@@ -57183,14 +59282,14 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°85-295 du 1 mars 1985 - art. 31 () JORF 5 mars 1985
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole<a id=632></a>
+#### Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole<a id=676></a>
 
-##### Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément.<a id=633></a>
+##### Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément.<a id=677></a>
 
 ###### Article R*528-1
 
@@ -57211,9 +59310,13 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2001-121 du 2 février 2001 - art. 5 (V) JORF 9 février 2001
 
 _Cité par_:
 
@@ -57235,9 +59338,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -57303,7 +59406,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°90-187 du 28 février 1990 - art. 6 () JORF 1er mars 1990
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*528-4
@@ -57325,9 +59428,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*528-5
@@ -57347,9 +59450,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 _Cité par_:
 
@@ -57368,9 +59471,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*528-7
@@ -57391,12 +59494,12 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 2 : Commission départementale des structures agricoles.<a id=634></a>
+##### Section 2 : Commission départementale des structures agricoles.<a id=678></a>
 
 ###### Article R*528-8
 
@@ -57414,13 +59517,9 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 37 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
 ###### Article R*528-10
@@ -57449,9 +59548,13 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
 
 
 ###### Article R528-9
@@ -57476,41 +59579,16 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
 
 
-#### Chapitre IX : Dispositions pénales, dispositions d'application.<a id=635></a>
-
-###### Article R*529-1
-
-L'utilisation dans tout document, à l'exception des avis prévus en vue de la publicité de la constitution de la société, des
-termes "coopérative agricole" ou "union de coopératives agricoles" est interdite en l'absence de l'agrément prévu à l'article
-L. 525-1 et en l'absence de l'immatriculation au registre du commerce et des sociétés, pour celles qui y sont soumises.
-
-Il en est de même pour l'emploi du terme "coopérative" associé à l'un des qualificatifs : "paysanne", "rurale" ou
-"forestière" ainsi que pour toute dénomination de nature à laisser entendre qu'il s'agit d'une société coopérative agricole
-ou d'une union de sociétés coopératives agricoles agréées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural - art. R529-2 (V)
-
-_Cite_:
-
-  - Code rural L525-1
-
+#### Chapitre IX : Dispositions pénales, dispositions d'application.<a id=679></a>
 
 ###### Article R*529-2
 
@@ -57528,14 +59606,44 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-### Titre III : Sociétés d'intérêt collectif agricole<a id=636></a>
+###### Article R529-1
 
-#### Chapitre Ier : Constitution.<a id=637></a>
+L'utilisation dans tout document, à l'exception des avis prévus en vue de la publicité de la constitution de la société, des
+termes " coopérative agricole " ou " union de coopératives agricoles " est interdite en l'absence de l'agrément prévu à
+l'article L. 525-1 et en l'absence de l'immatriculation au registre du commerce et des sociétés, pour celles qui y sont
+soumises. 
+
+Il en est de même pour l'emploi du terme " coopérative " associé à l'un des qualificatifs : " paysanne ", " rurale " ou "
+forestière " ainsi que pour toute dénomination de nature à laisser entendre qu'il s'agit d'une société coopérative agricole
+ou d'une union de sociétés coopératives agricoles agréées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Code rural - art. L525-1 (V)
+
+_Cité par_:
+
+  - Code rural - art. R529-2 (V)
+
+
+### Titre III : Sociétés d'intérêt collectif agricole<a id=680></a>
+
+#### Chapitre Ier : Constitution.<a id=681></a>
 
 ###### Article R*531-1
 
@@ -57549,10 +59657,3209 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
+_Abrogé par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 17 (V) JORF 30 décembre 1992
+
+
+###### Article R*531-3
+
+Dans les quinze jours de sa constitution toute société d'intérêt collectif agricole dépose copie de ses statuts et la liste
+de ses membres au ministère de l'agriculture ; mention de ce dépôt est portée sur un registre central tenu à la disposition
+du public.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+#### Chapitre II : Fonctionnement.<a id=682></a>
+
+###### Article R532-1
+
+Les sociétés peuvent être tenus à l'égard de la société dans les conditions fixées par les statuts, non seulement des
+obligations inhérentes à leur qualité de détenteur de capital, mais aussi d'obligations particulières, telles que celles de
+livrer à la société ou de faire traiter par elle certains de leurs produits, de s'approvisionner auprès d'elle, d'en utiliser
+les services.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R532-2
+
+Il est interdit de subordonner, par dispositions statutaires ou autrement, les prestations d'objets ou de services à un
+sociétaire, à des prestations que lui-même devrait faire à la société. Cette interdiction ne s'applique pas aux prestations
+faites à des sociétaires ayant la qualité d'établissement public, de coopérative ou d'union de coopératives ou appartenant à
+un groupement d'une catégorie figurant sur une liste dressée par le ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R583-14 (V)
+
+
+###### Article R532-3
+
+Les statuts de la société doivent comporter les clauses permettant à tout moment, aux agriculteurs, aux groupements qui
+peuvent s'affilier aux caisses de crédit agricole mutuel et, le cas échéant, aux caisses de crédit agricole mutuel, de
+disposer ensemble de la moitié au moins des voix aux assemblées générales de la société.
+
+Aucun sociétaire ne doit posséder plus de 40 p. 100 des voix.
+
+Toutefois, lorsqu'il y a plus de dix sociétaires, aucun d'eux ne doit posséder plus de 10 p. 100 des voix. Cette dernière
+interdiction ne concerne ni les caisses de crédit agricole mutuel ni les sociétés coopératives et leurs unions. Les statuts
+peuvent attribuer auxdites sociétés et unions, dans la limite du nombre des actions ou parts qu'elles possèdent, un nombre de
+voix en rapport soit avec le nombre de leurs sociétaires, soit avec le nombre des membres des sociétés elles-mêmes
+adhérentes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R583-15 (V)
+
+
+###### Article R532-4
+
+La moitié du chiffre d'affaires ou du volume des opérations des sociétés d'intérêt collectif agricole autres que celles
+soumises aux prescriptions d'un cahier des charges doit, au cours d'un exercice déterminé, être réalisée avec des sociétaires
+ayant la qualité d'agriculteurs ou de groupements pouvant s'affilier aux caisses de crédit agricole mutuel. Ces dispositions
+peuvent faire l'objet de dérogations temporaires accordées, en raison de circonstances économiques exceptionnelles, par
+arrêté du ministre de l'agriculture et du ministre chargé du commerce. 
+
+Toutefois lorsqu'il s'agit des sociétés mentionnées à l'article R. 531-2, sont assimilés à ces sociétaires, à titre
+d'usagers, les agriculteurs et groupements même non membres de la société, pouvant s'affilier aux caisses de crédit agricole
+mutuel et dont les rapports avec la société, sauf en ce qui concerne leur participation au capital, sont analogues à ceux des
+sociétaires, notamment par la nature et l'étendue des obligations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Code rural - art. R531-2 (V)
+
+_Cité par_:
+
+  - Code rural - art. R583-16 (V)
+
+
+###### Article R532-5
+
+Les statuts des sociétés d'intérêt collectif agricole constituées sous le régime des sociétés civiles précisent les
+conditions dans lesquelles elles sont administrées soit par un conseil d'administration élu par l'assemblée générale, soit
+par un ou plusieurs gérants.
+
+Le ou les gérants d'une société d'intérêt collectif agricole constituée sous la forme de société civile, de société à
+responsabilité limitée ou de société en commandite par actions ne peuvent être désignés ou révoqués que par l'assemblée
+générale statuant à la majorité absolue.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+#### Chapitre III : Dispositions financières.<a id=683></a>
+
+###### Article R*533-1
+
+Les sociétés d'intérêt collectif agricole ne distribuent pas de dividendes mais seulement, le cas échéant, dans la limite de
+6 p. 100 net, un intérêt statutaire.
+
+Elles peuvent ristourner les excédents annuels aux sociétaires au prorata des opérations effectuées par eux avec la société.
+
+Les bénéfices provenant d'opérations effectuées avec des non-sociétaires sont portés en réserve ; ceux provenant d'aides de
+l'Etat, des collectivités publiques, d'organismes mentionnés sur une liste dressée par décret sont portés à une réserve
+dite : "Réserve des charges complémentaires de liquidation".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R583-18 (V)
+
+
+###### Article R*533-2
+
+La valeur nominale des actions ou parts sociales créées par les sociétés d'intérêt collectif agricole à partir du 6 août 1961
+est d'au moins 25 francs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R583-19 (V)
+
+
+###### Article R533-3
+
+Les dispositions de la loi du 30 avril 1906 sur les warrants agricoles souscrits par les sociétés coopératives agricoles sont
+étendues aux warrants souscrits par les sociétés d'intérêt collectif agricole.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R583-20 (V)
+
+
+#### Chapitre IV : Transformation, dissolution, liquidation.<a id=684></a>
+
+###### Article R*534-1
+
+Une société d'intérêt collectif agricole ne peut effectuer des modifications de ses statuts entraînant la perte de sa qualité
+de société d'intérêt collectif agricole, sans y avoir été autorisée par le ministre de l'agriculture, à moins qu'elle ne se
+transforme en société coopérative agricole ou en union de coopératives agricoles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 17 (V) JORF 30 décembre 1992
+
+
+###### Article R*534-2
+
+La dissolution volontaire anticipée d'une société d'intérêt collectif agricole tenue de constituer la réserve des charges
+complémentaires de liquidation doit être autorisée par décision conjointe du ministre de l'économie, du ministre du budget,
+du ministre de l'agriculture et, s'il s'agit de sociétés mentionnées à l'article R. 531-2, du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R531-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°97-503 du 21 mai 1997 - art. 10 () JORF 22 mai 1997
+
+
+###### Article R*534-3
+
+Le boni de liquidation est réparti entre les sociétaires dans les conditions fixées par les statuts. Ne peut toutefois être
+ainsi distribuée la partie de ce boni correspondant à des bénéfices réalisés avec d'autres que des sociétaires ni, pour le
+montant arrêté par décision concertée du ministre de l'économie, du ministre du budget et du ministre de l'agriculture, la
+partie du boni portée à la "réserve des charges complémentaires de liquidation".
+
+Les valeurs de l'actif net non susceptible de répartition sont obligatoirement dévolues par la société à d'autres sociétés
+d'intérêt collectif agricole, à des coopératives ou unions de coopératives, à des établissements ou oeuvres d'intérêt général
+agricole ou rural.
+
+Les dévolutions faites par les sociétés d'intérêt collectif agricole sont approuvées par le ministre de l'économie, le
+ministre du budget, le ministre de l'agriculture et, le cas échéant, le ministre de l'intérieur.
+
+L'institution dévolutaire est tenue des mêmes obligations que son auteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural - art. R583-22 (V)
+
+
+###### Article R534-4
+
+Si la liquidation d'une société d'intérêt collectif agricole constituée après le 6 août 1961 sous la forme d'une société
+civile fait apparaître des pertes excédant le montant du capital social, ces pertes sont divisées entre les sociétaires
+proportionnellement au nombre de parts de capital appartenant à chacun d'eux. Toutefois, et sauf application des dispositions
+des articles 656 et 732 du code rural, relatives à certaines créances du crédit agricole mutuel, la responsabilité de chaque
+sociétaire est limitée à cinq fois le montant des parts du capital social qu'il possède, y compris le montant desdites parts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Code rural ancien - art. 656 (Ab)
+  - Code rural ancien - art. 732 (Ab)
+
+_Cité par_:
+
+  - Code rural - art. R583-23 (V)
+
+
+### Titre IV : Sociétés mixtes d'intérêt agricole<a id=685></a>
+
+###### Article R541-1
+
+Ne peuvent être prises qu'à la majorité qualifiée de plus de 70 p. 100 des voix présentes ou représentées, prévue à l'article
+L. 541-2, les décisions des assemblées générales des sociétés mixtes d'intérêt agricole qui, directement ou indirectement,
+remettraient en cause les disciplines adoptées par les groupements de producteurs reconnus participant à la société ainsi que
+celles portant sur les objets suivants :
+
+- modification de l'objet social ;
+
+- dissolution anticipée de la société ou réduction de sa durée ;
+
+- réduction du capital social par remboursement de parts ou d'actions ;
+
+- modification des clauses des statuts de la société relatives à la qualité de société mixte d'intérêt agricole ;
+
+- opération de fusion, absorption, apports partiels d'actif concernant la société ;
+
+- aliénation de biens sociaux, statutairement déterminés, lorsqu'ils intéressent la production agricole et que, par leur
+importance, ils forment l'un des éléments essentiels du potentiel d'activité de la société ;
+
+- transfert du siège social hors du département ou des départements limitrophes ;
+
+- approbation des conventions passées entre la société et l'un de ses administrateurs, gérants, directeurs ou membres du
+conseil de surveillance.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D541-1
+
+_Cite_:
+
+  - Code rural L541-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+### Titre V : Groupements de producteurs et comités économiques agricoles<a id=686></a>
+
+#### Chapitre Ier : Groupements de producteurs.<a id=687></a>
+
+###### Article R*551-1
+
+La demande de reconnaissance d'un groupement de producteurs est adressée au ministre de l'agriculture par l'intermédiaire du
+préfet du département du siège social du groupement.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D551-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*551-2
+
+La demande doit être accompagnée des pièces suivantes :
+
+1° Statuts du groupement :
+
+Les statuts doivent prévoir l'obligation pour les membres du groupement et, le cas échéant, pour les adhérents des organismes
+qui peuvent en être membres d'observer les règles édictées par le groupement et de se soumettre à son contrôle technique. Ils
+fixent les sanctions sans caractère pénal applicables au cas d'inobservation desdites règles et au cas d'opposition audit
+contrôle. Les statuts doivent comporter les clauses nécessaires pour que les règles édictées par le groupement ne soient
+applicables qu'après l'approbation du ministre de l'agriculture ;
+
+2° Déclaration précisant :
+
+a) La nature et les formes de l'aide susceptible d'être apportée à ses membres par le groupement ;
+
+b) L'objet principal du groupement soit préparation et organisation de la mise en marché des produits pour le compte des
+membres du groupement ou des adhérents des organismes membres, soit transformation et vente des produits effectuées sous la
+propre responsabilité du groupement ;
+
+3° Délibération du conseil d'administration ou de l'organe compétent du groupement décidant de présenter la demande et
+précisant le secteur de produits et la circonscription pour lesquels la reconnaissance est demandée ;
+
+4° Règles déjà édictées dans les conditions de majorité prévues à l'article R. 551-8 ;
+
+5° Règlement intérieur ;
+
+6° Etat numérique des membres du groupement ou des adhérents des organismes membres, classés par activité professionnelle ;
+
+7° Liste des administrateurs, des commissaires aux comptes, du ou des directeurs et des personnes autorisées à signer pour
+l'organisme avec l'indication de leur nationalité, domicile, profession et qualité ;
+
+8° Compte rendu financier, bilan, compte de pertes et profits, compte d'exploitation et pièces annexes depuis la création du
+groupement afférents aux deux derniers exercices écoulés, accompagnés des procès-verbaux des assemblées générales ayant
+examiné lesdits comptes, ainsi que balances trimestrielles arrêtées depuis la clôture du dernier exercice ; les organismes
+ayant moins de deux ans de gestion produisent les documents afférents à leur gestion effective ;
+
+9° Description des installations et moyens techniques dont dispose le groupement, avec l'indication de leur emplacement, de
+leur état et de leur capacité technique d'utilisation ;
+
+10° Programmes éventuels d'extension et d'équipement.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D551-2
+
+_Cite_:
+
+  - Code rural R551-8
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*551-3
+
+Dès réception de la demande de reconnaissance présentée dans les conditions prévues à l'article R. 551-2, le préfet en
+délivre récépissé et procède à son instruction.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D551-3
+
+_Cite_:
+
+  - Code rural R551-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*551-4
+
+L'autorité administrative mentionnée à l'article L. 551-1 est le ministre de l'agriculture.
+
+Après avis du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire mentionné aux articles
+L. 551-2 et L. 552-2, le ministre de l'agriculture se prononce sur la demande de reconnaissance. La reconnaissance vaut
+approbation des règles prévues à l'article L. 551-1 portées à la connaissance du ministre en application du 4° de l'article
+R. 551-2. Le ministre peut exclure de l'approbation certaines règles que le groupement prend l'engagement d'abroger ou de
+modifier dans un délai déterminé.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L551-1, L551-2, L552-2, R551-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R*551-5
+
+L'arrêté de reconnaissance d'un groupement de producteurs agricoles est publié au Journal officiel, dans les recueils des
+actes administratifs des départements intéressés et, aux frais du groupement, dans la presse régionale et locale. Il est en
+outre publié au siège de la ou des chambres d'agriculture intéressées.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D551-5
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*551-6
+
+La liste des groupements reconnus, avec leurs statuts et le texte des règles applicables, régulièrement édictées par eux,
+peut être consultée au ministère de l'agriculture, dans les directions départementales de l'agriculture et au siège de chaque
+chambre d'agriculture intéressée.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D551-6
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*551-7
+
+Un groupement de producteurs précédemment reconnu qui a été l'objet d'une mesure de retrait ou de suspension de
+reconnaissance peut, après avoir tenu compte des motifs de la mesure prise, former une nouvelle demande de reconnaissance qui
+sera présentée et instruite suivant la procédure fixée par les articles R. 551-1, R. 551-3 et R. 551-4.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D551-7
+
+_Cite_:
+
+  - Code rural R551-1, R551-3, R551-4
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*551-8
+
+Les règles prévues à l'article L. 551-1 ne peuvent être édictées que par un vote de l'assemblée générale du groupement acquis
+à la majorité des deux tiers des membres qui en font statutairement partie.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D551-8
+
+_Cite_:
+
+  - Code rural L551-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*551-9
+
+Un groupement de producteurs reconnu ne peut édicter de nouvelles règles ou modifier des règles déjà approuvées qu'avec
+l'approbation explicite du ministre de l'agriculture après avis du conseil supérieur d'orientation et de coordination de
+l'économie agricole et alimentaire. La demande d'approbation est transmise par l'intermédiaire du préfet. Elle doit être
+présentée au plus tard six semaines avant la date prévue pour l'application de ces règles. Toutefois le ministre peut
+exceptionnellement, sur la demande du groupement, autoriser l'application de celles-ci aussitôt après la publication au siège
+de la chambre d'agriculture du texte approuvé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R*551-10
+
+Conformément à leurs statuts, les groupements de producteurs organisent, dans les limites du secteur de produits pour lequel
+ils ont été reconnus, les contrôles techniques nécessaires de la production de leurs membres.
+
+Les produits livrés par un groupement de producteurs ou sous son contrôle par ses membres doivent pouvoir être identifiés
+suivant des modalités fixées par arrêté du ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D551-10
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*551-11
+
+L'autorité administrative mentionnée à l'article L. 551-2 est le ministre de l'agriculture.
+
+L'arrêté par lequel le ministre de l'agriculture prononce le retrait ou la suspension de la reconnaissance d'un groupement
+est pris, le groupement ayant été mis à même de présenter ses observations, dans les conditions prévues au deuxième alinéa de
+l'article L. 551-2 et à l'article L. 553-2. Cet arrêté est motivé.
+
+Le retrait et la suspension font l'objet des mesures de publicité prévues à l'article R. 551-5.
+
+La suspension ou le retrait de la reconnaissance n'entraînent pas par eux-mêmes la caducité des règles en vigueur
+antérieurement approuvées édictées par le groupement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L551-2, L553-2, R551-5
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R*551-12
+
+Le ministre de l'agriculture peut, à toute époque, après avoir recueilli les observations du groupement et pris l'avis du
+conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire, retirer son approbation à des
+règles en vigueur antérieurement approuvées. Il fixe la date de l'effet du retrait de l'approbation. Le groupement, s'il
+entend maintenir néanmoins ces règles, perd la qualité de groupement reconnu.
+
+L'arrêté par lequel l'approbation est retirée ainsi que, le cas échéant, la décision que le groupement pourrait prendre de
+maintenir néanmoins ces règles font l'objet des mesures de publicité prévues à l'article R. 551-5.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R551-5
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+#### Chapitre II : Comités économiques agricoles.<a id=688></a>
+
+###### Article R*552-1
+
+La demande d'agrément présentée, pour une région ou pour un secteur de produits déterminés, par un comité économique agricole
+est adressée au ministre de l'agriculture par l'intermédiaire du préfet du département du siège social du comité.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D552-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*552-2
+
+La demande doit être accompagnée des pièces suivantes :
+
+1° Statuts du comité auxquels doit être joint le procès-verbal de l'assemblée générale constitutive. Ces statuts doivent
+prévoir l'obligation pour les membres du comité et les producteurs agricoles qui en relèvent d'observer les règles édictées
+par le comité et de se soumettre à un contrôle technique. Ils fixent les sanctions sans caractère pénal applicables aux
+inobservations desdites règles et à l'opposition audit contrôle.
+
+Les statuts doivent comporter des clauses prévoyant que :
+
+a) L'assemblée générale du comité est composée, à concurrence des deux tiers au moins, par des représentants des groupements
+de producteurs reconnus ;
+
+b) Les personnes physiques représentant au conseil d'administration les personnes morales administrateurs sont à concurrence
+des deux tiers au moins des agriculteurs ;
+
+c) Les délibérations du conseil d'administration ne sont régulières que si la moitié au moins des personnes physiques
+délibérant au conseil sont des agriculteurs ;
+
+d) Les règles édictées par le comité ne soient applicables qu'après approbation du ministre de l'agriculture ;
+
+2° Déclaration précisant la nature et les formes de l'aide susceptible d'être apportée, le cas échéant, aux adhérents par le
+comité ;
+
+3° Délibération de l'assemblée générale du comité portant demande d'agrément et précisant le secteur de produits et la
+circonscription pour lesquels l'agrément est demandé ;
+
+4° Etat indiquant la dénomination et l'adresse des groupements de producteurs et des syndicats agricoles membres du comité ;
+
+5° Statuts des syndicats qui, non reconnus comme groupements de producteurs, ont adhéré au comité ;
+
+6° Procès-verbaux des délibérations des assemblées générales des groupements de producteurs et des syndicats relatives à
+l'adhésion de ces groupements au comité.
+
+Ces délibérations doivent faire état de l'engagement pris par les groupements et les syndicats d'abroger leurs règles propres
+en contradiction avec les règles édictées par le comité ;
+
+7° Règlement intérieur du comité ;
+
+8° Textes des règles édictées par le comité conformément aux dispositions de l'article L. 552-1 ;
+
+9° Plan de l'organisation des services du comité comportant pour chacun d'eux le tableau numérique du personnel avec
+indication du nombre et des qualifications des cadres ;
+
+10° Etat prévisionnel des recettes et des dépenses des deux prochaines années y compris les frais de premier établissement ;
+
+11° Compte rendu financier du dernier exercice et procès-verbal de la délibération de l'assemblée générale ayant adopté ce
+compte rendu. Ces pièces sont établies pour chaque groupement de producteurs adhérent et chaque syndicat.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D552-2
+
+_Cite_:
+
+  - Code rural L552-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*552-3
+
+Dès réception de la demande d'agrément présentée dans les conditions prévues à l'article R. 552-1, le préfet en délivre
+récépissé et procède à son instruction.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D552-3
+
+_Cite_:
+
+  - Code rural R552-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*552-5
+
+L'arrêté d'agrément d'un comité économique agricole est publié au Journal officiel, dans les recueils des actes
+administratifs des départements intéressés et, aux frais du comité, dans la presse locale et régionale. Il est, en outre,
+publié au siège de la ou des chambres d'agriculture intéressées.
+
+La liste des comités économiques agricoles agréés, ainsi que leurs statuts et les règles édictées par chacun d'eux, peuvent
+être consultés au ministère de l'agriculture, dans les directions départementales de l'agriculture et au siège de chaque
+chambre d'agriculture intéressée.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D552-5
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*552-6
+
+Un comité économique agricole précédemment agréé qui a été l'objet d'une mesure de retrait ou de suspension d'agrément peut,
+après avoir tenu compte des motifs de la mesure prise, former une nouvelle demande d'agrément qui sera présentée et instruite
+suivant la procédure fixée par les articles R. 552-1, R. 552-3 et R. 552-4.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D552-6
+
+_Cite_:
+
+  - Code rural R552-1, R552-3, R552-4
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*552-7
+
+L'adhésion d'un nouveau membre à un comité économique agricole agréé, la démission d'un membre d'un comité économique
+agricole agréé ne peuvent prendre effet qu'après la déclaration, adressée au ministre de l'agriculture par l'intermédiaire du
+préfet, de l'adhésion ou de la démission.
+
+L'adhésion est subordonnée à l'intervention d'une délibération du groupement ou du syndicat s'engageant à abroger leurs
+règles propres en contradiction avec les règles édictées par le comité.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D552-7
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*552-9
+
+Les règles prévues à l'article L. 552-1 ne peuvent être édictées que par un vote de l'assemblée générale acquis à la majorité
+des deux tiers des membres qui en font statutairement partie.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D552-9
+
+_Cite_:
+
+  - Code rural L552-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*552-12
+
+Les comités économiques agricoles organisent, auprès de leurs membres et des producteurs qui relèvent d'eux, tous contrôles
+techniques entrant dans leur objet.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D552-12
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*552-15
+
+Les comités économiques agricoles peuvent se grouper pour un même secteur de produits en une fédération.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D552-15
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R552-4
+
+Après avis du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire, le ministre de
+l'agriculture, en application de l'article L. 552-2, se prononce sur la demande de l'agrément.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L552-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R552-8
+
+La circonscription d'un comité économique agricole agréé ne peut être modifiée qu'avec l'approbation du ministre de
+l'agriculture qui se prononce après instruction de la demande par le préfet et avis du conseil supérieur d'orientation et de
+coordination de l'économie agricole et alimentaire. L'arrêté du ministre est publié conformément aux dispositions de
+l'article R. 552-5.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R552-5
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R552-10
+
+Un comité économique agricole agréé ne peut édicter de nouvelles règles ou modifier des règles déjà approuvées qu'avec
+l'approbation explicite du ministre de l'agriculture, après avis du conseil supérieur d'orientation et de coordination de
+l'économie agricole et alimentaire.
+
+La demande d'approbation est transmise par l'intermédiaire du préfet. Elle doit avoir été présentée au plus tard six semaines
+avant la date prévue pour l'application de ces règles. Toutefois, le ministre peut exceptionnellement, sur la demande du
+comité, autoriser l'application de celles-ci aussitôt après la publication au siège de la chambre d'agriculture du texte
+approuvé.
+
+Exceptionnellement, le ministre de l'agriculture peut décider, sur proposition du conseil supérieur mentionné ci-dessus, que
+certaines dispositions des règles pourront être modifiées avec la seule autorisation du délégué prévu à l'article ci-dessous.
+
+L'agrément d'un comité vaut approbation des règles prévues à l'article L. 552-1 portées à la connaissance du ministre, en
+application du 8° de l'article R. 552-2. Le ministre peut exclure de l'approbation certaines règles que le comité prend
+l'engagement d'abroger ou de modifier dans un délai déterminé.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code rural - art. D552-18 (VT)
+
+_Cite_:
+
+  - Code rural L552-1, R552-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R552-11
+
+Le ministre de l'agriculture nomme un délégué auprès de chaque comité économique agricole agréé.
+
+Ce délégué, qui joue auprès du comité un rôle de conseiller technique, assiste ou peut, dans les conditions fixées par le
+ministre de l'agriculture, se faire représenter aux réunions du conseil d'administration et de l'assemblée générale. Il peut
+consulter sur place ou se faire communiquer toutes pièces et tous documents concernant l'activité du comité ou des organismes
+qui en font partie.
+
+Il est tenu régulièrement au courant de toutes les décisions prises par le conseil d'administration et des résolutions
+adoptées par l'assemblée générale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R552-13
+
+Le ministre de l'agriculture prononce, par arrêté motivé pris par application du deuxième alinéa de l'article L. 552-2, le
+retrait ou la suspension de l'agrément, après avoir mis à même le comité de présenter ses observations et après avis du
+conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire.
+
+Le retrait et la suspension font l'objet des mesures de publicité prévues à l'article R. 552-5 ; ils n'entraînent pas la
+caducité des règles édictées par le comité.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L552-2, R552-5
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R552-14
+
+Le ministre de l'agriculture peut à toute époque, après avoir recueilli les observations du comité et pris l'avis du conseil
+supérieur d'orientation et de coordination de l'économie agricole et alimentaire, retirer son approbation à des règles en
+vigueur antérieurement approuvées. Il fixe la date d'effet du retrait de l'approbation. Le comité, s'il entend néanmoins
+maintenir ces règles, perd la qualité de comité agréé.
+
+L'arrêté par lequel l'approbation est retirée ainsi que, le cas échéant, la décision par laquelle le comité maintient en
+vigueur ces règles font l'objet de mesures de publicité prévues à l'article R. 552-5.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R552-5
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+#### Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles<a id=689></a>
+
+##### Section 1 : Droits d'inscription et cotisations.<a id=690></a>
+
+###### Article R*553-1
+
+Le décret mentionné à l'article L. 553-1 est pris sur propositions conjointes du ministre de l'agriculture, du ministre de
+l'économie et du ministre du budget.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L553-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R*553-2
+
+Les groupements de producteurs reconnus sont habilités à percevoir auprès de chacun de leurs membres un droit d'inscription
+dont le montant est fixé uniformément par producteur et des cotisations assises sur la valeur de la production commercialisée
+au titre de laquelle ils ont été reconnus.
+
+Le montant des droits d'inscription et le taux des cotisations ne peut excéder les maximums fixés par décision du ministre de
+l'agriculture, après avis du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire.
+
+Les valeurs servant d'assiette aux cotisations peuvent être déterminées forfaitairement compte tenu des cours relevés sur le
+marché.
+
+Les producteurs qui effectuent tout ou partie de leurs ventes sans recourir à l'intermédiaire des groupements et sans que la
+responsabilité de ceux-ci soit engagée sont, en vue de l'établissement des cotisations, tenus de déclarer, dans les
+conditions fixées par les règles édictées en application des articles L. 551-1 ou L. 552-1, la quantité et, le cas échéant,
+la qualité des produits ainsi commercialisés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Code rural L551-1, L552-1
+
+
+###### Article R*553-3
+
+Le produit des droits d'inscription et des cotisations ne peut être affecté qu'aux dépenses correspondant à l'objet assigné
+au groupement par les dispositions législatives et réglementaires et les statuts de l'organisme. L'affectation des ressources
+du groupement aux interventions sur les marchés, prévues au dernier alinéa de l'article L. 554-1 ne peut avoir lieu que dans
+les conditions déterminées par une décision du ministre de l'agriculture prise selon la procédure fixée par le décret du 29
+juillet 1961 relatif aux attributions et au fonctionnement du fonds d'orientation et de régularisation des marchés agricoles.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L554-1
+  - Décret n°61-827 1961-07-29
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R*553-4
+
+Si elle adhère à un groupement de producteurs reconnu, toute personne morale groupant plusieurs producteurs est redevable des
+droits et des cotisations dus au titre de chacun de ces producteurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R*553-5
+
+Le montant des droits d'inscription et le taux des cotisations ainsi que les modalités de leur acquittement sont fixés par
+l'assemblée générale ordinaire.
+
+L'assemblée ne délibère régulièrement sur ces questions qu'aux conditions suivantes :
+
+- les convocations adressées à ses membres doivent mentionner l'inscription de ces questions à l'ordre du jour ;
+
+- les membres présents et représentés doivent disposesr de la moitié au moins du nombre total des voix statutaires ;
+
+- la décision doit être prise à la majorité des deux tiers des voix de ces membres.
+
+Lorsque les membres présents et représentés ne disposent pas ensemble de la moitié au moins du nombre total des voix
+statutaires, il est procédé à une seconde convocation.
+
+La deuxième assemblée statue régulièrement, quel que soit le nombre des membres présents et représentés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R*553-6
+
+Les comités économiques agréés sont habilités à percevoir, auprès de chacun de leurs membres, un droit d'inscription et, à
+titre de cotisation, auprès de leurs membres qui ont la qualité de groupements agricoles reconnus, une fraction des
+cotisations perçues par les groupements eux-mêmes.
+
+Le ministre de l'agriculture peut, après avis du conseil supérieur d'orientation et de coordination de l'économie agricole et
+alimentaire, fixer le montant maximum des cotisations perçues par un comité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R*553-7
+
+Lorsqu'un comité économique agricole agréé, en application de l'article L. 552-2, a obtenu l'extension à l'ensemble des
+producteurs de sa circonscription de l'une ou de plusieurs règles édictées pour les producteurs et groupements relevant de
+lui, les producteurs pour lesquels cette règle est devenue obligatoire du fait de cette extension sont redevables au comité,
+dans les conditions fixées par arrêté du ministre de l'agriculture, de tout ou partie des cotisations fixées en application
+de l'article R. 553-2.
+
+Cet arrêté fixe le quantum exigible en raison du nombre et de la nature des règles étendues à l'ensemble des producteurs.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L552-2, R553-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R*553-8
+
+Toute action en recouvrement des droits d'inscription et des cotisations prévus à la présente section doit être précédée
+d'une mise en demeure adressée aux personnes physiques ou morales intéressées par lettre recommandée avec demande d'avis de
+réception.
+
+Cette mise en demeure ne peut concerner que les droits d'inscription ou les cotisations dus au titre de l'année en cours ou
+des deux années précédentes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R*553-9
+
+Si la mise en demeure prévue à l'article précédent reste sans effet, les droits d'inscription et les cotisations sont
+recouvrés dans les conditions du droit commun. Toutefois, par dérogation à l'article 1er du décret du 28 avril 1972 relatif
+au recouvrement de certaines créances, les dispositions de ce même décret sont applicables aux créances desdits organismes
+même si elles n'ont pas un caractère contractuel.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°72-327 1972-04-28 art. 1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+##### Section 2 : Contrôle.<a id=691></a>
+
+###### Article R*553-10
+
+Le contrôle du ministre de l'agriculture sur les comités économiques agréés et sur les groupements de producteurs reconnus
+porte notamment :
+
+- sur la comptabilité et la régularité des opérations de ces organismes ;
+
+- sur l'utilisation de l'aide reçue, en particulier de celle qui pourrait être accordée par l'Etat, les collectivités
+publiques, les établissements publics et les sociétés d'économie mixte ;
+
+- sur l'application par les groupements de producteurs, les comités économiques agricoles et les organismes et les
+producteurs qui en relèvent, des règles édictées en application des articles L. 551-1 et L. 552-1 ainsi que sur l'application
+des lois et règlements en vigueur, en particulier des lois et règlements intervenus en matière de répression des fraudes et
+de normalisation.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D553-10
+
+_Cite_:
+
+  - Code rural L551-1, L552-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*553-11
+
+L'aide financière qui pourrait avoir été accordée par l'Etat, les collectivités publiques, les établissements publics et les
+sociétés d'économie mixte doit faire l'objet dans les écritures des groupements et comités de comptes spéciaux faisant
+ressortir leur utilisation.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D553-11
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*553-12
+
+Les groupements de producteurs reconnus et les comités économiques agricoles agréés doivent adresser annuellement au
+ministère de l'agriculture, sous le couvert du directeur départemental de l'agriculture, du lieu de leur siège social, les
+bilans, comptes de profits et pertes, comptes d'exploitation et documents annexes afférents au dernier exercice écoulé ainsi
+que la copie du procès-verbal de l'assemblée générale qui a procédé à l'examen desdits comptes.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D553-12
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*553-13
+
+Les fonctionnaires du ministère de l'agriculture, habilités à cet effet par le ministre de l'agriculture, ont accès dans les
+services des groupements de producteurs reconnus et des comités économiques agricoles agréés. Ils peuvent y prendre
+connaissance de toutes pièces, lettres ou documents comptables ou administratifs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R*553-14
+
+Les fonctionnaires et agents du ministère de l'agriculture, et notamment ceux du service de la répression des fraudes et du
+contrôle de la qualité, participent concurremment avec les agents des organismes intéressés au contrôle de l'application par
+ces organismes et par les producteurs agricoles des règles en vigueur édictées par les groupements et comités économiques
+agricoles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R*553-15
+
+Les groupements de producteurs reconnus et les comités économiques agricoles agréés qui se trouvent dans les conditions
+définies aux articles 1er et 2 du décret du 26 mai 1955 modifié relatif au contrôle économique et financier de l'Etat sont
+soumis au contrôle prévu par ce décret.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D553-15
+
+_Cite_:
+
+  - Décret n°55-733 1955-05-26 art. 1, art. 2
+  - Décret n°55-733 du 26 mai 1955 - art. 2 (M)
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*553-16
+
+Le contrôle à assurer en vue de l'application des articles R. 553-3, R. 553-4 et R. 553-7 concernant les droits d'inscription
+et les cotisations est exercé dans les conditions prévues à l'article R. 553-14.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R553-3, R553-4, R553-7, R553-14
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. R556-3 (Ab)
+
+
+##### Section 3 : Dispositions diverses.<a id=692></a>
+
+###### Article R*553-17
+
+Le ministre de l'agriculture peut autoriser des dérogations au caractère obligatoire des règles édictées conformément aux
+dispositions des chapitres Ier et II du présent titre, de la section II du présent chapitre et des articles R. 554-1 à R.
+554-6 qui pourraient mettre obstacle aux recherches et essais effectués en vue de la production de végétaux et d'animaux,
+d'espèces ou de variétés nouvelles.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R554-1 à R554-6
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+#### Chapitre IV : Extension des règles édictées par les comités économiques agricoles<a id=693></a>
+
+##### Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole<a id=694></a>
+
+###### Article R*554-1
+
+Seules peuvent être rendues obligatoires pour tous les producteurs de la circonscription d'un comité économique agricole
+agréé, les règles susceptibles d'améliorer les conditions de la production ou de la commercialisation conformément à
+l'intérêt général apprécié compte tenu des exigences des marchés et des équilibres à maintenir ou à instaurer entre les
+produits et les régions.
+
+Ces règles se limitent à un ou plusieurs objets suivants :
+
+a) Détermination des conditions techniques de la production agricole, de défense des cultures et des élevages, de récolte, de
+conservation, de stockage, d'expédition, de transport, de conditionnement, de mise en marché des produits ;
+
+b) Etablissement des nomenclatures et, éventuellement, fixation de la proportion des espèces, races, variétés et catégories
+de qualités pouvant être livrées aux différents secteurs d'utilisation par référence à des définitions existantes ;
+
+c) Fixation des modalités techniques de contrôle des produits destinés à la vente, en ce qui concerne leur qualité et leur
+correspondance aux normes ;
+
+d) Fixation des modalités d'échelonnement de l'envoi des produits sur les différents marchés en vue d'assurer
+l'approvisionnement régulier et d'éviter des variations anormales des cours ;
+
+e) Application de contrats types de production homologués par le ministre de l'agriculture ;
+
+f) Organisation des mesures de publicité et de propagande.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+##### Section 2 : Procédure d'extension des règles<a id=695></a>
+
+##### Sous-section 1 : Dispositions générales.<a id=696></a>
+
+###### Article R*554-2
+
+Un comité économique agricole agréé peut demander au ministre de l'agriculture, par application de l'article L. 554-1,
+l'extension, totale ou partielle, des règles relatives à un ou plusieurs objets mentionnés à l'article R. 554-1, à l'ensemble
+des producteurs intéressés de sa circonscription lorsque ces règles :
+
+- ont préalablement été imposées par le comité à ses membres ;
+
+- ont été prises à la majorité des organismes adhérents depuis au moins une année englobant une campagne agricole antérieure.
+
+La décision de présenter la demande doit être prise par l'assemblée générale du comité se prononçant à la majorité des deux
+tiers des membres composant statutairement l'assemblée.
+
+La demande précise le texte de la ou des règles dont l'extension est demandée.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-2
+
+_Cite_:
+
+  - Code rural L554-1, R554-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-3
+
+La demande d'extension, motivée et accompagnée d'un rapport d'activité et du procès-verbal de la délibération de l'assemblée
+générale prévue à l'article précédent, est adressée au ministre de l'agriculture par l'intermédiaire du préfet du département
+du siège du comité.
+
+Le préfet instruit la demande sur le plan départemental ou interdépartemental.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-3
+
+_Cite_:
+
+  - Code rural R554-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-4
+
+Le ministre de l'agriculture fait connaître, s'il y a lieu, au comité, les modifications qu'il estime nécessaire d'apporter
+aux règles dont l'extension est demandée. Compte tenu de la réponse du comité et des modifications apportées, après avoir
+pris l'avis du ministre de l'économie et du ministre du budget et entendu le conseil supérieur d'orientation et de
+coordination de l'économie agricole et alimentaire, il décide, le cas échéant, de consulter les producteurs.
+
+Dans ce cas, la consultation est ordonnée par arrêté publié dans les conditions prévues à l'article R. 552-5. Cet arrêté
+énonce les questions posées aux producteurs et définit le critère retenu pour apprécier la capacité de production servant au
+calcul des quantités de produits commercialisés.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-4
+
+_Cite_:
+
+  - Code rural R552-5
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-5
+
+Lorsque l'extension d'une règle a été approuvée à la double majorité prévue par l'article L. 554-2, cette extension peut être
+prononcée, en application du premier alinéa du même article, par arrêté conjoint du ministre de l'agriculture, du ministre de
+l'économie et du ministre du budget.
+
+Les arrêtés interministériels portant extension de règles édictées par les comités économiques agricoles agréés sont publiés
+au Journal officiel avec le texte des règles ayant fait l'objet de la mesure d'extension.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-5
+
+_Cite_:
+
+  - Code rural L554-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-6
+
+L'arrêté interministériel mentionné à l'article R. 554-5, rendant obligatoires à l'ensemble des producteurs concernés de la
+circonscription d'un comité économique agricole agréé certaines règles édictées par ce comité, peut être rapporté par arrêté
+conjoint du ministre de l'agriculture, du ministre de l'économie et du ministre du budget, lorsque ces règles ne répondent
+plus aux conditions prévues pour leur extension. Cet arrêté est pris après que les observations du comité économique
+intéressé ont été recueillies et après avis du conseil supérieur d'orientation et de coordination de l'économie agricole et
+alimentaire.
+
+L'arrêté interministériel rapportant l'arrêté d'extension fixe la date à laquelle ces règles cesseront d'avoir effet pour
+l'ensemble des producteurs auxquels elles avaient été étendues. Il fait l'objet des mesures de publicité prévues à l'article
+R. 552-5.
+
+Le ministre de l'agriculture se prononce, dans les conditions prévues à l'article R. 552-14, sur le maintien des règles
+applicables aux producteurs, qui relèvent d'organismes adhérant au comité.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-6
+
+_Cite_:
+
+  - Code rural R554-5, R552-5, R552-14
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+##### Sous-section 2 : Procédure de consultation des producteurs<a id=697></a>
+
+##### Paragraphe 1 : Etablissement de la liste des producteurs.<a id=698></a>
+
+###### Article R*554-7
+
+Dans le délai d'un mois de la publication au Journal officiel de l'arrêté ministériel ordonnant la consultation des
+producteurs intéressés prévue à l'article R. 554-4 et, sous réserve de l'application des dispositions de l'article R. 554-15,
+chaque chambre d'agriculture intéressée dresse, par commune, avec l'aide des services départementaux du ministère de
+l'agriculture et tous autres concours utiles, la liste des producteurs. Cette liste comporte l'indication des nom, prénoms,
+domicile, date et lieu de naissance de chaque producteur ainsi que la capacité de production dont il dispose. Cette capacité
+de production sera retenue pour le calcul des quantités de produits commercialisés. Si le producteur est une personne morale,
+la liste comporte l'indication du siège de la personne morale.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-7
+
+_Cite_:
+
+  - Code rural R554-4, R554-15
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-8
+
+A la demande de la chambre d'agriculture, le préfet peut décider, pour la totalité ou une partie de la circonscription du
+comité économique agricole, de constituer, par commune ou groupe de communes, des commissions qui recensent les producteurs
+et évaluent leur capacité de production. Ces commissions, dont il nomme les membres, sont composées, sous la présidence du
+maire de la commune ou, au cas de groupement de communes, sous la présidence d'un maire désigné par lui, d'un délégué de la
+chambre d'agriculture et d'un délégué de l'administration.
+
+Les résultats des travaux de chaque commission sont adressés au préfet, dans un délai de vingt jours à compter de la date de
+la notification au président de la décision préfectorale constituant la commission. Ils sont transmis par le préfet à la
+chambre d'agriculture.
+
+Si ces commissions sont constituées, le délai d'un mois imparti à l'article R. 554-7 aux chambres d'agriculture peut, si le
+préfet l'estime nécessaire, être prolongé dans la limite d'un maximum de vingt jours.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-8
+
+_Cite_:
+
+  - Code rural R554-7
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-9
+
+Les producteurs qui remplissent dans plusieurs communes de la circonscription du comité économique agricole les conditions
+requises pour participer à la consultation ne peuvent être inscrits que sur la liste d'une seule commune. Cette commune est
+celle comprise dans la circonscription du comité dans laquelle la capacité de production dont ils disposent est la plus
+forte. Cette liste mentionne la totalité de la production dont chacun d'eux dispose à l'intérieur de la circonscription du
+comité.
+
+En cas de métayage, la qualité de producteur est reconnue séparément au métayer et au bailleur. La capacité de production
+attribuée à chacun est déterminée en tenant compte de la part qui lui revient contractuellement, la somme de ces capacités
+individuelles est égale à la capacité totale de l'exploitation.
+
+En cas de mise en valeur par une personne morale, la qualité de producteur n'est reconnue qu'à ladite personne exception
+faite des cas des groupements agricoles d'exploitation en commun constitués en application de la loi du 8 août 1962 relative
+aux groupements agricoles d'exploitation en commun et des sociétés coopératives agricoles d'exploitation en commun. Dans le
+premier cas, cette qualité est reconnue à tous les membres du groupement, autres que les porteurs de parts d'industrie,
+travaillant sur l'exploitation. Dans le second cas, elle est reconnue à tous les membres de la coopérative. Dans ces
+groupements et sociétés, la capacité totale de production du groupement ou de la société est répartie entre les membres du
+groupement ou de la société ayant la qualité de producteur en tenant compte de la part revenant contractuellement à chacun
+d'eux. Si les intéressés n'établissent pas le montant de ces parts, la capacité totale de l'exploitation est partagée de
+façon égale entre les membres de la société ou du groupement.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-9
+
+_Cite_:
+
+  - Loi n°62-917 1962-08-08
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-10
+
+Après l'établissement de la liste, la chambre d'agriculture adresse cette liste au préfet et au directeur départemental de
+l'agriculture.
+
+Le préfet ordonne, par arrêté, l'affichage simultané pendant dix jours, à la porte des mairies, de l'arrêté ministériel
+mentionné à l'article R. 554-7 et, pour chaque commune, de l'extrait la concernant de la liste globale établie par la chambre
+d'agriculture. Cet extrait comporte l'indication de la commune où sont inscrits les producteurs de la commune inscrits dans
+une autre commune.
+
+Cet extrait et la copie de l'arrêté ministériel sont transmis à chaque maire en même temps que l'arrêté préfectoral et
+affichés dès leur réception.
+
+Pendant la durée de l'affichage, le directeur départemental de l'agriculture et les producteurs peuvent adresser au président
+de la chambre d'agriculture leurs observations sur le contenu de la liste.
+
+Les dispositions du précédent alinéa doivent être reproduites en tête des extraits de listes affichés dans les mairies.
+
+Chaque maire adresse au préfet le procès-verbal de l'affichage.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-10
+
+_Cite_:
+
+  - Code rural R554-7
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-11
+
+L'arrêté préfectoral prévu à l'article R. 554-10 et ordonnant l'affichage est inséré en caractères apparents, à la diligence
+de la chambre d'agriculture, dans la presse locale ou régionale. Cette insertion doit être faite à deux reprises, avec un
+jour d'intervalle, aussitôt après l'envoi de l'arrêté préfectoral aux communes intéressées.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-11
+
+_Cite_:
+
+  - Code rural R554-10
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-12
+
+Dès réception de l'avis donné par le préfet à la chambre d'agriculture de l'exécution des affichages prévus à l'article R.
+554-10, le bureau de la chambre d'agriculture examine d'urgence les observations recueillies. Ce bureau, s'il l'estime
+nécessaire, procède à une enquête, en particulier auprès des commissions communales ou intercommunales de recensement. Il
+arrête quinze jours au plus tard après la réception de l'avis préfectoral et compte tenu de toutes les informations
+recueillies par lui, une liste rectifiée de producteurs. Le président du bureau communique la liste au préfet pour affichage,
+par extrait, pendant huit jours dans chaque mairie. Les maires intéressés adressent le procès-verbal de l'affichage au préfet
+qui en avise la chambre d'agriculture.
+
+Pendant la durée de ce nouvel affichage, tout producteur intéressé peut faire parvenir au juge du tribunal d'instance dont
+dépend la commune les réclamations qu'il estime utile de présenter.
+
+Le juge du tribunal d'instance après avoir convoqué par simple lettre du greffier, les réclamants et le président de la
+chambre d'agriculture ou son représentant, statue dans les dix jours.
+
+Le greffier du tribunal d'instance notifie la décision rendue, au président de la chambre d'agriculture et, à chacun des
+réclamants, l'extrait des décisions qui les concernent.
+
+La décision du juge du tribunal d'instance n'est susceptible ni d'opposition ni d'appel. Elle peut être déférée à la Cour de
+cassation dans les dix jours de la notification de la décision. Le pourvoi n'est pas suspensif. Il est formé par simple
+requête dénoncée au défendeur dans les dix jours qui suivent et jugé d'urgence, sans consignation d'amende. Les pièces et
+mémoires déposés à la mairie par les parties sont transmis par le maire au greffier du tribunal d'instance et par celui-ci au
+greffe de la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-12
+
+_Cite_:
+
+  - Code rural R554-10
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-13
+
+La liste définitive des producteurs appelés à participer à la consultation, rectifiée, s'il y a lieu, en vertu des décisions
+judiciaires, est arrêtée par le bureau de la chambre d'agriculture, trente jours après réception par la chambre de l'avis
+donné par le préfet de l'exécution des affichages prévus au premier alinéa de l'article précédent.
+
+Cette liste est établie par commune et par ordre alphabétique. L'original est déposé à la chambre d'agriculture.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-13
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-14
+
+Copie des listes électorales définitives établies par commune sont transmises par le président de la chambre d'agriculture au
+préfet. Celui-ci adresse aux maires des communes concernées par l'arrêté préfectoral prévu à l'article R. 554-16 les listes
+relatives à leurs communes.
+
+Ces copies servent pour l'émargement lors du vote.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-14
+
+_Cite_:
+
+  - Code rural R554-16
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-15
+
+Les consultations auxquelles il est procédé pendant l'année suivant la publication de la liste définitive arrêtée par le
+bureau de la chambre d'agriculture se font sur la base de cette liste. Toutefois, il doit être tenu compte des décisions
+judiciaires intervenues depuis cette publication.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-15
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+##### Paragraphe 2 : Modalités de la consultation des producteurs.<a id=699></a>
+
+###### Article R*554-16
+
+Un arrêté préfectoral ou, si la circonscription du comité économique s'étend sur plusieurs départements, un arrêté
+interpréfectoral, pris sur proposition de la ou des chambres d'agriculture intéressées, fixe :
+
+1° Les lieux de vote ainsi que la date et les heures d'ouverture du scrutin, celui-ci devant avoir lieu entre le vingtième et
+le trentième jour suivant la publication de l'arrêté l'ordonnant ;
+
+2° Les montants nominaux des capacités de production correspondant aux différents bulletins de vote de la 2e catégorie
+mentionnés à l'article R. 554-17 ;
+
+3° La production commercialisée qui dans chaque commune ou, exceptionnellement, dans un groupe de communes correspond à
+l'unité de capacité de production ;
+
+4° Le volume global de la production commercialisée dans la circonscription du comité et le nombre total des producteurs.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-16
+
+_Cite_:
+
+  - Code rural R554-17
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-17
+
+Les opérations du scrutin ont pour objet d'apprécier si l'extension projetée de certaines règles à l'ensemble des producteurs
+de la circonscription du comité économique agricole a recueilli, conformément à l'article L. 554-2, l'accord d'un nombre
+suffisant de producteurs représentant une quantité suffisante de la production commercialisée.
+
+Pour le vote, chaque électeur utilise simultanément des bulletins de deux catégories fournis par la chambre d'agriculture :
+
+1° En vue du scrutin permettant d'apprécier l'accord d'un nombre suffisant de producteurs, il utilise un bulletin unique sur
+lequel figure le texte de la ou des règles dont l'extension est envisagée ;
+
+2° En vue du scrutin portant sur les quantités de produits permettant d'apprécier si l'accord des producteurs représente un
+volume suffisant de production, il utilise un ou plusieurs bulletins sur lesquels figurent à la fois le texte de la ou des
+règles dont l'extension est envisagée et l'indication, au recto et au verso, d'un montant nominal en capacité de production.
+
+La chambre d'agriculture détermine la couleur de chacune des deux catégories de bulletins.
+
+Les bulletins de la 2e catégorie qui peuvent porter des montants nominaux de capacité de production différents sont remis à
+chaque électeur. Le maximum possible de bulletins portant le montant nominal le plus élevé lui est d'abord remis ; il reçoit
+ensuite, dans l'ordre décroissant jusqu'à concurrence du montant total de la capacité de production qui lui a été attribué
+sur la liste électorale, des bulletins d'un montant nominal moins important.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-17
+
+_Cite_:
+
+  - Code rural L554-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-18
+
+Le vote a lieu sous enveloppes distinctes, de couleurs différentes, correspondant aux deux catégories de bulletins de vote.
+
+Ces enveloppes, non gommées, et de type uniforme pour les deux catégories de bulletin sont fournies par la chambre
+d'agriculture ; elles portent le timbre de cette chambre.
+
+Les enveloppes de la 1re catégorie sont opaques, celles de la 2e catégorie sont munies d'un voyant afin de permettre le
+contrôle par les bureaux de vote des votes relatifs aux capacités de production.
+
+Ces enveloppes sont envoyées dans chaque mairie intéressée, cinq jours au moins avant la consultation, en même temps que les
+bulletins de vote des deux catégories. Le nombre des enveloppes de la 1re catégorie est égal au nombre d'électeurs inscrits,
+augmenté d'un dixième. Le nombre des enveloppes de la 2e catégorie est égal au nombre, augmenté d'un dixième, des bulletins
+de la 2e catégorie. Ce nombre d'enveloppes doit permettre de délivrer à chaque électeur, dans les conditions prévues au
+dernier alinéa de l'artice R. 554-17, le nombre des coupures correspondant au total de sa capacité de production, chaque
+enveloppe ne pouvant contenir, lors de vote, qu'une seule coupure. Les bulletins et enveloppes correspondant à l'augmentation
+du dixième sont adressés dans un second pli, séparé et cacheté. Le maire doit immédiatement accuser réception de ces envois.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-18
+
+_Cite_:
+
+  - Code rural R554-17
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-19
+
+Le déroulement des opérations du scrutin est assuré par un bureau présidé par le maire ou un conseiller municipal délégué par
+lui comprenant, sauf impossibilité mentionnée au procès-verbal, deux producteurs membres du comité économique agricole et
+deux producteurs ne relevant pas de groupements membres de ce comité. Si plus de deux producteurs de chacune de ces
+catégories sont volontaires pour faire partie du bureau, il est procédé par tirage au sort.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-19
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-20
+
+Avant l'ouverture du scrutin, le bureau procède à l'émargement sur la liste prévue au 2° de l'article R. 554-25 des noms des
+producteurs ayant demandé à voter par correspondance. Il constate que, abstraction faite des enveloppes contenues dans le pli
+séparé mentionné au dernier alinéa de l'article R. 554-18, le nombre des enveloppes de la 1re catégorie est égal à celui des
+électeurs inscrits et que le nombre des enveloppes de la 2e catégorie est égal à celui des bulletins de la 2e catégorie à
+remettre aux électeurs conformément au dernier alinéa de l'article R. 554-17. Les enveloppes et les bulletins correspondant
+au vote des producteurs ayant demandé à voter par correspondance sont mis à part.
+
+Au cas où les enveloppes font défaut, le président du bureau de vote procède à l'ouverture du second pli et prélève les
+enveloppes nécessaires au scrutin. Mention est faite de ce prélèvement au procès-verbal.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-20
+
+_Cite_:
+
+  - Code rural R554-25, R554-18, R554-17
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-21
+
+Le vote est personnel.
+
+A son entrée dans la salle du scrutin, l'électeur, après avoir fait constater son identité, reçoit du bureau de vote :
+
+1° Un bulletin de la 1re catégorie ;
+
+2° Une enveloppe destinée à recevoir le bulletin de vote de la 1re catégorie ;
+
+3° Le nombre de bulletins de la 2e catégorie correspondant à la valeur totale de la capacité de production attribuée sur la
+liste électorale de production attribuée sur la liste électorale conformément au dernier alinéa de l'article R. 554-17 ;
+
+4° Des enveloppes de la 2e catégorie en nombre égal à celui des bulletins de la 2e catégorie qui lui ont été remis.
+
+A peine de nullité, les électeurs doivent se servir des bulletins et des enveloppes fournis par la chambre d'agriculture.
+
+Ils ne doivent insérer dans une seule enveloppe qu'un seul bulletin ; en cas d'insertion de plusieurs bulletins dans la même
+enveloppe, chacun d'eux est annulé.
+
+L'électeur atteste, par émargement dans la colonne prévue à cet effet sur la liste électorale et en face de l'indication de
+la capacité de production qui lui a été attribuée, qu'il a reçu du bureau un nombre de bulletins de la 2e catégorie
+correspondant globalement à cette attribution.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-21
+
+_Cite_:
+
+  - Code rural R554-17
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-22
+
+L'électeur, sans quitter la salle du scrutin, doit se rendre seul dans l'isoloir pour mettre ses bulletins de vote dans les
+enveloppes correspondantes.
+
+Il raie éventuellement, sur l'unique bulletin de la 1re catégorie et sur chacun de ceux de la 2e catégorie, la ou les règles
+à l'extension desquelles il s'oppose. Il ne peut, à peine de nullité, modifier l'énoncé des règles. Après avoir introduit
+chaque bulletin dans l'enveloppe correspondant à sa catégorie, l'électeur fait ensuite constater au président :
+
+- qu'il n'est porteur que d'une seule enveloppe de la 1re catégorie et d'un nombre d'enveloppes de la 2e catégorie
+correspondant à la capacité de production qui lui a été reconnue ;
+
+- que l'ensemble des capacités de production apparaissant dans les voyants des enveloppes de la 2e catégorie dont il est
+porteur correspondent à la capacité totale dont il a été reconnu disposer. Le président le constate sans toucher les
+enveloppes, que l'électeur introduit lui-même dans l'urne mentionnée à l'article R. 554-23.
+
+Dans chaque bureau de vote, il y a un isoloir par cinquante électeurs inscrits ou par fraction.
+
+Les isoloirs ne doivent pas être placés de façon à dissimuler au public les opérations électorales.
+
+Le vote de chaque électeur est constaté sur la liste d'émargement par l'apposition en face de son nom de la signature d'un
+membre du bureau.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-22
+
+_Cite_:
+
+  - Code rural R554-23
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-23
+
+Une urne comportant une ouverture unique destinée à introduire une enveloppe contenant un bulletin de vote est placée devant
+les membres du bureau et tenue à la disposition des électeurs. Elle doit, avant l'ouverture du scrutin, avoir été fermée à
+deux serrures dissemblables dont les clefs sont remises aux assesseurs.
+
+Si, au moment de la clôture du scrutin, le président n'a pas les clefs à sa disposition, il prend toutes les mesures
+nécessaires pour procéder immédiatement à l'ouverture de l'urne.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-23
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-24
+
+Peuvent être admis à voter par correspondance :
+
+a) L'électeur qui, en raison de son état de santé, ne pourra se rendre au lieu de vote ;
+
+b) L'électeur que les nécessités de sa profession tiendront, le jour fixé pour la consultation, éloigné du lieu de vote où il
+est inscrit.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-24
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-25
+
+Le vote par correspondance est soumis aux conditions suivantes :
+
+1° L'électeur adresse au président de la chambre d'agriculture du département de la commune dans laquelle il est inscrit, au
+plus tard le douzième jour précédant la date fixée pour la consultation, une demande sur papier libre mentionnant ses nom,
+prénoms, date et lieu de naissance, domicile, ainsi que l'adresse à laquelle devront être envoyés les documents nécessaires
+au vote. Cette demande doit être faite par un pli recommandé qui doit porter la mention "comité économique agricole".
+L'électeur doit joindre à sa demande soit un certificat d'hospitalisation ou un certificat médical, soit toute pièce
+justifiant que les nécessités de sa profession le tiennent éloigné du lieu de vote le jour fixé pour la consultation ;
+
+2° Les documents nécessaires au vote par correspondance comprennent :
+
+a) Les enveloppes électorales de la 1re et de la 2e catégorie ;
+
+b) Les bulletins de vote de la 1re et de la 2e catégorie ;
+
+c) La fiche spéciale au vote par correspondance établie au nom de l'électeur par la chambre d'agriculture. Cette fiche est
+conforme au modèle fixé par arrêté conjoint du ministre de l'agriculture et du ministre de l'intérieur ;
+
+d) Une enveloppe portant la date de la consultation et la mention "comité économique agricole", destinée à la transmission du
+suffrage de l'électeur.
+
+Ces documents sont, dans les quatre jours suivant la réception de la demande, adressés à l'intéressé, sous pli recommandé,
+par le président de la chambre d'agriculture.
+
+Le président de la chambre d'agriculture dresse la liste des producteurs ayant demandé à voter par correspondance avec
+mention de leur capacité de production et l'indication de la commune où ils sont inscrits. Il adresse, dans les conditions
+prévues à l'alinéa précédent, quatre jours au plus tard avant l'ouverture du scrutin, un extrait de cette liste au président
+du bureau de vote intéressé ;
+
+3° L'électeur transmet son suffrage, après avoir introduit ses bulletins de vote dans les enveloppes électorales qui lui ont
+été adressées. Il met ces enveloppes et la fiche nominative spéciale au vote par correspondance dans l'enveloppe mentionnée à
+l'alinéa d du 2° ci-dessus. Il adresse celle-ci par lettre recommandée au président de la chambre d'agriculture ;
+
+4° Les plis parvenus au bureau de poste destinataire sont conservés par ce bureau et remis par un agent des postes au
+président de la chambre d'agriculture au jour et à l'heure que celui-ci fixe pour l'ouverture des plis. Les plis parvenus
+avant le jour du scrutin fixé par l'arrêté préfectoral et les plis parvenus postérieurement sont remis distinctement.
+
+Le président de la chambre d'agriculture assisté du bureau de la chambre qui joue le rôle de bureau de vote ouvre, au cours
+d'une séance à laquelle le public doit être admis, chacun des plis parvenus avant le jour du scrutin. Il donne connaissance
+au bureau de la fiche nominative spéciale au vote par correspondance et, après émargement de la liste des votants par
+correspondance, il met aussitôt les enveloppes correspondant à la 1re et à la 2e catégorie de bulletins de vote dans une urne
+prévue pour les recueillir.
+
+Il est procédé au dépouillement lorsque tous les bulletins afférents au vote par correspondance ont été mis dans l'urne.
+
+Il est dressé procès-verbal des opérations. Les fiches nominatives spéciales au vote par correspondance et comportant la
+mention "a voté" sont annexées au procès-verbal ;
+
+5° Les plis parvenus au bureau de vote après le jour fixé pour le scrutin par l'arrêté préfectoral, mais avant le
+dépouillement des votes par correspondance, sont décachetés en présence des membres du bureau. Les fiches nominatives
+spéciales au vote par correspondance en sont retirées pour permettre au président d'y mentionner les motifs de leur non-
+validité. Les enveloppes électorales sont brûlées sans avoir été ouvertes. Il est dressé un procès-verbal de cette opération
+auquel sont jointes les fiches nominatives annotées par le bureau.
+
+Les plis parvenus au bureau de poste après la remise prévue au premier alinéa du 4° ci-dessus sont ultérieurement remis au
+président de la chambre qui, en présence du bureau, procède à leur ouverture et établit, à l'aide des fiches nominatives qui
+en sont extraites, la liste des producteurs qui les ont envoyés. Le président procède à leur destruction dans les conditions
+mentionnées ci-dessus. La liste de ces producteurs est versée au dossier des opérations électorales.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-25
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-26
+
+Chaque bureau de vote, assisté des scrutateurs qu'il désigne, procède en séance publique, au dépouillement du scrutin prévu
+aux articles R. 554-19 à R. 554-23, dès que ce scrutin est clos.
+
+Les scrutateurs sont, dans la mesure du possible, choisis pour moitié parmi les producteurs autres que ceux relevant des
+groupements membres du comité.
+
+Le président du bureau proclame les résultats du vote.
+
+Le procès-verbal des opérations est aussitôt dressé et signé par les membres du bureau. Il est transmis par pli recommandé au
+président de la chambre d'agriculture.
+
+Ce procès-verbal mentionne, pour chaque règle, objet de la consultation :
+
+1° Le nombre de suffrages exprimés pour ou contre l'extension envisagée ;
+
+2° Les capacités de production représentées par les suffrages exprimés pour ou contre l'adoption des règles.
+
+Il mentionne également les réclamations éventuelles présentées par les lecteurs.
+
+Les bulletins contestés et ceux qui n'entrent pas en compte dans le résultat du dépouillement sont annexés au procès-verbal
+et contresignés par les membres du bureau. Mention doit être faite des causes de l'annexion.
+
+Les autres bulletins sont incinérés.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-26
+
+_Cite_:
+
+  - Code rural R554-19 à R554-23
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-27
+
+Le bureau de la chambre d'agriculture réuni en séance publique rassemble et vérifie les procès-verbaux reçus en application
+de l'article précédent. Il procède au calcul des quantités de produits correspondant au vote ; à cet effet, il applique aux
+capacités de production les rendements forfaitaires fixés par l'arrêté préfectoral prévu à l'article R. 554-16.
+
+Le président, compte tenu des votes par correspondance parvenus à la chambre, proclame le résultat du scrutin en ce qui
+concerne la circonscription de la chambre. Si le scrutin a lieu sur le territoire d'une seule chambre d'agriculture, ce
+résultat est adressé au préfet, qui le transmet au ministre de l'agriculture, le fait afficher pendant un délai de cinq jours
+à la porte de la préfecture et des mairies de la circonscription du comité et le fait publier dans le recueil des actes
+administratifs du département.
+
+Si le scrutin a lieu sur le territoire de plusieurs chambres d'agriculture, résultats et procès-verbaux des opérations sont
+adressés au bureau de la chambre d'agriculture du lieu du siège social du comité. Le président de cette chambre proclame les
+résultats pour l'ensemble de la circonscription du comité et les adresse, avec les procès-verbaux des opérations de
+récapitulation, au préfet du département de cette chambre. Ce dernier transmet les procès-verbaux au ministre de
+l'agriculture. Avec le concours des préfets des autres départements, il fait procéder aux publications et aux affichages
+prévus à l'alinéa ci-dessus.
+
+Les maires adressent sans délai au préfet les procès-verbaux d'affichage.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-27
+
+_Cite_:
+
+  - Code rural R554-16
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+###### Article R*554-28
+
+Le tribunal administratif territorialement compétent peut être saisi des réclamations contre les résultats du scrutin pendant
+un délai de dix jours après l'affichage, prévu à l'article précédent, à la porte de la préfecture.
+
+Ces réclamations sont dispensées du ministère d'avocat.
+
+Le préfet peut, dans le délai de quinze jours à dater de la réception à la préfecture des procès-verbaux, déférer les
+opérations de vote au tribunal administratif, s'il estime que les formes et conditions prescrites n'ont pas été observées.
+
+Le recours au Conseil d'Etat contre la décision du tribunal administratif doit être formé dans le délai d'un mois.
+
+Le point de départ de ce délai est fixé comme suit :
+
+- pour le recours formé par le préfet, à compter du jour de la communication de la décision du tribunal,
+
+- pour le recours formé par les parties, à compter du jour de la notification qui leur a été faite de la décision du
+tribunal.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-28
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+##### Paragraphe 3 : Dispositions diverses.<a id=700></a>
+
+###### Article R*554-29
+
+Les frais occasionnés par la consultation des producteurs sont à la charge des comités économiques agricoles agréés qui
+peuvent demander à bénéficier pour y faire face de prêts remboursables dans un délai de trois à cinq ans consentis par les
+caisses de crédit agricole mutuel.
+
+Lorsque l'extension des règles sur lesquelles les producteurs ont été consultés, bien qu'approuvée à la double majorité
+prévue à l'article R. 554-2 n'est pas prononcée, les frais de la consultation seront remboursés au comité par le fonds
+d'orientation et de régularisation des marchés agricoles.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code rural D554-29
+
+_Cite_:
+
+  - Code rural R554-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Transféré par_:
+
+  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
+
+
+#### Chapitre V : Dispositions particulières aux départements d'outre-mer.<a id=701></a>
+
+###### Article R555-1
+
+Pour les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, la reconnaissance comme groupement
+de producteurs, la suspension ou le retrait de cette reconnaissance, prévus à l'article L. 551-1 sont prononcés par arrêté
+conjoint du ministre de l'agriculture et du ministre chargé des départements et territoires d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L551-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. R555-2 (V)
+
+
+###### Article R555-2
+
+L'agrément des comités économiques agricoles prévu à l'article L. 552-1 est prononcé, dans les départements mentionnés à
+l'article R. 555-1, par arrêté conjoint du ministre de l'agriculture et du ministre chargé des départements et territoires
+d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L552-1, R555-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R555-3
+
+Les dispositions des articles énumérés ci-après concernant les départements de la Guadeloupe, de la Guyane, de la Martinique
+et de la Réunion sont ainsi modifiées :
+
+1° Aux articles R. 551-1, R. 552-1 et R. 554-3 (premier alinéa) sont ajoutés les mots "copie en est adressée par le préfet au
+ministre chargé des départements et territoires d'outre-mer" ;
+
+2° Aux articles R. 551-4, R. 551-9 à R. 551-12, R. 552-4, R. 552-8, R. 552-10, R. 552-11, R. 552-13, R. 552-14, R. 554-4 à R.
+554-6, les attributions confiées au ministre de l'agriculture sont exercées conjointement par ce ministre et le ministre
+chargé des départements et territoires d'outre-mer ;
+
+3° Aux articles R. 551-6 et R. 552-5 les mots "au ministère de l'agriculture" sont remplacés par les mots "au ministère de
+l'agriculture et au ministère chargé des départements et territoires d'outre-mer" ;
+
+4° L'article R. 552-7, premier alinéa, est complété comme suit :
+
+"copie de cette déclaration doit également être adressée au ministre chargé des départements et territoires d'outre-mer" ;
+
+5° L'article R. 553-11 est ainsi complété : "lorsque les questions soumises à la commission concernent un ou plusieurs des
+départements d'outre-mer, la commission est complétée par un représentant du ministre chargé des départements et territoires
+d'outre-mer et par des personnalités représentant chacun des déplacements intéressés, à raison d'une par département et
+désignées par ce ministre".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R551-1, R552-1, R554-3, R551-4, R551-9 à R551-12, R552-4, R552-8, R552-10, R552-11, R552-13, R552-14, R554-4 à R554-6, R551-6, R552-5, R552-7, R553-11
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R555-4
+
+Les dispositions du présent titre ne sont pas applicables dans le département de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+#### Chapitre VI : Pénalités<a id=702></a>
+
+###### Article R*556-1
+
+L'utilisation irrégulière de la dénomination ou de la qualité de groupement de producteurs reconnu ou de celles de comité
+économique agricole agréé rend son auteur passible d'une amende de 1.300 F à 3.000 F et d'un emprisonnement de cinq jours au
+plus ou de l'une de ces deux peines seulement.
+
+En cas de récidive, la peine d'amende pourra être portée de 3.000 F à 6.000 F et l'emprisonnement de dix jours à un mois ou
+de l'une de ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R*556-2
+
+Les personnes ayant fait obstacle ou opposition au contrôle exercé par les fonctionnaires et agents du ministère de
+l'agriculture en application des articles R. 553-15 et R. 553-16 sont passibles d'une amende de 1.300 F à 3.000 F et d'un
+emprisonnement de cinq jours au plus ou de l'une de ces deux peines seulement.
+
+En cas de récidive, l'amende peut être portée de 3.000 F à 6.000 F et l'emprisonnement de dix jours à un mois, ou de l'une de
+ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R553-15, R553-16
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R*556-4
+
+Sera puni d'une amende de 3000 à 6000 F et d'un emprisonnement de dix jours à un mois ou de l'une de ces deux peines
+seulement quiconque :
+
+1° Se sera fait inscrire ou aura tenté de se faire inscrire sur une liste électorale établie en application des articles R.
+554-7 à R. 554-29, soit sous un faux nom, soit en excipant indûment de la qualité de producteur, soit en ayant sciemment
+faussé les éléments d'appréciation de sa capacité de production ;
+
+2° Aura, à l'aide de déclarations frauduleuses ou de faux certificats, fait inscrire ou rayer indûment, tenté de faire
+inscrire ou rayer indûment un producteur, ou se sera rendu complice de telles manoeuvres ;
+
+3° Aura voté soit en vertu d'une inscription obtenue dans les cas prévus au 1° ci-dessus, soit en prenant faussement les nom
+et qualité d'un électeur inscrit ;
+
+4° Aura profité d'inscriptions multiples sous des adresses différentes pour voter plusieurs fois.
+
+Est passible des mêmes peines, en dehors des cas spécialement prévus par les dispositions des lois et décrets en vigueur
+quiconque aura, soit dans un bureau de vote, soit dans les bureaux des mairies, préfectures ou dans les bureaux, commissions
+ou services des chambres d'agriculture, avant, pendant ou après un scrutin, par inobservation volontaire des dispositions
+législatives ou réglementaires ou par tous autres actes frauduleux, soit violé ou tenté de violer le secret du vote, soit
+porté atteinte ou tenté de porter atteinte à sa sincérité, soit empêché ou tenté d'empêcher les opérations du scrutin, soit
+changé ou tenté de changer le résultat de celui-ci.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R554-7 à R554-29
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R*556-5
+
+Lorsque les règles prévues à l'article R. 554-1, acceptées par les ressortissants d'un comité économique agricole agréé, sont
+devenues obligatoires pour l'ensemble des producteurs de la circonscription dudit comité dans les conditions prévues à
+l'article L. 554-1, toute personne qui ne se conforme pas auxdites règles est punie d'une amende de 1.300 F à 3.000 F.
+
+En cas de récidive, la peine d'amende peut être portée de 3.000 F à 6.000 F et une peine d'emprisonnement de dix jours à un
+mois peut être prononcée.
+
+Ces peines ne font pas obstacle à l'application éventuelle aux membres des groupements de producteurs reconnus et des comités
+économiques agricoles agréés des sanctions prévues par les statuts.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R554-1, L554-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+
+###### Article R556-3
+
+Les sanctions prévues à l'article R. 556-2 sont applicables en cas d'obstacle ou d'opposition au contrôle fixé à l'article R.
+553-16.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2017-1771 du 27 décembre 2017 - art. 15
+
+_Cite_:
+
+  - Code rural - art. R*553-16
+  - Code rural et de la pêche maritime - art. R556-2 (Ab)
+
+
+### Titre VI : Jardins familiaux<a id=703></a>
+
+#### Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux<a id=704></a>
+
+##### Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER).<a id=705></a>
+
+###### Article R562-1
+
+La cession à un organisme de jardins familiaux de terrains acquis par une société d'aménagement foncier et d'établissement
+rural en application de l'article L. 562-1 est subordonnée à l'engagement de cet organisme de respecter les prescriptions
+d'un cahier des charges établi par la société titulaire du droit de préemption après avis du conseil municipal de la commune
+ou, le cas échéant, de chacune des communes où sont situés les terrains. 
+
+Ce cahier des charges doit respecter les règles d'urbanisme applicables. 
+
+Il définit les obligations qui incombent à l'organisme cessionnaire, notamment en ce qui concerne l'aménagement, l'entretien
+et la gestion, compte tenu du voisinage, du paysage et des abords. 
+
+Il comporte engagement de l'organisme cessionnaire de conserver dans son patrimoine pendant au moins dix-huit ans les
+terrains acquis mentionnés à l'alinéa 1er.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Code rural - art. L562-1 (V)
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. D564-3 (V)
+  - Code rural et de la pêche maritime - art. D572-10 (V)
+
+
+##### Section 2 : Droit de préemption des collectivités locales.<a id=706></a>
+
+###### Article R562-2
+
+Les collectivités locales et leurs groupements ayant compétence en matière d'urbanisme exercent le droit de préemption
+institué par l'article L. 562-2 conformément aux dispositions des articles L. 211-1 à L. 211-7, L. 212-1 à L. 212-5 et L.
+213-1 à L. 213-18 du code de l'urbanisme. 
+
+Les terrains ainsi acquis en application de l'alinéa précédent ne peuvent faire l'objet que d'une location, d'une durée de
+neuf à dix-huit ans, à des organismes de jardins familiaux constitués conformément aux dispositions des articles L. 561-1 et
+L. 561-2. 
+
+L'emplacement de ces terrains doit répondre aux prescriptions des documents d'urbanisme en vigueur et aux dispositions
+relatives aux espaces protégés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Code rural - art. L561-1 (V)
+  - Code rural - art. L561-2 (V)
+  - Code rural - art. L562-2 (V)
+  - Code de l'urbanisme - art. L211-1 (V)
+  - Code de l'urbanisme - art. L212-1 (V)
+  - Code de l'urbanisme - art. L213-1 (V)
+
+_Cité par_:
+
+  - Code rural - art. R562-3 (V)
+
+
+###### Article R562-3
+
+Toute location consentie en application de l'article R. 562-2 est subordonnée à l'engagement de l'organisme preneur de
+respecter les prescriptions d'un cahier des charges approuvé par le conseil municipal de la commune où sont situés les
+terrains ou, le cas échéant, par l'organe délibérant du groupement de communes ayant compétence en matière d'urbanisme. 
+
+Ce cahier des charges doit respecter les règles d'urbanisme applicables. 
+
+Il définit les obligations qui incombent à l'organisme de jardins familiaux, notamment en ce qui concerne l'aménagement,
+l'entretien et la gestion, compte tenu du voisinage, du paysage et des abords. 
+
+Il comporte l'engagement de l'organisme, cessionnaire du terrain, de conserver celui-ci dans son patrimoine pendant au moins
+dix-huit ans.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Code rural - art. R562-2 (V)
+
+
+#### Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique<a id=707></a>
+
+###### Article R563-1
+
+La mise à la disposition des associations ou exploitants évincés, membres de ces associations, de terrains équivalents en
+surface et en équipements en application de l'article L. 563-1 est subordonnée à l'engagement de l'association ou de
+l'exploitant de respecter les prescriptions d'un cahier des charges approuvé par le conseil municipal de la commune où sont
+situés les terrains ou, le cas échéant, par l'organe délibérant du groupement de communes ayant compétence en matière
+d'urbanisme.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Code rural - art. L563-1 (V)
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. D564-3 (V)
+
+
+###### Article R563-2
+
+Lorsque le juge de l'expropriation se prononce sur l'application de l'article L. 563-1, il statue par la même décision sur
+les délais et conditions dans lesquels le terrain de remplacement doit être mis à la disposition de l'association ou de
+l'exploitant évincé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Code rural - art. L563-1 (V)
+
+
+#### Chapitre IV : Avantages divers et subventions<a id=708></a>
+
+###### Article R564-1
+
+Les conditions d'attribution des subventions prévues par l'article L. 564-3 sont précisées par un arrêté conjoint du ministre
+de l'agriculture et du ministre du budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Code rural - art. L564-3 (V)
+
+
+###### Article R564-2
+
+Les organismes de jardins familiaux mentionnés à l'article L. 561-1 peuvent, en vue d'acquérir le terrain nécessaire à la
+réalisation de leur objet social, bénéficier des dispositions du code rural concernant le crédit agricole. 
+
+Ces organismes peuvent également bénéficier des dispositions prévues aux articles R. 431-1 et suivants du code de la
+construction et de l'habitation, s'ils ont été constitués sous la forme de sociétés prévues aux articles L. 422-5 et suivants
+et R. 422-16 de ce code avant le 1er juin 1955, et s'ils ont reçu à ce titre des avances de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Code rural - art. L561-1 (V)
+  - Code de la construction et de l'habitation. - art. L422-5 (V)
+  - Code de la construction et de l'habitation. - art. R422-16 (V)
+  - Code de la construction et de l'habitation. - art. R431-1 (V)
+
+
+###### Article R564-3
+
+Compte tenu, le cas échéant, des prescriptions édictées aux articles R. 562-1 à R. 562-3 et R. 563-1, les projets présentés
+par les organismes de jardins familiaux mentionnés à l'article L. 561-1 relatifs à la création, à l'extension ou à
+l'aménagement des jardins familiaux en vue de bénéficier des subventions de l'Etat prévues à l'article L. 564-1, doivent
+satisfaire aux conditions suivantes : 
+
+1° L'aménagement des jardins doit être compatible avec les prescriptions des documents d'urbanisme et les dispositions
+relatives aux espaces protégés ; 
+
+2° Toute création de jardins doit porter sur un ensemble de terrains d'au moins 10 000 mètres carrés. Tout agrandissement
+d'un ensemble existant doit permettre l'aménagement d'une superficie d'au moins 10 000 mètres carrés. Les opérations
+d'amélioration ne sont prises en considération que si elles concernent un ensemble d'au moins 10 000 mètres carrés. 
+
+Toutefois, à titre exceptionnel, le ministre chargé de l'environnement et de la qualité de la vie peut dispenser certaines
+opérations de caractère expérimental de la condition de superficie minimale prévue ci-dessus ; 
+
+3° Dans tous les cas doivent figurer au dossier de la demande de subvention un plan et une convention fixant les rapports
+entre l'organisme de jardins familiaux et la commune ou, le cas échéant, le groupement de communes ayant compétence en
+matière d'urbanisme, en ce qui concerne l'organisation, l'aménagement, l'entretien et la gestion de l'ensemble, compte tenu
+du voisinage, du paysage et des abords.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+
+_Cite_:
+
+  - Code rural - art. L561-1 (V)
+  - Code rural - art. L564-1 (V)
+  - Code rural - art. R562-1 (V)
+  - Code rural - art. R563-1 (V)
+
+
+## Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux<a id=709></a>
+
+### Titre III : Sociétés d'intérêt collectif agricole<a id=710></a>
+
+#### Chapitre Ier : Constitution.<a id=711></a>
 
 ###### Article R*531-2
 
@@ -57575,23 +62882,6 @@ _Cité par_:
 
   - Code rural - art. R532-4 (V)
   - Code rural - art. R583-21 (V)
-
-
-###### Article R*531-3
-
-Dans les quinze jours de sa constitution toute société d'intérêt collectif agricole dépose copie de ses statuts et la liste
-de ses membres au ministère de l'agriculture ; mention de ce dépôt est portée sur un registre central tenu à la disposition
-du public.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
 
 
 ###### Article R*531-4
@@ -57694,301 +62984,7 @@ _Cité par_:
   - Code rural - art. R583-13 (V)
 
 
-#### Chapitre II : Fonctionnement.<a id=638></a>
-
-###### Article R*532-1
-
-Les sociétés peuvent être tenus à l'égard de la société dans les conditions fixées par les statuts, non seulement des
-obligations inhérentes à leur qualité de détenteur de capital, mais aussi d'obligations particulières, telles que celles de
-livrer à la société ou de faire traiter par elle certains de leurs produits, de s'approvisionner auprès d'elle, d'en utiliser
-les services.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*532-2
-
-Il est interdit de subordonner, par dispositions statutaires ou autrement, les prestations d'objets ou de services à un
-sociétaire, à des prestations que lui-même devrait faire à la société. Cette interdiction ne s'applique pas aux prestations
-faites à des sociétaires ayant la qualité d'établissement public, de coopérative ou d'union de coopératives ou appartenant à
-un groupement d'une catégorie figurant sur une liste dressée par le ministre de l'agriculture.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural - art. R583-14 (V)
-
-
-###### Article R*532-3
-
-Les statuts de la société doivent comporter les clauses permettant à tout moment, aux agriculteurs, aux groupements qui
-peuvent s'affilier aux caisses de crédit agricole mutuel et, le cas échéant, aux caisses de crédit agricole mutuel, de
-disposer ensemble de la moitié au moins des voix aux assemblées générales de la société.
-
-Aucun sociétaire ne doit posséder plus de 40 p. 100 des voix.
-
-Toutefois, lorsqu'il y a plus de dix sociétaires, aucun d'eux ne doit posséder plus de 10 p. 100 des voix. Cette dernière
-interdiction ne concerne ni les caisses de crédit agricole mutuel ni les sociétés coopératives et leurs unions. Les statuts
-peuvent attribuer auxdites sociétés et unions, dans la limite du nombre des actions ou parts qu'elles possèdent, un nombre de
-voix en rapport soit avec le nombre de leurs sociétaires, soit avec le nombre des membres des sociétés elles-mêmes
-adhérentes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural - art. R583-15 (V)
-
-
-###### Article R*532-4
-
-La moitié du chiffre d'affaires ou du volume des opérations des sociétés d'intérêt collectif agricole autres que celles
-soumises aux prescriptions d'un cahier des charges doit, au cours d'un exercice déterminé, être réalisée avec des sociétaires
-ayant la qualité d'agriculteurs ou de groupements pouvant s'affilier aux caisses de crédit agricole mutuel. Ces dispositions
-peuvent faire l'objet de dérogations temporaires accordées, en raison de circonstances économiques exceptionnelles, par
-arrêté du ministre de l'agriculture et du ministre chargé du commerce.
-
-Toutefois lorsqu'il s'agit des sociétés mentionnées à l'article R. 531-2, sont assimilés à ces sociétaires, à titre
-d'usagers, les agriculteurs et groupements même non membres de la société, pouvant s'affilier aux caisses de crédit agricole
-mutuel et dont les rapports avec la société, sauf en ce qui concerne leur participation au capital, sont analogues à ceux des
-sociétaires, notamment par la nature et l'étendue des obligations.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R531-2
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural - art. R583-16 (V)
-
-
-###### Article R*532-5
-
-Les statuts des sociétés d'intérêt collectif agricole constituées sous le régime des sociétés civiles précisent les
-conditions dans lesquelles elles sont administrées soit par un conseil d'administration élu par l'assemblée générale, soit
-par un ou plusieurs gérants.
-
-Le ou les gérants d'une société d'intérêt collectif agricole constituée sous la forme de société civile, de société à
-responsabilité limitée ou de société en commandite par actions ne peuvent être désignés ou révoqués que par l'assemblée
-générale statuant à la majorité absolue.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-#### Chapitre III : Dispositions financières.<a id=639></a>
-
-###### Article R*533-1
-
-Les sociétés d'intérêt collectif agricole ne distribuent pas de dividendes mais seulement, le cas échéant, dans la limite de
-6 p. 100 net, un intérêt statutaire.
-
-Elles peuvent ristourner les excédents annuels aux sociétaires au prorata des opérations effectuées par eux avec la société.
-
-Les bénéfices provenant d'opérations effectuées avec des non-sociétaires sont portés en réserve ; ceux provenant d'aides de
-l'Etat, des collectivités publiques, d'organismes mentionnés sur une liste dressée par décret sont portés à une réserve
-dite : "Réserve des charges complémentaires de liquidation".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural - art. R583-18 (V)
-
-
-###### Article R*533-2
-
-La valeur nominale des actions ou parts sociales créées par les sociétés d'intérêt collectif agricole à partir du 6 août 1961
-est d'au moins 25 francs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural - art. R583-19 (V)
-
-
-###### Article R*533-3
-
-Les dispositions de la loi du 30 avril 1906 sur les warrants agricoles souscrits par les sociétés coopératives agricoles sont
-étendues aux warrants souscrits par les sociétés d'intérêt collectif agricole.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural - art. R583-20 (V)
-
-_Cite_:
-
-  - Loi n°1906-04-30
-
-
-#### Chapitre IV : Transformation, dissolution, liquidation.<a id=640></a>
-
-###### Article R*534-1
-
-Une société d'intérêt collectif agricole ne peut effectuer des modifications de ses statuts entraînant la perte de sa qualité
-de société d'intérêt collectif agricole, sans y avoir été autorisée par le ministre de l'agriculture, à moins qu'elle ne se
-transforme en société coopérative agricole ou en union de coopératives agricoles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*534-2
-
-La dissolution volontaire anticipée d'une société d'intérêt collectif agricole tenue de constituer la réserve des charges
-complémentaires de liquidation doit être autorisée par décision conjointe du ministre de l'économie, du ministre du budget,
-du ministre de l'agriculture et, s'il s'agit de sociétés mentionnées à l'article R. 531-2, du ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R531-2
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*534-3
-
-Le boni de liquidation est réparti entre les sociétaires dans les conditions fixées par les statuts. Ne peut toutefois être
-ainsi distribuée la partie de ce boni correspondant à des bénéfices réalisés avec d'autres que des sociétaires ni, pour le
-montant arrêté par décision concertée du ministre de l'économie, du ministre du budget et du ministre de l'agriculture, la
-partie du boni portée à la "réserve des charges complémentaires de liquidation".
-
-Les valeurs de l'actif net non susceptible de répartition sont obligatoirement dévolues par la société à d'autres sociétés
-d'intérêt collectif agricole, à des coopératives ou unions de coopératives, à des établissements ou oeuvres d'intérêt général
-agricole ou rural.
-
-Les dévolutions faites par les sociétés d'intérêt collectif agricole sont approuvées par le ministre de l'économie, le
-ministre du budget, le ministre de l'agriculture et, le cas échéant, le ministre de l'intérieur.
-
-L'institution dévolutaire est tenue des mêmes obligations que son auteur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural - art. R583-22 (V)
-
-
-###### Article R*534-4
-
-Si la liquidation d'une société d'intérêt collectif agricole constituée après le 6 août 1961 sous la forme d'une société
-civile fait apparaître des pertes excédant le montant du capital social, ces pertes sont divisées entre les sociétaires
-proportionnellement au nombre de parts de capital appartenant à chacun d'eux. Toutefois, et sauf application des dispositions
-des articles 656 et 732 du code rural, relatives à certaines créances du crédit agricole mutuel, la responsabilité de chaque
-sociétaire est limitée à cinq fois le montant des parts du capital social qu'il possède, y compris le montant desdites parts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural - art. R583-23 (V)
-
-_Cite_:
-
-  - Code rural 656, 732
-
-
-#### Chapitre V : Dispositions pénales.<a id=641></a>
+#### Chapitre V : Dispositions pénales.<a id=712></a>
 
 ###### Article R*535-1
 
@@ -58011,2512 +63007,15 @@ _Cite_:
   - Code rural R531-4
 
 
-### Titre IV : Sociétés mixtes d'intérêt agricole.<a id=642></a>
+## Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique<a id=713></a>
 
-###### Article R541-1
+### Titre Ier : Enseignement et formation professionnelle agricoles<a id=714></a>
 
-Ne peuvent être prises qu'à la majorité qualifiée de plus de 70 p. 100 des voix présentes ou représentées, prévue à l'article
-L. 541-2, les décisions des assemblées générales des sociétés mixtes d'intérêt agricole qui, directement ou indirectement,
-remettraient en cause les disciplines adoptées par les groupements de producteurs reconnus participant à la société ainsi que
-celles portant sur les objets suivants :
+#### Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles<a id=715></a>
 
-- modification de l'objet social ;
+##### Section 1 : Organisation générale<a id=716></a>
 
-- dissolution anticipée de la société ou réduction de sa durée ;
-
-- réduction du capital social par remboursement de parts ou d'actions ;
-
-- modification des clauses des statuts de la société relatives à la qualité de société mixte d'intérêt agricole ;
-
-- opération de fusion, absorption, apports partiels d'actif concernant la société ;
-
-- aliénation de biens sociaux, statutairement déterminés, lorsqu'ils intéressent la production agricole et que, par leur
-importance, ils forment l'un des éléments essentiels du potentiel d'activité de la société ;
-
-- transfert du siège social hors du département ou des départements limitrophes ;
-
-- approbation des conventions passées entre la société et l'un de ses administrateurs, gérants, directeurs ou membres du
-conseil de surveillance.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L541-2
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-### Titre V : Groupements de producteurs et comités économiques agricoles<a id=643></a>
-
-#### Chapitre Ier : Groupements de producteurs.<a id=644></a>
-
-###### Article R*551-1
-
-La demande de reconnaissance d'un groupement de producteurs est adressée au ministre de l'agriculture par l'intermédiaire du
-préfet du département du siège social du groupement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*551-2
-
-La demande doit être accompagnée des pièces suivantes :
-
-1° Statuts du groupement :
-
-Les statuts doivent prévoir l'obligation pour les membres du groupement et, le cas échéant, pour les adhérents des organismes
-qui peuvent en être membres d'observer les règles édictées par le groupement et de se soumettre à son contrôle technique. Ils
-fixent les sanctions sans caractère pénal applicables au cas d'inobservation desdites règles et au cas d'opposition audit
-contrôle. Les statuts doivent comporter les clauses nécessaires pour que les règles édictées par le groupement ne soient
-applicables qu'après l'approbation du ministre de l'agriculture ;
-
-2° Déclaration précisant :
-
-a) La nature et les formes de l'aide susceptible d'être apportée à ses membres par le groupement ;
-
-b) L'objet principal du groupement soit préparation et organisation de la mise en marché des produits pour le compte des
-membres du groupement ou des adhérents des organismes membres, soit transformation et vente des produits effectuées sous la
-propre responsabilité du groupement ;
-
-3° Délibération du conseil d'administration ou de l'organe compétent du groupement décidant de présenter la demande et
-précisant le secteur de produits et la circonscription pour lesquels la reconnaissance est demandée ;
-
-4° Règles déjà édictées dans les conditions de majorité prévues à l'article R. 551-8 ;
-
-5° Règlement intérieur ;
-
-6° Etat numérique des membres du groupement ou des adhérents des organismes membres, classés par activité professionnelle ;
-
-7° Liste des administrateurs, des commissaires aux comptes, du ou des directeurs et des personnes autorisées à signer pour
-l'organisme avec l'indication de leur nationalité, domicile, profession et qualité ;
-
-8° Compte rendu financier, bilan, compte de pertes et profits, compte d'exploitation et pièces annexes depuis la création du
-groupement afférents aux deux derniers exercices écoulés, accompagnés des procès-verbaux des assemblées générales ayant
-examiné lesdits comptes, ainsi que balances trimestrielles arrêtées depuis la clôture du dernier exercice ; les organismes
-ayant moins de deux ans de gestion produisent les documents afférents à leur gestion effective ;
-
-9° Description des installations et moyens techniques dont dispose le groupement, avec l'indication de leur emplacement, de
-leur état et de leur capacité technique d'utilisation ;
-
-10° Programmes éventuels d'extension et d'équipement.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R551-8
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*551-3
-
-Dès réception de la demande de reconnaissance présentée dans les conditions prévues à l'article R. 551-2, le préfet en
-délivre récépissé et procède à son instruction.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R551-2
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*551-4
-
-L'autorité administrative mentionnée à l'article L. 551-1 est le ministre de l'agriculture.
-
-Après avis du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire mentionné aux articles
-L. 551-2 et L. 552-2, le ministre de l'agriculture se prononce sur la demande de reconnaissance. La reconnaissance vaut
-approbation des règles prévues à l'article L. 551-1 portées à la connaissance du ministre en application du 4° de l'article
-R. 551-2. Le ministre peut exclure de l'approbation certaines règles que le groupement prend l'engagement d'abroger ou de
-modifier dans un délai déterminé.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L551-1, L551-2, L552-2, R551-2
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
-
-
-###### Article R*551-5
-
-L'arrêté de reconnaissance d'un groupement de producteurs agricoles est publié au Journal officiel, dans les recueils des
-actes administratifs des départements intéressés et, aux frais du groupement, dans la presse régionale et locale. Il est en
-outre publié au siège de la ou des chambres d'agriculture intéressées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*551-6
-
-La liste des groupements reconnus, avec leurs statuts et le texte des règles applicables, régulièrement édictées par eux,
-peut être consultée au ministère de l'agriculture, dans les directions départementales de l'agriculture et au siège de chaque
-chambre d'agriculture intéressée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*551-7
-
-Un groupement de producteurs précédemment reconnu qui a été l'objet d'une mesure de retrait ou de suspension de
-reconnaissance peut, après avoir tenu compte des motifs de la mesure prise, former une nouvelle demande de reconnaissance qui
-sera présentée et instruite suivant la procédure fixée par les articles R. 551-1, R. 551-3 et R. 551-4.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R551-1, R551-3, R551-4
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*551-8
-
-Les règles prévues à l'article L. 551-1 ne peuvent être édictées que par un vote de l'assemblée générale du groupement acquis
-à la majorité des deux tiers des membres qui en font statutairement partie.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L551-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*551-9
-
-Un groupement de producteurs reconnu ne peut édicter de nouvelles règles ou modifier des règles déjà approuvées qu'avec
-l'approbation explicite du ministre de l'agriculture après avis du conseil supérieur d'orientation et de coordination de
-l'économie agricole et alimentaire. La demande d'approbation est transmise par l'intermédiaire du préfet. Elle doit être
-présentée au plus tard six semaines avant la date prévue pour l'application de ces règles. Toutefois le ministre peut
-exceptionnellement, sur la demande du groupement, autoriser l'application de celles-ci aussitôt après la publication au siège
-de la chambre d'agriculture du texte approuvé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
-
-
-###### Article R*551-10
-
-Conformément à leurs statuts, les groupements de producteurs organisent, dans les limites du secteur de produits pour lequel
-ils ont été reconnus, les contrôles techniques nécessaires de la production de leurs membres.
-
-Les produits livrés par un groupement de producteurs ou sous son contrôle par ses membres doivent pouvoir être identifiés
-suivant des modalités fixées par arrêté du ministre de l'agriculture.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*551-11
-
-L'autorité administrative mentionnée à l'article L. 551-2 est le ministre de l'agriculture.
-
-L'arrêté par lequel le ministre de l'agriculture prononce le retrait ou la suspension de la reconnaissance d'un groupement
-est pris, le groupement ayant été mis à même de présenter ses observations, dans les conditions prévues au deuxième alinéa de
-l'article L. 551-2 et à l'article L. 553-2. Cet arrêté est motivé.
-
-Le retrait et la suspension font l'objet des mesures de publicité prévues à l'article R. 551-5.
-
-La suspension ou le retrait de la reconnaissance n'entraînent pas par eux-mêmes la caducité des règles en vigueur
-antérieurement approuvées édictées par le groupement.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L551-2, L553-2, R551-5
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*551-12
-
-Le ministre de l'agriculture peut, à toute époque, après avoir recueilli les observations du groupement et pris l'avis du
-conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire, retirer son approbation à des
-règles en vigueur antérieurement approuvées. Il fixe la date de l'effet du retrait de l'approbation. Le groupement, s'il
-entend maintenir néanmoins ces règles, perd la qualité de groupement reconnu.
-
-L'arrêté par lequel l'approbation est retirée ainsi que, le cas échéant, la décision que le groupement pourrait prendre de
-maintenir néanmoins ces règles font l'objet des mesures de publicité prévues à l'article R. 551-5.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R551-5
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
-
-
-#### Chapitre II : Comités économiques agricoles.<a id=645></a>
-
-###### Article R*552-1
-
-La demande d'agrément présentée, pour une région ou pour un secteur de produits déterminés, par un comité économique agricole
-est adressée au ministre de l'agriculture par l'intermédiaire du préfet du département du siège social du comité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*552-2
-
-La demande doit être accompagnée des pièces suivantes :
-
-1° Statuts du comité auxquels doit être joint le procès-verbal de l'assemblée générale constitutive. Ces statuts doivent
-prévoir l'obligation pour les membres du comité et les producteurs agricoles qui en relèvent d'observer les règles édictées
-par le comité et de se soumettre à un contrôle technique. Ils fixent les sanctions sans caractère pénal applicables aux
-inobservations desdites règles et à l'opposition audit contrôle.
-
-Les statuts doivent comporter des clauses prévoyant que :
-
-a) L'assemblée générale du comité est composée, à concurrence des deux tiers au moins, par des représentants des groupements
-de producteurs reconnus ;
-
-b) Les personnes physiques représentant au conseil d'administration les personnes morales administrateurs sont à concurrence
-des deux tiers au moins des agriculteurs ;
-
-c) Les délibérations du conseil d'administration ne sont régulières que si la moitié au moins des personnes physiques
-délibérant au conseil sont des agriculteurs ;
-
-d) Les règles édictées par le comité ne soient applicables qu'après approbation du ministre de l'agriculture ;
-
-2° Déclaration précisant la nature et les formes de l'aide susceptible d'être apportée, le cas échéant, aux adhérents par le
-comité ;
-
-3° Délibération de l'assemblée générale du comité portant demande d'agrément et précisant le secteur de produits et la
-circonscription pour lesquels l'agrément est demandé ;
-
-4° Etat indiquant la dénomination et l'adresse des groupements de producteurs et des syndicats agricoles membres du comité ;
-
-5° Statuts des syndicats qui, non reconnus comme groupements de producteurs, ont adhéré au comité ;
-
-6° Procès-verbaux des délibérations des assemblées générales des groupements de producteurs et des syndicats relatives à
-l'adhésion de ces groupements au comité.
-
-Ces délibérations doivent faire état de l'engagement pris par les groupements et les syndicats d'abroger leurs règles propres
-en contradiction avec les règles édictées par le comité ;
-
-7° Règlement intérieur du comité ;
-
-8° Textes des règles édictées par le comité conformément aux dispositions de l'article L. 552-1 ;
-
-9° Plan de l'organisation des services du comité comportant pour chacun d'eux le tableau numérique du personnel avec
-indication du nombre et des qualifications des cadres ;
-
-10° Etat prévisionnel des recettes et des dépenses des deux prochaines années y compris les frais de premier établissement ;
-
-11° Compte rendu financier du dernier exercice et procès-verbal de la délibération de l'assemblée générale ayant adopté ce
-compte rendu. Ces pièces sont établies pour chaque groupement de producteurs adhérent et chaque syndicat.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L552-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*552-3
-
-Dès réception de la demande d'agrément présentée dans les conditions prévues à l'article R. 552-1, le préfet en délivre
-récépissé et procède à son instruction.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R552-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*552-4
-
-Après avis du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire, le ministre de
-l'agriculture, en application de l'article L. 552-2, se prononce sur la demande de l'agrément.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L552-2
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
-
-
-###### Article R*552-5
-
-L'arrêté d'agrément d'un comité économique agricole est publié au Journal officiel, dans les recueils des actes
-administratifs des départements intéressés et, aux frais du comité, dans la presse locale et régionale. Il est, en outre,
-publié au siège de la ou des chambres d'agriculture intéressées.
-
-La liste des comités économiques agricoles agréés, ainsi que leurs statuts et les règles édictées par chacun d'eux, peuvent
-être consultés au ministère de l'agriculture, dans les directions départementales de l'agriculture et au siège de chaque
-chambre d'agriculture intéressée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*552-6
-
-Un comité économique agricole précédemment agréé qui a été l'objet d'une mesure de retrait ou de suspension d'agrément peut,
-après avoir tenu compte des motifs de la mesure prise, former une nouvelle demande d'agrément qui sera présentée et instruite
-suivant la procédure fixée par les articles R. 552-1, R. 552-3 et R. 552-4.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R552-1, R552-3, R552-4
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*552-7
-
-L'adhésion d'un nouveau membre à un comité économique agricole agréé, la démission d'un membre d'un comité économique
-agricole agréé ne peuvent prendre effet qu'après la déclaration, adressée au ministre de l'agriculture par l'intermédiaire du
-préfet, de l'adhésion ou de la démission.
-
-L'adhésion est subordonnée à l'intervention d'une délibération du groupement ou du syndicat s'engageant à abroger leurs
-règles propres en contradiction avec les règles édictées par le comité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*552-8
-
-La circonscription d'un comité économique agricole agréé ne peut être modifiée qu'avec l'approbation du ministre de
-l'agriculture qui se prononce après instruction de la demande par le préfet et avis du conseil supérieur d'orientation et de
-coordination de l'économie agricole et alimentaire. L'arrêté du ministre est publié conformément aux dispositions de
-l'article R. 552-5.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R552-5
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
-
-
-###### Article R*552-9
-
-Les règles prévues à l'article L. 552-1 ne peuvent être édictées que par un vote de l'assemblée générale acquis à la majorité
-des deux tiers des membres qui en font statutairement partie.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L552-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*552-10
-
-Un comité économique agricole agréé ne peut édicter de nouvelles règles ou modifier des règles déjà approuvées qu'avec
-l'approbation explicite du ministre de l'agriculture, après avis du conseil supérieur d'orientation et de coordination de
-l'économie agricole et alimentaire.
-
-La demande d'approbation est transmise par l'intermédiaire du préfet. Elle doit avoir été présentée au plus tard six semaines
-avant la date prévue pour l'application de ces règles. Toutefois, le ministre peut exceptionnellement, sur la demande du
-comité, autoriser l'application de celles-ci aussitôt après la publication au siège de la chambre d'agriculture du texte
-approuvé.
-
-Exceptionnellement, le ministre de l'agriculture peut décider, sur proposition du conseil supérieur mentionné ci-dessus, que
-certaines dispositions des règles pourront être modifiées avec la seule autorisation du délégué prévu à l'article ci-dessous.
-
-L'agrément d'un comité vaut approbation des règles prévues à l'article L. 552-1 portées à la connaissance du ministre, en
-application du 8° de l'article R. 552-2. Le ministre peut exclure de l'approbation certaines règles que le comité prend
-l'engagement d'abroger ou de modifier dans un délai déterminé.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L552-1, R552-2
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
-
-_Cité par_:
-
-  - Code rural - art. D552-18 (VT)
-
-
-###### Article R*552-11
-
-Le ministre de l'agriculture nomme un délégué auprès de chaque comité économique agricole agréé.
-
-Ce délégué, qui joue auprès du comité un rôle de conseiller technique, assiste ou peut, dans les conditions fixées par le
-ministre de l'agriculture, se faire représenter aux réunions du conseil d'administration et de l'assemblée générale. Il peut
-consulter sur place ou se faire communiquer toutes pièces et tous documents concernant l'activité du comité ou des organismes
-qui en font partie.
-
-Il est tenu régulièrement au courant de toutes les décisions prises par le conseil d'administration et des résolutions
-adoptées par l'assemblée générale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*552-12
-
-Les comités économiques agricoles organisent, auprès de leurs membres et des producteurs qui relèvent d'eux, tous contrôles
-techniques entrant dans leur objet.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*552-13
-
-Le ministre de l'agriculture prononce, par arrêté motivé pris par application du deuxième alinéa de l'article L. 552-2, le
-retrait ou la suspension de l'agrément, après avoir mis à même le comité de présenter ses observations et après avis du
-conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire.
-
-Le retrait et la suspension font l'objet des mesures de publicité prévues à l'article R. 552-5 ; ils n'entraînent pas la
-caducité des règles édictées par le comité.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L552-2, R552-5
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
-
-
-###### Article R*552-14
-
-Le ministre de l'agriculture peut à toute époque, après avoir recueilli les observations du comité et pris l'avis du conseil
-supérieur d'orientation et de coordination de l'économie agricole et alimentaire, retirer son approbation à des règles en
-vigueur antérieurement approuvées. Il fixe la date d'effet du retrait de l'approbation. Le comité, s'il entend néanmoins
-maintenir ces règles, perd la qualité de comité agréé.
-
-L'arrêté par lequel l'approbation est retirée ainsi que, le cas échéant, la décision par laquelle le comité maintient en
-vigueur ces règles font l'objet de mesures de publicité prévues à l'article R. 552-5.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R552-5
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
-
-
-###### Article R*552-15
-
-Les comités économiques agricoles peuvent se grouper pour un même secteur de produits en une fédération.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-#### Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles<a id=646></a>
-
-##### Section 1 : Droits d'inscription et cotisations.<a id=647></a>
-
-###### Article R*553-1
-
-Le décret mentionné à l'article L. 553-1 est pris sur propositions conjointes du ministre de l'agriculture, du ministre de
-l'économie et du ministre du budget.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L553-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*553-2
-
-Les groupements de producteurs reconnus sont habilités à percevoir auprès de chacun de leurs membres un droit d'inscription
-dont le montant est fixé uniformément par producteur et des cotisations assises sur la valeur de la production commercialisée
-au titre de laquelle ils ont été reconnus.
-
-Le montant des droits d'inscription et le taux des cotisations ne peut excéder les maximums fixés par décision du ministre de
-l'agriculture, après avis du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire.
-
-Les valeurs servant d'assiette aux cotisations peuvent être déterminées forfaitairement compte tenu des cours relevés sur le
-marché.
-
-Les producteurs qui effectuent tout ou partie de leurs ventes sans recourir à l'intermédiaire des groupements et sans que la
-responsabilité de ceux-ci soit engagée sont, en vue de l'établissement des cotisations, tenus de déclarer, dans les
-conditions fixées par les règles édictées en application des articles L. 551-1 ou L. 552-1, la quantité et, le cas échéant,
-la qualité des produits ainsi commercialisés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Loi n°86-1321 du 30 décembre 1986 - art. 2 () JORF 31 décembre 1986
-
-_Cite_:
-
-  - Code rural L551-1, L552-1
-
-
-###### Article R*553-3
-
-Le produit des droits d'inscription et des cotisations ne peut être affecté qu'aux dépenses correspondant à l'objet assigné
-au groupement par les dispositions législatives et réglementaires et les statuts de l'organisme. L'affectation des ressources
-du groupement aux interventions sur les marchés, prévues au dernier alinéa de l'article L. 554-1 ne peut avoir lieu que dans
-les conditions déterminées par une décision du ministre de l'agriculture prise selon la procédure fixée par le décret du 29
-juillet 1961 relatif aux attributions et au fonctionnement du fonds d'orientation et de régularisation des marchés agricoles.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L554-1
-  - Décret n°61-827 1961-07-29
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*553-4
-
-Si elle adhère à un groupement de producteurs reconnu, toute personne morale groupant plusieurs producteurs est redevable des
-droits et des cotisations dus au titre de chacun de ces producteurs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*553-5
-
-Le montant des droits d'inscription et le taux des cotisations ainsi que les modalités de leur acquittement sont fixés par
-l'assemblée générale ordinaire.
-
-L'assemblée ne délibère régulièrement sur ces questions qu'aux conditions suivantes :
-
-- les convocations adressées à ses membres doivent mentionner l'inscription de ces questions à l'ordre du jour ;
-
-- les membres présents et représentés doivent disposer de la moitié au moins du nombre total des voix statutaires ;
-
-- la décision doit être prise à la majorité des deux tiers des voix de ces membres.
-
-Lorsque les membres présents et représentés ne disposent pas ensemble de la moitié au moins du nombre total des voix
-statutaires, il est procédé à une seconde convocation.
-
-La deuxième assemblée statue régulièrement, quel que soit le nombre des membres présents et représentés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*553-6
-
-Les comités économiques agréés sont habilités à percevoir, auprès de chacun de leurs membres, un droit d'inscription et, à
-titre de cotisation, auprès de leurs membres qui ont la qualité de groupements agricoles reconnus, une fraction des
-cotisations perçues par les groupements eux-mêmes.
-
-Le ministre de l'agriculture peut, après avis du conseil supérieur d'orientation et de coordination de l'économie agricole et
-alimentaire, fixer le montant maximum des cotisations perçues par un comité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*553-7
-
-Lorsqu'un comité économique agricole agréé, en application de l'article L. 552-2, a obtenu l'extension à l'ensemble des
-producteurs de sa circonscription de l'une ou de plusieurs règles édictées pour les producteurs et groupements relevant de
-lui, les producteurs pour lesquels cette règle est devenue obligatoire du fait de cette extension sont redevables au comité,
-dans les conditions fixées par arrêté du ministre de l'agriculture, de tout ou partie des cotisations fixées en application
-de l'article R. 553-2.
-
-Cet arrêté fixe le quantum exigible en raison du nombre et de la nature des règles étendues à l'ensemble des producteurs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cite_:
-
-  - Code rural L552-2, R553-2
-
-
-###### Article R*553-8
-
-Toute action en recouvrement des droits d'inscription et des cotisations prévus à la présente section doit être précédée
-d'une mise en demeure adressée aux personnes physiques ou morales intéressées par lettre recommandée avec demande d'avis de
-réception.
-
-Cette mise en demeure ne peut concerner que les droits d'inscription ou les cotisations dus au titre de l'année en cours ou
-des deux années précédentes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*553-9
-
-Si la mise en demeure prévue à l'article précédent reste sans effet, les droits d'inscription et les cotisations sont
-recouvrés dans les conditions du droit commun. Toutefois, par dérogation à l'article 1er du décret du 28 avril 1972 relatif
-au recouvrement de certaines créances, les dispositions de ce même décret sont applicables aux créances desdits organismes
-même si elles n'ont pas un caractère contractuel.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°72-327 1972-04-28 art. 1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-##### Section 2 : Contrôle.<a id=648></a>
-
-###### Article R*553-10
-
-Le contrôle du ministre de l'agriculture sur les comités économiques agréés et sur les groupements de producteurs reconnus
-porte notamment :
-
-- sur la comptabilité et la régularité des opérations de ces organismes ;
-
-- sur l'utilisation de l'aide reçue, en particulier de celle qui pourrait être accordée par l'Etat, les collectivités
-publiques, les établissements publics et les sociétés d'économie mixte ;
-
-- sur l'application par les groupements de producteurs, les comités économiques agricoles et les organismes et les
-producteurs qui en relèvent, des règles édictées en application des articles L. 551-1 et L. 552-1 ainsi que sur l'application
-des lois et règlements en vigueur, en particulier des lois et règlements intervenus en matière de répression des fraudes et
-de normalisation.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L551-1, L552-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*553-11
-
-L'aide financière qui pourrait avoir été accordée par l'Etat, les collectivités publiques, les établissements publics et les
-sociétés d'économie mixte doit faire l'objet dans les écritures des groupements et comités de comptes spéciaux faisant
-ressortir leur utilisation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*553-12
-
-Les groupements de producteurs reconnus et les comités économiques agricoles agréés doivent adresser annuellement au
-ministère de l'agriculture, sous le couvert du directeur départemental de l'agriculture, du lieu de leur siège social, les
-bilans, comptes de profits et pertes, comptes d'exploitation et documents annexes afférents au dernier exercice écoulé ainsi
-que la copie du procès-verbal de l'assemblée générale qui a procédé à l'examen desdits comptes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*553-13
-
-Les fonctionnaires du ministère de l'agriculture, habilités à cet effet par le ministre de l'agriculture, ont accès dans les
-services des groupements de producteurs reconnus et des comités économiques agricoles agréés. Ils peuvent y prendre
-connaissance de toutes pièces, lettres ou documents comptables ou administratifs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*553-14
-
-Les fonctionnaires et agents du ministère de l'agriculture, et notamment ceux du service de la répression des fraudes et du
-contrôle de la qualité, participent concurremment avec les agents des organismes intéressés au contrôle de l'application par
-ces organismes et par les producteurs agricoles des règles en vigueur édictées par les groupements et comités économiques
-agricoles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*553-15
-
-Les groupements de producteurs reconnus et les comités économiques agricoles agréés qui se trouvent dans les conditions
-définies aux articles 1er et 2 du décret du 26 mai 1955 modifié relatif au contrôle économique et financier de l'Etat sont
-soumis au contrôle prévu par ce décret.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°55-733 1955-05-26 art. 1, art. 2
-  - Décret n°55-733 du 26 mai 1955 - art. 2 (M)
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*553-16
-
-Le contrôle à assurer en vue de l'application des articles R. 553-3, R. 553-4 et R. 553-7 concernant les droits d'inscription
-et les cotisations est exercé dans les conditions prévues à l'article R. 553-14.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R553-3, R553-4, R553-7, R553-14
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. R556-3 (Ab)
-
-
-##### Section 3 : Dispositions diverses.<a id=649></a>
-
-###### Article R*553-17
-
-Le ministre de l'agriculture peut autoriser des dérogations au caractère obligatoire des règles édictées conformément aux
-dispositions des chapitres Ier et II du présent titre, de la section II du présent chapitre et des articles R. 554-1 à R.
-554-6 qui pourraient mettre obstacle aux recherches et essais effectués en vue de la production de végétaux et d'animaux,
-d'espèces ou de variétés nouvelles.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-1 à R554-6
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-#### Chapitre IV : Extension des règles édictées par les comités économiques agricoles<a id=650></a>
-
-##### Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole.<a id=651></a>
-
-###### Article R*554-1
-
-Seules peuvent être rendues obligatoires pour tous les producteurs de la circonscription d'un comité économique agricole
-agréé, les règles susceptibles d'améliorer les conditions de la production ou de la commercialisation conformément à
-l'intérêt général apprécié compte tenu des exigences des marchés et des équilibres à maintenir ou à instaurer entre les
-produits et les régions.
-
-Ces règles se limitent à un ou plusieurs objets suivants :
-
-a) Détermination des conditions techniques de la production agricole, de défense des cultures et des élevages, de récolte, de
-conservation, de stockage, d'expédition, de transport, de conditionnement, de mise en marché des produits ;
-
-b) Etablissement des nomenclatures et, éventuellement, fixation de la proportion des espèces, races, variétés et catégories
-de qualités pouvant être livrées aux différents secteurs d'utilisation par référence à des définitions existantes ;
-
-c) Fixation des modalités techniques de contrôle des produits destinés à la vente, en ce qui concerne leur qualité et leur
-correspondance aux normes ;
-
-d) Fixation des modalités d'échelonnement de l'envoi des produits sur les différents marchés en vue d'assurer
-l'approvisionnement régulier et d'éviter des variations anormales des cours ;
-
-e) Application de contrats types de production homologués par le ministre de l'agriculture ;
-
-f) Organisation des mesures de publicité et de propagande.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-##### Section 2 : Procédure d'extension des règles<a id=652></a>
-
-##### Sous-section 1 : Dispositions générales.<a id=653></a>
-
-###### Article R*554-2
-
-Un comité économique agricole agréé peut demander au ministre de l'agriculture, par application de l'article L. 554-1,
-l'extension, totale ou partielle, des règles relatives à un ou plusieurs objets mentionnés à l'article R. 554-1, à l'ensemble
-des producteurs intéressés de sa circonscription lorsque ces règles :
-
-- ont préalablement été imposées par le comité à ses membres ;
-
-- ont été prises à la majorité des organismes adhérents depuis au moins une année englobant une campagne agricole antérieure.
-
-La décision de présenter la demande doit être prise par l'assemblée générale du comité se prononçant à la majorité des deux
-tiers des membres composant statutairement l'assemblée.
-
-La demande précise le texte de la ou des règles dont l'extension est demandée.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L554-1, R554-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-3
-
-La demande d'extension, motivée et accompagnée d'un rapport d'activité et du procès-verbal de la délibération de l'assemblée
-générale prévue à l'article précédent, est adressée au ministre de l'agriculture par l'intermédiaire du préfet du département
-du siège du comité.
-
-Le préfet instruit la demande sur le plan départemental ou interdépartemental.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-2
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-4
-
-Le ministre de l'agriculture fait connaître, s'il y a lieu, au comité, les modifications qu'il estime nécessaire d'apporter
-aux règles dont l'extension est demandée. Compte tenu de la réponse du comité et des modifications apportées, après avoir
-pris l'avis du ministre de l'économie et du ministre du budget et entendu le conseil supérieur d'orientation et de
-coordination de l'économie agricole et alimentaire, il décide, le cas échéant, de consulter les producteurs.
-
-Dans ce cas, la consultation est ordonnée par arrêté publié dans les conditions prévues à l'article R. 552-5. Cet arrêté
-énonce les questions posées aux producteurs et définit le critère retenu pour apprécier la capacité de production servant au
-calcul des quantités de produits commercialisés.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R552-5
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-5
-
-Lorsque l'extension d'une règle a été approuvée à la double majorité prévue par l'article L. 554-2, cette extension peut être
-prononcée, en application du premier alinéa du même article, par arrêté conjoint du ministre de l'agriculture, du ministre de
-l'économie et du ministre du budget.
-
-Les arrêtés interministériels portant extension de règles édictées par les comités économiques agricoles agréés sont publiés
-au Journal officiel avec le texte des règles ayant fait l'objet de la mesure d'extension.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L554-2
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-6
-
-L'arrêté interministériel mentionné à l'article R. 554-5, rendant obligatoires à l'ensemble des producteurs concernés de la
-circonscription d'un comité économique agricole agréé certaines règles édictées par ce comité, peut être rapporté par arrêté
-conjoint du ministre de l'agriculture, du ministre de l'économie et du ministre du budget, lorsque ces règles ne répondent
-plus aux conditions prévues pour leur extension. Cet arrêté est pris après que les observations du comité économique
-intéressé ont été recueillies et après avis du conseil supérieur d'orientation et de coordination de l'économie agricole et
-alimentaire.
-
-L'arrêté interministériel rapportant l'arrêté d'extension fixe la date à laquelle ces règles cesseront d'avoir effet pour
-l'ensemble des producteurs auxquels elles avaient été étendues. Il fait l'objet des mesures de publicité prévues à l'article
-R. 552-5.
-
-Le ministre de l'agriculture se prononce, dans les conditions prévues à l'article R. 552-14, sur le maintien des règles
-applicables aux producteurs, qui relèvent d'organismes adhérant au comité.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-5, R552-5, R552-14
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-##### Sous-section 2 : Procédure de consultation des producteurs<a id=654></a>
-
-##### Paragraphe 1 : Etablissement de la liste des producteurs.<a id=655></a>
-
-###### Article R*554-7
-
-Dans le délai d'un mois de la publication au Journal officiel de l'arrêté ministériel ordonnant la consultation des
-producteurs intéressés prévue à l'article R. 554-4 et, sous réserve de l'application des dispositions de l'article R. 554-15,
-chaque chambre d'agriculture intéressée dresse, par commune, avec l'aide des services départementaux du ministère de
-l'agriculture et tous autres concours utiles, la liste des producteurs. Cette liste comporte l'indication des nom, prénoms,
-domicile, date et lieu de naissance de chaque producteur ainsi que la capacité de production dont il dispose. Cette capacité
-de production sera retenue pour le calcul des quantités de produits commercialisés. Si le producteur est une personne morale,
-la liste comporte l'indication du siège de la personne morale.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-4, R554-15
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-8
-
-A la demande de la chambre d'agriculture, le préfet peut décider, pour la totalité ou une partie de la circonscription du
-comité économique agricole, de constituer, par commune ou groupe de communes, des commissions qui recensent les producteurs
-et évaluent leur capacité de production. Ces commissions, dont il nomme les membres, sont composées, sous la présidence du
-maire de la commune ou, au cas de groupement de communes, sous la présidence d'un maire désigné par lui, d'un délégué de la
-chambre d'agriculture et d'un délégué de l'administration.
-
-Les résultats des travaux de chaque commission sont adressés au préfet, dans un délai de vingt jours à compter de la date de
-la notification au président de la décision préfectorale constituant la commission. Ils sont transmis par le préfet à la
-chambre d'agriculture.
-
-Si ces commissions sont constituées, le délai d'un mois imparti à l'article R. 554-7 aux chambres d'agriculture peut, si le
-préfet l'estime nécessaire, être prolongé dans la limite d'un maximum de vingt jours.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-7
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-9
-
-Les producteurs qui remplissent dans plusieurs communes de la circonscription du comité économique agricole les conditions
-requises pour participer à la consultation ne peuvent être inscrits que sur la liste d'une seule commune. Cette commune est
-celle comprise dans la circonscription du comité dans laquelle la capacité de production dont ils disposent est la plus
-forte. Cette liste mentionne la totalité de la production dont chacun d'eux dispose à l'intérieur de la circonscription du
-comité.
-
-En cas de métayage, la qualité de producteur est reconnue séparément au métayer et au bailleur. La capacité de production
-attribuée à chacun est déterminée en tenant compte de la part qui lui revient contractuellement, la somme de ces capacités
-individuelles est égale à la capacité totale de l'exploitation.
-
-En cas de mise en valeur par une personne morale, la qualité de producteur n'est reconnue qu'à ladite personne exception
-faite des cas des groupements agricoles d'exploitation en commun constitués en application de la loi du 8 août 1962 relative
-aux groupements agricoles d'exploitation en commun et des sociétés coopératives agricoles d'exploitation en commun. Dans le
-premier cas, cette qualité est reconnue à tous les membres du groupement, autres que les porteurs de parts d'industrie,
-travaillant sur l'exploitation. Dans le second cas, elle est reconnue à tous les membres de la coopérative. Dans ces
-groupements et sociétés, la capacité totale de production du groupement ou de la société est répartie entre les membres du
-groupement ou de la société ayant la qualité de producteur en tenant compte de la part revenant contractuellement à chacun
-d'eux. Si les intéressés n'établissent pas le montant de ces parts, la capacité totale de l'exploitation est partagée de
-façon égale entre les membres de la société ou du groupement.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°62-917 1962-08-08
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-10
-
-Après l'établissement de la liste, la chambre d'agriculture adresse cette liste au préfet et au directeur départemental de
-l'agriculture.
-
-Le préfet ordonne, par arrêté, l'affichage simultané pendant dix jours, à la porte des mairies, de l'arrêté ministériel
-mentionné à l'article R. 554-7 et, pour chaque commune, de l'extrait la concernant de la liste globale établie par la chambre
-d'agriculture. Cet extrait comporte l'indication de la commune où sont inscrits les producteurs de la commune inscrits dans
-une autre commune.
-
-Cet extrait et la copie de l'arrêté ministériel sont transmis à chaque maire en même temps que l'arrêté préfectoral et
-affichés dès leur réception.
-
-Pendant la durée de l'affichage, le directeur départemental de l'agriculture et les producteurs peuvent adresser au président
-de la chambre d'agriculture leurs observations sur le contenu de la liste.
-
-Les dispositions du précédent alinéa doivent être reproduites en tête des extraits de listes affichés dans les mairies.
-
-Chaque maire adresse au préfet le procès-verbal de l'affichage.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-7
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-11
-
-L'arrêté préfectoral prévu à l'article R. 554-10 et ordonnant l'affichage est inséré en caractères apparents, à la diligence
-de la chambre d'agriculture, dans la presse locale ou régionale. Cette insertion doit être faite à deux reprises, avec un
-jour d'intervalle, aussitôt après l'envoi de l'arrêté préfectoral aux communes intéressées.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-10
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-12
-
-Dès réception de l'avis donné par le préfet à la chambre d'agriculture de l'exécution des affichages prévus à l'article R.
-554-10, le bureau de la chambre d'agriculture examine d'urgence les observations recueillies. Ce bureau, s'il l'estime
-nécessaire, procède à une enquête, en particulier auprès des commissions communales ou intercommunales de recensement. Il
-arrête quinze jours au plus tard après la réception de l'avis préfectoral et compte tenu de toutes les informations
-recueillies par lui, une liste rectifiée de producteurs. Le président du bureau communique la liste au préfet pour affichage,
-par extrait, pendant huit jours dans chaque mairie. Les maires intéressés adressent le procès-verbal de l'affichage au préfet
-qui en avise la chambre d'agriculture.
-
-Pendant la durée de ce nouvel affichage, tout producteur intéressé peut faire parvenir au juge du tribunal d'instance dont
-dépend la commune les réclamations qu'il estime utile de présenter.
-
-Le juge du tribunal d'instance après avoir convoqué par simple lettre du greffier, les réclamants et le président de la
-chambre d'agriculture ou son représentant, statue dans les dix jours.
-
-Le greffier du tribunal d'instance notifie la décision rendue, au président de la chambre d'agriculture et, à chacun des
-réclamants, l'extrait des décisions qui les concernent.
-
-La décision du juge du tribunal d'instance n'est susceptible ni d'opposition ni d'appel. Elle peut être déférée à la Cour de
-cassation dans les dix jours de la notification de la décision. Le pourvoi n'est pas suspensif. Il est formé par simple
-requête dénoncée au défendeur dans les dix jours qui suivent et jugé d'urgence, sans consignation d'amende. Les pièces et
-mémoires déposés à la mairie par les parties sont transmis par le maire au greffier du tribunal d'instance et par celui-ci au
-greffe de la Cour de cassation.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-10
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-13
-
-La liste définitive des producteurs appelés à participer à la consultation, rectifiée, s'il y a lieu, en vertu des décisions
-judiciaires, est arrêtée par le bureau de la chambre d'agriculture, trente jours après réception par la chambre de l'avis
-donné par le préfet de l'exécution des affichages prévus au premier alinéa de l'article précédent.
-
-Cette liste est établie par commune et par ordre alphabétique. L'original est déposé à la chambre d'agriculture.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-14
-
-Copie des listes électorales définitives établies par commune sont transmises par le président de la chambre d'agriculture au
-préfet. Celui-ci adresse aux maires des communes concernées par l'arrêté préfectoral prévu à l'article R. 554-16 les listes
-relatives à leurs communes.
-
-Ces copies servent pour l'émargement lors du vote.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-16
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-15
-
-Les consultations auxquelles il est procédé pendant l'année suivant la publication de la liste définitive arrêtée par le
-bureau de la chambre d'agriculture se font sur la base de cette liste. Toutefois, il doit être tenu compte des décisions
-judiciaires intervenues depuis cette publication.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-##### Paragraphe 2 : Modalités de la consultation des producteurs.<a id=656></a>
-
-###### Article R*554-16
-
-Un arrêté préfectoral ou, si la circonscription du comité économique s'étend sur plusieurs départements, un arrêté
-interpréfectoral, pris sur proposition de la ou des chambres d'agriculture intéressées, fixe :
-
-1° Les lieux de vote ainsi que la date et les heures d'ouverture du scrutin, celui-ci devant avoir lieu entre le vingtième et
-le trentième jour suivant la publication de l'arrêté l'ordonnant ;
-
-2° Les montants nominaux des capacités de production correspondant aux différents bulletins de vote de la 2e catégorie
-mentionnés à l'article R. 554-17 ;
-
-3° La production commercialisée qui dans chaque commune ou, exceptionnellement, dans un groupe de communes correspond à
-l'unité de capacité de production ;
-
-4° Le volume global de la production commercialisée dans la circonscription du comité et le nombre total des producteurs.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-17
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-17
-
-Les opérations du scrutin ont pour objet d'apprécier si l'extension projetée de certaines règles à l'ensemble des producteurs
-de la circonscription du comité économique agricole a recueilli, conformément à l'article L. 554-2, l'accord d'un nombre
-suffisant de producteurs représentant une quantité suffisante de la production commercialisée.
-
-Pour le vote, chaque électeur utilise simultanément des bulletins de deux catégories fournis par la chambre d'agriculture :
-
-1° En vue du scrutin permettant d'apprécier l'accord d'un nombre suffisant de producteurs, il utilise un bulletin unique sur
-lequel figure le texte de la ou des règles dont l'extension est envisagée ;
-
-2° En vue du scrutin portant sur les quantités de produits permettant d'apprécier si l'accord des producteurs représente un
-volume suffisant de production, il utilise un ou plusieurs bulletins sur lesquels figurent à la fois le texte de la ou des
-règles dont l'extension est envisagée et l'indication, au recto et au verso, d'un montant nominal en capacité de production.
-
-La chambre d'agriculture détermine la couleur de chacune des deux catégories de bulletins.
-
-Les bulletins de la 2e catégorie qui peuvent porter des montants nominaux de capacité de production différents sont remis à
-chaque électeur. Le maximum possible de bulletins portant le montant nominal le plus élevé lui est d'abord remis ; il reçoit
-ensuite, dans l'ordre décroissant jusqu'à concurrence du montant total de la capacité de production qui lui a été attribué
-sur la liste électorale, des bulletins d'un montant nominal moins important.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L554-2
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-18
-
-Le vote a lieu sous enveloppes distinctes, de couleurs différentes, correspondant aux deux catégories de bulletins de vote.
-
-Ces enveloppes, non gommées, et de type uniforme pour les deux catégories de bulletin sont fournies par la chambre
-d'agriculture ; elles portent le timbre de cette chambre.
-
-Les enveloppes de la 1re catégorie sont opaques, celles de la 2e catégorie sont munies d'un voyant afin de permettre le
-contrôle par les bureaux de vote des votes relatifs aux capacités de production.
-
-Ces enveloppes sont envoyées dans chaque mairie intéressée, cinq jours au moins avant la consultation, en même temps que les
-bulletins de vote des deux catégories. Le nombre des enveloppes de la 1re catégorie est égal au nombre d'électeurs inscrits,
-augmenté d'un dixième. Le nombre des enveloppes de la 2e catégorie est égal au nombre, augmenté d'un dixième, des bulletins
-de la 2e catégorie. Ce nombre d'enveloppes doit permettre de délivrer à chaque électeur, dans les conditions prévues au
-dernier alinéa de l'artice R. 554-17, le nombre des coupures correspondant au total de sa capacité de production, chaque
-enveloppe ne pouvant contenir, lors de vote, qu'une seule coupure. Les bulletins et enveloppes correspondant à l'augmentation
-du dixième sont adressés dans un second pli, séparé et cacheté. Le maire doit immédiatement accuser réception de ces envois.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-17
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-19
-
-Le déroulement des opérations du scrutin est assuré par un bureau présidé par le maire ou un conseiller municipal délégué par
-lui comprenant, sauf impossibilité mentionnée au procès-verbal, deux producteurs membres du comité économique agricole et
-deux producteurs ne relevant pas de groupements membres de ce comité. Si plus de deux producteurs de chacune de ces
-catégories sont volontaires pour faire partie du bureau, il est procédé par tirage au sort.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-20
-
-Avant l'ouverture du scrutin, le bureau procède à l'émargement sur la liste prévue au 2° de l'article R. 554-25 des noms des
-producteurs ayant demandé à voter par correspondance. Il constate que, abstraction faite des enveloppes contenues dans le pli
-séparé mentionné au dernier alinéa de l'article R. 554-18, le nombre des enveloppes de la 1re catégorie est égal à celui des
-électeurs inscrits et que le nombre des enveloppes de la 2e catégorie est égal à celui des bulletins de la 2e catégorie à
-remettre aux électeurs conformément au dernier alinéa de l'article R. 554-17. Les enveloppes et les bulletins correspondant
-au vote des producteurs ayant demandé à voter par correspondance sont mis à part.
-
-Au cas où les enveloppes font défaut, le président du bureau de vote procède à l'ouverture du second pli et prélève les
-enveloppes nécessaires au scrutin. Mention est faite de ce prélèvement au procès-verbal.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-25, R554-18, R554-17
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-21
-
-Le vote est personnel.
-
-A son entrée dans la salle du scrutin, l'électeur, après avoir fait constater son identité, reçoit du bureau de vote :
-
-1° Un bulletin de la 1re catégorie ;
-
-2° Une enveloppe destinée à recevoir le bulletin de vote de la 1re catégorie ;
-
-3° Le nombre de bulletins de la 2e catégorie correspondant à la valeur totale de la capacité de production attribuée sur la
-liste électorale de production attribuée sur la liste électorale conformément au dernier alinéa de l'article R. 554-17 ;
-
-4° Des enveloppes de la 2e catégorie en nombre égal à celui des bulletins de la 2e catégorie qui lui ont été remis.
-
-A peine de nullité, les électeurs doivent se servir des bulletins et des enveloppes fournis par la chambre d'agriculture.
-
-Ils ne doivent insérer dans une seule enveloppe qu'un seul bulletin ; en cas d'insertion de plusieurs bulletins dans la même
-enveloppe, chacun d'eux est annulé.
-
-L'électeur atteste, par émargement dans la colonne prévue à cet effet sur la liste électorale et en face de l'indication de
-la capacité de production qui lui a été attribuée, qu'il a reçu du bureau un nombre de bulletins de la 2e catégorie
-correspondant globalement à cette attribution.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-17
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-22
-
-L'électeur, sans quitter la salle du scrutin, doit se rendre seul dans l'isoloir pour mettre ses bulletins de vote dans les
-enveloppes correspondantes.
-
-Il raie éventuellement, sur l'unique bulletin de la 1re catégorie et sur chacun de ceux de la 2e catégorie, la ou les règles
-à l'extension desquelles il s'oppose. Il ne peut, à peine de nullité, modifier l'énoncé des règles. Après avoir introduit
-chaque bulletin dans l'enveloppe correspondant à sa catégorie, l'électeur fait ensuite constater au président :
-
-- qu'il n'est porteur que d'une seule enveloppe de la 1re catégorie et d'un nombre d'enveloppes de la 2e catégorie
-correspondant à la capacité de production qui lui a été reconnue ;
-
-- que l'ensemble des capacités de production apparaissant dans les voyants des enveloppes de la 2e catégorie dont il est
-porteur correspondent à la capacité totale dont il a été reconnu disposer. Le président le constate sans toucher les
-enveloppes, que l'électeur introduit lui-même dans l'urne mentionnée à l'article R. 554-23.
-
-Dans chaque bureau de vote, il y a un isoloir par cinquante électeurs inscrits ou par fraction.
-
-Les isoloirs ne doivent pas être placés de façon à dissimuler au public les opérations électorales.
-
-Le vote de chaque électeur est constaté sur la liste d'émargement par l'apposition en face de son nom de la signature d'un
-membre du bureau.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-23
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-23
-
-Une urne comportant une ouverture unique destinée à introduire une enveloppe contenant un bulletin de vote est placée devant
-les membres du bureau et tenue à la disposition des électeurs. Elle doit, avant l'ouverture du scrutin, avoir été fermée à
-deux serrures dissemblables dont les clefs sont remises aux assesseurs.
-
-Si, au moment de la clôture du scrutin, le président n'a pas les clefs à sa disposition, il prend toutes les mesures
-nécessaires pour procéder immédiatement à l'ouverture de l'urne.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-24
-
-Peuvent être admis à voter par correspondance :
-
-a) L'électeur qui, en raison de son état de santé, ne pourra se rendre au lieu de vote ;
-
-b) L'électeur que les nécessités de sa profession tiendront, le jour fixé pour la consultation, éloigné du lieu de vote où il
-est inscrit.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-25
-
-Le vote par correspondance est soumis aux conditions suivantes :
-
-1° L'électeur adresse au président de la chambre d'agriculture du département de la commune dans laquelle il est inscrit, au
-plus tard le douzième jour précédant la date fixée pour la consultation, une demande sur papier libre mentionnant ses nom,
-prénoms, date et lieu de naissance, domicile, ainsi que l'adresse à laquelle devront être envoyés les documents nécessaires
-au vote. Cette demande doit être faite par un pli recommandé qui doit porter la mention "comité économique agricole".
-L'électeur doit joindre à sa demande soit un certificat d'hospitalisation ou un certificat médical, soit toute pièce
-justifiant que les nécessités de sa profession le tiennent éloigné du lieu de vote le jour fixé pour la consultation ;
-
-2° Les documents nécessaires au vote par correspondance comprennent :
-
-a) Les enveloppes électorales de la 1re et de la 2e catégorie ;
-
-b) Les bulletins de vote de la 1re et de la 2e catégorie ;
-
-c) La fiche spéciale au vote par correspondance établie au nom de l'électeur par la chambre d'agriculture. Cette fiche est
-conforme au modèle fixé par arrêté conjoint du ministre de l'agriculture et du ministre de l'intérieur ;
-
-d) Une enveloppe portant la date de la consultation et la mention "comité économique agricole", destinée à la transmission du
-suffrage de l'électeur.
-
-Ces documents sont, dans les quatre jours suivant la réception de la demande, adressés à l'intéressé, sous pli recommandé,
-par le président de la chambre d'agriculture.
-
-Le président de la chambre d'agriculture dresse la liste des producteurs ayant demandé à voter par correspondance avec
-mention de leur capacité de production et l'indication de la commune où ils sont inscrits. Il adresse, dans les conditions
-prévues à l'alinéa précédent, quatre jours au plus tard avant l'ouverture du scrutin, un extrait de cette liste au président
-du bureau de vote intéressé ;
-
-3° L'électeur transmet son suffrage, après avoir introduit ses bulletins de vote dans les enveloppes électorales qui lui ont
-été adressées. Il met ces enveloppes et la fiche nominative spéciale au vote par correspondance dans l'enveloppe mentionnée à
-l'alinéa d du 2° ci-dessus. Il adresse celle-ci par lettre recommandée au président de la chambre d'agriculture ;
-
-4° Les plis parvenus au bureau de poste destinataire sont conservés par ce bureau et remis par un agent des postes au
-président de la chambre d'agriculture au jour et à l'heure que celui-ci fixe pour l'ouverture des plis. Les plis parvenus
-avant le jour du scrutin fixé par l'arrêté préfectoral et les plis parvenus postérieurement sont remis distinctement.
-
-Le président de la chambre d'agriculture assisté du bureau de la chambre qui joue le rôle de bureau de vote ouvre, au cours
-d'une séance à laquelle le public doit être admis, chacun des plis parvenus avant le jour du scrutin. Il donne connaissance
-au bureau de la fiche nominative spéciale au vote par correspondance et, après émargement de la liste des votants par
-correspondance, il met aussitôt les enveloppes correspondant à la 1re et à la 2e catégorie de bulletins de vote dans une urne
-prévue pour les recueillir.
-
-Il est procédé au dépouillement lorsque tous les bulletins afférents au vote par correspondance ont été mis dans l'urne.
-
-Il est dressé procès-verbal des opérations. Les fiches nominatives spéciales au vote par correspondance et comportant la
-mention "a voté" sont annexées au procès-verbal ;
-
-5° Les plis parvenus au bureau de vote après le jour fixé pour le scrutin par l'arrêté préfectoral, mais avant le
-dépouillement des votes par correspondance, sont décachetés en présence des membres du bureau. Les fiches nominatives
-spéciales au vote par correspondance en sont retirées pour permettre au président d'y mentionner les motifs de leur non-
-validité. Les enveloppes électorales sont brûlées sans avoir été ouvertes. Il est dressé un procès-verbal de cette opération
-auquel sont jointes les fiches nominatives annotées par le bureau.
-
-Les plis parvenus au bureau de poste après la remise prévue au premier alinéa du 4° ci-dessus sont ultérieurement remis au
-président de la chambre qui, en présence du bureau, procède à leur ouverture et établit, à l'aide des fiches nominatives qui
-en sont extraites, la liste des producteurs qui les ont envoyés. Le président procède à leur destruction dans les conditions
-mentionnées ci-dessus. La liste de ces producteurs est versée au dossier des opérations électorales.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-26
-
-Chaque bureau de vote, assisté des scrutateurs qu'il désigne, procède en séance publique, au dépouillement du scrutin prévu
-aux articles R. 554-19 à R. 554-23, dès que ce scrutin est clos.
-
-Les scrutateurs sont, dans la mesure du possible, choisis pour moitié parmi les producteurs autres que ceux relevant des
-groupements membres du comité.
-
-Le président du bureau proclame les résultats du vote.
-
-Le procès-verbal des opérations est aussitôt dressé et signé par les membres du bureau. Il est transmis par pli recommandé au
-président de la chambre d'agriculture.
-
-Ce procès-verbal mentionne, pour chaque règle, objet de la consultation :
-
-1° Le nombre de suffrages exprimés pour ou contre l'extension envisagée ;
-
-2° Les capacités de production représentées par les suffrages exprimés pour ou contre l'adoption des règles.
-
-Il mentionne également les réclamations éventuelles présentées par les lecteurs.
-
-Les bulletins contestés et ceux qui n'entrent pas en compte dans le résultat du dépouillement sont annexés au procès-verbal
-et contresignés par les membres du bureau. Mention doit être faite des causes de l'annexion.
-
-Les autres bulletins sont incinérés.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-19 à R554-23
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-27
-
-Le bureau de la chambre d'agriculture réuni en séance publique rassemble et vérifie les procès-verbaux reçus en application
-de l'article précédent. Il procède au calcul des quantités de produits correspondant au vote ; à cet effet, il applique aux
-capacités de production les rendements forfaitaires fixés par l'arrêté préfectoral prévu à l'article R. 554-16.
-
-Le président, compte tenu des votes par correspondance parvenus à la chambre, proclame le résultat du scrutin en ce qui
-concerne la circonscription de la chambre. Si le scrutin a lieu sur le territoire d'une seule chambre d'agriculture, ce
-résultat est adressé au préfet, qui le transmet au ministre de l'agriculture, le fait afficher pendant un délai de cinq jours
-à la porte de la préfecture et des mairies de la circonscription du comité et le fait publier dans le recueil des actes
-administratifs du département.
-
-Si le scrutin a lieu sur le territoire de plusieurs chambres d'agriculture, résultats et procès-verbaux des opérations sont
-adressés au bureau de la chambre d'agriculture du lieu du siège social du comité. Le président de cette chambre proclame les
-résultats pour l'ensemble de la circonscription du comité et les adresse, avec les procès-verbaux des opérations de
-récapitulation, au préfet du département de cette chambre. Ce dernier transmet les procès-verbaux au ministre de
-l'agriculture. Avec le concours des préfets des autres départements, il fait procéder aux publications et aux affichages
-prévus à l'alinéa ci-dessus.
-
-Les maires adressent sans délai au préfet les procès-verbaux d'affichage.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-16
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*554-28
-
-Le tribunal administratif territorialement compétent peut être saisi des réclamations contre les résultats du scrutin pendant
-un délai de dix jours après l'affichage, prévu à l'article précédent, à la porte de la préfecture.
-
-Ces réclamations sont dispensées du ministère d'avocat.
-
-Le préfet peut, dans le délai de quinze jours à dater de la réception à la préfecture des procès-verbaux, déférer les
-opérations de vote au tribunal administratif, s'il estime que les formes et conditions prescrites n'ont pas été observées.
-
-Le recours au Conseil d'Etat contre la décision du tribunal administratif doit être formé dans le délai d'un mois.
-
-Le point de départ de ce délai est fixé comme suit :
-
-- pour le recours formé par le préfet, à compter du jour de la communication de la décision du tribunal,
-
-- pour le recours formé par les parties, à compter du jour de la notification qui leur a été faite de la décision du
-tribunal.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-##### Paragraphe 3 : Dispositions diverses.<a id=657></a>
-
-###### Article R*554-29
-
-Les frais occasionnés par la consultation des producteurs sont à la charge des comités économiques agricoles agréés qui
-peuvent demander à bénéficier pour y faire face de prêts remboursables dans un délai de trois à cinq ans consentis par les
-caisses de crédit agricole mutuel.
-
-Lorsque l'extension des règles sur lesquelles les producteurs ont été consultés, bien qu'approuvée à la double majorité
-prévue à l'article R. 554-2 n'est pas prononcée, les frais de la consultation seront remboursés au comité par le fonds
-d'orientation et de régularisation des marchés agricoles.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-2
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-#### Chapitre V : Dispositions particulières aux départements d'outre-mer.<a id=658></a>
-
-###### Article R*555-1
-
-Pour les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, la reconnaissance comme groupement
-de producteurs, la suspension ou le retrait de cette reconnaissance, prévus à l'article L. 551-1 sont prononcés par arrêté
-conjoint du ministre de l'agriculture et du ministre chargé des départements et territoires d'outre-mer.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L551-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. R555-2 (V)
-
-
-###### Article R*555-2
-
-L'agrément des comités économiques agricoles prévu à l'article L. 552-1 est prononcé, dans les départements mentionnés à
-l'article R. 555-1, par arrêté conjoint du ministre de l'agriculture et du ministre chargé des départements et territoires
-d'outre-mer.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L552-1, R555-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*555-3
-
-Les dispositions des articles énumérés ci-après concernant les départements de la Guadeloupe, de la Guyane, de la Martinique
-et de la Réunion sont ainsi modifiées :
-
-1° Aux articles R. 551-1, R. 552-1 et R. 554-3 (premier alinéa) sont ajoutés les mots "copie en est adressée par le préfet au
-ministre chargé des départements et territoires d'outre-mer" ;
-
-2° Aux articles R. 551-4, R. 551-9 à R. 551-12, R. 552-4, R. 552-8, R. 552-10, R. 552-11, R. 552-13, R. 552-14, R. 554-4 à R.
-554-6, les attributions confiées au ministre de l'agriculture sont exercées conjointement par ce ministre et le ministre
-chargé des départements et territoires d'outre-mer ;
-
-3° Aux articles R. 551-6 et R. 552-5 les mots "au ministère de l'agriculture" sont remplacés par les mots "au ministère de
-l'agriculture et au ministère chargé des départements et territoires d'outre-mer" ;
-
-4° L'article R. 552-7, premier alinéa, est complété comme suit :
-
-"copie de cette déclaration doit également être adressée au ministre chargé des départements et territoires d'outre-mer" ;
-
-5° L'article R. 553-11 est ainsi complété : "lorsque les questions soumises à la commission concernent un ou plusieurs des
-départements d'outre-mer, la commission est complétée par un représentant du ministre chargé des départements et territoires
-d'outre-mer et par des personnalités représentant chacun des déplacements intéressés, à raison d'une par département et
-désignées par ce ministre".
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R551-1, R552-1, R554-3, R551-4, R551-9 à R551-12, R552-4, R552-8, R552-10, R552-11, R552-13, R552-14, R554-4 à R554-6, R551-6, R552-5, R552-7, R553-11
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*555-4
-
-Les dispositions du présent titre ne sont pas applicables dans le département de Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-#### Chapitre VI : Pénalités.<a id=659></a>
-
-###### Article R*556-1
-
-L'utilisation irrégulière de la dénomination ou de la qualité de groupement de producteurs reconnu ou de celles de comité
-économique agricole agréé rend son auteur passible d'une amende de 1.300 F à 3.000 F et d'un emprisonnement de cinq jours au
-plus ou de l'une de ces deux peines seulement.
-
-En cas de récidive, la peine d'amende pourra être portée de 3.000 F à 6.000 F et l'emprisonnement de dix jours à un mois ou
-de l'une de ces deux peines seulement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*556-2
-
-Les personnes ayant fait obstacle ou opposition au contrôle exercé par les fonctionnaires et agents du ministère de
-l'agriculture en application des articles R. 553-15 et R. 553-16 sont passibles d'une amende de 1.300 F à 3.000 F et d'un
-emprisonnement de cinq jours au plus ou de l'une de ces deux peines seulement.
-
-En cas de récidive, l'amende peut être portée de 3.000 F à 6.000 F et l'emprisonnement de dix jours à un mois, ou de l'une de
-ces deux peines seulement.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R553-15, R553-16
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*556-3
-
-Les sanctions prévues à l'article R. 556-2 sont applicables en cas d'obstacle ou d'opposition au contrôle fixé à l'article R.
-553-16.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R556-2, R553-16
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*556-4
-
-Sera puni d'une amende de 3000 à 6000 F et d'un emprisonnement de dix jours à un mois ou de l'une de ces deux peines
-seulement quiconque :
-
-1° Se sera fait inscrire ou aura tenté de se faire inscrire sur une liste électorale établie en application des articles R.
-554-7 à R. 554-29, soit sous un faux nom, soit en excipant indûment de la qualité de producteur, soit en ayant sciemment
-faussé les éléments d'appréciation de sa capacité de production ;
-
-2° Aura, à l'aide de déclarations frauduleuses ou de faux certificats, fait inscrire ou rayer indûment, tenté de faire
-inscrire ou rayer indûment un producteur, ou se sera rendu complice de telles manoeuvres ;
-
-3° Aura voté soit en vertu d'une inscription obtenue dans les cas prévus au 1° ci-dessus, soit en prenant faussement les nom
-et qualité d'un électeur inscrit ;
-
-4° Aura profité d'inscriptions multiples sous des adresses différentes pour voter plusieurs fois.
-
-Est passible des mêmes peines, en dehors des cas spécialement prévus par les dispositions des lois et décrets en vigueur
-quiconque aura, soit dans un bureau de vote, soit dans les bureaux des mairies, préfectures ou dans les bureaux, commissions
-ou services des chambres d'agriculture, avant, pendant ou après un scrutin, par inobservation volontaire des dispositions
-législatives ou réglementaires ou par tous autres actes frauduleux, soit violé ou tenté de violer le secret du vote, soit
-porté atteinte ou tenté de porter atteinte à sa sincérité, soit empêché ou tenté d'empêcher les opérations du scrutin, soit
-changé ou tenté de changer le résultat de celui-ci.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-7 à R554-29
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*556-5
-
-Lorsque les règles prévues à l'article R. 554-1, acceptées par les ressortissants d'un comité économique agricole agréé, sont
-devenues obligatoires pour l'ensemble des producteurs de la circonscription dudit comité dans les conditions prévues à
-l'article L. 554-1, toute personne qui ne se conforme pas auxdites règles est punie d'une amende de 1.300 F à 3.000 F.
-
-En cas de récidive, la peine d'amende peut être portée de 3.000 F à 6.000 F et une peine d'emprisonnement de dix jours à un
-mois peut être prononcée.
-
-Ces peines ne font pas obstacle à l'application éventuelle aux membres des groupements de producteurs reconnus et des comités
-économiques agricoles agréés des sanctions prévues par les statuts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R554-1, L554-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-
-### Titre VI : Jardins familiaux<a id=660></a>
-
-#### Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux<a id=661></a>
-
-##### Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER).<a id=662></a>
-
-###### Article R*562-1
-
-La cession à un organisme de jardins familiaux de terrains acquis par une société d'aménagement foncier et d'établissement
-rural en application de l'article L. 562-1 est subordonnée à l'engagement de cet organisme de respecter les prescriptions
-d'un cahier des charges établi par la société titulaire du droit de préemption après avis du conseil municipal de la commune
-ou, le cas échéant, de chacune des communes où sont situés les terrains.
-
-Ce cahier des charges doit respecter les règles d'urbanisme applicables.
-
-Il définit les obligations qui incombent à l'organisme cessionnaire, notamment en ce qui concerne l'aménagement, l'entretien
-et la gestion, compte tenu du voisinage, du paysage et des abords.
-
-Il comporte engagement de l'organisme cessionnaire de conserver dans son patrimoine pendant au moins dix-huit ans les
-terrains acquis mentionnés à l'alinéa 1er.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L562-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. D564-3 (V)
-  - Code rural et de la pêche maritime - art. D572-10 (V)
-
-
-#### Chapitre II : Préemption des terrains destinés à la création ou à l'aménagement de jardins familiaux<a id=663></a>
-
-##### Section 2 : Droit de préemption des collectivités locales.<a id=664></a>
-
-###### Article R*562-2
-
-Les collectivités locales et leurs groupements ayant compétence en matière d'urbanisme exercent le droit de préemption
-institué par l'article L. 562-2 conformément aux dispositions des articles L. 211-1 à L. 211-7, L. 212-1 à L. 212-5 et L.
-213-1 à L. 213-18 du code de l'urbanisme.
-
-Les terrains ainsi acquis en application de l'alinéa précédent ne peuvent faire l'objet que d'une location, d'une durée de
-neuf à dix-huit ans, à des organismes de jardins familiaux constitués conformément aux dispositions des articles L. 561-1 et
-L. 561-2.
-
-L'emplacement de ces terrains doit répondre aux prescriptions des documents d'urbanisme en vigueur et aux dispositions
-relatives aux espaces protégés.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L562-2, L561-1, L561-2
-  - Code de l'urbanisme L211-1 à L211-7, L212-1 à L212-5, L213-1 à L213-18
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 MARS 1981 en vigueur le 15 novembre 1980
-
-_Modifié par_:
-
-  - Décret n°86-516 du 14 mars 1986 - art. 6 () JORF 16 mars 1986
-
-_Cité par_:
-
-  - Code rural - art. R562-3 (V)
-
-
-###### Article R*562-3
-
-Toute location consentie en application de l'article R. 562-2 est subordonnée à l'engagement de l'organisme preneur de
-respecter les prescriptions d'un cahier des charges approuvé par le conseil municipal de la commune où sont situés les
-terrains ou, le cas échéant, par l'organe délibérant du groupement de communes ayant compétence en matière d'urbanisme.
-
-Ce cahier des charges doit respecter les règles d'urbanisme applicables.
-
-Il définit les obligations qui incombent à l'organisme de jardins familiaux, notamment en ce qui concerne l'aménagement,
-l'entretien et la gestion, compte tenu du voisinage, du paysage et des abords.
-
-Il comporte l'engagement de l'organisme, cessionnaire du terrain, de conserver celui-ci dans son patrimoine pendant au moins
-dix-huit ans.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R562-2
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 MARS 1981 en vigueur le 15 novembre 1980
-
-
-#### Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique.<a id=665></a>
-
-###### Article R*563-1
-
-La mise à la disposition des associations ou exploitants évincés, membres de ces associations, de terrains équivalents en
-surface et en équipements en application de l'article L. 563-1 est subordonnée à l'engagement de l'association ou de
-l'exploitant de respecter les prescriptions d'un cahier des charges approuvé par le conseil municipal de la commune où sont
-situés les terrains ou, le cas échéant, par l'organe délibérant du groupement de communes ayant compétence en matière
-d'urbanisme.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L563-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 MARS 1981 en vigueur le 15 novembre 1980
-
-_Cité par_:
-
-  - Code rural et de la pêche maritime - art. D564-3 (V)
-
-
-###### Article R*563-2
-
-Lorsque le juge de l'expropriation se prononce sur l'application de l'article L. 563-1, il statue par la même décision sur
-les délais et conditions dans lesquels le terrain de remplacement doit être mis à la disposition de l'association ou de
-l'exploitant évincé.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L563-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 MARS 1981 en vigueur le 15 novembre 1980
-
-
-#### Chapitre IV : Avantages divers et subventions.<a id=666></a>
-
-###### Article R*564-1
-
-Les conditions d'attribution des subventions prévues par l'article L. 564-3 sont précisées par un arrêté conjoint du ministre
-de l'agriculture et du ministre du budget.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L564-3
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 MARS 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*564-2
-
-Les organismes de jardins familiaux mentionnés à l'article L. 561-1 peuvent, en vue d'acquérir le terrain nécessaire à la
-réalisation de leur objet social, bénéficier des dispositions du code rural concernant le crédit agricole.
-
-Ces organismes peuvent également bénéficier des dispositions prévues aux articles 196 et suivants du code de l'urbanisme et
-de l'habitation, s'ils ont été constitués sous la forme de sociétés prévues aux articles 177 et suivants de ce code avant le
-1er juin 1955, et s'ils ont reçu à ce titre des avances de l'Etat.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'urbanisme et de l'habitation 196, 177
-  - Code rural L561-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 MARS 1981 en vigueur le 15 novembre 1980
-
-
-###### Article R*564-3
-
-Compte tenu, le cas échéant, des prescriptions édictées aux articles R. 562-1 à R. 562-3 et R. 563-1, les projets présentés
-par les organismes de jardins familiaux mentionnés à l'article L. 561-1 relatifs à la création, à l'extension ou à
-l'aménagement des jardins familiaux en vue de bénéficier des subventions de l'Etat prévues à l'article L. 564-1, doivent
-satisfaire aux conditions suivantes :
-
-1° L'aménagement des jardins doit être compatible avec les prescriptions des documents d'urbanisme et les dispositions
-relatives aux espaces protégés ;
-
-2° Toute création de jardins doit porter sur un ensemble de terrains d'au moins 10 000 mètres carrés. Tout agrandissement
-d'un ensemble existant doit permettre l'aménagement d'une superficie d'au moins 10 000 mètres carrés. Les opérations
-d'amélioration ne sont prises en considération que si elles concernent un ensemble d'au moins 10 000 mètres carrés.
-
-Toutefois, à titre exceptionnel, le ministre chargé de l'environnement et de la qualité de la vie peut dispenser certaines
-opérations de caractère expérimental de la condition de superficie minimale prévue ci-dessus ;
-
-3° Dans tous les cas doivent figurer au dossier de la demande de subvention un plan et une convention fixant les rapports
-entre l'organisme de jardins familiaux et la commune ou, le cas échéant, le groupement de communes ayant compétence en
-matière d'urbanisme, en ce qui concerne l'organisation, l'aménagement, l'entretien et la gestion de l'ensemble, compte tenu
-du voisinage, du paysage et des abords.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R562-1 à R562-3, R563-1, L561-1, L564-1
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 MARS 1981 en vigueur le 15 novembre 1980
-
-
-## Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique<a id=667></a>
-
-### Titre Ier : Enseignement et formation professionnelle agricoles<a id=668></a>
-
-#### Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles<a id=669></a>
-
-##### Section 1 : Organisation générale<a id=670></a>
-
-##### Sous-section 1 : Principes de base.<a id=671></a>
+##### Sous-section 1 : Principes de base.<a id=717></a>
 
 ###### Article R*811-1
 
@@ -60579,9 +63078,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Conseils et comités<a id=672></a>
+##### Sous-section 2 : Conseils et comités<a id=718></a>
 
-##### Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale.<a id=673></a>
+##### Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale.<a id=719></a>
 
 ###### Article R*811-3
 
@@ -61041,7 +63540,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Paragraphe 2 : Comité de coordination.<a id=674></a>
+##### Paragraphe 2 : Comité de coordination.<a id=720></a>
 
 ###### Article R*811-10
 
@@ -61163,7 +63662,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R811-24 (V)
 
 
-##### Sous-section 3 : Promotion sociale.<a id=675></a>
+##### Sous-section 3 : Promotion sociale.<a id=721></a>
 
 ###### Article R*811-12
 
@@ -61214,9 +63713,9 @@ _Nouveaux textes_:
   - Code rural R811-3
 
 
-#### Chapitre II : Formations technologiques et professionnelles de cycle court<a id=676></a>
+#### Chapitre II : Formations technologiques et professionnelles de cycle court<a id=722></a>
 
-##### Section 1 : Enseignement technologique de cycle court par voie scolaire.<a id=677></a>
+##### Section 1 : Enseignement technologique de cycle court par voie scolaire.<a id=723></a>
 
 ###### Article R*812-1
 
@@ -61366,7 +63865,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage.<a id=678></a>
+##### Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage.<a id=724></a>
 
 ###### Article R*812-5
 
@@ -61397,7 +63896,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue et des formations alternées.<a id=679></a>
+##### Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue et des formations alternées.<a id=725></a>
 
 ###### Article R*812-6
 
@@ -61437,9 +63936,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R812-16 (V)
 
 
-#### Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles<a id=680></a>
+#### Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles<a id=726></a>
 
-##### Section 1 : Enseignement technologique de cycle long.<a id=681></a>
+##### Section 1 : Enseignement technologique de cycle long.<a id=727></a>
 
 ###### Article R*813-1
 
@@ -61598,7 +64097,7 @@ _Cité par_:
   - Code rural - art. R813-61 (V)
 
 
-##### Section 2 : Formation des techniciens supérieurs agricoles.<a id=682></a>
+##### Section 2 : Formation des techniciens supérieurs agricoles.<a id=728></a>
 
 ###### Article R*813-6
 
@@ -61672,7 +64171,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 3 : Dispositions communes.<a id=683></a>
+##### Section 3 : Dispositions communes.<a id=729></a>
 
 ###### Article R*813-8
 
@@ -61816,9 +64315,9 @@ _Cité par_:
   - Code rural - art. R813-57 (V)
 
 
-#### Chapitre IV : Enseignement supérieur<a id=684></a>
+#### Chapitre IV : Enseignement supérieur<a id=730></a>
 
-##### Section 1 : Dispositions générales.<a id=685></a>
+##### Section 1 : Dispositions générales.<a id=731></a>
 
 ###### Article R*814-1
 
@@ -61937,9 +64436,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Enseignement supérieur agricole<a id=686></a>
+##### Section 2 : Enseignement supérieur agricole<a id=732></a>
 
-##### Sous-section 1 : Formation des ingénieurs spécialisés en agriculture.<a id=687></a>
+##### Sous-section 1 : Formation des ingénieurs spécialisés en agriculture.<a id=733></a>
 
 ###### Article R*814-5
 
@@ -61980,7 +64479,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Formation des spécialistes en horticulture et des paysagistes.<a id=688></a>
+##### Sous-section 2 : Formation des spécialistes en horticulture et des paysagistes.<a id=734></a>
 
 ###### Article R*814-6
 
@@ -62033,7 +64532,7 @@ _Créé par_:
   - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
 
 
-##### Sous-section 3 : Formation des ingénieurs des industries agricoles et alimentaires.<a id=689></a>
+##### Sous-section 3 : Formation des ingénieurs des industries agricoles et alimentaires.<a id=735></a>
 
 ###### Article R*814-8
 
@@ -62078,9 +64577,9 @@ _Créé par_:
   - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
 
 
-##### Sous-section 4 : Formation des ingénieurs agronomes à vocation générale<a id=690></a>
+##### Sous-section 4 : Formation des ingénieurs agronomes à vocation générale<a id=736></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=691></a>
+##### Paragraphe 1 : Dispositions générales.<a id=737></a>
 
 ###### Article R*814-10
 
@@ -62400,7 +64899,7 @@ _Cité par_:
   - Code rural - art. R814-18 (V)
 
 
-##### Paragraphe 2 : Dispositions particulières aux élèves étrangers.<a id=692></a>
+##### Paragraphe 2 : Dispositions particulières aux élèves étrangers.<a id=738></a>
 
 ###### Article R*814-20
 
@@ -62555,7 +65054,7 @@ _Créé par_:
   - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
 
 
-##### Sous-section 5 : Dispositions relatives à la délivrance des diplômes.<a id=693></a>
+##### Sous-section 5 : Dispositions relatives à la délivrance des diplômes.<a id=739></a>
 
 ###### Article R*814-27
 
@@ -62583,9 +65082,9 @@ _Créé par_:
   - Décret n°80-561 1980-07-11 annexe JORF 20 juillet 1980 en vigueur le 1er décembre 1979
 
 
-##### Section 3 : Enseignement supérieur vétérinaire<a id=694></a>
+##### Section 3 : Enseignement supérieur vétérinaire<a id=740></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=695></a>
+##### Sous-section 1 : Dispositions générales.<a id=741></a>
 
 ###### Article R*814-28
 
@@ -62645,7 +65144,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Conditions d'admission des élèves.<a id=696></a>
+##### Sous-section 2 : Conditions d'admission des élèves.<a id=742></a>
 
 ###### Article R*814-30
 
@@ -62719,7 +65218,7 @@ _Cite_:
   - Code rural R814-30, R814-43
 
 
-##### Sous-section 3 : Enseignement et recherche.<a id=697></a>
+##### Sous-section 3 : Enseignement et recherche.<a id=743></a>
 
 ###### Article R*814-32
 
@@ -62873,7 +65372,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 4 : Administration.<a id=698></a>
+##### Sous-section 4 : Administration.<a id=744></a>
 
 ###### Article R*814-37
 
@@ -62902,7 +65401,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire.<a id=699></a>
+##### Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire.<a id=745></a>
 
 ###### Article R*814-38
 
@@ -63134,9 +65633,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 4 : Enseignement de l'agronomie des régions chaudes<a id=700></a>
+##### Section 4 : Enseignement de l'agronomie des régions chaudes<a id=746></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=701></a>
+##### Sous-section 1 : Dispositions générales.<a id=747></a>
 
 ###### Article R*814-44
 
@@ -63273,7 +65772,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Administration du centre.<a id=702></a>
+##### Sous-section 2 : Administration du centre.<a id=748></a>
 
 ###### Article R*814-48
 
@@ -63653,7 +66152,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 3 : Régime financier du centre.<a id=703></a>
+##### Sous-section 3 : Régime financier du centre.<a id=749></a>
 
 ###### Article R*814-58
 
@@ -63776,9 +66275,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public<a id=704></a>
+#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public<a id=750></a>
 
-##### Section 1 : Dispositions communes.<a id=705></a>
+##### Section 1 : Dispositions communes.<a id=751></a>
 
 ###### Article R*815-1
 
@@ -63856,7 +66355,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Dispositions relatives aux établissements d'enseignement technologique.<a id=706></a>
+##### Section 2 : Dispositions relatives aux établissements d'enseignement technologique.<a id=752></a>
 
 ###### Article R*815-4
 
@@ -63881,7 +66380,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-#### Chapitre VI : Dispositions relatives aux examens et concours publics.<a id=707></a>
+#### Chapitre VI : Dispositions relatives aux examens et concours publics.<a id=753></a>
 
 ###### Article R*816-1
 
@@ -63990,9 +66489,9 @@ _Transféré par_:
   - Décret n°92-433 du 7 mai 1992 - art. 4 () JORF 14 mai 1992
 
 
-### Titre II : Développement agricole<a id=708></a>
+### Titre II : Développement agricole<a id=754></a>
 
-#### Chapitre Ier : Actions de développement agricole.<a id=709></a>
+#### Chapitre Ier : Actions de développement agricole.<a id=755></a>
 
 ###### Article R*821-1
 
@@ -64097,7 +66596,7 @@ _Modifié par_:
   - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
 
 
-#### Chapitre II : Convention avec l'association nationale pour le développement agricole.<a id=710></a>
+#### Chapitre II : Convention avec l'association nationale pour le développement agricole.<a id=756></a>
 
 ###### Article R*822-1
 
@@ -64213,7 +66712,7 @@ _Modifié par_:
   - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
 
 
-#### Chapitre III : Fonds national de développement agricole.<a id=711></a>
+#### Chapitre III : Fonds national de développement agricole.<a id=757></a>
 
 ###### Article R*823-1
 
@@ -64710,9 +67209,9 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-#### Chapitre IV : Programmes départementaux, régionaux et national de développement agricole<a id=712></a>
+#### Chapitre IV : Programmes départementaux, régionaux et national de développement agricole<a id=758></a>
 
-##### Section 1 : Programmes départementaux.<a id=713></a>
+##### Section 1 : Programmes départementaux.<a id=759></a>
 
 ###### Article R824-1
 
@@ -64860,7 +67359,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-##### Section 2 : Programmes régionaux.<a id=714></a>
+##### Section 2 : Programmes régionaux.<a id=760></a>
 
 ###### Article R824-5
 
@@ -65011,7 +67510,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-##### Section 3 : Programme national.<a id=715></a>
+##### Section 3 : Programme national.<a id=761></a>
 
 ###### Article R824-9
 
@@ -65065,7 +67564,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-#### Chapitre V : Conventions de développement.<a id=716></a>
+#### Chapitre V : Conventions de développement.<a id=762></a>
 
 ###### Article R825-1
 
@@ -65187,11 +67686,11 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-### Titre III : Recherche agronomique<a id=717></a>
+### Titre III : Recherche agronomique<a id=763></a>
 
-#### Chapitre Ier : Institut national de la recherche agronomique<a id=718></a>
+#### Chapitre Ier : Institut national de la recherche agronomique<a id=764></a>
 
-##### Section 1 : Dispositions générales.<a id=719></a>
+##### Section 1 : Dispositions générales.<a id=765></a>
 
 ###### Article R831-1
 
@@ -65293,7 +67792,7 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=720></a>
+##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=766></a>
 
 ###### Article R*831-3
 
@@ -65679,7 +68178,7 @@ _Modifié par_:
   - Décret n°90-648 du 13 juillet 1990 - art. 1 () JORF 24 juillet 1990
 
 
-##### Section 3 : Dispositions diverses.<a id=721></a>
+##### Section 3 : Dispositions diverses.<a id=767></a>
 
 ###### Article R*831-14
 
@@ -65724,9 +68223,9 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-#### Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts<a id=722></a>
+#### Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts<a id=768></a>
 
-##### Section 1 : Dispositions générales<a id=723></a>
+##### Section 1 : Dispositions générales<a id=769></a>
 
 ###### Article R832-1
 
@@ -65860,7 +68359,7 @@ _Cité par_:
   - Code rural - art. R832-17 (V)
 
 
-##### Section 2 : Administration et direction du centre.<a id=724></a>
+##### Section 2 : Administration et direction du centre.<a id=770></a>
 
 ###### Article R*832-4
 
@@ -66153,7 +68652,7 @@ _Modifié par_:
   - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
 
 
-##### Section 3 : Organisation du centre.<a id=725></a>
+##### Section 3 : Organisation du centre.<a id=771></a>
 
 ###### Article R832-11
 
@@ -66270,7 +68769,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R832-6 (V)
 
 
-##### Section 4 : Conseil scientifique et technique et commissions spécialisées<a id=726></a>
+##### Section 4 : Conseil scientifique et technique et commissions spécialisées<a id=772></a>
 
 ###### Article R832-15
 
@@ -66353,7 +68852,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R832-6 (V)
 
 
-##### Section 5 : Dispositions diverses<a id=727></a>
+##### Section 5 : Dispositions diverses<a id=773></a>
 
 ###### Article R832-17
 
