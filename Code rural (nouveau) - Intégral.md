@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1994-01-15
+Version Consolidée au 1994-02-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -28271,7 +28271,7 @@ Le service d'une pension de retraite ou allocation prenant effet postérieuremen
 d'assurance vieillesse des personnes non salariées des professions agricoles et dont l'entrée en jouissance intervient à
 compter du soixantième anniversaire de l'intéressé ou ultérieurement, est subordonné à la cessation définitive de l'activité
 non salariée et, pour les assurés exerçant une activité salariée, à la rupture définitive de tout lien professionnel avec
-l'employeur. Cette condition cesse d'être appliquée à compter du 31 décembre 1993.
+l'employeur. Cette condition cesse d'être appliquée à compter du 31 décembre 1998.
 
 Le service d'une pension de retraite ou allocation liquidée par le régime d'assurance vieillesse des personnes non salariées
 des professions agricoles est suspendu dès lors que l'assuré reprend une activité non salariée agricole.
@@ -28284,7 +28284,7 @@ service d'une pension de vieillesse liquidée postérieurement au 31 mars 1983 d
 de l'article L. 161-22 du code de la sécurité sociale ou d'une pension de vieillesse liquidée postérieurement au 30 juin 1984
 dans un des régimes énumérés au premier alinéa de l'article L. 634-6 du code de la sécurité sociale.
 
-Elles ne font pas obstacle à l'exercice des activités énumérées aux 1°, 2° et 3° de l'article L. 161-22 du code de la
+Elles ne font pas obstacle à l'exercice des activités énumérées aux 1°, 2°, 3°, 4° et 5° de l'article L. 161-22 du code de la
 sécurité sociale.
 
 Sous réserve des dispositions de l'article L. 815-2 du code de la sécurité sociale, le schéma directeur départemental des
@@ -28301,17 +28301,13 @@ des articles L. 351-15, L. 634-3-1, L. 643-8-1 du code de la sécurité sociale 
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°86-19 1986-01-06 art. 11
-
 _Codifié par_:
 
   - Loi n°93-934 1993-07-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-934 1993-07-22 annexe JORF 23 juillet 1993
+  - Loi n°94-114 du 10 février 1994 - art. 33 () JORF 11 février 1994
 
 _Cité par_:
 
