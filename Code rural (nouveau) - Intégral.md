@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1996-01-14
+Version Consolidée au 1996-02-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -7,7 +7,7 @@ Version Consolidée au 1996-01-14
         - [Chapitre Ier : Dispositions générales (art. L111-1 à L111-2)](#4)
         - [Chapitre II : Aménagement rural (art. L112-1 à L112-17)](#5)
           - [Section 1 : Elaboration des documents d'urbanisme. (art. L112-1 à L112-3)](#6)
-          - [Section 2 : Les chartes intercommunales de développement et d'aménagement. (art. L112-4 à L112-7)](#7)
+          - [Section 2 : Les chartes intercommunales de développement et d'aménagement. (art. L112-4)](#7)
           - [Section 3 : Les organismes de développement et d'aménagement rural (art. L112-8 à L112-15)](#8)
             - [Sous-section 1 : Les sociétés d'aménagement régional. (art. L112-8 à L112-9)](#9)
             - [Sous-section 2 : Les offices de Corse. (art. L112-10 à L112-15)](#10)
@@ -1298,121 +1298,29 @@ _Cite_:
 
 ###### Article L112-4
 
-Les communes peuvent élaborer et approuver des chartes intercommunales de développement et d'aménagement qui définissent les
-perspectives à moyen terme de leur développement économique, social et culturel, déterminent les programmes d'action
-correspondants, précisent les conditions d'organisation et de fonctionnement des équipements et services publics.
-
-Sur proposition des communes intéressées, les périmètres des zones concernées sont arrêtés par le préfet, après avis du
-conseil général. Dans le cas d'agglomérations de plus de 100 000 habitants ou d'ensembles de communes situées dans plusieurs
-départements, le préfet de région arrête le périmètre après avis du conseil régional et des conseils généraux concernés.
-
-Les communes s'associent pour l'élaboration de leur charte et déterminent les modalités de concertation avec l'Etat, la
-région, le département et les principaux organismes professionnels, économiques ou sociaux qui le demandent.
-
-Le département établit un programme d'aide à l'équipement rural au vu, notamment, des propositions qui lui sont adressées par
-les communes.
-
-Lors de l'élaboration de son programme d'aide, le département prend en compte les priorités définies par les communes, ou le
-cas échéant par les chartes intercommunales prévues au présent article.
+Les chartes intercommunales de développement et d'aménagement sont régies par les dispositions des articles L. 5223-1 à L.
+5223-3 et L. 5822-1 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°83-8 1983-01-07 art. 29 al. 1 à 3, art. 31 al. 1 à 3
 
 _Codifié par_:
 
   - Loi n°92-1283 1992-12-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-1283 1992-12-11 annexe JORF 12 décembre 1992
+  - Loi n°96-142 du 21 février 1996 - art. 3 () JORF 24 février 1996
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L5223-1 (V)
+  - Code général des collectivités territoriales - art. L5822-1 (V)
 
 _Cité par_:
 
   - Code rural - art. D345-8 (V)
   - Code rural - art. R112-2-1 (VD)
   - Code rural - art. R112-2-3 (M)
-
-
-###### Article L112-5
-
-Lorsqu'une zone faisant l'objet de chartes intercommunales constitue un territoire à l'équilibre fragile et au patrimoine
-naturel et culturel riche, elle peut, à l'initiative de la région et avec l'accord des départements et des communes
-concernés, être classée en parc naturel régional, dans des conditions fixées par décret. Dans ce cas, l'acte constitutif du
-parc naturel régional prévoit les voies et moyens propres à réaliser ses objectifs et le statut de l'organisme chargé de sa
-gestion.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°83-8 1983-01-07 art. 29 al. 4
-
-_Codifié par_:
-
-  - Loi n°92-1283 1992-12-11
-
-_Créé par_:
-
-  - Loi n°92-1283 1992-12-11 annexe JORF 12 décembre 1992
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 3 () JORF 24 février 1996
-
-
-###### Article L112-6
-
-Les chartes peuvent servir de base à des conventions avec le département, la région ou l'Etat pour la réalisation des projets
-et programmes qu'elles ont définis. En zone rurale, les chartes intercommunales se substituent aux plans d'aménagement rural.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°83-8 1983-01-07 art. 29 al. 5
-
-_Codifié par_:
-
-  - Loi n°92-1283 1992-12-11
-
-_Créé par_:
-
-  - Loi n°92-1283 1992-12-11 annexe JORF 12 décembre 1992
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 3 () JORF 24 février 1996
-
-
-###### Article L112-7
-
-Lorsqu'une charte intercommunale de développement et d'aménagement a prévu pour certaines zones l'application des procédures
-prévues aux articles L. 121-2 et L. 126-1, le préfet met en oeuvre celles-ci après consultation des communes concernées.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L121-2, L126-1
-
-_Anciens textes_:
-
-  - Loi n°83-8 1983-01-07 art. 30
-
-_Codifié par_:
-
-  - Loi n°92-1283 1992-12-11
-
-_Créé par_:
-
-  - Loi n°92-1283 1992-12-11 annexe JORF 12 décembre 1992
-
-_Abrogé par_:
-
-  - Loi n°96-142 du 21 février 1996 - art. 3 () JORF 24 février 1996
 
 
 ##### Section 3 : Les organismes de développement et d'aménagement rural<a id=8></a>
@@ -1493,23 +1401,27 @@ _Créé par_:
 
 ###### Article L112-10
 
-La collectivité territoriale de Corse détermine, dans le cadre du plan de développement, les grandes orientations du
-développement agricole et rural de l'île. A cette fin, elle dispose de deux établissements publics mentionnés aux articles
-suivants sur lesquels la collectivité territoriale exerce son pouvoir de tutelle.
+Les compétences de la collectivité territoriale de Corse en matière de développement agricole et rural de l'île sont régies
+par les dispositions de l'article L. 4424-22 du code général des collectivités territoriales ci-après reproduites :
+
+"Art. L. 4424-22 : La collectivité territoriale de Corse détermine dans le cadre du plan de développement les grandes
+orientations du développement agricole et rural de l'île. A cette fin, elle dispose de l'office du développement agricole et
+rural de Corse et de l'office d'équipement hydraulique de Corse, établissements publics régis par les articles L. 112-11 à L.
+112-15 du code rural et sur lesquels la collectivité territoriale exerce son pouvoir de tutelle".
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°91-428 1991-05-13 art. 64
 
 _Codifié par_:
 
   - Loi n°92-1283 1992-12-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-1283 1992-12-11 annexe JORF 12 décembre 1992
+  - Loi n°96-142 du 21 février 1996 - art. 3 () JORF 24 février 1996
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L4424-22 (T)
 
 
 ###### Article L112-11
@@ -2539,8 +2451,8 @@ _Cite_:
 
 La préparation et l'exécution des opérations d'aménagement foncier sont assurées, sous la direction des commissions
 communales ou intercommunales d'aménagement foncier, par des techniciens rémunérés par le département en application de
-barèmes fixés, après avis du comité des finances locales prévu à l'article L. 234-20 du code des communes, conjointement par
-le ministre de l'agriculture et le ministre chargé du budget.
+barèmes fixés, après avis du comité des finances locales prévu à l'article L. 1211-1 du code général des collectivités
+territoriales, conjointement par le ministre de l'agriculture et le ministre chargé du budget.
 
 Lorsqu'il s'agit de l'exécution d'une opération de remembrement, de remembrement-aménagement, de réorganisation foncière,
 d'aménagement foncier forestier ou d'aménagement foncier agricole et forestier, le technicien est choisi sur la liste des
@@ -2556,13 +2468,13 @@ _Codifié par_:
 
   - Loi n°92-1283 1992-12-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-1283 1992-12-11 annexe JORF 12 décembre 1992
+  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
 
 _Cite_:
 
-  - CODE DES COMMUNES. - art. L234-20 (M)
+  - Code général des collectivités territoriales - art. L1211-1 (V)
 
 _Cité par_:
 
@@ -3489,31 +3401,27 @@ _Cite_:
 
 Lorsque les nécessités du remembrement justifient la modification de la circonscription territoriale des communes, cette
 modification est prononcée par le préfet, sans qu'il y ait lieu de faire application des dispositions de l'article 2, alinéa
-2, et de l'article 3 de l'ordonnance n° 45-2604 du 2 novembre 1945 et des dispositions du premier alinéa de l'article L.
-112-20 du code des communes.
+2, et de l'article 3 de l'ordonnance n° 45-2604 du 2 novembre 1945 et des dispositions de l'article L. 2121-35 du code
+général des collectivités territoriales.
 
 La décision du préfet est publiée en même temps que l'arrêté ordonnant le dépôt et l'affichage du plan définitif de
 remembrement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Code rural 22
-
 _Cite_:
 
   - Ordonnance n°45-2604 du 2 novembre 1945 - art. 2 (Ab)
   - Ordonnance n°45-2604 du 2 novembre 1945 - art. 3 (Ab)
-  - CODE DES COMMUNES. - art. L112-20 (Ab)
+  - Code général des collectivités territoriales - art. L2121-35 (V)
 
 _Codifié par_:
 
   - Loi n°92-1283 1992-12-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-1283 1992-12-11 annexe JORF 12 décembre 1992
+  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
 
 _Cité par_:
 
@@ -9005,31 +8913,28 @@ Lorsque les associations syndicales et leurs unions n'ont pas été constituées
 d'associations ou d'unions forcées auxquelles les dispositions de l'article L. 151-3 sont applicables.
 
 Les départements et les communes ainsi que les groupements de ces collectivités, les syndicats mixtes créés en application de
-l'article L. 166-1 du code des communes et les districts urbains peuvent toutefois obtenir, dans les conditions fixées par
-décret en Conseil d'Etat, la remise des ouvrages et en assurer la gestion et l'entretien. Les dispositions prévues aux
-articles L. 151-3, L. 151-5 et L. 151-6 leur sont applicables, sous réserve des adaptations nécessaires.
+l'article L. 5721-2 du code général des collectivités territoriales et les districts urbains peuvent toutefois obtenir, dans
+les conditions fixées par décret en Conseil d'Etat, la remise des ouvrages et en assurer la gestion et l'entretien. Les
+dispositions prévues aux articles L. 151-3, L. 151-5 et L. 151-6 leur sont applicables, sous réserve des adaptations
+nécessaires.
 
 Jusqu'à la constitution de ces associations ou unions, ou la prise en charge par les organismes ci-dessus mentionnés,
 l'exploitation des ouvrages peut être assurée par l'Etat.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Code rural 143
-
-_Cite_:
-
-  - Code rural L151-3, L151-5, L151-6
-  - CODE DES COMMUNES. - art. L166-1 (M)
-
 _Codifié par_:
 
   - Loi n°92-1283 1992-12-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-1283 1992-12-11 annexe JORF 12 décembre 1992
+  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L5721-2 (M)
+  - Code rural L151-3, L151-5, L151-6
 
 
 ###### Article L151-5
@@ -9954,8 +9859,9 @@ _Créé par_:
 ###### Article L151-36
 
 Les départements, les communes ainsi que les groupements de ces collectivités et les syndicats mixtes créés en application de
-l'article L. 166-1 du code des communes peuvent prescrire ou exécuter les travaux entrant dans les catégories ci-dessous
-définies, lorsqu'ils présentent, du point de vue agricole ou forestier, un caractère d'intérêt général ou d'urgence :
+l'article L. 5721-2 du code général des collectivités territoriales peuvent prescrire ou exécuter les travaux entrant dans
+les catégories ci-dessous définies, lorsqu'ils présentent, du point de vue agricole ou forestier, un caractère d'intérêt
+général ou d'urgence :
 
 1° Lutte contre l'érosion et les avalanches, défense contre les torrents, reboisement et aménagement des versants, défense
 contre les incendies et réalisation de travaux de desserte forestière ;
@@ -9984,18 +9890,9 @@ le propriétaire ou la personne morale, prononce le transfert de propriété et 
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°92-1283 1992-12-11
-
-_Modifié par_:
-
-  - Loi n°93-934 1993-07-22 art. 5 I, II JORF 23 juillet 1993
-  - Loi n°93-934 du 22 juillet 1993 - art. 5 () JORF 23 juillet 1993
-
 _Cite_:
 
-  - CODE DES COMMUNES. - art. L166-1 (M)
+  - Code général des collectivités territoriales - art. L5721-2 (M)
   - Code rural L151-37
 
 _Cité par_:
@@ -10021,6 +9918,14 @@ _Cité par_:
 _Anciens textes_:
 
   - Code rural 175
+
+_Codifié par_:
+
+  - Loi n°92-1283 1992-12-11
+
+_Modifié par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
 
 
 ###### Article L151-37
@@ -10075,8 +9980,8 @@ _Cite_:
 ###### Article L151-38
 
 Les départements, les communes ainsi que les groupements de ces collectivités et les syndicats mixtes créés en application de
-l'article L. 166-1 du code des communes sont, ainsi que leurs concessionnaires, investis, pour la réalisation des travaux, de
-tous les droits et servitudes dont disposent les associations syndicales autorisées.
+l'article L. 5721-2 du code général des collectivités territoriales sont, ainsi que leurs concessionnaires, investis, pour la
+réalisation des travaux, de tous les droits et servitudes dont disposent les associations syndicales autorisées.
 
 Le recouvrement des cotisations des intéressés est effectué comme en matière de contributions directes.
 
@@ -10085,33 +9990,25 @@ droits d'eau, exercés ou non, des propriétaires riverains, à l'exclusion de c
 concessions de forces hydrauliques, en application de la loi du 16 octobre 1919 relative à l'utilisation de l'énergie
 hydraulique.
 
-**Nota:**
-
-Nota - Loi n° 93-934 du 22 juillet 1993, art. 5 II : abrogation du 7° de l'article L151-36.
-
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°92-1283 1992-12-11
+
+_Modifié par_:
+
+  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
 
 _Cite_:
 
-  - CODE DES COMMUNES. - art. L166-1 (M)
+  - Code général des collectivités territoriales - art. L5721-2 (M)
   - Code rural L151-36
   - Loi n°1919-10-16
 
 _Cité par_:
 
   - Code rural - art. L151-13 (V)
-
-_Anciens textes_:
-
-  - Code rural 177
-
-_Codifié par_:
-
-  - Loi n°92-1283 1992-12-11
-
-_Créé par_:
-
-  - Loi n°92-1283 1992-12-11 annexe JORF 12 décembre 1992
 
 
 ###### Article L151-39
@@ -11018,9 +10915,10 @@ l'entretien incombait à une association syndicale avant le 1er janvier 1959.
 Dans les autres cas, le conseil municipal pourra instituer la taxe prévue aux alinéas précédents, si le chemin est utilisé
 pour l'exploitation d'un ou de plusieurs fonds.
 
-Sont applicables à cette taxe les dispositions de l'article L. 231-13 du code des communes, ci-après reproduites :
+Sont applicables à cette taxe les dispositions de l'article L. 2331-11 du code général des collectivités territoriales, ci-
+après reproduites :
 
-"Art. L. 231-13 : Les taxes particulières dues par les habitants ou propriétaires en vertu des lois et usages locaux sont
+"Art. L. 2331-11 : Les taxes particulières dues par les habitants ou propriétaires en vertu des lois et usages locaux sont
 réparties par délibération du conseil municipal.
 
 "Ces taxes sont recouvrées comme en matière d'impôts directs".
@@ -11031,13 +10929,13 @@ _Codifié par_:
 
   - Loi n°92-1283 1992-12-11
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-1283 1992-12-11 annexe JORF 12 décembre 1992
+  - Loi n°96-142 1996-02-21 annexe JORF 24 février 1996
 
 _Cite_:
 
-  - CODE DES COMMUNES. - art. L231-13 (Ab)
+  - Code général des collectivités territoriales - art. L2331-11 (V)
   - Code rural L121-17
   - Loi n°1865-06-21 art. 1
 
@@ -11047,10 +10945,6 @@ _Cité par_:
   - Code rural - art. D161-2 (V)
   - Code rural - art. L161-11 (V)
   - Code rural - art. L161-12 (V)
-
-_Anciens textes_:
-
-  - Code rural 66
 
 
 ###### Article L161-8
