@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1992-12-24
+Version Consolidée au 1992-12-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -894,121 +894,120 @@ Version Consolidée au 1992-12-24
           - [Section 3 : Tiers non coopérateurs. (art. R522-9)](#891)
         - [Chapitre III : Capital social et dispositions financières (art. R*523-1 à R523-12)](#892)
           - [Section 1 : Capital social. (art. R*523-1 à R523-4)](#893)
-          - [Section 2 : Fonds de développement coopératif. (art. R*523-6 à R*523-7)](#894)
-          - [Section 3 : Prises de participation. (art. R523-8 à R523-11)](#895)
-          - [Section 4 : Participation et intéressement. (art. R523-9 à R523-12)](#896)
-        - [Chapitre IV : Administration (art. R*524-1 à R524-42)](#897)
-          - [Section 1 : Conseil d'administration. (art. R*524-1 à R524-8)](#898)
-          - [Section 2 : Commissariat aux comptes. (art. R*524-10 à R524-11)](#899)
-          - [Section 3 : Assemblée générale. (art. R*524-13 à R524-21)](#900)
-          - [Section 4 : Dispositions concernant les unions de coopératives. (art. R*524-25 à R524-24)](#901)
-          - [Section 5 : Directoire et conseil de surveillance. (art. R*524-28 à R524-42)](#902)
-        - [Chapitre V : Agrément, contrôle (art. R*525-1 à R525-17)](#903)
-          - [Section 1 : Agrément. (art. R*525-1 à R525-12)](#904)
-          - [Section 2 : Contrôle. (art. R*525-13 à R525-17)](#905)
-        - [Chapitre VI : Dissolution, liquidation. (art. R*526-4 à R526-3)](#906)
-        - [Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle (art. R527-1 à R527-12)](#907)
-          - [Section 1 : Fédérations de coopératives (art. R527-1 à R527-12)](#908)
-            - [Sous-section 1 : Dispositions générales. (art. R527-1 à R527-3)](#909)
-            - [Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision. (art. R*527-4 à R527-11)](#910)
-            - [Sous-section 3 : Dispositions particulières aux fédérations de coopératives agréées exerçant les fonctions de commissaire aux comptes. (art. R527-12)](#911)
-        - [Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole (art. R*528-1 à R528-9)](#912)
-          - [Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément. (art. R*528-1 à R*528-7)](#913)
-          - [Section 2 : Commission départementale des structures agricoles. (art. R*528-8 à R528-9)](#914)
-        - [Chapitre IX : Dispositions pénales, dispositions d'application. (art. R*529-2 à R529-1)](#915)
-      - [Titre III : Sociétés d'intérêt collectif agricole (art. R*531-1 à R534-4)](#916)
-        - [Chapitre Ier : Constitution. (art. R*531-1 à R*531-3)](#917)
-        - [Chapitre II : Fonctionnement. (art. R532-1 à R532-5)](#918)
-        - [Chapitre III : Dispositions financières. (art. R*533-1 à R533-3)](#919)
-        - [Chapitre IV : Transformation, dissolution, liquidation. (art. R*534-1 à R534-4)](#920)
-      - [Titre IV : Sociétés mixtes d'intérêt agricole (art. R541-1)](#921)
-      - [Titre V : Groupements de producteurs et comités économiques agricoles (art. R*551-1 à R556-3)](#922)
-        - [Chapitre Ier : Groupements de producteurs. (art. R*551-1 à R*551-12)](#923)
-        - [Chapitre II : Comités économiques agricoles. (art. R*552-1 à R552-14)](#924)
-        - [Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles (art. R*553-1 à R*553-17)](#925)
-          - [Section 1 : Droits d'inscription et cotisations. (art. R*553-1 à R*553-9)](#926)
-          - [Section 2 : Contrôle. (art. R*553-10 à R*553-16)](#927)
-          - [Section 3 : Dispositions diverses. (art. R*553-17)](#928)
-        - [Chapitre IV : Extension des règles édictées par les comités économiques agricoles (art. R*554-1 à R*554-29)](#929)
-          - [Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole (art. R*554-1)](#930)
-          - [Section 2 : Procédure d'extension des règles (art. R*554-2 à R*554-29)](#931)
-            - [Sous-section 1 : Dispositions générales. (art. R*554-2 à R*554-6)](#932)
-            - [Sous-section 2 : Procédure de consultation des producteurs (art. R*554-7 à R*554-29)](#933)
-              - [Paragraphe 1 : Etablissement de la liste des producteurs. (art. R*554-7 à R*554-15)](#934)
-              - [Paragraphe 2 : Modalités de la consultation des producteurs. (art. R*554-16 à R*554-28)](#935)
-              - [Paragraphe 3 : Dispositions diverses. (art. R*554-29)](#936)
-        - [Chapitre V : Dispositions particulières aux départements d'outre-mer. (art. R555-1 à R555-4)](#937)
-        - [Chapitre VI : Pénalités (art. R*556-1 à R556-3)](#938)
-      - [Titre VI : Jardins familiaux (art. R562-1 à R564-3)](#939)
-        - [Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux (art. R562-1 à R562-3)](#940)
-          - [Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER). (art. R562-1)](#941)
-          - [Section 2 : Droit de préemption des collectivités locales. (art. R562-2 à R562-3)](#942)
-        - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique (art. R563-1 à R563-2)](#943)
-        - [Chapitre IV : Avantages divers et subventions (art. R564-1 à R564-3)](#944)
-    - [Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux (art.  à R564-3)](#945)
-    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-1 à R832-19)](#946)
-      - [Titre Ier : Enseignement et formation professionnelle agricoles (art. R*811-1 à R*816-3)](#947)
-        - [Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles (art. R*811-1 à R*811-12)](#948)
-          - [Section 1 : Organisation générale (art. R*811-1 à R*811-12)](#949)
-            - [Sous-section 1 : Principes de base. (art. R*811-1 à R*811-2)](#950)
-            - [Sous-section 2 : Conseils et comités (art. R*811-3 à R*811-11)](#951)
-              - [Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale. (art. R*811-3 à R*811-9)](#952)
-              - [Paragraphe 2 : Comité de coordination. (art. R*811-10 à R*811-11)](#953)
-            - [Sous-section 3 : Promotion sociale. (art. R*811-12)](#954)
-        - [Chapitre II : Formations technologiques et professionnelles de cycle court (art. R*812-1 à R*812-6)](#955)
-          - [Section 1 : Enseignement technologique de cycle court par voie scolaire. (art. R*812-1 à R*812-4)](#956)
-          - [Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage. (art. R*812-5)](#957)
-          - [Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue et des formations alternées. (art. R*812-6)](#958)
-        - [Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles (art. R*813-1 à R*813-12)](#959)
-          - [Section 1 : Enseignement technologique de cycle long. (art. R*813-1 à R*813-5)](#960)
-          - [Section 2 : Formation des techniciens supérieurs agricoles. (art. R*813-6 à R*813-7)](#961)
-          - [Section 3 : Dispositions communes. (art. R*813-8 à R*813-12)](#962)
-        - [Chapitre IV : Enseignement supérieur (art. R*814-1 à R*814-61)](#963)
-          - [Section 1 : Dispositions générales. (art. R*814-1 à R*814-4)](#964)
-          - [Section 2 : Enseignement supérieur agricole (art. R*814-5 à R*814-27)](#965)
-            - [Sous-section 1 : Formation des ingénieurs spécialisés en agriculture. (art. R*814-5)](#966)
-            - [Sous-section 2 : Formation des spécialistes en horticulture. (art. R*814-6)](#967)
-            - [Sous-section 3 : Formation des paysagistes DPLG. (art. R*814-7 à R*814-7-3)](#968)
-            - [Sous-section 4 : Formation des ingénieurs des industries agricoles et alimentaires. (art. R*814-8 à R*814-9)](#969)
-            - [Sous-section 5 : Formation des ingénieurs agronomes à vocation générale (art. R*814-10 à R*814-26)](#970)
-              - [Paragraphe 1 : Dispositions générales. (art. R*814-10 à R*814-19)](#971)
-              - [Paragraphe 2 : Dispositions particulières aux élèves étrangers. (art. R*814-20 à R*814-26)](#972)
-            - [Sous-section 6 : Dispositions relatives à la délivrance des diplômes. (art. R*814-27)](#973)
-          - [Section 3 : Enseignement supérieur vétérinaire (art. R*814-28 à R*814-43-1)](#974)
-            - [Sous-section 1 : Dispositions générales. (art. R*814-28 à R*814-29)](#975)
-            - [Sous-section 2 : Conditions d'admission des élèves. (art. R*814-30 à R*814-31)](#976)
-            - [Sous-section 3 : Enseignement et recherche. (art. R*814-32 à R*814-36)](#977)
-            - [Sous-section 4 : Administration. (art. R*814-37)](#978)
-            - [Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire. (art. R*814-38 à R*814-43)](#979)
-            - [Sous-section 6 : Conseil national de la spécialisation vétérinaire. (art. R*814-43-1)](#980)
-          - [Section 4 : Enseignement de l'agronomie des régions chaudes (art. R*814-44 à R*814-61)](#981)
-            - [Sous-section 1 : Dispositions générales. (art. R*814-44 à R*814-47)](#982)
-            - [Sous-section 2 : Administration du centre. (art. R*814-48 à R*814-57)](#983)
-            - [Sous-section 3 : Régime financier du centre. (art. R*814-58 à R*814-61)](#984)
-        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#985)
-          - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#986)
-          - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#987)
-        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-3)](#988)
-      - [Titre II : Développement agricole (art. R*821-1 à R825-4)](#989)
-        - [Chapitre Ier : Actions de développement agricole. (art. R*821-1 à R*821-4)](#990)
-        - [Chapitre II : Convention avec l'association nationale pour le développement agricole. (art. R*822-1 à R*822-4)](#991)
-        - [Chapitre III : Fonds national de développement agricole. (art. R*823-1 à R*823-19)](#992)
-        - [Chapitre IV : Programmes départementaux, régionaux et national de développement agricole (art. R824-1 à R824-10)](#993)
-          - [Section 1 : Programmes départementaux. (art. R824-1 à R824-4)](#994)
-          - [Section 2 : Programmes régionaux. (art. R824-5 à R824-8)](#995)
-          - [Section 3 : Programme national. (art. R824-9 à R824-10)](#996)
-        - [Chapitre V : Conventions de développement. (art. R825-1 à R825-4)](#997)
-      - [Titre III : Recherche agronomique (art. R831-1 à R832-19)](#998)
-        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#999)
-          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#1000)
-          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#1001)
-          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#1002)
-        - [Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts (art. R832-1 à R832-19)](#1003)
-          - [Section 1 : Dispositions générales (art. R832-1 à R832-3)](#1004)
-          - [Section 2 : Administration et direction du centre. (art. R*832-4 à R832-10)](#1005)
-          - [Section 3 : Organisation du centre. (art. R832-11 à R832-14)](#1006)
-          - [Section 4 : Conseil scientifique et technique et commissions spécialisées (art. R832-15 à R832-16)](#1007)
-          - [Section 5 : Dispositions diverses (art. R832-17 à R832-19)](#1008)
+          - [Section 3 : Prises de participation. (art. R523-8 à R523-11)](#894)
+          - [Section 4 : Participation et intéressement. (art. R523-9 à R523-12)](#895)
+        - [Chapitre IV : Administration (art. R*524-1 à R524-42)](#896)
+          - [Section 1 : Conseil d'administration. (art. R*524-1 à R524-8)](#897)
+          - [Section 2 : Commissariat aux comptes. (art. R*524-10 à R524-11)](#898)
+          - [Section 3 : Assemblée générale. (art. R*524-13 à R524-21)](#899)
+          - [Section 4 : Dispositions concernant les unions de coopératives. (art. R*524-25 à R524-24)](#900)
+          - [Section 5 : Directoire et conseil de surveillance. (art. R*524-28 à R524-42)](#901)
+        - [Chapitre V : Agrément, contrôle (art. R*525-1 à R525-17)](#902)
+          - [Section 1 : Agrément. (art. R*525-1 à R525-12)](#903)
+          - [Section 2 : Contrôle. (art. R*525-13 à R525-17)](#904)
+        - [Chapitre VI : Dissolution, liquidation. (art. R*526-4 à R526-3)](#905)
+        - [Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle (art. R527-1 à R527-12)](#906)
+          - [Section 1 : Fédérations de coopératives (art. R527-1 à R527-12)](#907)
+            - [Sous-section 1 : Dispositions générales. (art. R527-1 à R527-3)](#908)
+            - [Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision. (art. R*527-4 à R527-11)](#909)
+            - [Sous-section 3 : Dispositions particulières aux fédérations de coopératives agréées exerçant les fonctions de commissaire aux comptes. (art. R527-12)](#910)
+        - [Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole (art. R*528-1 à R528-9)](#911)
+          - [Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément. (art. R*528-1 à R*528-7)](#912)
+          - [Section 2 : Commission départementale des structures agricoles. (art. R*528-8 à R528-9)](#913)
+        - [Chapitre IX : Dispositions pénales, dispositions d'application. (art. R*529-2 à R529-1)](#914)
+      - [Titre III : Sociétés d'intérêt collectif agricole (art. R*531-2 à R534-4)](#915)
+        - [Chapitre Ier : Constitution, agrément. (art. R*531-2 à R531-7)](#916)
+        - [Chapitre II : Fonctionnement. (art. R532-1 à R532-6)](#917)
+        - [Chapitre III : Dispositions financières. (art. R*533-2 à R533-3)](#918)
+        - [Chapitre IV : Transformation, dissolution, liquidation. (art. R*534-2 à R534-4)](#919)
+      - [Titre IV : Sociétés mixtes d'intérêt agricole (art. R541-1)](#920)
+      - [Titre V : Groupements de producteurs et comités économiques agricoles (art. R*551-1 à R556-3)](#921)
+        - [Chapitre Ier : Groupements de producteurs. (art. R*551-1 à R*551-12)](#922)
+        - [Chapitre II : Comités économiques agricoles. (art. R*552-1 à R552-14)](#923)
+        - [Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles (art. R*553-1 à R*553-17)](#924)
+          - [Section 1 : Droits d'inscription et cotisations. (art. R*553-1 à R*553-9)](#925)
+          - [Section 2 : Contrôle. (art. R*553-10 à R*553-16)](#926)
+          - [Section 3 : Dispositions diverses. (art. R*553-17)](#927)
+        - [Chapitre IV : Extension des règles édictées par les comités économiques agricoles (art. R*554-1 à R*554-29)](#928)
+          - [Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole (art. R*554-1)](#929)
+          - [Section 2 : Procédure d'extension des règles (art. R*554-2 à R*554-29)](#930)
+            - [Sous-section 1 : Dispositions générales. (art. R*554-2 à R*554-6)](#931)
+            - [Sous-section 2 : Procédure de consultation des producteurs (art. R*554-7 à R*554-29)](#932)
+              - [Paragraphe 1 : Etablissement de la liste des producteurs. (art. R*554-7 à R*554-15)](#933)
+              - [Paragraphe 2 : Modalités de la consultation des producteurs. (art. R*554-16 à R*554-28)](#934)
+              - [Paragraphe 3 : Dispositions diverses. (art. R*554-29)](#935)
+        - [Chapitre V : Dispositions particulières aux départements d'outre-mer. (art. R555-1 à R555-4)](#936)
+        - [Chapitre VI : Pénalités (art. R*556-1 à R556-3)](#937)
+      - [Titre VI : Jardins familiaux (art. R562-1 à R564-3)](#938)
+        - [Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux (art. R562-1 à R562-3)](#939)
+          - [Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER). (art. R562-1)](#940)
+          - [Section 2 : Droit de préemption des collectivités locales. (art. R562-2 à R562-3)](#941)
+        - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique (art. R563-1 à R563-2)](#942)
+        - [Chapitre IV : Avantages divers et subventions (art. R564-1 à R564-3)](#943)
+    - [Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux (art.  à R564-3)](#944)
+    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-1 à R832-19)](#945)
+      - [Titre Ier : Enseignement et formation professionnelle agricoles (art. R*811-1 à R*816-3)](#946)
+        - [Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles (art. R*811-1 à R*811-12)](#947)
+          - [Section 1 : Organisation générale (art. R*811-1 à R*811-12)](#948)
+            - [Sous-section 1 : Principes de base. (art. R*811-1 à R*811-2)](#949)
+            - [Sous-section 2 : Conseils et comités (art. R*811-3 à R*811-11)](#950)
+              - [Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale. (art. R*811-3 à R*811-9)](#951)
+              - [Paragraphe 2 : Comité de coordination. (art. R*811-10 à R*811-11)](#952)
+            - [Sous-section 3 : Promotion sociale. (art. R*811-12)](#953)
+        - [Chapitre II : Formations technologiques et professionnelles de cycle court (art. R*812-1 à R*812-6)](#954)
+          - [Section 1 : Enseignement technologique de cycle court par voie scolaire. (art. R*812-1 à R*812-4)](#955)
+          - [Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage. (art. R*812-5)](#956)
+          - [Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue et des formations alternées. (art. R*812-6)](#957)
+        - [Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles (art. R*813-1 à R*813-12)](#958)
+          - [Section 1 : Enseignement technologique de cycle long. (art. R*813-1 à R*813-5)](#959)
+          - [Section 2 : Formation des techniciens supérieurs agricoles. (art. R*813-6 à R*813-7)](#960)
+          - [Section 3 : Dispositions communes. (art. R*813-8 à R*813-12)](#961)
+        - [Chapitre IV : Enseignement supérieur (art. R*814-1 à R*814-61)](#962)
+          - [Section 1 : Dispositions générales. (art. R*814-1 à R*814-4)](#963)
+          - [Section 2 : Enseignement supérieur agricole (art. R*814-5 à R*814-27)](#964)
+            - [Sous-section 1 : Formation des ingénieurs spécialisés en agriculture. (art. R*814-5)](#965)
+            - [Sous-section 2 : Formation des spécialistes en horticulture. (art. R*814-6)](#966)
+            - [Sous-section 3 : Formation des paysagistes DPLG. (art. R*814-7 à R*814-7-3)](#967)
+            - [Sous-section 4 : Formation des ingénieurs des industries agricoles et alimentaires. (art. R*814-8 à R*814-9)](#968)
+            - [Sous-section 5 : Formation des ingénieurs agronomes à vocation générale (art. R*814-10 à R*814-26)](#969)
+              - [Paragraphe 1 : Dispositions générales. (art. R*814-10 à R*814-19)](#970)
+              - [Paragraphe 2 : Dispositions particulières aux élèves étrangers. (art. R*814-20 à R*814-26)](#971)
+            - [Sous-section 6 : Dispositions relatives à la délivrance des diplômes. (art. R*814-27)](#972)
+          - [Section 3 : Enseignement supérieur vétérinaire (art. R*814-28 à R*814-43-1)](#973)
+            - [Sous-section 1 : Dispositions générales. (art. R*814-28 à R*814-29)](#974)
+            - [Sous-section 2 : Conditions d'admission des élèves. (art. R*814-30 à R*814-31)](#975)
+            - [Sous-section 3 : Enseignement et recherche. (art. R*814-32 à R*814-36)](#976)
+            - [Sous-section 4 : Administration. (art. R*814-37)](#977)
+            - [Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire. (art. R*814-38 à R*814-43)](#978)
+            - [Sous-section 6 : Conseil national de la spécialisation vétérinaire. (art. R*814-43-1)](#979)
+          - [Section 4 : Enseignement de l'agronomie des régions chaudes (art. R*814-44 à R*814-61)](#980)
+            - [Sous-section 1 : Dispositions générales. (art. R*814-44 à R*814-47)](#981)
+            - [Sous-section 2 : Administration du centre. (art. R*814-48 à R*814-57)](#982)
+            - [Sous-section 3 : Régime financier du centre. (art. R*814-58 à R*814-61)](#983)
+        - [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public (art. R*815-1 à R*815-4)](#984)
+          - [Section 1 : Dispositions communes. (art. R*815-1 à R*815-3)](#985)
+          - [Section 2 : Dispositions relatives aux établissements d'enseignement technologique. (art. R*815-4)](#986)
+        - [Chapitre VI : Dispositions relatives aux examens et concours publics. (art. R*816-1 à R*816-3)](#987)
+      - [Titre II : Développement agricole (art. R*821-1 à R825-4)](#988)
+        - [Chapitre Ier : Actions de développement agricole. (art. R*821-1 à R*821-4)](#989)
+        - [Chapitre II : Convention avec l'association nationale pour le développement agricole. (art. R*822-1 à R*822-4)](#990)
+        - [Chapitre III : Fonds national de développement agricole. (art. R*823-1 à R*823-19)](#991)
+        - [Chapitre IV : Programmes départementaux, régionaux et national de développement agricole (art. R824-1 à R824-10)](#992)
+          - [Section 1 : Programmes départementaux. (art. R824-1 à R824-4)](#993)
+          - [Section 2 : Programmes régionaux. (art. R824-5 à R824-8)](#994)
+          - [Section 3 : Programme national. (art. R824-9 à R824-10)](#995)
+        - [Chapitre V : Conventions de développement. (art. R825-1 à R825-4)](#996)
+      - [Titre III : Recherche agronomique (art. R831-1 à R832-19)](#997)
+        - [Chapitre Ier : Institut national de la recherche agronomique (art. R831-1 à R*831-15)](#998)
+          - [Section 1 : Dispositions générales. (art. R831-1 à R831-2)](#999)
+          - [Section 2 : Administration de l'institut national de la recherche agronomique. (art. R*831-3 à R*831-13)](#1000)
+          - [Section 3 : Dispositions diverses. (art. R*831-14 à R*831-15)](#1001)
+        - [Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts (art. R832-1 à R832-19)](#1002)
+          - [Section 1 : Dispositions générales (art. R832-1 à R832-3)](#1003)
+          - [Section 2 : Administration et direction du centre. (art. R*832-4 à R832-10)](#1004)
+          - [Section 3 : Organisation du centre. (art. R832-11 à R832-14)](#1005)
+          - [Section 4 : Conseil scientifique et technique et commissions spécialisées (art. R832-15 à R832-16)](#1006)
+          - [Section 5 : Dispositions diverses (art. R832-17 à R832-19)](#1007)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Aménagement et équipement de l'espace rural<a id=2></a>
@@ -83809,33 +83808,6 @@ _Cité par_:
   - Code rural - art. R582-5 (V)
 
 
-###### Article R*521-4
-
-Les sociétés coopératives agricoles et leurs unions peuvent constituer des unions mixtes avec d'autres sociétés coopératives
-ou leurs unions.
-
-Les conditions de fonctionnement des unions mixtes sont fixées conformément à la loi du 10 septembre 1947 modifiée portant
-statut de la coopération, par décret en Conseil d'Etat pris après avis du conseil supérieur de la coopération.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°47-1775 1947-09-10
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
-
-_Abrogé par_:
-
-  - Décret n°92-1363 du 24 décembre 1992 - art. 3 (V) JORF 30 décembre 1992
-
-
 ###### Article R*521-5
 
 Dans les factures, annonces, publications et tous autres documents provenant de sociétés coopératives agricoles, d'unions de
@@ -84746,103 +84718,16 @@ _Cité par_:
   - Code rural - art. R523-1-1 (V)
 
 
-##### Section 2 : Fonds de développement coopératif.<a id=894></a>
-
-###### Article R*523-6
-
-Les sociétés coopératives agricoles peuvent prévoir dans leurs statuts, avec l'accord de l'autorité administrative compétente
-en vertu des dispositions de l'article R. 525-2 et pour les besoins exclusifs de leur fonctionnement, la constitution d'un
-fonds de développement coopératif donnant lieu à la création de certificats nominatifs ; ces certificats ne sont cessibles
-qu'entre associés coopérateurs.
-
-Ce fonds est ouvert par décision de l'assemblée générale ordinaire, sous réserve de l'autorisation du ministre de l'économie
-et du ministre de l'agriculture.
-
-Les certificats ne peuvent comporter aucune prime d'admission ou de remboursement.
-
-La propriété des certificats n'entraîne en aucun cas la responsabilité personnelle visée à l'article R. 526-3 et à l'article
-732 du code rural.
-
-Elle n'ouvre aucun droit de vote à l'assemblée générale des associés coopérateurs.
-
-Les certificats sont créés :
-
-a) Soit pour la durée de la société et en subissant les prorogations régulières lorsque leur souscription est une condition,
-fixée uniformément pour chaque exercice, de l'admission des associés coopérateurs ou de l'extension de leurs droits ;
-
-b) Soit pour une durée non obligatoirement uniforme comprise entre trois et dix ans par souscription en espèces des associés
-coopérateurs dans la limite du montant autorisé par le ministre de l'économie, ou encore en représentation des ristournes
-dont le produit est affecté à cet objet par l'assemblée générale.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 732, R525-2, R526-3
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
-
-_Abrogé par_:
-
-  - Décret n°92-1363 du 24 décembre 1992 - art. 3 (V) JORF 30 décembre 1992
-
-
-###### Article R*523-7
-
-Il est alloué à ces certificats un intérêt annuel pouvant varier en fonction de leur durée. Un arrêté du ministre de
-l'économie et du ministre de l'agriculture fixe, compte tenu de la durée des certificats, le taux maximal de cet intérêt.
-
-Les intérêts produits par les certificats constituent une charge de l'exercice au cours duquel ils sont échus.
-
-Le remboursement des certificats s'opère de la façon suivante :
-
-Si la société coopérative agricole n'a de dette qu'envers ses associés coopérateurs et en l'absence de pertes non compensées
-par des réserves, ce remboursement n'est soumis à aucune autre obligation que la constitution postérieure à leur création,
-d'amortissements d'un montant au moins égal.
-
-Dans le cas contraire, et sauf accord des tiers créanciers, le remboursement ne peut excéder, dans la limite des
-amortissements régulièrement constitués, le cinquième du montant global des certificats en circulation à la fin du dernier
-exercice, augmenté éventuellement du montant des certificats créés par affectation de ristournes provenant de cet exercice.
-
-En cas d'insuffisance de ressources disponibles, le remboursement des certificats échus s'effectue obligatoirement en
-commençant par ceux dont la date de création est la plus ancienne et dans le cas d'identité de date de création par ceux qui
-sont échus depuis plus longtemps. Les certificats qui présentent les mêmes caractéristiques sont remboursés
-proportionnellement à leur montant. En cas de liquidation de la société, les porteurs de certificats non encore remboursés
-sont payés proportionnellement au montant de leurs droits par priorité sur les porteurs de parts sociales.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
-
-_Abrogé par_:
-
-  - Décret n°92-1363 du 24 décembre 1992 - art. 3 (V) JORF 30 décembre 1992
-
-
-##### Section 3 : Prises de participation.<a id=895></a>
+##### Section 3 : Prises de participation.<a id=894></a>
 
 ###### Article R523-8
 
-L'autorisation requise par l'article L. 523-5 est donnée par une commission spéciale constituée au sein du conseil supérieur
-de la coopération agricole par les membres de ce conseil comprenant :
+L'autorisation requise par l'article L. 523-5 est donnée par une commission spéciale constituée auprès du Conseil supérieur
+de la coopération agricole. Cette commission comprend :
 
-- un représentant du ministre de l'agriculture ;
+- deux représentants du ministre chargé de l'agriculture ;
 
-- un représentant du ministre de l'économie ;
-
-- un représentant du ministre du budget ;
+- un représentant du ministre chargé de l'économie et des finances ;
 
 - un représentant du garde des sceaux, ministre de la justice ;
 
@@ -84858,11 +84743,6 @@ Son secrétariat est assuré par le bureau compétent du ministère de l'agricul
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Arrêté du 23 avril 2008 - art. (V)
-  - Code rural - art. R582-18 (V)
-
 _Cite_:
 
   - Code rural L523-5
@@ -84873,7 +84753,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°92-1363 du 24 décembre 1992 - art. 9 () JORF 30 décembre 1992
+
+_Cité par_:
+
+  - Arrêté du 23 avril 2008 - art. (V)
+  - Code rural - art. R582-18 (V)
 
 
 ###### Article R523-10
@@ -84948,7 +84833,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 4 : Participation et intéressement.<a id=896></a>
+##### Section 4 : Participation et intéressement.<a id=895></a>
 
 ###### Article R523-9
 
@@ -85031,9 +84916,9 @@ _Transféré par_:
   - Décret n°2007-1218 du 10 août 2007 - art. 3 () JORF 14 août 2007
 
 
-#### Chapitre IV : Administration<a id=897></a>
+#### Chapitre IV : Administration<a id=896></a>
 
-##### Section 1 : Conseil d'administration.<a id=898></a>
+##### Section 1 : Conseil d'administration.<a id=897></a>
 
 ###### Article R*524-1
 
@@ -85299,7 +85184,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 2 : Commissariat aux comptes.<a id=899></a>
+##### Section 2 : Commissariat aux comptes.<a id=898></a>
 
 ###### Article R*524-10
 
@@ -85385,7 +85270,7 @@ _Abrogé par_:
   - Décret n°2007-1218 du 10 août 2007 - art. 4 () JORF 14 août 2007
 
 
-##### Section 3 : Assemblée générale.<a id=900></a>
+##### Section 3 : Assemblée générale.<a id=899></a>
 
 ###### Article R*524-13
 
@@ -85738,7 +85623,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 4 : Dispositions concernant les unions de coopératives.<a id=901></a>
+##### Section 4 : Dispositions concernant les unions de coopératives.<a id=900></a>
 
 ###### Article R*524-25
 
@@ -85819,7 +85704,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 5 : Directoire et conseil de surveillance.<a id=902></a>
+##### Section 5 : Directoire et conseil de surveillance.<a id=901></a>
 
 ###### Article R*524-28
 
@@ -86248,9 +86133,9 @@ _Transféré par_:
   - Décret n°2007-1218 du 10 août 2007 - art. 4 () JORF 14 août 2007
 
 
-#### Chapitre V : Agrément, contrôle<a id=903></a>
+#### Chapitre V : Agrément, contrôle<a id=902></a>
 
-##### Section 1 : Agrément.<a id=904></a>
+##### Section 1 : Agrément.<a id=903></a>
 
 ###### Article R*525-1
 
@@ -86284,8 +86169,8 @@ de la région ou dont la circonscription s'étend au plus à un arrondissement d
 pas de l'autorité départementale.
 
 Sont agréées par arrêté du ministre de l'agriculture, après avis de la commission centrale d'agrément prévue à l'article R.
-528-2, les unions de coopératives agricoles et les unions mixtes prévues par l'article R. 521-4 ainsi que toutes les sociétés
-coopératives agricoles qui n'entrent pas dans les cas prévus par les deux alinéas précédents.
+528-2, les unions de coopératives agricoles ainsi que toutes les sociétés coopératives agricoles qui n'entrent pas dans les
+cas prévus par les deux alinéas précédents.
 
 **Liens relatifs à cet article**
 
@@ -86295,8 +86180,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°92-1363 du 24 décembre 1992 - art. 3 (V) JORF 30 décembre 1992
 
 _Cité par_:
 
@@ -86310,7 +86194,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code rural R528-2, R521-4
+  - Code rural R528-2
 
 
 ###### Article R*525-3
@@ -86612,7 +86496,7 @@ _Abrogé par_:
   - Décret n°2006-1528 du 5 décembre 2006 - art. 1 () JORF 6 décembre 2006 en vigueur le 1er janvier 2007
 
 
-##### Section 2 : Contrôle.<a id=905></a>
+##### Section 2 : Contrôle.<a id=904></a>
 
 ###### Article R*525-13
 
@@ -86742,7 +86626,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre VI : Dissolution, liquidation.<a id=906></a>
+#### Chapitre VI : Dissolution, liquidation.<a id=905></a>
 
 ###### Article R*526-4
 
@@ -86844,11 +86728,11 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R523-5 (VD)
 
 
-#### Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle<a id=907></a>
+#### Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle<a id=906></a>
 
-##### Section 1 : Fédérations de coopératives<a id=908></a>
+##### Section 1 : Fédérations de coopératives<a id=907></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=909></a>
+##### Sous-section 1 : Dispositions générales.<a id=908></a>
 
 ###### Article R527-1
 
@@ -86935,7 +86819,7 @@ _Cite_:
   - Loi n°1901-07-01
 
 
-##### Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision.<a id=910></a>
+##### Sous-section 2 : Dispositions particulières aux fédérations de coopératives agréées ayant pour objet de procéder aux opérations de révision.<a id=909></a>
 
 ###### Article R*527-4
 
@@ -87050,29 +86934,6 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-###### Article R*527-9
-
-Les fédérations agréées sont soumises au contrôle du ministre de l'agriculture.
-
-Elles sont tenues de faire connaître dans le délai d'un mois, à ce ministre, par l'intermédiaire de l'association nationale
-de révision, tous les changements survenus dans leur administration ainsi que toutes les modifications apportées à leurs
-statuts.
-
-Les procès-verbaux des assemblées générales annuelles rendant compte des activités des fédérations de révision agréées ainsi
-que l'état des révisions effectuées sont transmis au ministre de l'agriculture, dans les huit mois qui suivent la clôture de
-l'exercice, par l'intermédiaire de l'association nationale de révision de la coopération agricole.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
-
-
 ###### Article R*527-10
 
 Toute fédération agréée qui contrevient aux dispositions législatives ou réglementaires applicables aux opérations de
@@ -87127,6 +86988,37 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
+###### Article R527-9
+
+Les fédérations agréées sont soumises au contrôle du ministre chargé de l'agriculture pour les opérations de révision
+conduites en application de l'article L. 527-1. 
+
+Elles sont tenues de lui faire connaître dans le délai d'un mois suivant leur assemblée générale, par l'intermédiaire de
+l'association nationale de révision, tous les changements intervenus dans leur administration ainsi que toutes les
+modifications apportées à leurs statuts et, au titre de leurs activités de révision, à leurs conditions générales de
+fonctionnement de même que celles intervenues concernant leur personnel spécialisé. 
+
+Les procès-verbaux des assemblées générales annuelles rendant compte des activités des fédérations de révision agréées ainsi
+que l'état des révisions effectuées sont transmis au ministre de l'agriculture, dans les huit mois qui suivent la clôture de
+l'exercice, par l'intermédiaire de l'association nationale de révision de la coopération agricole. 
+
+Les opérations que réalisent les fédérations en matière de révision font l'objet d'une comptabilité spéciale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 2 () JORF 30 décembre 1992
+
+_Cite_:
+
+  - Code rural - art. L527-1 (V)
+
+
 ###### Article R527-11
 
 Les fédérations agréées peuvent fournir leur concours pour des opérations de révision aux sociétés d'intérêt collectif
@@ -87148,7 +87040,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Sous-section 3 : Dispositions particulières aux fédérations de coopératives agréées exerçant les fonctions de commissaire aux comptes.<a id=911></a>
+##### Sous-section 3 : Dispositions particulières aux fédérations de coopératives agréées exerçant les fonctions de commissaire aux comptes.<a id=910></a>
 
 ###### Article R527-12
 
@@ -87182,9 +87074,9 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole<a id=912></a>
+#### Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole<a id=911></a>
 
-##### Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément.<a id=913></a>
+##### Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément.<a id=912></a>
 
 ###### Article R*528-1
 
@@ -87221,11 +87113,12 @@ _Cité par_:
 
 ###### Article R*528-2
 
-Il est constitué au sein du conseil supérieur de la coopération une commission centrale d'agrément. Cette commission est
-consultée sur les demandes des sociétés coopératives et de leurs unions dont l'agrément relève du ministre de l'agriculture.
-Elle peut recevoir délégation du conseil supérieur de la coopération agricole en ce qui concerne les décisions portant refus
-d'agrément relatif à l'extension de la circonscription ou de l'objet desdites sociétés ou unions de sociétés ou retrait
-d'agrément consécutif à leur dissolution.
+Il est constitué auprès du Conseil supérieur de la coopération agricole une commission centrale d'agrément des coopératives
+agricoles. Cette commission est consultée sur les demandes des unions de coopératives agricoles et des sociétés coopératives
+agricoles dont l'agrément relève du ministre chargé de l'agriculture.
+
+Elle est notamment consultée sur les demandes d'agrément relatives à l'extension de la circonscription ou de l'objet desdites
+coopératives agricoles ainsi que sur les retraits d'agrément ou réductions de la circonscription ou de l'objet.
 
 **Liens relatifs à cet article**
 
@@ -87239,11 +87132,30 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°92-1363 du 24 décembre 1992 - art. 4 () JORF 30 décembre 1992
 
 _Cité par_:
 
   - Arrêté du 5 décembre 2006 - art. 1 (V)
+
+
+###### Article R*528-2-1
+
+Un comité juridique permanent, composé de quatre membres nommés par le ministre chargé de l'agriculture, est constitué auprès
+du Conseil supérieur de la coopération agricole.
+
+Ce comité est appelé à formuler des avis sur les points de droit relatifs aux organismes coopératifs agricoles qui lui sont
+soumis à l'initiative du vice-président dudit conseil.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 5 () JORF 30 décembre 1992
 
 
 ###### Article R*528-3
@@ -87252,46 +87164,37 @@ Le conseil supérieur de la coopération agricole est présidé par le ministre 
 
 Le ministre de l'agriculture nomme un vice-président.
 
-Le conseil supérieur comprend, en outre, des membres de droit, des représentants des organisations professionnelles
-coopératives et syndicales et des personnalités désignées en raison de leur compétence par le ministre de l'agriculture.
+Sont membres de droit du Conseil supérieur de la coopération agricole :
 
-Sont membres de droit :
+- quatre représentants du ministre chargé de l'agriculture ;
 
-- trois représentants du ministre de l'agriculture ;
+- le directeur du service de la législation fiscale, représentant le ministre chargé du budget ;
 
-- un représentant du ministre de l'économie ;
+- le directeur du Trésor, représentant le ministre chargé de l'économie et des finances ;
 
-- un représentant du ministre du budget ;
+- le directeur des affaires civiles et du sceau représentant le garde des sceaux, ministre de la justice ;
 
-- un représentant du ministre de l'intérieur ;
+- le délégué général à l'innovation sociale et à l'économie sociale, représentant le ministre chargé de l'économie sociale ;
 
-- un représentant de la caisse nationale de crédit agricole ;
+- le président de la Confédération française de la coopération agricole ;
 
-- le président de la confédération française de la coopération agricole ;
+- le président de la Confédération nationale de la mutualité, de la coopération et du crédit agricole ;
 
-- un représentant de l'assemblée permanente des chambres d'agriculture ;
+- le président de l'assemblée permanente des chambres d'agriculture.
 
-- un représentant de la Confédération nationale de la mutualité, de la coopération et du crédit agricoles.
+Le Conseil supérieur de la coopération agricole comprend en outre :
 
-Représentent les organisations coopératives et syndicales :
+- quatre représentants des sociétés coopératives agricoles et des sociétés d'intérêt collectif agricole désignés par le
+ministre chargé de l'agriculture sur proposition de la Confédération française de la coopération agricole ;
 
-- trois représentants des sociétés coopératives agricoles désignés par le ministre de l'agriculture et de la forêt sur
-proposition de la Confédération française de la coopération agricole ;
+- un représentant de chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en
+application de l'article 1er du décret n° 90-187 du 28 février 1990 ;
 
-- un représentant des sociétés d'intérêt collectif agricole désigné par le ministre de l'agriculture et de la forêt, sur
-proposition de la Fédération nationale des sociétés d'intérêt collectif agricole ;
+- trois représentants des personnels des sociétés coopératives agricoles désignés par le ministre chargé de l'agriculture sur
+proposition des organisations syndicales les plus représentatives, dont un au titre des cadres ou directeurs de
+coopératives ;
 
-- quatre représentants des exploitants agricoles désignés par le ministre de l'agriculture et de la forêt parmi les
-personnalités proposées par chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en
-application de l'article 3 du décret n° 90-187 du 28 février 1990 ;
-
-- un technicien des sociétés coopératives agricoles désigné par le ministre de l'agriculture et de la forêt, sur proposition
-de l'organisation syndicale la plus représentative de ces techniciens ;
-
-- deux représentants du personnel des sociétés coopératives agricoles désignés par le ministre de l'agriculture et de la
-forêt, sur proposition des organisations syndicales les plus représentatives.
-
-Le ministre de l'agriculture et de la forêt désigne trois personnalités choisies en raison de leur compétence.
+- trois personnalités qualifiées en raison de leur compétence nommées par le ministre chargé de l'agriculture.
 
 **Liens relatifs à cet article**
 
@@ -87305,25 +87208,37 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°90-187 1990-02-28 art. 3
+  - Décret n°90-187 1990-02-28 art. 1
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°92-1363 du 24 décembre 1992 - art. 6 () JORF 30 décembre 1992
 
 
 ###### Article R*528-4
 
-La commission centrale d'agrément est ainsi composée :
+La commission centrale d'agrément comprend :
 
-- deux représentants du ministre de l'agriculture dont l'un est désigné en qualité de président par le ministre ;
+- quatre représentants du ministre chargé de l'agriculture, dont un au titre d'une direction départementale ou régionale de
+l'agriculture et de la forêt ;
 
-- le représentant de la caisse nationale de crédit agricole ;
+- le directeur des affaires civiles et du sceau, représentant le garde des sceaux, ministre de la justice ;
 
-- le président de la confédération française de la coopération agricole ;
+- le délégué général à l'innovation sociale et à l'économie sociale, représentant le ministre chargé de l'économie sociale ;
 
-- quatre représentants des organisations coopératives et syndicats désignés par le conseil supérieur de la coopération
-agricole parmi ses membres.
+- quatre représentants des coopératives agricoles désignés sur proposition de la Confédération française de la coopération
+agricole ;
+
+- un représentant des cadres dirigeants de la coopération agricole désigné par le Conseil supérieur de la coopération
+agricole parmi ses membres ;
+
+- un représentant des exploitants agricoles désigné par ledit conseil parmi ses membres.
+
+Les membres représentant l'administration ou désignés ès qualités peuvent se faire représenter. Des suppléants sont désignés
+pour les autres membres.
+
+La commission centrale d'agrément est présidée par un des membres représentant l'administration désigné en cette qualité par
+le ministre chargé de l'agriculture.
 
 **Liens relatifs à cet article**
 
@@ -87337,7 +87252,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°92-1363 du 24 décembre 1992 - art. 7 () JORF 30 décembre 1992
 
 
 ###### Article R*528-5
@@ -87394,7 +87309,8 @@ _Modifié par_:
 ###### Article R*528-7
 
 L'ordre du jour des réunions du conseil supérieur de la coopération agricole et de la commission centrale d'agrément est
-arrêté par le ministre de l'agriculture.
+arrêté par le ministre de l'agriculture. Les conditions de préparation et d'organisation de ces réunions sont définies dans
+le cadre d'un règlement intérieur.
 
 Le conseil supérieur de la coopération agricole et la commission centrale d'agrément délibèrent valablement sur les questions
 portées à l'ordre du jour, quel que soit le nombre de membres présents.
@@ -87415,10 +87331,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°92-1363 du 24 décembre 1992 - art. 8 () JORF 30 décembre 1992
 
 
-##### Section 2 : Commission départementale des structures agricoles.<a id=914></a>
+##### Section 2 : Commission départementale des structures agricoles.<a id=913></a>
 
 ###### Article R*528-8
 
@@ -87507,7 +87423,7 @@ _Abrogé par_:
   - Décret n°96-373 du 2 mai 1996 - art. 1 () JORF 4 mai 1996
 
 
-#### Chapitre IX : Dispositions pénales, dispositions d'application.<a id=915></a>
+#### Chapitre IX : Dispositions pénales, dispositions d'application.<a id=914></a>
 
 ###### Article R*529-2
 
@@ -87560,15 +87476,16 @@ _Cité par_:
   - Code rural - art. R529-2 (V)
 
 
-### Titre III : Sociétés d'intérêt collectif agricole<a id=916></a>
+### Titre III : Sociétés d'intérêt collectif agricole<a id=915></a>
 
-#### Chapitre Ier : Constitution.<a id=917></a>
+#### Chapitre Ier : Constitution, agrément.<a id=916></a>
 
-###### Article R*531-1
+###### Article R*531-2
 
-Les sociétés d'intérêt collectif agricole ont pour objet de créer ou de gérer des installations et équipements ou d'assurer
-des services soit dans l'intérêt des agriculteurs d'une région rurale déterminée, soit de façon plus générale dans celui des
-habitants de cette région sans distinction professionnelle.
+Doivent être constituées sous forme de sociétés à capital et à personnel variables les sociétés dont l'activité concerne
+l'électrification rurale, l'habitat rural, les adductions d'eau ainsi que celles dont l'activité s'exerce dans des domaines
+définis par arrêté concerté du ministre de l'agriculture, du ministre de l'intérieur et du ministre de l'économie et qui
+intéressent l'ensemble de la population d'une zone rurale.
 
 **Liens relatifs à cet article**
 
@@ -87579,17 +87496,297 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°92-1363 du 24 décembre 1992 - art. 10 () JORF 30 décembre 1992
+
+_Cité par_:
+
+  - Code rural - art. R532-4 (V)
+  - Code rural - art. R583-21 (V)
+
+
+###### Article R*531-5
+
+Peuvent seuls être membres d'une société d'intérêt collectif agricole les agriculteurs, les groupements pouvant s'affilier
+aux caisses de crédit agricole mutuel ainsi que les personnes dont l'activité est de nature à faciliter la réalisation de
+l'objet de la société.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°92-1363 du 24 décembre 1992 - art. 10 () JORF 30 décembre 1992
+
+_Cité par_:
+
+  - Code rural - art. R583-11 (V)
+
+
+###### Article R531-3
+
+L'agrément des sociétés d'intérêt collectif agricole prévu à l'article L. 531-2 est donné par arrêté du ministre chargé de
+l'agriculture, après avis de la commission nationale d'agrément des sociétés d'intérêt collectif agricole instituée à
+l'article R. 531-3-8. Ladite commission est également consultée en cas de retrait ou de modification de l'agrément initial.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L531-2, R531-3-8
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 10 () JORF 30 décembre 1992
+  - Décret n°92-1363 du 24 décembre 1992 - art. 11 () JORF 30 décembre 1992
+
+
+###### Article R531-3-1
+
+Les demandes d'agrément des sociétés d'intérêt collectif agricole sont adressées au secrétariat de la commission nationale
+d'agrément.
+
+Le secrétariat de cette commission enregistre la demande dès qu'un dossier comprenant l'ensemble des pièces mentionnées à
+l'article R. 531-3-2 a été régulièrement constitué. Dans les dix jours qui suivent cet enregistrement, il envoie au
+représentant de la société un accusé de réception portant mention de la date d'enregistrement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R531-3-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 10 () JORF 30 décembre 1992
+  - Décret n°92-1363 du 24 décembre 1992 - art. 12 () JORF 30 décembre 1992
+
+
+###### Article R531-3-2
+
+Toute demande d'agrément doit être accompagnée des pièces suivantes :
+
+1° Un exemplaire des statuts, du procès-verbal de l'assemblée générale constitutive s'il y a lieu, et de la première
+délibération du conseil d'administration ;
+
+2° Un exemplaire du règlement intérieur lorsqu'il en est établi un ;
+
+3° Un extrait de l'immatriculation au registre du commerce et des sociétés ou une attestation du greffier du tribunal chargé
+de la tenue de ce registre constatant le dépôt au greffe de la demande et des pièces nécessaires à l'immatriculation de la
+société ou à une inscription modificative à ce même registre ;
+
+4° La liste des associés, avec indication précise de leur profession ou de leur objet social pour les personnes morales ;
+
+5° L'indication de la répartition du capital entre les associés ;
+
+6° Une note détaillée faisant part :
+
+- des opérations que la société envisage de réaliser, ou réalise, en fonction de son objet social et de la nature de ses
+associés ;
+
+- des liens d'adhésion et d'activité entretenus avec d'autres organismes coopératifs agricoles ;
+
+- des moyens mis en oeuvre pour assurer son fonctionnement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 10 () JORF 30 décembre 1992
+  - Décret n°92-1363 du 24 décembre 1992 - art. 12 () JORF 30 décembre 1992
 
 _Abrogé par_:
 
-  - Décret n°92-1363 du 24 décembre 1992 - art. 17 (V) JORF 30 décembre 1992
+  - Décret n°2006-1528 du 5 décembre 2006 - art. 2 () JORF 6 décembre 2006 en vigueur le 1er janvier 2007
 
 
-###### Article R*531-3
+###### Article R531-3-3
 
-Dans les quinze jours de sa constitution toute société d'intérêt collectif agricole dépose copie de ses statuts et la liste
-de ses membres au ministère de l'agriculture ; mention de ce dépôt est portée sur un registre central tenu à la disposition
-du public.
+Le ministre notifie sa décision au représentant de la société intéressée dans le délai de quatre mois à compter de la date
+d'enregistrement indiquée à l'article R. 531-3-1.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R531-3-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 10 () JORF 30 décembre 1992
+  - Décret n°92-1363 du 24 décembre 1992 - art. 12 () JORF 30 décembre 1992
+
+_Abrogé par_:
+
+  - Décret n°2006-1528 du 5 décembre 2006 - art. 2 () JORF 6 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article R531-3-4
+
+L'agrément est considéré comme acquis aux organismes qui en ont régulièrement fait la demande et qui ont déposé les pièces
+nécessaires pour l'examen de leur dossier au secrétariat de la commission nationale d'agrément si aucune notification de
+décision ne leur a été adressée dans le délai de quatre mois à partir de la date de ce dépôt.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 10 () JORF 30 décembre 1992
+  - Décret n°92-1363 du 24 décembre 1992 - art. 12 () JORF 30 décembre 1992
+
+
+###### Article R531-3-5
+
+Les décisions d'agrément, de refus ou de retrait d'agrément sont communiquées, dans le délai d'un mois à compter du jour où
+elles sont devenues définitives, par l'autorité qui les a prises, au greffe du tribunal de commerce ou du tribunal de grande
+instance statuant commercialement où la société est immatriculée, afin d'être inscrites au registre du commerce et des
+sociétés.
+
+Dans le cas où l'agrément est acquis par le silence de l'autorité compétente ou si la communication prévue ci-dessus n'a pas
+été faite, les responsables de la société en font la déclaration au greffe du tribunal aux fins d'inscription au registre du
+commerce et des sociétés, en produisant l'accusé de réception mentionné à l'article R. 531-3-1.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R531-3-1
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 10 () JORF 30 décembre 1992
+  - Décret n°92-1363 du 24 décembre 1992 - art. 12 () JORF 30 décembre 1992
+
+_Abrogé par_:
+
+  - Décret n°2006-1528 du 5 décembre 2006 - art. 2 () JORF 6 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article R531-3-6
+
+Les listes des sociétés d'intérêt collectif agricole agréées et de celles ayant fait l'objet d'un retrait d'agrément sont
+publiées, dans un délai de six mois à dater de l'agrément ou du retrait d'agrément, au Journal officiel.
+
+Un numéro d'agrément est attribué à chaque organisme agréé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 10 () JORF 30 décembre 1992
+  - Décret n°92-1363 du 24 décembre 1992 - art. 12 () JORF 30 décembre 1992
+
+_Abrogé par_:
+
+  - Décret n°2006-1528 du 5 décembre 2006 - art. 2 () JORF 6 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article R531-3-7
+
+Toute modification aux statuts relative à l'un des éléments constitutifs de la qualité de société d'intérêt collectif
+agricole doit être portée, dans le mois suivant son adoption, à la connaissance du ministre chargé de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 10 () JORF 30 décembre 1992
+  - Décret n°92-1363 du 24 décembre 1992 - art. 12 () JORF 30 décembre 1992
+
+_Abrogé par_:
+
+  - Décret n°2006-1528 du 5 décembre 2006 - art. 2 () JORF 6 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article R531-3-8
+
+La commission nationale d'agrément des sociétés d'intérêt collectif agricole, prévue au troisième alinéa de l'article L.
+531-2 et appelée à formuler tout avis sur les dossiers qui lui sont présentés, est constituée auprès du Conseil supérieur de
+la coopération agricole.
+
+Elle est ainsi composée :
+
+- trois représentants du ministre chargé de l'agriculture dont l'un est désigné en qualité de président par le ministre ;
+
+- un représentant du garde des sceaux, ministre de la justice ;
+
+- un représentant du ministre chargé de l'économie sociale ;
+
+- trois représentants des organisations coopératives désignés sur proposition de la Confédération française de la coopération
+agricole ;
+
+- un représentant des entreprises non coopératives désigné sur proposition de l'Association nationale des industries agro-
+alimentaires ;
+
+- un représentant des organisations syndicales agricoles désigné sur proposition du Conseil supérieur de la coopération
+agricole.
+
+Les membres représentant l'administration ou désignés ès qualités peuvent se faire représenter. Des suppléants sont désignés
+pour les autres membres.
+
+Le secrétariat de la commission est assuré par le bureau compétent du ministère chargé de l'agriculture.
+
+L'ordre du jour des séances de la commission est arrêté par le président cinq semaines avant la date de la tenue de la
+réunion et adressé aux membres titulaires au moins quinze jours avant chaque séance.
+
+Un règlement intérieur, approuvé par le ministre chargé de l'agriculture, précisera en cas de besoin les règles
+complémentaires d'organisation des travaux de la commission.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L531-2
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 10 () JORF 30 décembre 1992
+  - Décret n°92-1363 du 24 décembre 1992 - art. 12 () JORF 30 décembre 1992
+
+
+###### Article R531-4
+
+Les organismes qui n'observent pas la réglementation relative aux sociétés d'intérêt collectif agricole ne peuvent utiliser
+la dénomination de société d'intérêt collectif agricole.
 
 **Liens relatifs à cet article**
 
@@ -87600,9 +87797,111 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°92-1363 du 24 décembre 1992 - art. 10 () JORF 30 décembre 1992
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. R535-1 (V)
 
 
-#### Chapitre II : Fonctionnement.<a id=918></a>
+###### Article R531-4-1
+
+En ce qui concerne le respect des conditions de leur agrément, les sociétés d'intérêt collectif agricole sont soumises au
+contrôle du ministre chargé de l'agriculture. Elles doivent, chaque année, et dans le délai d'un mois à compter de la date de
+la réunion de l'assemblée générale qui a approuvé les comptes de l'exercice écoulé, faire parvenir à l'autorité qui les a
+agréées les pièces suivantes, certifiées conformes par le président ou son représentant :
+
+1. La copie intégrale du procès-verbal de l'assemblée générale ;
+
+2. La copie des documents mis à la disposition des associés avant l'assemblée générale : comptes annuels, rapport de gestion
+aux associés, rapports du commissaire aux comptes et, le cas échéant, comptes consolidés, rapport sur la gestion du groupe et
+rapports des commissaires aux comptes sur les comptes consolidés ;
+
+3. Un état indiquant les modifications significatives du sociétariat et susceptibles d'avoir des répercussions sur la
+répartition du capital.
+
+Sur la demande qui leur en est faite, les sociétés d'intérêt collectif agricole sont tenues de communiquer à toute époque aux
+représentants dûment habilités par le ministre chargé de l'agriculture tous documents et renseignements relatifs à la nature
+et à l'étendue de leurs activités, à leur fonctionnement et à leur situation financière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Créé par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 10 () JORF 30 décembre 1992
+  - Décret n°92-1363 du 24 décembre 1992 - art. 13 () JORF 30 décembre 1992
+
+_Abrogé par_:
+
+  - Décret n°2006-1528 du 5 décembre 2006 - art. 2 () JORF 6 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article R531-6
+
+La mission dévolue au commissaire aux comptes par les articles 25 et 26 du décret n° 85-295 du 1er mars 1985, pris pour
+l'application de la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable des difficultés des
+entreprises, est assurée dans les sociétés d'intérêt collectif agricole qui n'ont pas la forme commerciale et dont le chiffre
+d'affaires hors taxes dépasse 500 000 F à la clôture de l'exercice social, soit par un commissaire aux comptes inscrit, soit
+par une fédération de coopératives agricoles agréée conformément à l'article L. 527-1. Le commissaire aux comptes inscrit ou
+la fédération agréée exerce, chacun en ce qui le concerne, le commissariat aux comptes dans les conditions prévues à
+l'article R. 524-10.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Cite_:
+
+  - Loi n°84-148 1984-03-01
+  - Décret n°85-295 du 1 mars 1985 - art. 25 (M)
+  - Décret n°85-295 du 1 mars 1985 - art. 26 (M)
+  - Code rural L527-1, R524-10
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°92-1363 du 24 décembre 1992 - art. 10 () JORF 30 décembre 1992
+
+_Cité par_:
+
+  - Code rural - art. R583-12 (V)
+
+
+###### Article R531-7
+
+Les sociétés d'intérêt collectif agricole qui n'ont pas la forme commerciale établissent des comptes annuels suivant les
+méthodes et principes fixés par les articles 8 à 16 du code de commerce et le décret n° 83-1020 du 29 novembre 1983, sous
+réserve des règles posées par un plan comptable approuvé par le ministre de l'agriculture après avis du Conseil national de
+la comptabilité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Cite_:
+
+  - Décret n°83-1020 1983-11-29
+  - Code de commerce 8 à 16
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°92-1363 du 24 décembre 1992 - art. 10 () JORF 30 décembre 1992
+
+_Cité par_:
+
+  - Code rural - art. R583-13 (V)
+
+
+#### Chapitre II : Fonctionnement.<a id=917></a>
 
 ###### Article R532-1
 
@@ -87726,18 +88025,22 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre III : Dispositions financières.<a id=919></a>
+###### Article R532-6
 
-###### Article R*533-1
+Pour ces sociétés d'intérêt collectif agricole constituées sous la forme de sociétés civiles, la convocation à l'assemblée
+doit être publiée au moins quinze jours avant la date fixée dans un journal d'annonces légales du département ou de
+l'arrondissement où se trouve le siège social. L'insertion doit contenir l'ordre du jour, le lieu, la date et l'heure de
+l'assemblée.
 
-Les sociétés d'intérêt collectif agricole ne distribuent pas de dividendes mais seulement, le cas échéant, dans la limite de
-6 p. 100 net, un intérêt statutaire.
+Toutefois, pour les sociétés dont la circonscription ne dépasse pas le territoire d'un canton et des cantons limitrophes,
+l'insertion prévue à l'alinéa précédent peut être remplacée par l'affichage dans le même délai de la convocation à la porte
+principale de la mairie du siège social et de la mairie de chacune des autres communes comprises dans la circonscription.
 
-Elles peuvent ristourner les excédents annuels aux sociétaires au prorata des opérations effectuées par eux avec la société.
+Indépendamment de l'insertion ou de l'affichage prévu, il est adressé à chaque associé quinze jours au moins avant la date de
+la réunion une convocation individuelle indiquant le lieu, la date, l'heure et l'ordre du jour de l'assemblée.
 
-Les bénéfices provenant d'opérations effectuées avec des non-sociétaires sont portés en réserve ; ceux provenant d'aides de
-l'Etat, des collectivités publiques, d'organismes mentionnés sur une liste dressée par décret sont portés à une réserve
-dite : "Réserve des charges complémentaires de liquidation".
+La convocation individuelle peut consister dans l'envoi à chaque associé d'un exemplaire d'un journal ou d'un bulletin sur
+lequel elle figure.
 
 **Liens relatifs à cet article**
 
@@ -87745,14 +88048,19 @@ _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Modifié par_:
+_Créé par_:
 
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°92-1363 du 24 décembre 1992 - art. 10 () JORF 30 décembre 1992
+  - Décret n°92-1363 du 24 décembre 1992 - art. 15 () JORF 30 décembre 1992
 
 _Cité par_:
 
-  - Code rural - art. R583-18 (V)
+  - Code rural - art. R571-47 (V)
+  - Code rural - art. R583-17 (V)
+  - Code rural et de la pêche maritime - art. R572-6 (V)
 
+
+#### Chapitre III : Dispositions financières.<a id=918></a>
 
 ###### Article R*533-2
 
@@ -87772,6 +88080,38 @@ _Modifié par_:
 _Cité par_:
 
   - Code rural - art. R583-19 (V)
+
+
+###### Article R533-1
+
+Sous réserve de l'application des dispositions de l'article L. 533-1, les sociétés d'intérêt collectif agricole ne
+distribuent pas de dividendes mais seulement, le cas échéant, un intérêt statutaire dans la limite du taux prévu par les
+dispositions de l'article 14 de la loi du 10 septembre 1947. 
+
+Elles peuvent ristourner les excédents annuels aux sociétaires au prorata des opérations effectuées par eux avec la société. 
+
+Les bénéfices provenant d'opérations effectuées avec des non-sociétaires sont portés en réserve ; ceux provenant d'aides de
+l'Etat, des collectivités publiques, d'organismes mentionnés sur une liste dressée par décret sont portés à une réserve
+dite : " Réserve des charges complémentaires de liquidation ".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°47-1775 du 10 septembre 1947 - art. 14 (V)
+  - Code rural - art. L533-1 (V)
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°92-1363 du 24 décembre 1992 - art. 16 () JORF 30 décembre 1992
+
+_Cité par_:
+
+  - Code rural - art. R583-18 (V)
 
 
 ###### Article R533-3
@@ -87794,28 +88134,7 @@ _Cité par_:
   - Code rural - art. R583-20 (V)
 
 
-#### Chapitre IV : Transformation, dissolution, liquidation.<a id=920></a>
-
-###### Article R*534-1
-
-Une société d'intérêt collectif agricole ne peut effectuer des modifications de ses statuts entraînant la perte de sa qualité
-de société d'intérêt collectif agricole, sans y avoir été autorisée par le ministre de l'agriculture, à moins qu'elle ne se
-transforme en société coopérative agricole ou en union de coopératives agricoles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
-
-_Abrogé par_:
-
-  - Décret n°92-1363 du 24 décembre 1992 - art. 17 (V) JORF 30 décembre 1992
-
+#### Chapitre IV : Transformation, dissolution, liquidation.<a id=919></a>
 
 ###### Article R*534-2
 
@@ -87901,7 +88220,7 @@ _Cité par_:
   - Code rural - art. R583-23 (V)
 
 
-### Titre IV : Sociétés mixtes d'intérêt agricole<a id=921></a>
+### Titre IV : Sociétés mixtes d'intérêt agricole<a id=920></a>
 
 ###### Article R541-1
 
@@ -87947,9 +88266,9 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-### Titre V : Groupements de producteurs et comités économiques agricoles<a id=922></a>
+### Titre V : Groupements de producteurs et comités économiques agricoles<a id=921></a>
 
-#### Chapitre Ier : Groupements de producteurs.<a id=923></a>
+#### Chapitre Ier : Groupements de producteurs.<a id=922></a>
 
 ###### Article R*551-1
 
@@ -88312,7 +88631,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre II : Comités économiques agricoles.<a id=924></a>
+#### Chapitre II : Comités économiques agricoles.<a id=923></a>
 
 ###### Article R*552-1
 
@@ -88751,9 +89070,9 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles<a id=925></a>
+#### Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles<a id=924></a>
 
-##### Section 1 : Droits d'inscription et cotisations.<a id=926></a>
+##### Section 1 : Droits d'inscription et cotisations.<a id=925></a>
 
 ###### Article R*553-1
 
@@ -88963,7 +89282,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 2 : Contrôle.<a id=927></a>
+##### Section 2 : Contrôle.<a id=926></a>
 
 ###### Article R*553-10
 
@@ -89143,7 +89462,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R556-3 (Ab)
 
 
-##### Section 3 : Dispositions diverses.<a id=928></a>
+##### Section 3 : Dispositions diverses.<a id=927></a>
 
 ###### Article R*553-17
 
@@ -89167,9 +89486,9 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre IV : Extension des règles édictées par les comités économiques agricoles<a id=929></a>
+#### Chapitre IV : Extension des règles édictées par les comités économiques agricoles<a id=928></a>
 
-##### Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole<a id=930></a>
+##### Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole<a id=929></a>
 
 ###### Article R*554-1
 
@@ -89215,9 +89534,9 @@ _Transféré par_:
   - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
 
 
-##### Section 2 : Procédure d'extension des règles<a id=931></a>
+##### Section 2 : Procédure d'extension des règles<a id=930></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=932></a>
+##### Sous-section 1 : Dispositions générales.<a id=931></a>
 
 ###### Article R*554-2
 
@@ -89393,9 +89712,9 @@ _Transféré par_:
   - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
 
 
-##### Sous-section 2 : Procédure de consultation des producteurs<a id=933></a>
+##### Sous-section 2 : Procédure de consultation des producteurs<a id=932></a>
 
-##### Paragraphe 1 : Etablissement de la liste des producteurs.<a id=934></a>
+##### Paragraphe 1 : Etablissement de la liste des producteurs.<a id=933></a>
 
 ###### Article R*554-7
 
@@ -89716,7 +90035,7 @@ _Transféré par_:
   - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
 
 
-##### Paragraphe 2 : Modalités de la consultation des producteurs.<a id=935></a>
+##### Paragraphe 2 : Modalités de la consultation des producteurs.<a id=934></a>
 
 ###### Article R*554-16
 
@@ -90264,7 +90583,7 @@ _Transféré par_:
   - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
 
 
-##### Paragraphe 3 : Dispositions diverses.<a id=936></a>
+##### Paragraphe 3 : Dispositions diverses.<a id=935></a>
 
 ###### Article R*554-29
 
@@ -90299,7 +90618,7 @@ _Transféré par_:
   - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
 
 
-#### Chapitre V : Dispositions particulières aux départements d'outre-mer.<a id=937></a>
+#### Chapitre V : Dispositions particulières aux départements d'outre-mer.<a id=936></a>
 
 ###### Article R555-1
 
@@ -90401,7 +90720,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre VI : Pénalités<a id=938></a>
+#### Chapitre VI : Pénalités<a id=937></a>
 
 ###### Article R*556-1
 
@@ -90538,11 +90857,11 @@ _Cite_:
   - Code rural et de la pêche maritime - art. R556-2 (Ab)
 
 
-### Titre VI : Jardins familiaux<a id=939></a>
+### Titre VI : Jardins familiaux<a id=938></a>
 
-#### Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux<a id=940></a>
+#### Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux<a id=939></a>
 
-##### Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER).<a id=941></a>
+##### Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER).<a id=940></a>
 
 ###### Article R562-1
 
@@ -90579,7 +90898,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D572-10 (V)
 
 
-##### Section 2 : Droit de préemption des collectivités locales.<a id=942></a>
+##### Section 2 : Droit de préemption des collectivités locales.<a id=941></a>
 
 ###### Article R562-2
 
@@ -90647,7 +90966,7 @@ _Cite_:
   - Code rural - art. R562-2 (V)
 
 
-#### Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique<a id=943></a>
+#### Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique<a id=942></a>
 
 ###### Article R563-1
 
@@ -90697,7 +91016,7 @@ _Cite_:
   - Code rural - art. L563-1 (V)
 
 
-#### Chapitre IV : Avantages divers et subventions<a id=944></a>
+#### Chapitre IV : Avantages divers et subventions<a id=943></a>
 
 ###### Article R564-1
 
@@ -90786,17 +91105,17 @@ _Cite_:
   - Code rural - art. R563-1 (V)
 
 
-## Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux<a id=945></a>
+## Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux<a id=944></a>
 
-## Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique<a id=946></a>
+## Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique<a id=945></a>
 
-### Titre Ier : Enseignement et formation professionnelle agricoles<a id=947></a>
+### Titre Ier : Enseignement et formation professionnelle agricoles<a id=946></a>
 
-#### Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles<a id=948></a>
+#### Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles<a id=947></a>
 
-##### Section 1 : Organisation générale<a id=949></a>
+##### Section 1 : Organisation générale<a id=948></a>
 
-##### Sous-section 1 : Principes de base.<a id=950></a>
+##### Sous-section 1 : Principes de base.<a id=949></a>
 
 ###### Article R*811-1
 
@@ -90859,9 +91178,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Conseils et comités<a id=951></a>
+##### Sous-section 2 : Conseils et comités<a id=950></a>
 
-##### Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale.<a id=952></a>
+##### Paragraphe 1 : Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale.<a id=951></a>
 
 ###### Article R*811-3
 
@@ -91325,7 +91644,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Paragraphe 2 : Comité de coordination.<a id=953></a>
+##### Paragraphe 2 : Comité de coordination.<a id=952></a>
 
 ###### Article R*811-10
 
@@ -91447,7 +91766,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R811-24 (V)
 
 
-##### Sous-section 3 : Promotion sociale.<a id=954></a>
+##### Sous-section 3 : Promotion sociale.<a id=953></a>
 
 ###### Article R*811-12
 
@@ -91498,9 +91817,9 @@ _Nouveaux textes_:
   - Code rural R811-3
 
 
-#### Chapitre II : Formations technologiques et professionnelles de cycle court<a id=955></a>
+#### Chapitre II : Formations technologiques et professionnelles de cycle court<a id=954></a>
 
-##### Section 1 : Enseignement technologique de cycle court par voie scolaire.<a id=956></a>
+##### Section 1 : Enseignement technologique de cycle court par voie scolaire.<a id=955></a>
 
 ###### Article R*812-1
 
@@ -91660,7 +91979,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage.<a id=957></a>
+##### Section 2 : Enseignement technologique de cycle court par voie de l'apprentissage.<a id=956></a>
 
 ###### Article R*812-5
 
@@ -91691,7 +92010,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue et des formations alternées.<a id=958></a>
+##### Section 3 : Enseignement technologique de cycle court par voie de la formation professionnelle continue et des formations alternées.<a id=957></a>
 
 ###### Article R*812-6
 
@@ -91731,9 +92050,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R812-16 (V)
 
 
-#### Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles<a id=959></a>
+#### Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles<a id=958></a>
 
-##### Section 1 : Enseignement technologique de cycle long.<a id=960></a>
+##### Section 1 : Enseignement technologique de cycle long.<a id=959></a>
 
 ###### Article R*813-1
 
@@ -91892,7 +92211,7 @@ _Cité par_:
   - Code rural - art. R813-61 (V)
 
 
-##### Section 2 : Formation des techniciens supérieurs agricoles.<a id=961></a>
+##### Section 2 : Formation des techniciens supérieurs agricoles.<a id=960></a>
 
 ###### Article R*813-6
 
@@ -91966,7 +92285,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 3 : Dispositions communes.<a id=962></a>
+##### Section 3 : Dispositions communes.<a id=961></a>
 
 ###### Article R*813-8
 
@@ -92110,9 +92429,9 @@ _Cité par_:
   - Code rural - art. R813-57 (V)
 
 
-#### Chapitre IV : Enseignement supérieur<a id=963></a>
+#### Chapitre IV : Enseignement supérieur<a id=962></a>
 
-##### Section 1 : Dispositions générales.<a id=964></a>
+##### Section 1 : Dispositions générales.<a id=963></a>
 
 ###### Article R*814-1
 
@@ -92231,9 +92550,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Enseignement supérieur agricole<a id=965></a>
+##### Section 2 : Enseignement supérieur agricole<a id=964></a>
 
-##### Sous-section 1 : Formation des ingénieurs spécialisés en agriculture.<a id=966></a>
+##### Sous-section 1 : Formation des ingénieurs spécialisés en agriculture.<a id=965></a>
 
 ###### Article R*814-5
 
@@ -92274,7 +92593,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Formation des spécialistes en horticulture.<a id=967></a>
+##### Sous-section 2 : Formation des spécialistes en horticulture.<a id=966></a>
 
 ###### Article R*814-6
 
@@ -92300,7 +92619,7 @@ _Modifié par_:
   - Décret n°92-573 du 25 juin 1992 - art. 1 () JORF 1er juillet 1992
 
 
-##### Sous-section 3 : Formation des paysagistes DPLG.<a id=968></a>
+##### Sous-section 3 : Formation des paysagistes DPLG.<a id=967></a>
 
 ###### Article R*814-7
 
@@ -92444,7 +92763,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 4 : Formation des ingénieurs des industries agricoles et alimentaires.<a id=969></a>
+##### Sous-section 4 : Formation des ingénieurs des industries agricoles et alimentaires.<a id=968></a>
 
 ###### Article R*814-8
 
@@ -92505,9 +92824,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 5 : Formation des ingénieurs agronomes à vocation générale<a id=970></a>
+##### Sous-section 5 : Formation des ingénieurs agronomes à vocation générale<a id=969></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=971></a>
+##### Paragraphe 1 : Dispositions générales.<a id=970></a>
 
 ###### Article R*814-10
 
@@ -92920,7 +93239,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Paragraphe 2 : Dispositions particulières aux élèves étrangers.<a id=972></a>
+##### Paragraphe 2 : Dispositions particulières aux élèves étrangers.<a id=971></a>
 
 ###### Article R*814-20
 
@@ -93141,7 +93460,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 6 : Dispositions relatives à la délivrance des diplômes.<a id=973></a>
+##### Sous-section 6 : Dispositions relatives à la délivrance des diplômes.<a id=972></a>
 
 ###### Article R*814-27
 
@@ -93177,9 +93496,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 3 : Enseignement supérieur vétérinaire<a id=974></a>
+##### Section 3 : Enseignement supérieur vétérinaire<a id=973></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=975></a>
+##### Sous-section 1 : Dispositions générales.<a id=974></a>
 
 ###### Article R*814-28
 
@@ -93239,7 +93558,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Conditions d'admission des élèves.<a id=976></a>
+##### Sous-section 2 : Conditions d'admission des élèves.<a id=975></a>
 
 ###### Article R*814-30
 
@@ -93313,7 +93632,7 @@ _Cite_:
   - Code rural R814-30, R814-43
 
 
-##### Sous-section 3 : Enseignement et recherche.<a id=977></a>
+##### Sous-section 3 : Enseignement et recherche.<a id=976></a>
 
 ###### Article R*814-32
 
@@ -93509,7 +93828,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 4 : Administration.<a id=978></a>
+##### Sous-section 4 : Administration.<a id=977></a>
 
 ###### Article R*814-37
 
@@ -93538,7 +93857,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire.<a id=979></a>
+##### Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire.<a id=978></a>
 
 ###### Article R*814-38
 
@@ -93770,7 +94089,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 6 : Conseil national de la spécialisation vétérinaire.<a id=980></a>
+##### Sous-section 6 : Conseil national de la spécialisation vétérinaire.<a id=979></a>
 
 ###### Article R*814-43-1
 
@@ -93823,9 +94142,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 4 : Enseignement de l'agronomie des régions chaudes<a id=981></a>
+##### Section 4 : Enseignement de l'agronomie des régions chaudes<a id=980></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=982></a>
+##### Sous-section 1 : Dispositions générales.<a id=981></a>
 
 ###### Article R*814-44
 
@@ -93962,7 +94281,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 2 : Administration du centre.<a id=983></a>
+##### Sous-section 2 : Administration du centre.<a id=982></a>
 
 ###### Article R*814-48
 
@@ -94342,7 +94661,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Sous-section 3 : Régime financier du centre.<a id=984></a>
+##### Sous-section 3 : Régime financier du centre.<a id=983></a>
 
 ###### Article R*814-58
 
@@ -94465,9 +94784,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public<a id=985></a>
+#### Chapitre V : Dispositions relatives aux établissements d'enseignement agricole public<a id=984></a>
 
-##### Section 1 : Dispositions communes.<a id=986></a>
+##### Section 1 : Dispositions communes.<a id=985></a>
 
 ###### Article R*815-1
 
@@ -94545,7 +94864,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-##### Section 2 : Dispositions relatives aux établissements d'enseignement technologique.<a id=987></a>
+##### Section 2 : Dispositions relatives aux établissements d'enseignement technologique.<a id=986></a>
 
 ###### Article R*815-4
 
@@ -94570,7 +94889,7 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-#### Chapitre VI : Dispositions relatives aux examens et concours publics.<a id=988></a>
+#### Chapitre VI : Dispositions relatives aux examens et concours publics.<a id=987></a>
 
 ###### Article R*816-1
 
@@ -94689,9 +95008,9 @@ _Abrogé par_:
   - Décret n°96-405 du 26 avril 1996 - art. 3 (V) JORF 15 mai 1996
 
 
-### Titre II : Développement agricole<a id=989></a>
+### Titre II : Développement agricole<a id=988></a>
 
-#### Chapitre Ier : Actions de développement agricole.<a id=990></a>
+#### Chapitre Ier : Actions de développement agricole.<a id=989></a>
 
 ###### Article R*821-1
 
@@ -94796,7 +95115,7 @@ _Modifié par_:
   - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
 
 
-#### Chapitre II : Convention avec l'association nationale pour le développement agricole.<a id=991></a>
+#### Chapitre II : Convention avec l'association nationale pour le développement agricole.<a id=990></a>
 
 ###### Article R*822-1
 
@@ -94912,7 +95231,7 @@ _Modifié par_:
   - Décret n°86-484 du 14 mars 1986 - art. 1 () JORF 16 mars 1986
 
 
-#### Chapitre III : Fonds national de développement agricole.<a id=992></a>
+#### Chapitre III : Fonds national de développement agricole.<a id=991></a>
 
 ###### Article R*823-1
 
@@ -95409,9 +95728,9 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-#### Chapitre IV : Programmes départementaux, régionaux et national de développement agricole<a id=993></a>
+#### Chapitre IV : Programmes départementaux, régionaux et national de développement agricole<a id=992></a>
 
-##### Section 1 : Programmes départementaux.<a id=994></a>
+##### Section 1 : Programmes départementaux.<a id=993></a>
 
 ###### Article R824-1
 
@@ -95559,7 +95878,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-##### Section 2 : Programmes régionaux.<a id=995></a>
+##### Section 2 : Programmes régionaux.<a id=994></a>
 
 ###### Article R824-5
 
@@ -95710,7 +96029,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-##### Section 3 : Programme national.<a id=996></a>
+##### Section 3 : Programme national.<a id=995></a>
 
 ###### Article R824-9
 
@@ -95764,7 +96083,7 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-#### Chapitre V : Conventions de développement.<a id=997></a>
+#### Chapitre V : Conventions de développement.<a id=996></a>
 
 ###### Article R825-1
 
@@ -95886,11 +96205,11 @@ _Abrogé par_:
   - Décret n°2001-961 du 22 octobre 2001 - art. 1 () JORF 23 octobre 2001
 
 
-### Titre III : Recherche agronomique<a id=998></a>
+### Titre III : Recherche agronomique<a id=997></a>
 
-#### Chapitre Ier : Institut national de la recherche agronomique<a id=999></a>
+#### Chapitre Ier : Institut national de la recherche agronomique<a id=998></a>
 
-##### Section 1 : Dispositions générales.<a id=1000></a>
+##### Section 1 : Dispositions générales.<a id=999></a>
 
 ###### Article R831-1
 
@@ -95992,7 +96311,7 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=1001></a>
+##### Section 2 : Administration de l'institut national de la recherche agronomique.<a id=1000></a>
 
 ###### Article R*831-3
 
@@ -96379,7 +96698,7 @@ _Modifié par_:
   - Décret n°90-648 du 13 juillet 1990 - art. 1 () JORF 24 juillet 1990
 
 
-##### Section 3 : Dispositions diverses.<a id=1002></a>
+##### Section 3 : Dispositions diverses.<a id=1001></a>
 
 ###### Article R*831-14
 
@@ -96424,9 +96743,9 @@ _Modifié par_:
   - Décret n°84-1120 1984-12-14 art. 2 JORF 16 décembre 1984
 
 
-#### Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts<a id=1003></a>
+#### Chapitre II : Centre national du machinisme agricole, du génie rural, des eaux et des forêts<a id=1002></a>
 
-##### Section 1 : Dispositions générales<a id=1004></a>
+##### Section 1 : Dispositions générales<a id=1003></a>
 
 ###### Article R832-1
 
@@ -96560,7 +96879,7 @@ _Cité par_:
   - Code rural - art. R832-17 (V)
 
 
-##### Section 2 : Administration et direction du centre.<a id=1005></a>
+##### Section 2 : Administration et direction du centre.<a id=1004></a>
 
 ###### Article R*832-4
 
@@ -96853,7 +97172,7 @@ _Modifié par_:
   - Décret n°85-1401 1985-12-27 art. 1 JORF 29 décembre 1985
 
 
-##### Section 3 : Organisation du centre.<a id=1006></a>
+##### Section 3 : Organisation du centre.<a id=1005></a>
 
 ###### Article R832-11
 
@@ -96970,7 +97289,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R832-6 (Ab)
 
 
-##### Section 4 : Conseil scientifique et technique et commissions spécialisées<a id=1007></a>
+##### Section 4 : Conseil scientifique et technique et commissions spécialisées<a id=1006></a>
 
 ###### Article R832-15
 
@@ -97053,7 +97372,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R832-6 (Ab)
 
 
-##### Section 5 : Dispositions diverses<a id=1008></a>
+##### Section 5 : Dispositions diverses<a id=1007></a>
 
 ###### Article R832-17
 
