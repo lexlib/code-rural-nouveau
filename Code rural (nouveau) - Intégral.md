@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1996-02-24
+Version Consolidée au 1996-03-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -879,8 +879,8 @@ Version Consolidée au 1996-02-24
           - [Section 3 : Comité permanent. (art. R*251-11 à R*251-18)](#876)
           - [Section 4 : Experts. (art. R*251-19 à R*251-20)](#877)
           - [Section 5 : Secrétariat administratif. (art. R*251-21)](#878)
-        - [Chapitre II : Associations ayant pour objet la protection de la nature et de l'environnement (art. R*252-1 à R*252-20)](#879)
-          - [Section 1 : Conditions d'obtention de l'agrément. (art. R*252-2 à R*252-4)](#880)
+        - [Chapitre II : Associations agréées pour la protection de l'environnement (art. R*252-1 à R*252-20)](#879)
+          - [Section 1 : Conditions d'obtention de l'agrément. (art. R*252-2 à R*252-3)](#880)
           - [Section 2 : Procédure d'agrément (art. R*252-5 à R*252-18)](#881)
             - [Sous-section 1 : Demande. (art. R*252-5 à R*252-9)](#882)
             - [Sous-section 2 : Instruction de la demande. (art. R*252-10 à R*252-12)](#883)
@@ -86378,129 +86378,109 @@ _Nouveaux textes_:
   - Code de l'environnement R251-21
 
 
-#### Chapitre II : Associations ayant pour objet la protection de la nature et de l'environnement<a id=879></a>
+#### Chapitre II : Associations agréées pour la protection de l'environnement<a id=879></a>
 
 ###### Article R*252-1
 
-Les dispositions du présent chapitre sont applicables aux associations qui sollicitent l'agrément prévu :
-
-a) A l'article L. 252-1 relatif aux associations exerçant leurs activités statutaires dans le domaine de la protection de la
-nature et de l'environnement ;
-
-b) A l'article L. 121-8 du code de l'urbanisme relatif aux associations locales d'usagers ;
-
-c) A l'article L. 160-1 du code de l'urbanisme relatif aux associations de protection et d'amélioration du cadre de vie et de
-l'environnement.
+Les dispositions du présent chapitre sont applicables aux associations qui sollicitent l'agrément prévu à l'article L. 252-1
+relatif aux associations agréées pour la protection de l'environnement, ou qui en bénéficient. Les associations agréées
+antérieurement au 3 février 1995, y compris celles agréées en qualité d'association reconnue d'utilité publique qui sont
+réputées agréées en application de l'article L. 252-1 du code rural, n'ont pas à présenter de nouvelle demande d'agrément.
+Elles sont pour le surplus soumises aux dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret n°77-760 du 7 juillet 1977 - art. 2 (Ab)
+  - Code rural L252-1
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+  - Décret n°96-170 du 28 février 1996 - art. 2 () JORF 7 mars 1996
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de l'urbanisme - art. L121-8 (M)
-  - Code de l'urbanisme - art. L160-1 (M)
-  - Code rural L252-1
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-1
 
 
 ##### Section 1 : Conditions d'obtention de l'agrément.<a id=880></a>
 
 ###### Article R*252-2
 
-Les associations mentionnées à l'article R. 252-1 ne peuvent être agréées que si, à la date de la demande d'agrément, elles
+Les associations mentionnées à l'article R. 252-1 peuvent être agréées si, à la date de la demande d'agrément, elles
 justifient depuis trois ans au moins à compter de leur déclaration ou, pour les départements du Bas-Rhin, du Haut-Rhin et de
 la Moselle, de leur inscription :
 
 a) D'un fonctionnement conforme à leurs statuts ;
 
-b) D'activités désintéressées dans le domaine de la protection de la nature et de l'environnement ou en faveur de la
-protection et de l'amélioration du cadre de vie ou de l'environnement, selon le cas ;
+b) D'activités statutaires dans les domaines mentionnés à l'article L. 252-1 ;
 
-c) De garanties suffisantes d'organisation.
+c) De l'exercice, à titre principal, d'activités effectives consacrées à la protection de l'environnement ;
+
+d) De garanties suffisantes d'organisation.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R252-1
-
-_Anciens textes_:
-
-  - Décret n°77-760 du 7 juillet 1977 - art. 3 (Ab)
+  - Code rural R252-1, L252-1
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+  - Décret n°96-170 du 28 février 1996 - art. 3 () JORF 7 mars 1996
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-2
 
 
 ###### Article R*252-3
 
-L'existence des conditions mentionnées à l'article R. 252-2 est attestée notamment par un nombre suffisant de membres
-cotisant soit individuellement, soit par l'intermédiaire d'associations fédérées, par la régularité du fonctionnement des
-divers organes d'administration de l'association, par la régularité des comptes, par la nature et l'importance des activités
-pratiques ou des publications.
+L'existence des conditions mentionnées à l'article R. 252-2 est attestée notamment par un nombre suffisant, eu égard au cadre
+territorial de leur activité, de membres cotisant soit individuellement, soit par l'intermédiaire d'associations fédérées,
+par la régularité du fonctionnement des divers organes d'administration de l'association, par la régularité des comptes, par
+la nature et l'importance  des activités effectives ou des publications dans les domaines mentionnés à l'article L. 252-1.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R252-2
-
-_Anciens textes_:
-
-  - Décret n°77-760 du 7 juillet 1977 - art. 4 (Ab)
+  - Code rural R252-2, L252-1
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-
-###### Article R*252-4
-
-Les associations reconnues d'utilité publique exerçant leurs activités statutaires dans le domaine de la protection de la
-nature et de l'environnement, qui sollicitent l'agrément prévu à l'article L. 252-1 du présent code ou à l'article L. 121-8
-du code de l'urbanisme, sont dispensées d'apporter les justifications mentionnées à l'article R. 252-3.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L252-1, R252-3
-  - Code de l'urbanisme - art. L121-8 (M)
-
-_Anciens textes_:
-
-  - Décret n°77-760 du 7 juillet 1977 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 3 mars 1996
+  - Décret n°96-170 du 28 février 1996 - art. 4 () JORF 3 mars 1996
 
 _Abrogé par_:
 
-  - Décret n°96-170 du 28 février 1996 - art. 5 (V) JORF 7 mars 1996
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-3
 
 
 ##### Section 2 : Procédure d'agrément<a id=881></a>
@@ -86513,17 +86493,21 @@ La demande d'agrément est présentée par le président de l'association, habil
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°77-760 1977-07-07 art. 6 al. 1
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-5
 
 
 ###### Article R*252-6
@@ -86548,54 +86532,57 @@ e) Le rapport moral et le rapport financier approuvés lors de la dernière asse
 comprendre un tableau retraçant les ressources et les charges financières de l'association ; il indique expressément le ou
 les montants des cotisations demandées aux membres de l'association et le produit de ces cotisations ;
 
-f) L'indication de la ou des législations énumérées à l'article R. 252-1, au titre de laquelle ou desquelles l'agrément est
-sollicité ;
+f) (alinéa abrogé).
 
 g) L'indication du cadre géographique, communal, intercommunal, départemental, interdépartemental, régional ou national pour
 lequel l'agrément est sollicité.
 
-Sans préjudice des dispositions de l'alinéa 2 de l'article R. 252-15, l'agrément des associations locales d'usagers prévu à
-l'article L. 121-8 du code de l'urbanisme ne peut être sollicité que pour la commune où l'association a son siège social.
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R252-1, R252-15
-  - Code de l'urbanisme - art. L121-8 (M)
-  - Loi n°1901-07-01 art. 5
-
-_Anciens textes_:
-
-  - Décret n°77-760 1977-07-07 art. 6 al. 2, al. 3
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+  - Décret n°96-170 du 28 février 1996 - art. 6 () JORF 7 mars 1996
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-6
+
+_Cite_:
+
+  - Loi n°1901-07-01 art. 5
 
 
 ###### Article R*252-7
 
-Le modèle de la demande d'agrément est fixé par arrêté conjoint du ministre chargé de la protection de la nature, du ministre
-chargé de l'urbanisme et du ministre chargé des monuments historiques et des sites.
+Le modèle de demande d'agrément est fixé par arrêté du ministre chargé de l'environnement.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-760 du 7 juillet 1977 - art. 7 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+  - Décret n°96-170 du 28 février 1996 - art. 7 () JORF 7 mars 1996
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-7
 
 
 ###### Article R*252-8
@@ -86609,17 +86596,21 @@ _Cite_:
 
   - Code rural R252-10
 
-_Anciens textes_:
-
-  - Décret n°77-760 1977-07-07 art. 8 al. 1
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-8
 
 
 ###### Article R*252-9
@@ -86636,56 +86627,54 @@ selon les cas.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°77-760 1977-07-07 art. 8 al. 2
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-9
 
 
 ##### Sous-section 2 : Instruction de la demande.<a id=883></a>
 
 ###### Article R*252-10
 
-Le préfet procède à l'instruction de la demande et consulte les services locaux représentant les départements ministériels
-intéressés.
+Le préfet du département ou le préfet de région procède à l'instruction de la demande et consulte pour avis le directeur
+régional de l'environnement ainsi que les services déconcentrés intéressés.
 
-Lorsque l'agrément de l'association est sollicité au titre de l'article L. 160-1 du code de l'urbanisme ou au titre de
-l'article L. 252-1, le préfet recueille également l'avis du procureur général près de la cour d'appel dans le ressort de
-laquelle l'association a son siège social.
+Il recueille également l'avis du procureur général près la cour d'appel dans le ressort de laquelle l'association a son siège
+social.
 
-Lorsque l'agrément de l'association est sollicité au titre de l'article L. 121-8 du code de l'urbanisme ou, dans un cadre
-communal ou intercommunal, au titre de l'article L. 160-1 du même code ou de l'article L. 252-1 du présent code, le préfet
-recueille l'avis du maire de la commune où l'association a son siège social. S'il existe un établissement public groupant
-plusieurs communes et ayant compétence en matière d'urbanisme, ou dont les activités ont des incidences directes sur
-l'environnement, le préfet recueille, outre l'avis du maire, celui du président de cet établissement, s'il est autre que le
-maire.
+Lorsque l'agrément est sollicité dans un cadre communal ou intercommunal, le préfet recueille l'avis du maire de la commune
+où l'association a son siège social.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L252-1
-  - Code de l'urbanisme - art. L121-8 (M)
-  - Code de l'urbanisme - art. L160-1 (M)
-
-_Anciens textes_:
-
-  - Décret n°77-760 du 7 juillet 1977 - art. 9 (M)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+  - Décret n°96-170 du 28 février 1996 - art. 8 () JORF 7 mars 1996
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-10
 
 
 ###### Article R*252-11
@@ -86695,199 +86684,172 @@ deux mois. Faute de réponse dans ce délai, leur avis est réputé favorable.
 
 **Liens relatifs à cet article**
 
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-11
+
 _Cite_:
 
   - Code rural R252-10
-
-_Anciens textes_:
-
-  - Décret n°77-760 du 7 juillet 1977 - art. 10 (M)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 
 ###### Article R*252-12
 
 Lorsqu'il n'est pas l'autorité compétente pour statuer sur la demande, le préfet transmet le dossier, avec son avis, au
-ministre chargé de la protection de la nature et au ministre chargé de l'urbanisme.
+ministre chargé de l'environnement.
+
+Lorsque l'objet statutaire de l'association qui demande l'agrément comprend l'urbanisme, le ministre chargé de
+l'environnement consulte le ministre chargé de l'urbanisme. Ce dernier donne son avis dans un délai d'un mois. A défaut de
+réponse dans ce délai son avis est réputé favorable.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-760 du 7 juillet 1977 - art. 11 (M)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+  - Décret n°96-170 du 28 février 1996 - art. 9 () JORF 7 mars 1996
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-12
 
 
 ##### Sous-section 3 : Décision.<a id=884></a>
 
 ###### Article R*252-13
 
-La décision en matière d'agrément est de la compétence du préfet lorsque l'agrément est sollicité uniquement au titre de
-l'article L. 121-8 du code de l'urbanisme ou dans un cadre communal, intercommunal ou départemental.
+La décision en matière d'agrément est de la compétence du préfet lorsque l'agrément est sollicité dans un cadre communal,
+intercommunal ou départemental.
 
 La décision est de la compétence du préfet de région quand l'agrément est sollicité dans un cadre régional ou dans un cadre
 interdépartemental dans les limites d'une région.
 
-La décision est de la compétence conjointe du ministre chargé de la protection de la nature et du ministre chargé de
-l'urbanisme dans les autres cas.
+La décision est de la compétence du ministre chargé de l'environnement dans les autres cas.
 
 La décision de refus d'agrément doit être motivée.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°77-760 du 7 juillet 1977 - art. 12 (M)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+  - Décret n°96-170 du 28 février 1996 - art. 10 () JORF 7 mars 1996
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de l'urbanisme - art. L121-8 (M)
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-13
 
 
 ###### Article R*252-14
 
-Lorsqu'il relève du préfet, l'agrément est réputé accordé si, dans un délai de quatre mois à compter de l'avis de réception
-ou de la décharge prévue à l'article R. 252-9 ou de la réception des exemplaires supplémentaires, l'association n'a pas reçu
-notification de la décision du préfet.
-
-Lorsque l'agrément relève des ministres mentionnés au troisième alinéa de l'article R. 252-13, il est réputé accordé en
-l'absence de notification à l'association d'une décision à l'expiration d'un délai de sept mois décompté comme il est dit à
-l'alinéa précédent.
+L'agrément est réputé refusé si, dans un délai de six mois à compter de l'avis de réception ou de la décharge prévue à
+l'article R. 252-9, ou de la réception des exemplaires supplémentaires, l'association n'a pas reçu notification de la
+décision.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R252-9, R252-13
-
-_Anciens textes_:
-
-  - Décret n°77-760 du 7 juillet 1977 - art. 13 (M)
+  - Code rural R252-9
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+  - Décret n°96-170 du 28 février 1996 - art. 11 () JORF 7 mars 1996
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-14
 
 
 ###### Article R*252-15
 
-La décision d'agrément indique le cadre pour lequel cet agrément est accordé ainsi que la ou les législations mentionnées à
-l'article R. 252-1 auxquelles il s'applique.
-
-Dans le cas où l'agrément a été accordé au titre de l'article L. 121-8 du code de l'urbanisme, il confère à l'association les
-droits reconnus audit article pour l'élaboration du plan d'occupation des sols, et, le cas échéant, du plan de sauvegarde et
-de mise en valeur qui intéresse la commune où elle a son siège social, que ces plans aient été prescrits pour une commune ou
-un ensemble de communes.
+La décision d'agrément est motivée et indique le cadre géographique pour lequel cet agrément est accordé.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R252-1
-  - Code de l'urbanisme - art. L121-8 (M)
-
-_Anciens textes_:
-
-  - Décret n°77-760 du 7 juillet 1977 - art. 14 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
-
-
-###### Article R*252-16
-
-Postérieurement à l'expiration du délai de quatre mois ou du délai de sept mois mentionné à l'article R. 252-14, une
-attestation certifiant qu'aucune décision négative n'est intervenue sur une demande d'agrément est délivrée sous quinzaine au
-président de l'association intéressée, sur simple requête de celui-ci par le préfet dans les cas visés aux alinéas 1 et 2 de
-l'article R. 252-13 et par les ministres compétents dans le cas visé à l'alinéa 3 du même article.
-
-Lorsque l'agrément est accordé tacitement, il s'exerce dans les termes où il a été demandé.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R252-14, R252-13
-
-_Codifié par_:
-
-  - Décret n°89-805 1989-10-27
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+  - Décret n°96-170 du 28 février 1996 - art. 12 () JORF 7 mars 1996
 
 _Abrogé par_:
 
-  - Décret n°96-170 1996-03-07 art. 13 JORF 7 mars 1996
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Décret n°77-760 du 7 juillet 1977 - art. 15 (M)
-
-_Créé par_:
-
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Code de l'environnement R252-15
 
 
 ###### Article R*252-17
 
-La décision d'agrément est publiée au Journal officiel de la République française lorsqu'elle est prise par les ministres
-mentionnés à l'article R. 252-13, et au recueil des actes administratifs lorsqu'elle émane du préfet.
+La décision d'agrément est publiée au Journal officiel  de la République française lorsqu'elle est prise au plan national et
+au Recueil des actes administratifs de la préfecture dans les autres cas. Le préfet de chaque département concerné en adresse
+copie aux greffes des tribunaux d'instance et de grande instance intéressés.
 
-Dans ce dernier cas, le préfet en adresse copie aux greffes des tribunaux d'instance et de grande instance intéressés.
-
-Il en est de même d'une copie de l'attestation prévue au premier alinéa de l'article R. 252-16 lorsque aucune décision n'a
-été prise à l'égard de la demande d'agrément dans l'un ou l'autre des délais mentionnés à l'article R. 252-14.
-
-Dans chaque département, le préfet publie annuellement au recueil des actes administratifs la liste des associations qui ont
-été agréées par décision préfectorale expresse ou tacite dans un cadre géographique relevant en tout ou en partie de sa
-compétence.
+Le ministre chargé de l'environnement publie annuellement la liste des associations bénéficiant d'un agrément national. Le
+préfet publie annuellement au Recueil des actes administratifs la liste des associations qui ont été agréées dans un cadre
+géographique relevant de tout ou partie de sa compétence.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R252-13, R252-14, R252-16
-
-_Anciens textes_:
-
-  - Décret n°77-760 du 7 juillet 1977 - art. 16 (M)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+  - Décret n°96-170 du 28 février 1996 - art. 17 (V) JORF 7 mars 1996
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-17
 
 
 ###### Article R*252-18
@@ -86896,29 +86858,26 @@ L'agrément d'une fédération ou d'une union d'associations n'entraîne pas de 
 composent.
 
 Lorsque plusieurs associations dont l'une au moins est agréée se transforment en une seule, l'agrément doit être à nouveau
-sollicité.
-
-Dans le cas où l'agrément a été accordé au titre de l'article L. 121-8 du code de l'urbanisme, il doit être à nouveau demandé
-au titre dudit article, en cas de transfert du siège social de l'association agréée dans une autre commune, sauf si la
-commune du nouveau siège social fait partie du même groupement d'urbanisme que la commune de l'ancien siège social.
+sollicité dans les conditions prévues au présent chapitre.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-760 du 7 juillet 1977 - art. 17 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+  - Décret n°96-170 du 28 février 1996 - art. 15 () JORF 7 mars 1996
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de l'urbanisme - art. L121-8 (M)
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-18
 
 
 ##### Section 3 : Obligations de l'association agréée.<a id=885></a>
@@ -86934,24 +86893,31 @@ _Cite_:
 
   - Code rural R252-6
 
-_Anciens textes_:
-
-  - Décret n°77-760 du 7 juillet 1977 - art. 18 (Ab)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-19
 
 
 ###### Article R*252-20
 
 Lorsque l'association ne respecte pas l'obligation mentionnée à l'article R. 252-19 ou ne remplit plus l'une des conditions
-ayant justifié l'agrément, celui-ci peut être suspendu ou il peut être mis fin à ses effets par l'autorité qui l'a accordé
-sans qu'il soit nécessaire de procéder aux consultations mentionnées à l'article R. 252-10.
+ayant motivé l'agrément, celui-ci peut  lui être retiré par l'autorité qui l'a accordé sans qu'il soit nécessaire de procéder
+aux consultations mentionnées à l'article R. 252-10.
+
+Lorsque l'agrément a été accordé en application du dernier alinéa de l'article L. 252-1, son retrait est prononcé par
+l'autorité administrative qui aurait dû le délivrer.
 
 L'association doit être au préalable invitée à présenter ses observations.
 
@@ -86962,19 +86928,24 @@ l'article R. 252-17.
 
 _Cite_:
 
-  - Code rural R252-17, R252-19, R252-10
-
-_Anciens textes_:
-
-  - Décret n°77-760 du 7 juillet 1977 - art. 19 (Ab)
+  - Code rural R252-19, R252-10, L252-1, R252-17
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°96-170 du 28 février 1996 - art. 1 () JORF 7 mars 1996
+  - Décret n°96-170 du 28 février 1996 - art. 16 () JORF 7 mars 1996
+
+_Abrogé par_:
+
+  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+_Nouveaux textes_:
+
+  - Code de l'environnement R252-20
 
 
 ### Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon, aux terres australes et antarctiques et à la collectivité territoriale de Mayotte<a id=886></a>
