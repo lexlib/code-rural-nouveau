@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1993-11-27
+Version Consolidée au 1993-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -74476,7 +74476,9 @@ coucher dans les eaux mentionnées à l'article L. 235-1 ;
 3° De l'anguille à toute heure ;
 
 4° Des aloses et des lamproies à toute heure dans les parties non salées des cours d'eau et des canaux mentionnés à l'alinéa
-2 de l'article L. 236-10.
+2 de l'article L. 236-10 ;
+
+5° De la carpe à toute heure dans les parties de cours d'eau et plans d'eau de 2e catégorie qu'il désigne.
 
 **Liens relatifs à cet article**
 
@@ -74484,17 +74486,13 @@ _Cite_:
 
   - Code rural R236-27, L235-1, L236-10
 
-_Anciens textes_:
-
-  - Décret n°85-1385 du 23 décembre 1985 - art. 14 (M)
-
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
 _Créé par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°93-1320 du 15 décembre 1993 - art. 1 () JORF 22 décembre 1993
 
 
 ###### Article R*236-21
