@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1994-02-11
+Version Consolidée au 1994-02-26
 ## Contenu: 
   - [Partie législative (art. L111-1 à L815-4)](#1)
     - [Livre Ier : Aménagement et équipement de l'espace rural (art. L111-1 à L163-1)](#2)
@@ -955,7 +955,7 @@ Version Consolidée au 1994-02-11
           - [Section 2 : Comité permanent général, commissions et sections spécialisées. (art. R513-12 à R513-21)](#952)
           - [Section 3 : Régime financier. (art. R513-22 à R513-28)](#953)
         - [Chapitre IV : Dispositions financières communes (art. R*514-1 à R*514-7)](#954)
-      - [Titre II : Sociétés coopératives agricoles (art. R*521-2 à R529-1)](#955)
+      - [Titre II : Sociétés coopératives agricoles (art. R*521-2 à R529-2)](#955)
         - [Chapitre Ier : Dispositions générales, constitution (art. R*521-2 à R521-15)](#956)
           - [Section 1 : Dispositions générales. (art. R*521-2 à R521-3)](#957)
           - [Section 2 : Constitution. (art. R*521-7 à R521-15)](#958)
@@ -984,37 +984,37 @@ Version Consolidée au 1994-02-11
         - [Chapitre VIII : Conseils et commissions compétents en matière de coopération agricole (art. R*528-1 à R528-9)](#981)
           - [Section 1 : Conseil supérieur de la coopération agricole et commission centrale d'agrément. (art. R*528-1 à R*528-7)](#982)
           - [Section 2 : Commission départementale des structures agricoles. (art. R*528-8 à R528-9)](#983)
-        - [Chapitre IX : Dispositions pénales, dispositions d'application. (art. R*529-2 à R529-1)](#984)
-      - [Titre III : Sociétés d'intérêt collectif agricole (art. R*531-2 à R534-4)](#985)
+        - [Chapitre IX : Dispositions pénales, dispositions d'application. (art. R529-1 à R529-2)](#984)
+      - [Titre III : Sociétés d'intérêt collectif agricole (art. R*531-2 à R535-1)](#985)
         - [Chapitre Ier : Constitution, agrément. (art. R*531-2 à R531-7)](#986)
         - [Chapitre II : Fonctionnement. (art. R532-1 à R532-6)](#987)
         - [Chapitre III : Dispositions financières. (art. R*533-2 à R533-3)](#988)
         - [Chapitre IV : Transformation, dissolution, liquidation. (art. R*534-2 à R534-4)](#989)
-      - [Titre IV : Sociétés mixtes d'intérêt agricole (art. R541-1)](#990)
-      - [Titre V : Groupements de producteurs et comités économiques agricoles (art. R*551-1 à R556-3)](#991)
-        - [Chapitre Ier : Groupements de producteurs. (art. R*551-1 à R*551-12)](#992)
-        - [Chapitre II : Comités économiques agricoles. (art. R*552-1 à R552-14)](#993)
-        - [Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles (art. R*553-1 à R*553-17)](#994)
-          - [Section 1 : Droits d'inscription et cotisations. (art. R*553-1 à R*553-9)](#995)
-          - [Section 2 : Contrôle. (art. R*553-10 à R*553-16)](#996)
-          - [Section 3 : Dispositions diverses. (art. R*553-17)](#997)
-        - [Chapitre IV : Extension des règles édictées par les comités économiques agricoles (art. R*554-1 à R*554-29)](#998)
-          - [Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole (art. R*554-1)](#999)
-          - [Section 2 : Procédure d'extension des règles (art. R*554-2 à R*554-29)](#1000)
-            - [Sous-section 1 : Dispositions générales. (art. R*554-2 à R*554-6)](#1001)
-            - [Sous-section 2 : Procédure de consultation des producteurs (art. R*554-7 à R*554-29)](#1002)
-              - [Paragraphe 1 : Etablissement de la liste des producteurs. (art. R*554-7 à R*554-15)](#1003)
-              - [Paragraphe 2 : Modalités de la consultation des producteurs. (art. R*554-16 à R*554-28)](#1004)
-              - [Paragraphe 3 : Dispositions diverses. (art. R*554-29)](#1005)
-        - [Chapitre V : Dispositions particulières aux départements d'outre-mer. (art. R555-1 à R555-4)](#1006)
-        - [Chapitre VI : Pénalités (art. R*556-1 à R556-3)](#1007)
-      - [Titre VI : Jardins familiaux (art. R562-1 à R564-3)](#1008)
-        - [Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux (art. R562-1 à R562-3)](#1009)
-          - [Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER). (art. R562-1)](#1010)
-          - [Section 2 : Droit de préemption des collectivités locales. (art. R562-2 à R562-3)](#1011)
-        - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique (art. R563-1 à R563-2)](#1012)
-        - [Chapitre IV : Avantages divers et subventions (art. R564-1 à R564-3)](#1013)
-    - [Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux (art.  à R564-3)](#1014)
+        - [Chapitre V : Dispositions pénales. (art. R535-1)](#990)
+      - [Titre IV : Sociétés mixtes d'intérêt agricole (art. R541-1)](#991)
+      - [Titre V : Groupements de producteurs et comités économiques agricoles (art. R*551-1 à R556-3)](#992)
+        - [Chapitre Ier : Groupements de producteurs. (art. R*551-1 à R*551-12)](#993)
+        - [Chapitre II : Comités économiques agricoles. (art. R*552-1 à R552-14)](#994)
+        - [Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles (art. R*553-1 à R*553-17)](#995)
+          - [Section 1 : Droits d'inscription et cotisations. (art. R*553-1 à R*553-9)](#996)
+          - [Section 2 : Contrôle. (art. R*553-10 à R*553-16)](#997)
+          - [Section 3 : Dispositions diverses. (art. R*553-17)](#998)
+        - [Chapitre IV : Extension des règles édictées par les comités économiques agricoles (art. R*554-1 à R*554-29)](#999)
+          - [Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole (art. R*554-1)](#1000)
+          - [Section 2 : Procédure d'extension des règles (art. R*554-2 à R*554-29)](#1001)
+            - [Sous-section 1 : Dispositions générales. (art. R*554-2 à R*554-6)](#1002)
+            - [Sous-section 2 : Procédure de consultation des producteurs (art. R*554-7 à R*554-29)](#1003)
+              - [Paragraphe 1 : Etablissement de la liste des producteurs. (art. R*554-7 à R*554-15)](#1004)
+              - [Paragraphe 2 : Modalités de la consultation des producteurs. (art. R*554-16 à R*554-28)](#1005)
+              - [Paragraphe 3 : Dispositions diverses. (art. R*554-29)](#1006)
+        - [Chapitre V : Dispositions particulières aux départements d'outre-mer. (art. R555-1 à R555-4)](#1007)
+        - [Chapitre VI : Pénalités (art. R*556-1 à R556-3)](#1008)
+      - [Titre VI : Jardins familiaux (art. R562-1 à R564-3)](#1009)
+        - [Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux (art. R562-1 à R562-3)](#1010)
+          - [Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER). (art. R562-1)](#1011)
+          - [Section 2 : Droit de préemption des collectivités locales. (art. R562-2 à R562-3)](#1012)
+        - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique (art. R563-1 à R563-2)](#1013)
+        - [Chapitre IV : Avantages divers et subventions (art. R564-1 à R564-3)](#1014)
     - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique (art. R*811-1 à R832-19)](#1015)
       - [Titre Ier : Enseignement et formation professionnelle agricoles (art. R*811-1 à R*816-3)](#1016)
         - [Chapitre Ier : Dispositions communes à l'enseignement et à la formation professionnelle agricoles (art. R*811-1 à R*811-12)](#1017)
@@ -95988,27 +95988,6 @@ _Abrogé par_:
 
 #### Chapitre IX : Dispositions pénales, dispositions d'application.<a id=984></a>
 
-###### Article R*529-2
-
-Les infractions aux dispositions de l'article R. 529-1 sont punies des peines prévues aux articles R. 34 et R. 35 du code
-pénal.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural R529-1
-  - Code pénal R34, R35
-
-_Codifié par_:
-
-  - Décret n°81-277 1981-03-18
-
-_Modifié par_:
-
-  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
-
-
 ###### Article R529-1
 
 L'utilisation dans tout document, à l'exception des avis prévus en vue de la publicité de la constitution de la société, des
@@ -96037,6 +96016,27 @@ _Cite_:
 _Cité par_:
 
   - Code rural - art. R529-2 (V)
+
+
+###### Article R529-2
+
+Les infractions aux dispositions de l'article R. 529-1 sont punies de la peine d'amende prévue par le 3° de l'article 131-13
+du code pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°94-167 du 25 février 1994 - art. 1 (V) JORF 26 février 1994
+
+_Cite_:
+
+  - Code pénal - art. 131-13 (V)
+  - Code rural - art. R529-1 (V)
 
 
 ### Titre III : Sociétés d'intérêt collectif agricole<a id=985></a>
@@ -96783,7 +96783,31 @@ _Cité par_:
   - Code rural - art. R583-23 (V)
 
 
-### Titre IV : Sociétés mixtes d'intérêt agricole<a id=990></a>
+#### Chapitre V : Dispositions pénales.<a id=990></a>
+
+###### Article R535-1
+
+Sera punie de la peine d'amende prévue par le 3° de l'article 131-13 du code pénal toute personne qui aura utilisé la
+dénomination de société d'intérêt collectif agricole en violation des dispositions de l'article R. 531-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°81-277 1981-03-18
+
+_Modifié par_:
+
+  - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
+  - Décret n°94-167 du 25 février 1994 - art. 1 (V) JORF 26 février 1994
+
+_Cite_:
+
+  - Code pénal - art. 131-13 (V)
+  - Code rural - art. R531-4 (V)
+
+
+### Titre IV : Sociétés mixtes d'intérêt agricole<a id=991></a>
 
 ###### Article R541-1
 
@@ -96829,9 +96853,9 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-### Titre V : Groupements de producteurs et comités économiques agricoles<a id=991></a>
+### Titre V : Groupements de producteurs et comités économiques agricoles<a id=992></a>
 
-#### Chapitre Ier : Groupements de producteurs.<a id=992></a>
+#### Chapitre Ier : Groupements de producteurs.<a id=993></a>
 
 ###### Article R*551-1
 
@@ -97194,7 +97218,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre II : Comités économiques agricoles.<a id=993></a>
+#### Chapitre II : Comités économiques agricoles.<a id=994></a>
 
 ###### Article R*552-1
 
@@ -97633,9 +97657,9 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles<a id=994></a>
+#### Chapitre III : Dispositions communes aux groupements de producteurs et aux comités économiques agricoles<a id=995></a>
 
-##### Section 1 : Droits d'inscription et cotisations.<a id=995></a>
+##### Section 1 : Droits d'inscription et cotisations.<a id=996></a>
 
 ###### Article R*553-1
 
@@ -97845,7 +97869,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-##### Section 2 : Contrôle.<a id=996></a>
+##### Section 2 : Contrôle.<a id=997></a>
 
 ###### Article R*553-10
 
@@ -98025,7 +98049,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R556-3 (Ab)
 
 
-##### Section 3 : Dispositions diverses.<a id=997></a>
+##### Section 3 : Dispositions diverses.<a id=998></a>
 
 ###### Article R*553-17
 
@@ -98049,9 +98073,9 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre IV : Extension des règles édictées par les comités économiques agricoles<a id=998></a>
+#### Chapitre IV : Extension des règles édictées par les comités économiques agricoles<a id=999></a>
 
-##### Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole<a id=999></a>
+##### Section 1 : Catégories de règles pouvant être étendues à l'ensemble des producteurs de la circonscription d'un comité économique agricole<a id=1000></a>
 
 ###### Article R*554-1
 
@@ -98097,9 +98121,9 @@ _Transféré par_:
   - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
 
 
-##### Section 2 : Procédure d'extension des règles<a id=1000></a>
+##### Section 2 : Procédure d'extension des règles<a id=1001></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=1001></a>
+##### Sous-section 1 : Dispositions générales.<a id=1002></a>
 
 ###### Article R*554-2
 
@@ -98275,9 +98299,9 @@ _Transféré par_:
   - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
 
 
-##### Sous-section 2 : Procédure de consultation des producteurs<a id=1002></a>
+##### Sous-section 2 : Procédure de consultation des producteurs<a id=1003></a>
 
-##### Paragraphe 1 : Etablissement de la liste des producteurs.<a id=1003></a>
+##### Paragraphe 1 : Etablissement de la liste des producteurs.<a id=1004></a>
 
 ###### Article R*554-7
 
@@ -98598,7 +98622,7 @@ _Transféré par_:
   - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
 
 
-##### Paragraphe 2 : Modalités de la consultation des producteurs.<a id=1004></a>
+##### Paragraphe 2 : Modalités de la consultation des producteurs.<a id=1005></a>
 
 ###### Article R*554-16
 
@@ -99146,7 +99170,7 @@ _Transféré par_:
   - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
 
 
-##### Paragraphe 3 : Dispositions diverses.<a id=1005></a>
+##### Paragraphe 3 : Dispositions diverses.<a id=1006></a>
 
 ###### Article R*554-29
 
@@ -99181,7 +99205,7 @@ _Transféré par_:
   - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
 
 
-#### Chapitre V : Dispositions particulières aux départements d'outre-mer.<a id=1006></a>
+#### Chapitre V : Dispositions particulières aux départements d'outre-mer.<a id=1007></a>
 
 ###### Article R555-1
 
@@ -99283,7 +99307,7 @@ _Modifié par_:
   - Décret n°90-879 du 28 septembre 1990 - art. 4 () JORF 30 septembre 1990
 
 
-#### Chapitre VI : Pénalités<a id=1007></a>
+#### Chapitre VI : Pénalités<a id=1008></a>
 
 ###### Article R*556-1
 
@@ -99420,11 +99444,11 @@ _Cite_:
   - Code rural et de la pêche maritime - art. R556-2 (Ab)
 
 
-### Titre VI : Jardins familiaux<a id=1008></a>
+### Titre VI : Jardins familiaux<a id=1009></a>
 
-#### Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux<a id=1009></a>
+#### Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux<a id=1010></a>
 
-##### Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER).<a id=1010></a>
+##### Section 1 : Droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER).<a id=1011></a>
 
 ###### Article R562-1
 
@@ -99461,7 +99485,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D572-10 (V)
 
 
-##### Section 2 : Droit de préemption des collectivités locales.<a id=1011></a>
+##### Section 2 : Droit de préemption des collectivités locales.<a id=1012></a>
 
 ###### Article R562-2
 
@@ -99529,7 +99553,7 @@ _Cite_:
   - Code rural - art. R562-2 (V)
 
 
-#### Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique<a id=1012></a>
+#### Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique<a id=1013></a>
 
 ###### Article R563-1
 
@@ -99579,7 +99603,7 @@ _Cite_:
   - Code rural - art. L563-1 (V)
 
 
-#### Chapitre IV : Avantages divers et subventions<a id=1013></a>
+#### Chapitre IV : Avantages divers et subventions<a id=1014></a>
 
 ###### Article R564-1
 
@@ -99667,8 +99691,6 @@ _Cite_:
   - Code rural - art. R562-1 (V)
   - Code rural - art. R563-1 (V)
 
-
-## Livre V : Chambres d'agriculture, organismes professionnels agricoles, jardins familiaux<a id=1014></a>
 
 ## Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique<a id=1015></a>
 
