@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1992-01-04
+Version Consolidée au 1992-01-16
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L263-10)](#2)
@@ -30395,28 +30395,24 @@ _Nouveaux textes_:
 
 Le plan de chasse aux cerfs, daims, mouflons et chevreuils est de droit.
 
-Le plan de chasse peut être institué pour les autres espèces de gibier par arrêté du ministre chargé de la chasse.
+Lorsqu'il concerne une autre espèce de gibier, à l'exception du gibier d'eau, et qu'il porte sur un département, le plan de
+chasse est institué par le préfet sur proposition du directeur départemental de l'agriculture et de la forêt après avis du
+conseil départemental de la chasse et de la faune sauvage et du président de la fédération départementale des chasseurs. Le
+préfet peut instituer un plan de chasse dans les mêmes conditions pour une partie seulement du département à la condition que
+celle-ci constitue une unité de gestion de l'espèce.
 
-Lorsqu'il porte sur plusieurs départements ou sur une espèce de gibier d'eau, l'arrêté est pris après avis du Conseil
-national de la chasse et de la faune sauvage.
-
-Lorsqu'il porte sur un seul département ou une partie de département, l'arrêté est pris après avis du préfet. Le préfet
-formule son avis après avoir consulté le directeur départemental de l'agriculture et de la forêt et le président de la
-fédération départementale des chasseurs.
+Lorsqu'il concerne le gibier d'eau ou qu'il porte sur plusieurs départements, le plan de chasse est institué par le ministre
+chargé de la chasse après avis du Conseil national de la chasse et de la faune sauvage.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°89-505 du 19 juillet 1989 - art. 2 (Ab)
 
 _Codifié par_:
 
   - Décret n°89-805 1989-10-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-805 du 27 octobre 1989 - art. 1 (V) JORF 4 novembre 1989
+  - Décret n°92-44 du 10 janvier 1992 - art. 1 () JORF 16 janvier 1992
 
 
 ###### Article R*225-2
