@@ -1,5 +1,5 @@
 # Code rural (nouveau)  
-Version Consolidée au 1990-09-13
+Version Consolidée au 1990-09-29
 ## Contenu: 
   - [Partie législative (art. L200-1 à L815-4)](#1)
     - [Livre II : Protection de la nature (art. L200-1 à L262-1)](#2)
@@ -51067,23 +51067,19 @@ valables quel que soit le nombre des votants.
 Dans tous les cas, les noms des absents sont inscrits au procès-verbal.
 
 Les employeurs sont tenus de laisser aux salariés de leur entreprise, membres d'une chambre d'agriculture, le temps
-nécessaire pour participer aux sessions de la chambre et aux réunions des commissions dont ils sont membres. L'employeur qui
-refuserait d'accorder une telle autorisation serait passible des peines prévues à l'alinéa 1er de l'article 1023 du code
-rural.
+nécessaire à leur participation aux sessions, aux réunions du bureau lorsqu'ils en sont membres, aux réunions de commissions
+auxquelles ils sont conviés, aux sessions de formation organisées pour les préparer à l'exercice de leur mandat, ainsi que
+pour assurer la représentation de la chambre dans les cas prévus par les lois et règlements.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 1023
 
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-870 du 25 septembre 1990 - art. 1 () JORF 29 septembre 1990
 
 
 ###### Article R*511-56
@@ -51209,23 +51205,21 @@ conservatoires et urgents. En aucun cas il n'est permis au président de la dél
 au-delà des ressources disponibles de l'exercice courant. La délégation ne prend aucune décision définitive concernant le
 personnel, sauf celles imposées par les textes.
 
+Les membres de la délégation spéciale sont indemnisés dans les conditions prévues à l'article R. 511-85.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural R511-12
+  - Code rural R511-12, R511-85
 
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
-
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
-
 _Modifié par_:
 
-  - Décret n°84-96 du 9 février 1984 - art. 13 () JORF 11 février 1984 en vigueur le 15 février 1984
+  - Décret n°90-870 du 25 septembre 1990 - art. 2 () JORF 29 septembre 1990
 
 
 ###### Article R*511-62
@@ -51645,19 +51639,39 @@ _Créé par_:
 
 ###### Article R*511-85
 
-Les fonctions de membre des chambres d'agriculture sont gratuites. Toutefois les membres des chambres d'agriculture sont
-remboursés de leurs frais de déplacement et de séjour, et peuvent être indemnisés de la perte de leur temps de travail sur la
-base du salaire de l'ouvrier agricole le mieux rémunéré du département.
+Les chambres d'agriculture remboursent :
+
+1° A leurs membres élus ou associés leurs frais de déplacement et de séjour ;
+
+2° Aux employeurs des membres élus des deux collèges des salariés mentionnés au 3° de l'article R. 511-6 du code rural, ainsi
+qu'aux employeurs des salariés du secteur des industries agricoles et alimentaires lorsque ces salariés sont désignés comme
+membres associés en application des dispositions du premier alinéa de l'article R. 511-7, les salaires maintenus dans les
+conditions prévues aux articles L. 515-3 et L. 515-5.
+
+Les chambres peuvent attribuer des indemnités forfaitaires :
+
+1° Représentatives du temps passé hors de leurs horaires de travail aux élus des deux collèges de salariés et aux salariés du
+secteur des industries agricoles et alimentaires lorsqu'ils sont désignés comme membres associés, en application des
+dispositions du premier alinéa de l'article R. 511-7 ;
+
+2° Représentatives du temps passé à l'exercice de leur mandat aux élus des autres collèges et aux membres associés autres que
+les salariés du secteur des industries agricoles et alimentaires éventuellement désignés.
+
+Ces indemnités sont calculées sur la base du salaire de l'ouvrier agricole le mieux rémunéré du département.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R511-6, R511-7, L515-3, L515-5
 
 _Codifié par_:
 
   - Décret n°81-277 1981-03-18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-277 1981-03-18 art. 1 JORF 27 mars 1981 en vigueur le 15 novembre 1980
+  - Décret n°90-870 du 25 septembre 1990 - art. 3 () JORF 29 septembre 1990
 
 
 ###### Article R511-74
