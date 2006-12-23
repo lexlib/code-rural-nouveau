@@ -1,4 +1,4 @@
-# Article Annexe I à l'article D212-13
+# Article Annexe I à l'article D212-78
 
 1. Objet et domaine d'application du contrat.
 
@@ -619,17 +619,9 @@ _Cite_:
   - Loi n°98-69 1998-02-06
   - Code de commerce. - art. L441-6 (M)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code rural annexe I à l'article R212-13
-
-_Codifié par_:
-
-  - Décret n°2005-368 2005-04-19
-
-_Créé par_:
-
-  - Décret n°2005-368 du 19 avril 2005 - art. 10 (V) JORF 22 avril 2005
+  - Décret n°2006-1662 du 21 décembre 2006 - art. 1
 
 _Cité par_:
 
