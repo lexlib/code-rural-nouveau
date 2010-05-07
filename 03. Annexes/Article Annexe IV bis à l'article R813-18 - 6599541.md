@@ -1,6 +1,6 @@
 # Article Annexe IV bis à l'article R813-18
 
-1° Enseignants et formateurs intervenant dans les formations de cycle long ou supérieur court.
+1° Enseignants et formateurs intervenant dans les formations de cycle long ou supérieur court. 
 
 Titres, diplômes ou qualités français de niveau II au minimum :
 
@@ -21,12 +21,12 @@ l'une des écoles habilitées par la commission des titres d'ingénieur ;
 
 - maîtrise ;
 
-- licence.
+- licence. 
 
 Titres, diplômes ou qualifications français ou étrangers jugés équivalents et dont la liste est arrêtée après avis d'une
-commission dont la composition est fixée par arrêté.
+commission dont la composition est fixée par arrêté. 
 
-2° Enseignants et formateurs intervenant dans les formations de cycle court.
+2° Enseignants et formateurs intervenant dans les formations de cycle court. 
 
 Titres, diplômes ou qualités français de niveau III au minimum :
 
@@ -52,13 +52,13 @@ d'études supérieures (régime antérieur à celui institué par les décrets n
 - admissibilité aux écoles normales supérieures dans une section de lettres ou de sciences ;
 
 - admissibilité à l'Institut national agronomique ou aux autres écoles nationales supérieures agronomiques ou à l'Ecole
-nationale supérieure des industries agricoles et alimentaires.
+nationale supérieure des industries agricoles et alimentaires. 
 
 Titres, diplômes ou qualifications français ou étrangers jugés équivalents et dont la liste est arrêtée après avis d'une
-commission dont la composition est fixée par arrêté.
+commission dont la composition est fixée par arrêté. 
 
-3° Candidats à l'examen professionnel prévu à l'article R. 813-19 du code rural pour l'accès à un emploi de formateur de
-cycle court dans un établissement mentionné à l'article L. 813-9 du même code.
+3° Candidats à l'examen professionnel prévu à l'article R. 813-19 du code rural et de la pêche maritime pour l'accès à un
+emploi de formateur de cycle court dans un établissement mentionné à l'article L. 813-9 du même code. 
 
 Titres, diplômes ou qualités français de niveau IV au minimum :
 
@@ -72,17 +72,18 @@ Titres, diplômes ou qualités français de niveau IV au minimum :
 
 - brevet d'agent technique agricole ;
 
-- certificat de capacité technique agricole et rurale.
+- certificat de capacité technique agricole et rurale. 
 
 Titres, diplômes ou qualifications français ou étrangers jugés équivalents et dont la liste est arrêtée après avis d'une
 commission dont la composition est fixée par arrêté.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°96-405 1996-04-26
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°96-405 1996-04-26 annexe JORF 15 mai 1996
+  - Code rural - art. L813-9 (V)
+  - Code rural - art. R813-19 (VT)
