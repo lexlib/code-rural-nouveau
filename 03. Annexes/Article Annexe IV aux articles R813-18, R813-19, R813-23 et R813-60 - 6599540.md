@@ -1,6 +1,7 @@
 # Article Annexe IV aux articles R813-18, R813-19, R813-23 et R813-60
 
-1° Titres, diplômes ou qualités français exigés en application du premier alinéa de l'article R. 813-18 du code rural :
+1° Titres, diplômes ou qualités français exigés en application du premier alinéa de l'article R. 813-18 du code rural et de
+la pêche maritime :
 
 - licence ;
 
@@ -18,15 +19,15 @@ niveaux en application de la loi n° 71-577 du 16 juillet 1971 ;
 
 - diplôme des instituts d'études politiques ;
 
-- diplôme d'études supérieures techniques (D.E.S.T.) ;
+- diplôme d'études supérieures techniques (DEST) ;
 
-- diplôme d'études supérieures économiques (D.E.S.E.) ;
+- diplôme d'études supérieures économiques (DESE) ;
 
-- diplôme d'études comptables supérieures (D.E.C.S.) ;
+- diplôme d'études comptables supérieures (DECS) ;
 
-- diplôme d'études comptables et financières (D.E.C.F.) ;
+- diplôme d'études comptables et financières (DECF) ;
 
-- diplôme national des beaux-arts (D.N.B.A.) ;
+- diplôme national des beaux-arts (DNBA) ;
 
 - certificats C 1 et C 2 d'une maîtrise délivrée dans le cadre du régime des études universitaires défini par les décrets n°
 66-411 et n° 66-412 du 22 juin 1966 ;
@@ -45,13 +46,13 @@ d'administration, conformément aux dispositions du décret n° 70-403 du 13 mai
 
 - titres ou diplômes sanctionnant une formation d'au moins trois années dans les conservatoires nationaux supérieurs de
 musique, conformément à l'article 2, deuxième alinéa, de la loi n° 88-20 du 6 janvier 1988 relative aux enseignements
-artistiques.
+artistiques. 
 
 Titres, diplômes ou qualifications français ou étrangers jugés équivalents et dont la liste est arrêtée après avis d'une
-commission dont la composition est fixée par arrêté.
+commission dont la composition est fixée par arrêté. 
 
 2° Titres, diplômes ou qualités français exigés en application du deuxième alinéa de l'article R. 813-18 et de l'article R.
-813-19 du code rural :
+813-19 du code rural et de la pêche maritime :
 
 - brevet de technicien supérieur agricole ;
 
@@ -79,17 +80,18 @@ en application de la loi n° 71-577 du 16 juillet 1971 ;
 
 - admissibilité à l'Institut national agronomique Paris-Grignon ou aux autres écoles nationales supérieures agronomiques ou à
 l'Ecole nationale supérieure des industries agricoles et alimentaires ou aux écoles nationales d'ingénieurs des travaux
-relevant du ministère de l'agriculture.
+relevant du ministère de l'agriculture. 
 
 Titres, diplômes ou qualification français ou étrangers jugés équivalents et dont la liste est arrêtée après avis d'une
 commission dont la composition est fixée par arrêté.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°96-405 1996-04-26
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°96-405 1996-04-26 annexe JORF 15 mai 1996
+  - Code rural - art. R813-18 (VT)
+  - Code rural - art. R813-19 (VT)
