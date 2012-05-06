@@ -8,7 +8,7 @@ Affections provoquées par l'aldéhyde formique et ses polymères
 ┃ DIE                     │ PRISE en     │                                                                                  ┃
 ┃                         │ charge       │                                                                                  ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Ulcérations cutanées.   │ 7 jours      │ Travaux comportant la préparation, la manipulation ou l'emploi de l'aldéhyde     ┃
+┃ Dermatites irritatives. │ 7 jours      │ Travaux comportant la préparation, la manipulation ou l'emploi de l'aldéhyde     ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┤ formique, de ses solutions et de ses polymères, notamment : - travaux de désin-  ┃
 ┃ Lésions eczématiformes  │ Cf. tableau  │ fection ; - préparation des couches dans les champignonnières ; - traitement des ┃
 ┃ (cf. tableau 44).       │ 44           │ peaux.                                                                           ┃
@@ -22,6 +22,6 @@ Affections provoquées par l'aldéhyde formique et ses polymères
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-368 du 19 avril 2005 - art. 1 (V)
+  - Décret n°2012-665 du 4 mai 2012 - art. 1
