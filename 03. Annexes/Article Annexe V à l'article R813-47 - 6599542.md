@@ -1,120 +1,31 @@
 # Article Annexe V à l'article R813-47
 
-<table>
-  <thead>
-    <tr>
-      <td colspan="2" width="227" rowspan="2">
+Le nombre de postes de formateurs nécessaires par groupe de formation de dix-huit élèves est fixé à compter de l'année civile
+2014 conformément au tableau ci-dessous :
 
-Nombre de postes de formateurs nécessaire par groupe de formation de dix-huit élèves
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ RYTHME APPROPRIE                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                              │ Par alternance │ Par une autre méthode pédagogique ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cycle court : 4e, 3e         │ 1,30           │ 1,77                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ CAPA, BEPA                   │ 1,95           │ 1,95                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cycle long : baccalauréat    │ 2                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cycle supérieur court : BTSA │ 2                                                  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
 
-</td>
-      <td width="227" colspan="2">
-
-Rythme approprié
-
-</td>
-    </tr>
-    <tr>
-      <td width="113">
-
-Par alternance
-
-</td>
-      <td width="113">
-
-Par une autre méthode pédagogique
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-4
-          <sup>e</sup> - 3
-          <sup>e</sup>
-
-</td>
-      <td valign="top">
-
-1.30
-
-</td>
-      <td valign="top">
-
-1.77
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Cycle court
-
-</td>
-      <td valign="top">
-
-CAPA-BEPA
-
-</td>
-      <td valign="top">
-
-1.77
-
-</td>
-      <td valign="top">
-
-1.78
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Cycle long
-
-</td>
-      <td valign="top">
-
-BTA
-
-</td>
-      <td colspan="2" valign="top">
-
-1.82
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Cycle supérieur court
-
-</td>
-      <td valign="top">
-
-BTSA
-
-</td>
-      <td valign="top" colspan="2">
-
-1.82
-
-</td>
-    </tr>
-  </tbody>
-</table>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°96-405 1996-04-26
+  - Décret n°96-405 du 26 avril 1996
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°96-405 1996-04-26 annexe JORF 15 mai 1996
+  - Décret n°2014-492 du 15 mai 2014 - art. 3
