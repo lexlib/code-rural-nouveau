@@ -1,62 +1,88 @@
 # Article Tableau n° 18
 
-Maladies causées par le plomb et ses composés
+Affections dues au plomb et à ses composés 
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ DÉSIGNATION DES MALADIES                                               │ DÉLAI DE │ LISTE INDICATIVE DES principaux tra-  ┃
-┃                                                                        │ prise en │ vaux susceptibles de provoquer ces    ┃
-┃                                                                        │ charge   │ maladies                              ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ A. - Manifestations aiguës et subaiguës : Anémie (hémoglobine sanguine │ 3 mois   │ Travaux comportant l'emploi, la mani- ┃
-┃ inférieure à 13 grammes par 100 millilitres chez l'homme et 12 grammes │          │ pulation du plomb ou de tout autre    ┃
-┃ par 100 millilitres chez la femme).                                    │          │ produit en renfermant, notamment : -  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┤ soudure et étamage à l'aide d'alliage ┃
-┃ Syndrome douloureux abdominal paroxystique apyrétique avec état suboc- │ 30 jours │ de plomb ; - préparation et applica-  ┃
-┃ clusif (coliques de plomb) habituellement accompagné d'une crise hy-   │          │ tion de peintures, vernis, laques,    ┃
-┃ pertensive.                                                            │          │ mastics, enduits à base de composés   ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┤ de plomb ; - grattage, brûlage et dé- ┃
-┃ Encéphalopathie aiguë. Pour toutes les manifestations aiguës et subai- │ 30 jours │ coupage au chalumeau de matières re-  ┃
-┃ guës, l'exposition au plomb doit être caractérisée par une plombémie   │          │ couvertes de peintures plombifères.   ┃
-┃ supérieure à 40 microgrammes par 100 millilitres de sang et les signes │          │                                       ┃
-┃ cliniques associés à un taux d'acide delta aminolévulinique urinaire   │          │                                       ┃
-┃ supérieur à 15 milligrammes par gramme de créatinine ou à un taux de   │          │                                       ┃
-┃ protoporphyrine érythrocytaire sanguine supérieur à 20 microgrammes    │          │                                       ┃
-┃ par gramme d'hémoglobine et pour l'anémie à un taux de ferritine nor-  │          │                                       ┃
-┃ mal ou élevé.                                                          │          │                                       ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┤                                       ┃
-┃ B. - Manifestations chroniques : Neuropathies périphériques et/ou syn- │ 3 ans    │                                       ┃
-┃ drome de sclérose latérale amyotrophique ne s'aggravant pas après      │          │                                       ┃
-┃ l'arrêt de l'exposition.                                               │          │                                       ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Troubles neurologiques organiques à type d'altération des fonctions    │ 1 an     │                                       ┃
-┃ cognitives, dont l'organicité est confirmée, après exclusion des mani- │          │                                       ┃
-┃ festations chroniques de la maladie alcoolique, par des méthodes ob-   │          │                                       ┃
-┃ jectives.                                                              │          │                                       ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Insuffisance rénale chronique. Pour toutes les manifestations chro-    │ 10 ans   │                                       ┃
-┃ niques, l'exposition au plomb doit être caractérisée par une plombémie │          │                                       ┃
-┃ antérieure supérieure à 80 microgrammes par 100 millilitres ou, à dé-  │          │                                       ┃
-┃ faut, par des perturbations biologiques spécifiques d'une exposition   │          │                                       ┃
-┃ antérieure au plomb.                                                   │          │                                       ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ C. - Syndrome biologique associant deux anomalies : - d'une part, at-  │ 30 jours │                                       ┃
-┃ teinte biologique comprenant soit un taux d'acide delta aminolévuli-   │          │                                       ┃
-┃ nique urinaire supérieur à 15 milligrammes par gramme de créatinine    │          │                                       ┃
-┃ urinaire, soit un taux de protoporphyrine érythrocytaire supérieur à   │          │                                       ┃
-┃ 20 microgrammes par gramme d'hémoglobine ; - d'autre part, plombémie   │          │                                       ┃
-┃ supérieure à 80 microgrammes par 100 millilitres de sang. Le syndrome  │          │                                       ┃
-┃ biologique doit être confirmé par la répétition des deux examens rete- │          │                                       ┃
-┃ nus, pratiqués dans un intervalle rapproché par un laboratoire agréé   │          │                                       ┃
-┃ dans les conditions prévues à l'article 4 du décret n° 88-120 du 1er   │          │                                       ┃
-┃ février 1988 relatif à la protection des travailleurs exposés au plomb │          │                                       ┃
-┃ métallique et à ses composés.                                          │          │                                       ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DÉSIGNATION DES MALADIES                                             ┃ DÉLAI DE    ┃ LISTE INDICATIVE DES PRINCIPAUX TRA- ┃
+┃                                                                      ┃ PRISE en    ┃ VAUX susceptibles de provoquer ces   ┃
+┃                                                                      ┃ charge      ┃ maladies                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ A.-Anémie (hémoglobine sanguine inférieure à 13 g/100 ml chez        ┃ 3 mois      ┃ Travaux comportant l'emploi, la ma-  ┃
+┃ l'homme, 12 g/100 ml chez la femme), avec une ferritinémie normale   ┃             ┃ nipulation du plomb ou de tout autre ┃
+┃ ou élevée et une plombémie supérieure ou égale à 800 μ g/ l, confir- ┃             ┃ produit en renfermant, notamment : - ┃
+┃ mée par une deuxième plombémie de même niveau ou par une concentra-  ┃             ┃ soudure et étamage à l'aide d'al-    ┃
+┃ tion érythrocytaire de protoporphyrine-zinc égale ou supérieure à 40 ┃             ┃ liage de plomb ; - préparation et    ┃
+┃ μ g/ g d'hémoglobine.                                                ┃             ┃ application de peintures, vernis,    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┨ laques, mastics, enduits à base de   ┃
+┃ B.-Syndrome douloureux abdominal apyrétique avec constipation, avec  ┃ 30 jours    ┃ composés du plomb ; - grattage, brû- ┃
+┃ une plombémie supérieure ou égale à 500 μ g/ l et confirmée par une  ┃             ┃ lage et découpage au chalumeau de    ┃
+┃ deuxième plombémie de même niveau ou une concentration érythrocy-    ┃             ┃ matières recouvertes de peintures    ┃
+┃ taire de protoporphyrine-zinc égale ou supérieure à 20 μ g/ g d'hé-  ┃             ┃ plombifères.                         ┃
+┃ moglobine.                                                           ┃             ┃                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┨                                      ┃
+┃ C.-1. Néphropathie tubulaire caractérisée par au moins deux mar-     ┃ 1 an        ┃                                      ┃
+┃ queurs biologiques urinaires concordants, témoignant d'une atteinte  ┃             ┃                                      ┃
+┃ tubulaire proximale (protéinurie de faible poids moléculaire : reti- ┃             ┃                                      ┃
+┃ nol-binding-protein (RBP), alpha-1-microglobulinurie ou bêta-2-mi-   ┃             ┃                                      ┃
+┃ croglobulinurie …) et associée à une plombémie supérieure ou égale à ┃             ┃                                      ┃
+┃ 400 μ g/ l, confirmée par une deuxième plombémie de même niveau ou   ┃             ┃                                      ┃
+┃ une concentration érythrocytaire de protoporphyrine-zinc égale ou    ┃             ┃                                      ┃
+┃ supérieure à 20 μ g/ g d'hémoglobine.                                ┃             ┃                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┨                                      ┃
+┃ C.-2. Néphropathie glomérulaire et tubulo-interstitielle confirmée   ┃ 10 ans      ┃                                      ┃
+┃ par une albuminurie supérieure à 200 mg/ l et associée à deux plom-  ┃ (sous ré-   ┃                                      ┃
+┃ bémies antérieures au diagnostic égales ou supérieures à 600 μ g/ l. ┃ serve d'une ┃                                      ┃
+┃                                                                      ┃ durée mini- ┃                                      ┃
+┃                                                                      ┃ male d'ex-  ┃                                      ┃
+┃                                                                      ┃ position de ┃                                      ┃
+┃                                                                      ┃ 10 ans      ┃                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┨                                      ┃
+┃ D.-1. Encéphalopathie aiguë associant au moins deux des signes sui-  ┃ 30 jours    ┃                                      ┃
+┃ vants : - hallucinations ; - déficit moteur ou sensitif d'origine    ┃             ┃                                      ┃
+┃ centrale ; - amaurose ; - coma ; - convulsions, avec une plombémie   ┃             ┃                                      ┃
+┃ au moins égale à 2 000 μ g/ l.                                       ┃             ┃                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┨                                      ┃
+┃ D.-2. Encéphalopathie chronique caractérisée par des altérations des ┃ 1 an        ┃                                      ┃
+┃ fonctions cognitives constituées par au moins trois des cinq anoma-  ┃             ┃                                      ┃
+┃ lies suivantes : - ralentissement psychomoteur ; - altération de la  ┃             ┃                                      ┃
+┃ dextérité ; - déficit de la mémoire épisodique ; - troubles des      ┃             ┃                                      ┃
+┃ fonctions exécutives ; - diminution de l'attention, et ne s'aggra-   ┃             ┃                                      ┃
+┃ vant pas après cessation de l'exposition au risque. Le diagnostic    ┃             ┃                                      ┃
+┃ d'encéphalopathie sera établi par des tests psychométriques et sera  ┃             ┃                                      ┃
+┃ confirmé par la répétition de ces tests au moins 6 mois plus tard et ┃             ┃                                      ┃
+┃ après au moins 6 mois sans exposition au risque. Cette encéphalopa-  ┃             ┃                                      ┃
+┃ thie s'accompagne d'au moins deux plombémies égales ou supérieures à ┃             ┃                                      ┃
+┃ 400 μ g/ l au cours des années antérieures.                          ┃             ┃                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┨                                      ┃
+┃ D.-3. Neuropathie périphérique confirmée par un ralentissement de la ┃ 1 an        ┃                                      ┃
+┃ conduction nerveuse à l'examen électrophysiologique et ne s'aggra-   ┃             ┃                                      ┃
+┃ vant pas après arrêt de l'exposition au risque. L'absence d'aggrava- ┃             ┃                                      ┃
+┃ tion est établie par un deuxième examen électrophysiologique prati-  ┃             ┃                                      ┃
+┃ qué au moins 6 mois après le premier et après au moins 6 mois sans   ┃             ┃                                      ┃
+┃ exposition au risque. La neuropathie périphérique s'accompagne d'une ┃             ┃                                      ┃
+┃ plombémie au moins égale ou supérieure à 700 μ g/ l confirmée par    ┃             ┃                                      ┃
+┃ une deuxième plombémie du même niveau ou une concentration érythro-  ┃             ┃                                      ┃
+┃ cytaire de protoporphyrine-zinc égale ou supérieure à 30 μ g/ g      ┃             ┃                                      ┃
+┃ d'hémoglobine.                                                       ┃             ┃                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┨                                      ┃
+┃ E.-Syndrome biologique caractérisé par une plombémie égale ou supé-  ┃ 30 jours    ┃                                      ┃
+┃ rieure à 500 μ g/ l associée à une concentration érythrocytaire de   ┃             ┃                                      ┃
+┃ protoporphyrine-zinc égale ou supérieure à 20 μ g/ g d'hémoglobine.  ┃             ┃                                      ┃
+┃ Ce syndrome doit être confirmé par la répétition des deux examens    ┃             ┃                                      ┃
+┃ dans un délai maximal de 2 mois. Les dosages de la plombémie doivent ┃             ┃                                      ┃
+┃ être pratiqués par un organisme accrédité dans ce domaine conformé-  ┃             ┃                                      ┃
+┃ ment aux dispositions de l'article R. 4724-15 du code du travail.    ┃             ┃                                      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-368 du 19 avril 2005 - art. 1 (V)
+  - Décret n°2014-1375 du 17 novembre 2014 - art. 1
+
+_Cite_:
+
+  - Code du travail - art. R4724-15
