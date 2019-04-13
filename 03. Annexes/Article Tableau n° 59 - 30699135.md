@@ -1,50 +1,45 @@
 # Article Tableau n° 59
 
-Hémopathies malignes provoquées par les pesticides (1) 
+Hémopathies malignes provoquées par les pesticides (1)
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-DÉSIGNATION DES MALADIES 
+DÉSIGNATION DES MALADIES</th>
+      <th>
+
+DÉLAI DE PRISE
+
+en charge
 
 </th>
       <th>
 
-DÉLAI DE PRISE 
+LISTE INDICATIVE DES PRINCIPAUX
 
-en charge 
-
-</th>
-      <th>
-
-LISTE INDICATIVE DES PRINCIPAUX 
-
-travaux susceptibles de provoquer ces maladies 
+travaux susceptibles de provoquer ces maladies
 
 </th>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Lymphome malin non hodgkinien. 
-
-</td>
-      <td valign="top" align="left">
-
-10 ans (sous réserve d'une durée d'exposition de 10 ans). 
+Lymphome malin non hodgkinien, dont la leucémie lymphoïde chronique et le myélome multiple .
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
-Travaux exposant habituellement aux composés organochlorés, aux composés organophosphorés, au carbaryl, au toxaphène ou à
-l'atrazine :
+10 ans (sous réserve d'une durée d'exposition de 10 ans).</td>
+      <td align="left">
+
+Travaux exposant habituellement aux pesticides :
 
 - lors de la manipulation ou l'emploi de ces produits, par contact ou par inhalation ;
 
 - par contact avec les cultures, les surfaces, les animaux traités ou lors de l'entretien des machines destinées à
-l'application des pesticides. 
+l'application des pesticides.
 
 </td>
     </tr>
@@ -55,18 +50,8 @@ _(1) Le terme "pesticides" se rapporte aux produits à usages agricoles et aux p
 verts (produits phytosanitaires ou produits phytopharmaceutiques) ainsi qu'aux biocides et aux antiparasitaires vétérinaires,
 qu'ils soient autorisés ou non au moment de la demande. _
 
-_
-_
-
-_
-
-_
-_
-
-_
-
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-636 du 5 juin 2015 - art. 1
+  - Décret n°2019-312 du 11 avril 2019 - art. 1
