@@ -1,48 +1,454 @@
 # Article Annexe à l'article D343-18-2
 
-Glossaire :
+Glossaire : 
 
-ITP : installation à titre principal.
+ITP : installation à titre principal. 
 
-ITS : installation à titre secondaire.
+ITS : installation à titre secondaire. 
 
-IP : installation progressive.
+IP : installation progressive. 
 
-PE : Plan d'entreprise.
+PE : Plan d'entreprise. 
 
-RDA : revenu disponible agricole.
+Tableau 1.-Déchéances encourues en cas de non-respect des engagements prévus à l'article D. 343-5
 
-RPG : revenu professionnel global.
+<table border="1">
+  <tbody>
+    <tr>
+      <th colspan="2" rowspan="3">
 
-RMIN-ITP4 : en cas d'installation à titre principal, seuil de revenu minimal à atteindre au terme de la 4e année de mise en
-œuvre du projet, défini à l'article D. 343-6.
+Non-respect 
 
-RMIN-IP2 : en cas d'installation progressive, seuil de revenu minimal à atteindre au terme de la 2e année de mise en œuvre du
-projet, défini à l'article D. 343-6.
+de l'engagement 
 
-RMIN-IP4 : en cas d'installation progressive, seuil de revenu minimal à atteindre au terme de la 2e année de mise en œuvre du
-projet, défini à l'article D. 343-6.
+prévu à l'article : </th>
+      <th colspan="3">
 
-RMIN-ITS4 : en cas d'installation à titre secondaire, seuil de revenu minimal à atteindre au terme de la 4e année de mise en
-œuvre du projet, défini à l'article D. 343-6.
+Déchéances applicables à la dotation jeunes agriculteurs </th>
+      <th>
 
-Tableau 1. - Déchéances encourues en cas de non-respect des engagements prévus à l'article D. 343-5
+Déchéances applicables 
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0195 du 23/08/2016, texte nº 14 à l'adresse suivante :
+aux prêts bonifiés </th>
+    </tr>
+    <tr>
+      <th colspan="3">
 
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000033057749
+FORMES D'INSTALLATION </th>
+      <th rowspan="2">
 
-Tableau 2. - Déchéances encourues en cas de non-respect de l'engagement prévu au 9° de l'article D. 343-5
+TOUTES FORMES 
 
-Le non-respect de la situation initiale prévue au plan d'entreprise conduit à une déchéance totale des aides. Les autres
-manquements font l'objet des déchéances partielles précisées ci-dessous.
+D'INSTALLATION CONFONDUES </th>
+    </tr>
+    <tr>
+      <th>
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0195 du 23/08/2016, texte nº 14 à l'adresse suivante :
+ITP </th>
+      <th>
 
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000033057749
+IP </th>
+      <th>
+
+ITS </th>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+D. 343-5 1° </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+D. 343-5 2° </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+D. 343-5 3° </td>
+      <td align="center">
+
+Sans objet </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Sans objet </td>
+      <td align="center">
+
+Déchéance totale </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+D. 343-5 4° </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+D. 343-5 5° </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+D. 343-5 6° </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+    </tr>
+    <tr>
+      <td align="center" rowspan="2">
+
+D. 343-5 7° </td>
+      <td align="center">
+
+Refus de contrôle </td>
+      <td align="center">
+
+Déchéance totale + Sanction 10 % </td>
+      <td align="center">
+
+Déchéance totale + Sanction 10 % </td>
+      <td align="center">
+
+Déchéance totale + Sanction 10 % </td>
+      <td align="center">
+
+Déclassement total + Sanction 10 % </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Non envoi des pièces justifi-catives dans les délais fixés </td>
+      <td align="center">
+
+Déchéance totale ou Déchéance partielle de 10 % (si réception effective des pièces relevant du suivi à mi-parcours après les
+délais fixés mais avant la fin du PE) </td>
+      <td align="center">
+
+Déchéance totale ou 
+
+Déchéance partielle de 10 % (si réception effective des pièces relevant du suivi à mi-parcours après les délais fixés mais
+avant la fin du PE) </td>
+      <td align="center">
+
+Déchéance totale ou 
+
+Déchéance partielle de 10 % (si réception effective des pièces relevant du suivi à mi-parcours après les délais fixés mais
+avant la fin du PE) </td>
+      <td align="center">
+
+Déclassement total 
+
+ou 
+
+Suspension de la mise en place de nouveaux prêts jusqu'à fourniture des pièces justificatives </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+D. 343-5 8° </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+      <td align="center">
+
+Déchéance totale </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+D. 343-5 9° </td>
+      <td align="center">
+
+Cf tableau 2 </td>
+      <td align="center">
+
+Cf tableau 2 </td>
+      <td align="center">
+
+Cf tableau 2 </td>
+      <td align="center">
+
+Cf tableau 2 </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+D. 343-5 10° </td>
+      <td align="center">
+
+Déchéance partielle 
+
+(à hauteur des modulations sollicitées et non mises en œuvre) </td>
+      <td align="center">
+
+Déchéance partielle (à hauteur des modulations sollicitées et non mises en œuvre </td>
+      <td align="center">
+
+Déchéance partielle (à hauteur des modulations sollicitées et non mises en œuvre) </td>
+      <td align="center">
+
+Sans objet </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+D. 343-5 11° </td>
+      <td align="center">
+
+Déchéance partielle de 50 % si l'attestation MSA mentionne la qualité de chef d'exploitation à titre secondaire en 4ème année
+du PE. </td>
+      <td align="center">
+
+Déchéance partielle de 50 % si l'attestation MSA mentionne la qualité de chef d'exploitation à titre secondaire au terme des
+4 années du PE. </td>
+      <td align="center">
+
+Sans objet </td>
+      <td align="center">
+
+Déchéance totale prononcée en cas de non-respect de la forme d'installation choisie. </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+D. 343-5 12° </td>
+      <td align="center">
+
+Sans objet </td>
+      <td align="center">
+
+Sans objet </td>
+      <td align="center">
+
+Sans objet </td>
+      <td align="center">
+
+Déchéance partielle 
+
+(déclassement du ou des prêts concernés et remboursement des bonifications perçues) </td>
+    </tr>
+  </tbody>
+</table>
+
+Tableau 2.-Déchéances encourues en cas de non-respect de l'engagement prévu au 9° de l'article D. 343-5 
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th rowspan="3">
+
+Non-respect 
+
+de l'engagement prévu 
+
+à l'article D. 343-5 9° </th>
+      <th colspan="3">
+
+Déchéances applicables à la dotation jeunes agriculteurs </th>
+      <th>
+
+Déchéances applicables 
+
+aux prêts bonifiés </th>
+    </tr>
+    <tr>
+      <th colspan="3">
+
+FORMES D'INSTALLATION </th>
+      <th rowspan="2">
+
+TOUTES FORMES 
+
+D'INSTALLATION CONFONDUES </th>
+    </tr>
+    <tr>
+      <th>
+
+ITP </th>
+      <th>
+
+IP </th>
+      <th>
+
+ITS</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+- respect du système de production </td>
+      <td align="center">
+
+Déchéance partielle de 20 % </td>
+      <td align="center">
+
+Déchéance partielle de 20 % </td>
+      <td align="center">
+
+Déchéance partielle de 20 % </td>
+      <td align="center">
+
+Déchéance partielle 
+
+(déclassement des prêts bonifiés et remboursement des bonifications en date de l'anomalie) si prêts bonifiés seuls</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+- respect du nombre d'actifs permanents non-salariés sur l'exploitation </td>
+      <td align="center">
+
+Déchéance partielle de 20 % </td>
+      <td align="center">
+
+Déchéance partielle de 20 % </td>
+      <td align="center">
+
+Déchéance partielle de 20 % </td>
+      <td align="center">
+
+Déchéance partielle 
+
+(déclassement des prêts bonifiés et remboursement des bonifications en date de l'anomalie) si prêts bonifiés seuls</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+- respect du programme d'investissement </td>
+      <td align="center">
+
+Déchéance partielle de 20 % </td>
+      <td align="center">
+
+Déchéance partielle de 20 % </td>
+      <td align="center">
+
+Déchéance partielle de 20 % </td>
+      <td align="center">
+
+Déchéance partielle 
+
+(déclassement des prêts bonifiés et remboursement des bonifications en date de l'anomalie) si prêts bonifiés seuls</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+- respect du statut juridique de l'exploitation </td>
+      <td align="center">
+
+Déchéance partielle de 20 % </td>
+      <td align="center">
+
+Déchéance partielle de 20 % </td>
+      <td align="center">
+
+Déchéance partielle de 20 % </td>
+      <td align="center">
+
+Déchéance partielle 
+
+(déclassement des prêts bonifiés et remboursement des bonifications en date de l'anomalie) si prêts bonifiés seuls</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+- respect de la zone d'installation </td>
+      <td align="center">
+
+Déchéance partielle 
+
+de 20 % appliquée sur le montant recalculé de la dotation jeunes agriculteurs. </td>
+      <td align="center">
+
+Déchéance partielle 
+
+de 20 % appliquée sur le montant recalculé de la dotation jeunes agriculteurs. </td>
+      <td align="center">
+
+Déchéance partielle 
+
+de 20 % appliquée sur le montant recalculé de la dotation jeunes agriculteurs. </td>
+      <td align="center">
+
+Déchéance partielle 
+
+(déclassement des prêts bonifiés et remboursement du montant de la subvention équivalente trop perçue)</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1141 du 22 août 2016 - art.
+  - Décret n°2020-131 du 17 février 2020 - art.
+  - Décret n°2020-131 du 17 février 2020 - art. 2
+
+_Cite_:
+
+  - Code rural - art. D343-5
